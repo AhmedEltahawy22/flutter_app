@@ -1,0 +1,1 @@
+const String logoAsset = 'assets/images/logo.png';
