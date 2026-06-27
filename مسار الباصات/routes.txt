@@ -1,0 +1,931 @@
+route_long_name,route_short_name,agency_id,route_type,route_id
+10th District Station (6th of October) - 6th District - 6th of October (Al Souq Al Qadeem),Box,BOX,3,BOX_6O002
+10th District Station (6th of October) - Dolce,Box,BOX,3,BOX_6O003
+10th District Station (6th of October) - Hossary Station,Tomnaya,P_B_8,3,P_B_8_6O001
+10th District Station (6th of October) - Hossary Station,Tomnaya,P_B_8,3,P_B_8_6O008
+10th District Station (6th of October) - Laylat Al Qadr Station,Box,BOX,3,BOX_6O004
+10th District Station (6th of October) - Magda Square,Tomnaya,P_B_8,3,P_B_8_6O014
+10th District Station (Nasr City) - 10th of Ramadan Station,Microbus,P_O_14,3,P_O_14_CA056
+10th District Station (Nasr City) - 1st Settlement Station (New Cairo),Microbus,P_O_14,3,P_O_14_IC049
+10th District Station (Nasr City) - 7th District Station (Nasr City),Microbus,P_O_14,3,oBfdc8gljJblvRbAa0dmX
+10th District Station (Nasr City) - 8th District (Nasr City) - Al tabba,Tomnaya,P_B_8,3,JZOWZGUVIlsyln-SJhGeB
+10th District Station (Nasr City) - Al Shabab Entrance,Microbus,P_O_14,3,P_O_14_IC050
+10th District Station (Nasr City) - Alf Maskan Station,Microbus,P_O_14,3,OV9c3M2XEp7fizUlcqY26
+10th District Station (Nasr City) - Awwel Makram Ebeid,Microbus,P_O_14,3,rIW1na7aSBeUGKSkhuuGI
+10th District Station (Nasr City) - Darrasa,CTA 80,CTA,3,CTA_80
+10th District Station (Nasr City) - Darrasa,CTA 80s,CTA,3,rkJxL56Q3OKc76Ff6Pg8s
+10th District Station (Nasr City) - FUE,Microbus,P_O_14,3,P_O_14_IC041
+10th District Station (Nasr City) - Gas (Banks Area),Microbus,P_O_14,3,P_O_14_IC020
+10th District Station (Nasr City) - Hadaba Wosta (Moqattam),Microbus,P_O_14,3,TIlnDqafo-e2AVr35QCtj
+10th District Station (Nasr City) - Moneeb Station,Microbus,P_O_14,3,Llp_ydR2tscD940jXryQU
+10th District Station (Nasr City) - Moneeb Station,Microbus,P_O_14,3,P_O_14_IG027
+10th District Station (Nasr City) - New Cairo Academy,Tomnaya,P_B_8,3,P_B_8_IC052
+10th District Station (Nasr City) - New Cairo Court Station,Microbus,P_O_14,3,P_O_14_IC051
+10th District Station (Nasr City) - New Marg Station,Microbus,P_O_14,3,P_O_14_CA051
+10th District Station (Nasr City) - New Marg Station,Microbus,P_O_14,3,qZa_NLYmMwMD_p_1GWu_I
+10th District Station (Nasr City) - Ommal Square Station,Microbus,P_O_14,3,P_O_14_IC029
+10th District Station (Nasr City) - Qalyoub Exit,Minibus,COOP,3,COOP_IG026
+10th District Station (Nasr City) - Ramses Station,Microbus,P_O_14,3,5l1G65qweO5GdBQpfy1EM
+10th District Station (Nasr City) - Rehab - Gate 6,Microbus,P_O_14,3,P_O_14_IC048
+10th District Station (Nasr City) - Zahraa Madinet Nasr,Microbus,P_O_14,3,P_O_14_CA053
+10th of Ramadan City - 10th of Ramadan Station,Microbus,P_O_14,3,4E_NzHWE6SBBt9WiSwera
+10th of Ramadan City - Al Shorouq Academy Station,Microbus,P_O_14,3,P_O_14_IC090
+10th of Ramadan Station - Abd Al Moneim Riad Station,CTA 323,CTA,3,HRIoKLqyzSuLF2TLVXtja
+10th of Ramadan Station - Ahmed Helmy Station,Microbus,P_O_14,3,6Qg43sT3Clqienri3AXm7
+10th of Ramadan Station - Al Banhawi,Microbus,P_O_14,3,P_O_14_CA161
+10th of Ramadan Station - Al Hamd Square Station,Minibus,COOP,3,COOP_IC088
+10th of Ramadan Station - Al Hegaz (Obour Police ),Microbus,P_O_14,3,P_O_14_IC066
+10th of Ramadan Station - Al Sawah Square,Microbus,P_O_14,3,WiQa8bXpeSlLhEC1SUwGb
+10th of Ramadan Station - Al Sayeda Aisha Station,Microbus,P_O_14,3,2nunj7L0d16GI8GHhNASo
+10th of Ramadan Station - Al Shorouq Academy Station,Microbus,P_O_14,3,P_O_14_IC092
+10th of Ramadan Station - Al Shorouq Water,Microbus,P_O_14,3,P_O_14_IC078
+10th of Ramadan Station - Alf Maskan Station,Microbus,P_O_14,3,0A3pcPjwLEpq7hwveYoyO
+10th of Ramadan Station - Alf Maskan Station,Microbus,P_O_14,3,rN_2eW65vTEH6zLEx4HC1
+10th of Ramadan Station - Attaba,Minibus 106,CTA_M,3,F-huxTOsiGcnkweRGwZg8
+10th of Ramadan Station - Awwel Abbas,Microbus,P_O_14,3,P_O_14_CA169
+10th of Ramadan Station - Awwel Al Zawya Al Hamra Station,Minibus,COOP,3,UkiuAl8JoV2LRVvfwCXZF
+10th of Ramadan Station - Awwel Makram Ebeid,Microbus,P_O_14,3,P_O_14_CA163
+10th of Ramadan Station - Badr City,CTA 317,CTA,3,CTA_317
+10th of Ramadan Station - Bashtil,Minibus 219,CTA_M,3,uSqPGMEHwN2LcA-Dx8IDf
+10th of Ramadan Station - FUE,Minibus,COOP,3,COOP_IC042
+10th of Ramadan Station - Gas (Banks Area),Minibus,COOP,3,COOP_IC024
+10th of Ramadan Station - Hadaba Wosta (Moqattam),Microbus,P_O_14,3,kRpR7tVa5mkJF71MQgxHN
+10th of Ramadan Station - Haram & Marioteya Station,Microbus,P_O_14,3,P_O_14_IG037
+10th of Ramadan Station - Helwan Metro,Microbus,P_O_14,3,P_O_14_CA141
+10th of Ramadan Station - Helwan Station,Microbus,P_O_14,3,P_O_14_CA078
+10th of Ramadan Station - Helwan Station,Microbus,P_O_14,3,UlGkTZAhmtGHkhn8Kdqap
+10th of Ramadan Station - Hyper 1 Station,Minibus,COOP,3,COOP_IC084
+10th of Ramadan Station - Imbaba Station,Microbus,P_O_14,3,P_O_14_IG090
+10th of Ramadan Station - Kafr Tohormos,Minibus 211,CTA_M,3,J_PqoU-hjIL1h8F626aNF
+10th of Ramadan Station - Khanka,Microbus,P_O_14,3,P_O_14_IG085
+10th of Ramadan Station - Khanka,Microbus,P_O_14,3,P_O_14_IG086
+10th of Ramadan Station - Manshiyat Nasser Station,Microbus,P_O_14,3,P_O_14_CA171
+10th of Ramadan Station - Marioteya & Ring Rd,Microbus,P_O_14,3,P_O_14_IG093
+10th of Ramadan Station - Matareya Square Station,Microbus,P_O_14,3,YyMVnpFACm_b2uotE7GjR
+10th of Ramadan Station - Moassasa Station,Microbus,P_O_14,3,P_O_14_IG092
+10th of Ramadan Station - Moneeb Station,Microbus,P_O_14,3,LJ8W8lrawIvi_HQ_N_fRD
+10th of Ramadan Station - Mostorod Ring Rd,Microbus,P_O_14,3,P_O_14_IG087
+10th of Ramadan Station - New Marg Station,Tomnaya,P_B_8,3,P_B_8_CA098
+10th of Ramadan Station - Rabaah Al Adaweya Mosque,Microbus,P_O_14,3,YDYZfl3PqeB6Fo4Ji9dpx
+10th of Ramadan Station - Rabaah Al Adaweya Mosque,Microbus,P_O_14,3,iPmb6Kx9epuWwMHetjCnF
+10th of Ramadan Station - Ramses Station,Microbus,P_O_14,3,P_O_14_CA155
+10th of Ramadan Station - Rawda Mosque  (Obour),Microbus,P_O_14,3,P_O_14_IC027
+10th of Ramadan Station - Salam Alexandria Station,Microbus,P_O_14,3,MXkuS2j7tp4MjRSbo-Q6f
+10th of Ramadan Station - Salam Alexandria Station,Microbus,P_O_14,3,P_O_14_CA170
+10th of Ramadan Station - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_CA064
+10th of Ramadan Station - Shabab (Obour),Microbus,P_O_14,3,P_O_14_IC034
+10th of Ramadan Station - Wizarat District - New Administrative Capital,Microbus,P_O_14,3,WV58TZi5ulbDbGItj2u4E
+11th District (6th of October) - Hossary Station,Tomnaya,P_B_8,3,IQBYLZyf_eGY8fK3WVcR0
+11th District (6th of October) - Magda Square,Tomnaya,P_B_8,3,P_B_8_6O015
+15th of May - Abbasseya Station,CTA 1088,CTA,3,CTA_1088
+15th of May - Abd Al Moneim Riad Station,CTA 1025,CTA,3,CTA_1025
+15th of May - Giza Square Station,CTA 1150,CTA,3,CTA_1150
+15th of May - Helwan Metro,Microbus,P_O_14,3,P_O_14_IC071
+15th of May - Helwan Metro,Microbus,P_O_14,3,P_O_14_IC072
+1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station,CTA 1001,CTA,3,2tYSJSKAX45ZXdXge4fde
+1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station,CTA 1130,CTA,3,DC_H6AbB75qp51RmOSCrt
+1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station,CTA 132,CTA,3,jIXHYKt1q-bq46OpP9z9c
+1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station,Minibus 117,CTA_M,3,CTA_M_117
+1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station,Minibus 19,CTA_M,3,CTA_M_19
+1st Settlement Station (New Cairo) - Abou Al Reesh,Minibus  14,CTA_M,3,63Gw347SsNx2agQWusD3h
+1st Settlement Station (New Cairo) - Abou Wafya,Minibus 321,CTA_M,3,aCYYi5ZrCwjmU6CuJ-peQ
+1st Settlement Station (New Cairo) - Al Zawya Al Hamra Station,CTA 1136,CTA,3,CTA_1136
+1st Settlement Station (New Cairo) - Al Zawya Al Hamra Station,Minibus 62,CTA_M,3,nQKW52Ox3zlyelPVrnuvw
+1st Settlement Station (New Cairo) - Amr Ibn El Aas Station,Minibus 147,CTA_M,3,JiIqBjX2_cEbIJ6DrqtzH
+1st Settlement Station (New Cairo) - Attaba,CTA 1010,CTA,3,CTA_1010
+1st Settlement Station (New Cairo) - Attaba,CTA 1010,CTA,3,RRrzHlEEvrgMUl0VtGTmU
+1st Settlement Station (New Cairo) - Attaba,CTA 69,CTA,3,CTA_69
+1st Settlement Station (New Cairo) - Bashtil,CTA  1012,CTA,3,2teNSAc0dVegVu5GOxcn-
+1st Settlement Station (New Cairo) - Dawaran Shubra Station,CTA 1033,CTA,3,58ec_pyCB_Gbm8WqhvAx2
+1st Settlement Station (New Cairo) - Dawaran Shubra Station,Minibus 126,CTA_M,3,cWtZ4nvWgHX7RWH24OAA1
+1st Settlement Station (New Cairo) - Dawaran Shubra Station,Minibus 159,CTA_M,3,Sox8uyw7SKydjtBoCTZlF
+1st Settlement Station (New Cairo) - Imbaba Station,CTA  1029,CTA,3,mNmLsNHPMlBfFhZRjrgK2
+1st Settlement Station (New Cairo) - Isko,Minibus 87,CTA_M,3,FugP1Vj46_hKrrCUcBN5G
+1st Settlement Station (New Cairo) - Mamaleek Station-Manial (Meqyas),Minibus 302,CTA_M,3,CTA_M_302
+1st Settlement Station (New Cairo) - Masaken Ain Shams Station,Minibus 108,CTA_M,3,AYG5Jeb5RQthuAg3x6gL_
+1st Settlement Station (New Cairo) - Masaken Zeinhom Station,CTA 1019,CTA,3,CTA_1019
+1st Settlement Station (New Cairo) - Matbaa Station,CTA 1078,CTA,3,CTA_1078
+1st Settlement Station (New Cairo) - Matbaa Station,Minibus 45,CTA_M,3,D2cZnF4D57su9lDHL4c-h
+1st Settlement Station (New Cairo) - Mazallat Station,Minibus 1,CTA_M,3,nfGw_AtUWg704oRknN6oJ
+1st Settlement Station (New Cairo) - Mazallat Station,Minibus 142,CTA_M,3,CTA_M_142
+1st Settlement Station (New Cairo) - Mazallat Station,Minibus 304,CTA_M,3,-6XpwB9WWYaBpVKpKkJAA
+1st Settlement Station (New Cairo) - Moassasa Station,CTA 727-1103,CTA,3,fuicPDe5V7A7QVMdRss5o
+1st Settlement Station (New Cairo) - Moneeb Station,CTA 1161,CTA,3,CTA_1161
+1st Settlement Station (New Cairo) - Mostorod Station,Minibus 12,CTA_M,3,vWaavZmYB5sbQzR2d-U_U
+1st Settlement Station (New Cairo) - Orabi Bridge,Minibus 180,CTA_M,3,CTA_M_180
+1st Settlement Station (New Cairo) - Zahraa Madinet Nasr,Tomnaya,P_B_8,3,P_B_8_IC070
+26th of July & Ring Rd - Moneeb Station,Microbus,P_O_14,3,P_O_14_GZ043
+3rd Settlement  (New Cairo) - Abd Al Moneim Riad Station,CTA 1137,CTA,3,4xLmOtIrO8HsH5BVeVgIZ
+3rd Settlement  (New Cairo) - Ahmed Helmy Station,CTA 1018,CTA,3,CTA_1018
+3rd Settlement  (New Cairo) - Attaba,CTA 1064,CTA,3,CTA_1064
+3rd Settlement  (New Cairo) - Moassasa Station,CTA 1111,CTA,3,dX4GI-MLWfQt63dbt9LNY
+3rd Settlement  (New Cairo) - New Marg Station,CTA 1,CTA,3,CTA_1
+3rd Settlement  (New Cairo) - New Marg Station,CTA 1122,CTA,3,yCzCB9uoQWDH4YDGoPa9W
+6th District - 6th of October (Al Souq Al Qadeem) - Abd Al Moneim Riad Station,CTA 1013,CTA,3,W4XrYxIpaEVrO-aOQjYMS
+6th District - 6th of October (Al Souq Al Qadeem) - Al Motamayez Station,Tomnaya,P_B_8,3,P_B_8_6O017
+6th District - 6th of October (Al Souq Al Qadeem) - Daewoo,Box,BOX,3,BOX_6O024
+6th District - 6th of October (Al Souq Al Qadeem) - Giza Square Station,CTA 1022,CTA,3,CTA_1022
+6th District - 6th of October (Al Souq Al Qadeem) - Giza Square Station,Microbus,P_O_14,3,P_O_14_IC060
+6th District - 6th of October (Al Souq Al Qadeem) - Giza Square Station,Microbus,P_O_14,3,xP2sjSYD1lMXW6ZUlUVOe
+6th District - 6th of October (Al Souq Al Qadeem) - Hamada Emam,Box,BOX,3,BOX_6O023
+6th District - 6th of October (Al Souq Al Qadeem) - Haram & Marioteya Station,Microbus,P_O_14,3,NrXQrpcK2JA_IC7xpHfNm
+6th District - 6th of October (Al Souq Al Qadeem) - Hossary Station,Tomnaya,P_B_8,3,2kavxuzVoPAIs0Zo7SkfI
+6th District - 6th of October (Al Souq Al Qadeem) - Hossary Station,Tomnaya,P_B_8,3,P_B_8_6O009
+6th District - 6th of October (Al Souq Al Qadeem) - Hyper 1 Station,Microbus,P_O_14,3,P_O_14_IC056
+6th District - 6th of October (Al Souq Al Qadeem) - Industrial Zone 3,Box,BOX,3,BOX_6O022
+6th District - 6th of October (Al Souq Al Qadeem) - Laylat Al Qadr Station,Tomnaya,P_B_8,3,P_B_8_6O019
+6th District - 6th of October (Al Souq Al Qadeem) - Moassasa Station,CTA 1017,CTA,3,mQ36caejcbeqdwPrBveqE
+6th District - 6th of October (Al Souq Al Qadeem) - Moassasa Station,Microbus,P_O_14,3,0XAvSntelgtvUQzvAfLqW
+6th District - 6th of October (Al Souq Al Qadeem) - Moneeb Station,Microbus,P_O_14,3,P_O_14_IC059
+6th District - 6th of October (Al Souq Al Qadeem) - New Marg Station,Microbus,P_O_14,3,2EAwBcn3IACPZ0xefVHUM
+6th District - 6th of October (Al Souq Al Qadeem) - Ramses Station,Microbus,P_O_14,3,P_O_14_IC057
+7th District (6th of October) - Al Mostaqbal Entrance,Tomnaya,P_B_8,3,P_B_8_6O025
+7th District (6th of October) - Laylat Al Qadr Station,Tomnaya,P_B_8,3,P_B_8_6O026
+7th District Station (Nasr City) - Abboud,Microbus,P_O_14,3,P_O_14_CA090
+7th District Station (Nasr City) - Al Magzar (Mariouteya),Minibus 54,CTA_M,3,NvJsbLXSZ_OQTMe4A0Re6
+7th District Station (Nasr City) - Alf Maskan Station,Microbus,P_O_14,3,mVQ0zufyJ93lZbi9DOTdP
+7th District Station (Nasr City) - Darrasa,CTA 24g,CTA,3,UydKv2gM1kSDyx7u4jZIV
+7th District Station (Nasr City) - Darrasa,CTA 24t,CTA,3,CTA_24T
+7th District Station (Nasr City) - Ghamra Station,Microbus,P_O_14,3,P_O_14_CA088
+7th District Station (Nasr City) - Hadaba Wosta (Moqattam),Microbus,P_O_14,3,P_O_14_CA084
+7th District Station (Nasr City) - Hadaek EL Kobba,Microbus,P_O_14,3,P_O_14_CA085
+7th District Station (Nasr City) - Kafr Tohormos,Minibus 212,CTA_M,3,yonpH4_SVRs1MuN6Ixc7i
+7th District Station (Nasr City) - Kolleyet Al Zeraah (Ain Shams University),Microbus,P_O_14,3,P_O_14_IG031
+7th District Station (Nasr City) - Lebanon Square Station,CTA 1097,CTA,3,CTA_1097
+7th District Station (Nasr City) - Lebanon Square Station,CTA 700-1065,CTA,3,ky6MXHGj0HKPAoqxgFyyp
+7th District Station (Nasr City) - Masaken Al Wehda,CTA 1053,CTA,3,CTA_1053
+7th District Station (Nasr City) - Masaken Dahshour,Green G1,GRN,3,GRN_G1
+7th District Station (Nasr City) - Moneeb Station,CTA  912-1048,CTA,3,CTA_912-1048
+7th District Station (Nasr City) - New Marg Station,Minibus 265,CTA_M,3,8e41N39_w9qPLPFGgB8Hq
+7th District Station (Nasr City) - Qism El Hadayek,Microbus,P_O_14,3,P_O_14_CA089
+7th District Station (Nasr City) - Ramses Station,Microbus,P_O_14,3,P_O_14_CA086
+7th District Station (Nasr City) - Ramses Station,Microbus,P_O_14,3,P_O_14_CA087
+7th District Station (Nasr City) - Ramses Station,Microbus,P_O_14,3,dbjKnrgfrSA1JY3LJPYuQ
+7th District Station (Nasr City) - Tagneed (Al Remaya),CTA 1118,CTA,3,CTA_1118
+8th District (Nasr City) - Al tabba - Abd Al Moneim Riad Station,CTA 32,CTA,3,a4gnGzOuEjFFXiOYfTYg9
+8th District (Nasr City) - Al tabba - Abd Al Moneim Riad Station,Minibus 184,CTA_M,3,pHXU8x5lS5GcVfRS1nUfp
+8th District (Nasr City) - Al tabba - Ahmed Helmy Station,CTA 59,CTA,3,u02rskAm9s9jHxaOs9NhQ
+8th District (Nasr City) - Al tabba - Al Omraneyya Al Gadida,Minibus 380,CTA_M,3,ioDO0LtWeYfrWrZ16TFr5
+8th District (Nasr City) - Al tabba - Alf Maskan Station,Microbus,P_O_14,3,P_O_14_CA036
+8th District (Nasr City) - Al tabba - Amr Ibn El Aas Station,CTA 65,CTA,3,CTA_65
+8th District (Nasr City) - Al tabba - Athar Al Naby,CTA  995,CTA,3,lvMyRSGX-pAwdUcOqYZqG
+8th District (Nasr City) - Al tabba - Attaba,CTA 69ss,CTA,3,ghUS4XUgfmpDNLCwwFfTq
+8th District (Nasr City) - Al tabba - Awwel Makram Ebeid,Microbus,P_O_14,3,P_O_14_CA162
+8th District (Nasr City) - Al tabba - Imbaba Station,CTA 1021,CTA,3,CTA_1021
+8th District (Nasr City) - Al tabba - Madinat Al Talaba (Imbaba),Minibus 66,CTA_M,3,sIt6Ay8Ghb65PsqmDHyii
+8th District (Nasr City) - Al tabba - Masaken Al Wehda,Minibus 115,CTA_M,3,mVZQtFYsUCVuagT7jiTQ-
+8th District (Nasr City) - Al tabba - Masaken Betcho,Minibus 56,CTA_M,3,BBlbsema50qEzicPBcriq
+8th District (Nasr City) - Al tabba - Moneeb Station,CTA 855-1070,CTA,3,ryPRB8CSZ4RJjvfbdXDC1
+8th District (Nasr City) - Al tabba - Saft Al Laban,Minibus 57,CTA_M,3,I0McnHOUOXtn5nXDvkIuT
+AUC Bus Station - Lebanon Square Station,Agyad Gm4,AGY,3,AGY_Gm4
+AUC Bus Station - New Marg Station,CTA 1124,CTA,3,mFhgyri40omCemrCH5KSb
+AUC Bus Station - Qism El Hadayek,CTA 2,CTA,3,CTA_2
+AUC Bus Station - Qism El Hadayek,CTA 2,CTA,3,ZpjJfGT2XablwK9bPaDxE
+Abageyah - Amiriya,CTA 811-1090,CTA,3,IbXTsW7yTra13ARwexIRz
+Abageyah - Ibrahim Bek,CTA 1144,CTA,3,CTA_1144
+Abageyah - Imbaba Station,CTA  20,CTA,3,8Evj6WpZuMv4pgAH6uHVo
+Abageyah - Masaken Al Wehda,CTA 1072,CTA,3,ijoblexYmIYN_Bo_iD_Wg
+Abageyah - Warraq Al Arab (Cima),CTA 86,CTA,3,CTA_86
+Abageyah - Warraq Al Arab (Cima),CTA 86-1135,CTA,3,IRzkagIluHAKgsFxr9c_Z
+Abbasseya Station - Al Sayeda Aisha Station,Microbus,P_O_14,3,P_O_14_CA006
+Abbasseya Station - Alf Maskan Station,Microbus,P_O_14,3,k_9mWTTJJol46IWykMhrV
+Abbasseya Station - Amr Ibn El Aas Station,CTA 26t,CTA,3,CTA_26T
+Abbasseya Station - Awwel Makram Ebeid,Microbus,P_O_14,3,yjnyYheH7FsPkAk-gppMs
+Abbasseya Station - Badr Station (Sheikh Zayed),CTA 370,CTA,3,CTA_370
+Abbasseya Station - Basateen,CTA 532,CTA,3,CTA_532
+Abbasseya Station - Dawaran Shubra Station,CTA 914,CTA,3,CTA_914
+Abbasseya Station - Hadaba Wosta (Moqattam),CTA 1106,CTA,3,lXdhO5SFzPueut3URDvPn
+Abbasseya Station - Hadaba Wosta (Moqattam),Microbus,P_O_14,3,w9djMYsSD5gf7qz9VLvjn
+Abbasseya Station - Helwan Station,Microbus,P_O_14,3,9WQz2Uku_lDLfa9xlAq6e
+Abbasseya Station - Helwan Station,Microbus,P_O_14,3,TwtquEbhxXg7lLUiammd0
+Abbasseya Station - Khosous,CTA 204,CTA,3,CTA_204
+Abbasseya Station - Lebanon Square Station,CTA 1068,CTA,3,mJ3Uz3bPDk1tGlIZ2IIF1
+Abbasseya Station - Manshiyat Nasser Station,Microbus,P_O_14,3,P_O_14_CA115
+Abbasseya Station - Manshiyat Nasser Station,Microbus,P_O_14,3,P_O_14_CA116
+Abbasseya Station - Masaken Ain Shams Station,Microbus,P_O_14,3,P_O_14_CA112
+Abbasseya Station - Masarra,CTA  8T,CTA,3,PcRD7pWWkA7PIAqxPtQKe
+Abbasseya Station - Matareya Square Station,Microbus,P_O_14,3,mArLEgVOmRmk2qjpXCcyb
+Abbasseya Station - Matbaa Station,CTA 430,CTA,3,Tpa0A12goEVH-sdvNU4pa
+Abbasseya Station - Matbaa Station,CTA 701-1037,CTA,3,DbgUPH8AHAnBT59Ux_FrC
+Abbasseya Station - Mazlaqan Al Deweqa,Microbus,P_O_14,3,HRKfVI0GjLKHq6o9ulFba
+Abbasseya Station - Megawra 3 (15th of May),Microbus,P_O_14,3,P_O_14_IC079
+Abbasseya Station - Moassasa Station,CTA 208,CTA,3,C6RjvuOaE6Jy7WRZtUxaM
+Abbasseya Station - Moneeb Station,CTA 666-1045,CTA,3,5v34MuGjLYA0AFM7dhCCE
+Abbasseya Station - Moneeb Station,CTA 996-1134,CTA,3,CTA_1134
+Abbasseya Station - Saqr Quraish Station,CTA 922,CTA,3,Hjh1uRXEyzV0t-_S0vjaF
+Abbasseya Station - Warraq Al Arab (Cima),CTA 1101,CTA,3,YlvolLQ1uzaw8eiT89HI2
+Abbasseya Station - Warraq Al Arab (Cima),CTA 175-1125,CTA,3,jt8i_WqEic-DbN7W3jQiM
+Abboud - Al Zawya Al Hamra Station,Microbus,P_O_14,3,P_O_14_CA071
+Abboud - Awwel Al Zawya Al Hamra Station,Microbus,P_O_14,3,P_O_14_CA147
+Abboud - Bulaq Al Dakrur Station,Microbus,P_O_14,3,4AnLqrfTx4EzrhVcahl7F
+Abboud - Helwan Metro,Microbus,P_O_14,3,P_O_14_CA142
+Abboud - Helwan Station,Microbus,P_O_14,3,x_4y4YL3AYRZ74nIC-NQV
+Abboud - Mazallat Station,Microbus,P_O_14,3,P_O_14_CA165
+Abboud - New Marg Station,Microbus,P_O_14,3,189igEKLGNwIUDl8gfOwh
+Abboud - Ramses Station,Microbus,P_O_14,3,P_O_14_CA157
+Abboud - Ramses Station,Microbus,P_O_14,3,T7BWm7IBJwclTVfKGA8P-
+Abboud - Roxy,Microbus,P_O_14,3,P_O_14_CA175
+Abd Al Moneim Riad Station - AUC Bus Station,CTA 1062,CTA,3,5ykQMXv-xTjnuXq5iovF7
+Abd Al Moneim Riad Station - Al Nozha Al Gadida Station (Gesr El Suez Garage),CTA 35-1121,CTA,3,h7v0GKemY5eE-eh4q1KCJ
+Abd Al Moneim Riad Station - Al Qanatir Al Khayriyyah,CTA  953,CTA,3,n4ilqcRQ9yJVFWs-xSz-D
+Abd Al Moneim Riad Station - Al Qanatir Al Khayriyyah,Microbus,P_O_14,3,mrJT7Y9lx0AZq-7wl66cW
+Abd Al Moneim Riad Station - Al Shorouq,CTA 1056,CTA,3,Q5-FZBUpurX-iyo6h4cmv
+Abd Al Moneim Riad Station - Al Warraq Station,Microbus,P_O_14,3,P_O_14_IG012
+Abd Al Moneim Riad Station - Al Wehda Imbaba (Al Bohi),Microbus,P_O_14,3,pVHOF8IJskNhngPjJTJY5
+Abd Al Moneim Riad Station - Amiriya,CTA 38,CTA,3,eMaHcYlisvFxLtiCbDGRM
+Abd Al Moneim Riad Station - Arab Maadi Station,Microbus,P_O_14,3,YiqckBVvySeTMxSuhIb93
+Abd Al Moneim Riad Station - Asmarrat,CTA 1151,CTA,3,YFvdbCU6C-OUVsvdiECzT
+Abd Al Moneim Riad Station - Awwel Makram Ebeid,Microbus,P_O_14,3,WcBUjkdX_6SJfXXGp00S-
+Abd Al Moneim Riad Station - Badr Station (Sheikh Zayed),CTA 1047,CTA,3,CTA_1047
+Abd Al Moneim Riad Station - Basateen,CTA 154,CTA,3,ejAVozyP784n-DqXuiW2U
+Abd Al Moneim Riad Station - Cairo Airport Station,CTA 356,CTA,3,_MAgxE7pFZU2v4vAiDGuz
+Abd Al Moneim Riad Station - Cairo Airport Station,CTA 400-1036,CTA,3,3WAtjq7S69P9s8WhLOr4f
+Abd Al Moneim Riad Station - Cairo Airport Station,Minibus 158,CTA_M,3,CTA_M_158
+Abd Al Moneim Riad Station - Faisal St & Ring Rd,Microbus,P_O_14,3,P_O_14_IG015
+Abd Al Moneim Riad Station - Faisal Tawabek,Microbus,P_O_14,3,GKwSUuezWdV45Rd_Qtady
+Abd Al Moneim Riad Station - Hadaba Wosta (Moqattam),CTA 1026,CTA,3,CTA_1026
+Abd Al Moneim Riad Station - Hegaz Square,Minibus 3,CTA_M,3,CTA_M_3
+Abd Al Moneim Riad Station - Helwan Post Office,Microbus,P_O_14,3,UIbJAHRCDRcPVxtylKdP1
+Abd Al Moneim Riad Station - Hossary Station,Microbus,P_O_14,3,e1xAb2o6cgzGY9iNvA5aG
+Abd Al Moneim Riad Station - Ibrahim Bek,CTA 24s,CTA,3,vffeFh9VQdtrf4m7w-fNP
+Abd Al Moneim Riad Station - Imbaba Station,Microbus,P_O_14,3,XHoe5oRTlC1Ihm0e712t_
+Abd Al Moneim Riad Station - Isbiko Station,CTA 1027,CTA,3,Rq-eMK7w1Ht-mDd-Q_JC8
+Abd Al Moneim Riad Station - Isbiko Station,CTA 1081,CTA,3,CTA_1081
+Abd Al Moneim Riad Station - Isbiko Station,CTA 1148,CTA,3,CTA_1148
+Abd Al Moneim Riad Station - Isbiko Station,CTA 330,CTA,3,LpHLg1FZnH9OcBTFfVwEs
+Abd Al Moneim Riad Station - Khosous,CTA 724,CTA,3,lnb3vDxVc9ZLbejDbwGIm
+Abd Al Moneim Riad Station - Lotus  (5th Settlement),Agyad Gm1,AGY,3,AGY_Gm1
+Abd Al Moneim Riad Station - Masaken Ain Shams Station,CTA 828,CTA,3,CTA_828
+Abd Al Moneim Riad Station - Masaken Al Shorouq,Minibus 25,CTA_M,3,Sw7KMUZPTGb_ZDHt4D-yr
+Abd Al Moneim Riad Station - Masaken Almaza,CTA 39-1007,CTA,3,CT0zYWqMQPGAbKnQfzLyJ
+Abd Al Moneim Riad Station - Masaken Helmeyet Al Zaitoun,CTA 130,CTA,3,CTA_130
+Abd Al Moneim Riad Station - Masaken Sheraton,Agyad Gm2,AGY,3,AGY_Gm2
+Abd Al Moneim Riad Station - Masarra,CTA 82,CTA,3,CTA_82
+Abd Al Moneim Riad Station - Moassasa Station,Microbus,P_O_14,3,P_O_14_IG018
+Abd Al Moneim Riad Station - Moneeb Station,CTA 124,CTA,3,RNWAMpjdKYvRHnfD_wR27
+Abd Al Moneim Riad Station - Obour Station,CTA 1083,CTA,3,CTA_1083
+Abd Al Moneim Riad Station - Om Bayoumi (Mintay),CTA 28,CTA,3,utymBvr8ZF897oTW9pDue
+Abd Al Moneim Riad Station - Qalyoub,CTA 211,CTA,3,24kdxuuUjA0qtjg6P-OPh
+Abd Al Moneim Riad Station - Saft Al Laban,CTA 15,CTA,3,CTA_15
+Abd Al Moneim Riad Station - Salam Alexandria Station,CTA 940s,CTA,3,CTA_940S
+Abd Al Moneim Riad Station - Saqr Quraish Station,CTA 160,CTA,3,ldy3O2UlQPWYA4Jj8vJgN
+Abd Al Moneim Riad Station - Tagneed (Al Remaya),CTA 900,CTA,3,CTA_900
+Abd Al Moneim Riad Station - Zahraa Ain Shams,CTA 44s-1042,CTA,3,CTA_44S-1042
+Abdullah El Refaey - Ezbet Al Nakhl,Tomnaya,P_B_8,3,P_B_8_CA149
+Abou Al Reesh - Ahmed Maher Hospital,Microbus,P_O_14,3,P_O_14_CA048
+Abou Al Reesh - Cairo Airport Station,Minibus 116,CTA_M,3,L461chwDYnuXmkCJbl1Zk
+Abou Al Reesh - Cairo University,Microbus,P_O_14,3,P_O_14_IG020
+Abou Al Reesh - Dar El Salam,Microbus,P_O_14,3,P_O_14_CA049
+Abou Al Reesh - Giza Square Station,Microbus,P_O_14,3,P_O_14_IG021
+Abou Al Reesh - Masaken Sheraton,Minibus 112,CTA_M,3,CTA_M_112
+Abou Al Reesh - Masaken Sheraton,Minibus 112,CTA_M,3,gcVLDRuFTONiBOvli2aQ8
+Abou Al Reesh - Masaken Zeinhom Station,Tomnaya,P_B_8,3,P_B_8_CA046
+Abou Al Reesh - Matbaa Station,Microbus,P_O_14,3,P_O_14_CA047
+Abou El Numrus - Moneeb Station,Microbus,P_O_14,3,1mr8RU0a90VsX2pRB9Rfl
+Abou El Numrus - Shabramant,Microbus,P_O_14,3,PDlizFncn7JYVajF5DkR9
+Abou Rawwash - Akher Faisal,Microbus,P_O_14,3,P_O_14_GZ030
+Abou Rawwash - Haram Mashaal Station,Microbus,P_O_14,3,P_O_14_GZ004
+Abou Wafya - Al Sayeda Nafeesa,CTA 114-1060,CTA,3,B31s4JolfJ0z-HLdNoXCR
+Abou Wafya - Basateen,CTA 77,CTA,3,Ytv0dFG7V3erHcHr8CQG8
+Abou Wafya - Mamaleek Station-Manial (Meqyas),CTA 170,CTA,3,CTA_170
+Abou Wafya - Masaken Sheraton,CTA 1087,CTA,3,CTA_1087
+Abou Wafya - Saqr Quraish Station,CTA 824,CTA,3,VP-_HJndaq3LK1Y8sWnFm
+Abou Wafya - Zahraa Madinet Nasr,Minibus 120,CTA_M,3,bPAOgrQbVCQOI58hPq8M2
+Abou Zaabal - Khanka,Microbus,P_O_14,3,P_O_14_QA006
+Abou Zaabal - Mostorod Ring Rd,Minibus,COOP,3,COOP_QA007
+Abou Zaabal - New Marg Station,Microbus,P_O_14,3,P_O_14_IG046
+Abu Al Houl St - Moassasa Station,CTA 2001,CTA,3,Y-YHy-wjklAYFa_6LghGz
+Ahmed Helmy Station - Amiriya,CTA 290,CTA,3,dZLGvivIWt6t7VSFtbMB9
+Ahmed Helmy Station - Arab Maadi Station,Microbus,P_O_14,3,P_O_14_CA072
+Ahmed Helmy Station - Asmarrat,CTA 407,CTA,3,-nJDno82fXTeOuqXP8Q3H
+Ahmed Helmy Station - Badr City,CTA 1023,CTA,3,JpiG_dcCCJW6ETMOdU8eq
+Ahmed Helmy Station - Badr City,Microbus,P_O_14,3,P_O_14_IC054
+Ahmed Helmy Station - Badr City,Microbus,P_O_14,3,zXpyM9xY7G9LBl-J7BFVC
+Ahmed Helmy Station - Badr Station (Sheikh Zayed),CTA 1020,CTA,3,H0VZrZgURbduJqQJM_OjZ
+Ahmed Helmy Station - Badrasheen Station,CTA 987,CTA,3,CTA_987
+Ahmed Helmy Station - Bigam,Microbus,P_O_14,3,2GAYQWfWuEdIk5hhjFe2Q
+Ahmed Helmy Station - Cairo Airport Station,CTA 366,CTA,3,RpY93UNxhi5boOQu37j_C
+Ahmed Helmy Station - Cairo Airport Station,CTA 366-1054,CTA,3,CTA_366-1054
+Ahmed Helmy Station - Cairo Airport Station,CTA 971-1054,CTA,3,fS9OIlGI6L05UA_VqIaSd
+Ahmed Helmy Station - Can Can 12th District  (6th of October),CTA 1043s,CTA,3,K9zBV4fj5NavAGCuGFD2i
+Ahmed Helmy Station - Haram & Marioteya Station,CTA 8s,CTA,3,FptsKvc-vW3cBoVWdYDUL
+Ahmed Helmy Station - Hawamdeyya,CTA 982,CTA,3,CTA_982
+Ahmed Helmy Station - Kattameya (Mahmoudeya),CTA 1024,CTA,3,CTA_1024
+Ahmed Helmy Station - Lebanon Square Station,CTA 173ss,CTA,3,bn1tRMyVcFLKoJ48jSDDC
+Ahmed Helmy Station - Matbaa Station,CTA 406-1132,CTA,3,_u0ElwgPPD4gErsOC9Dtq
+Ahmed Helmy Station - Mazlaqan Ain Shams,CTA 305-1104,CTA,3,EvrZ1dQ_nxwknC6nlhifj
+Ahmed Helmy Station - Moassasa Station,Microbus,P_O_14,3,5uY9vir47u3ABX4ON8Tf3
+Ahmed Helmy Station - Moneeb Station,CTA 888,CTA,3,S7vV1gLrYMRDA3sRxXeNY
+Ahmed Helmy Station - Mostorod Station,Microbus,P_O_14,3,f3VyvIsE1IEeM5gDkzXhN
+Ahmed Helmy Station - New Marg Station,CTA 999-1055,CTA,3,6snbHgT_od7Wcobjy2M68
+Ahmed Helmy Station - New Marg Station,Minibus 151,CTA_M,3,x0MiBbZzr0WNjON4yraWL
+Ahmed Helmy Station - Saqr Quraish Station,CTA 72,CTA,3,BTapayFKafajyYHQLI30g
+Ahmed Helmy Station - Zahraa Madinet Nasr,Minibus 82,CTA_M,3,KZbzaf9cmgAB7KuFCo1MM
+Ahmed Maher Hospital - Dar El Salam,Microbus,P_O_14,3,P_O_14_CA164
+Ahmed Maher Hospital - Matbaa Station,Microbus,P_O_14,3,FXHbwS2tr2kd-8DtfhIgo
+Ain Shams Metro - Al Nozha Al Gadida Station (Gesr El Suez Garage),Microbus,P_O_14,3,ivXdrHhB3_jqwPHGsvb9r
+Ain Shams Metro - Alf Maskan Station,Microbus,P_O_14,3,P_O_14_CA032
+Ain Shams Metro - Masaken Ain Shams Station,Microbus,P_O_14,3,tChScy_qLlcoN-TeOox9G
+Akher Faisal - Imbaba Station,Microbus,P_O_14,3,P_O_14_GZ034
+Al Banhawi - Al Sayeda Aisha Station,Microbus,P_O_14,3,P_O_14_CA011
+Al Banhawi - Isbiko Station,Microbus,P_O_14,3,P_O_14_CA131
+Al Banhawi - Salam Alexandria Station,Microbus,P_O_14,3,P_O_14_CA160
+Al Bassous - Moassasa Station,Microbus,P_O_14,3,QD4B-vIsagxeF82oSJvMs
+Al Hamd Square Station - Al Sayeda Aisha Station,Microbus,P_O_14,3,P_O_14_IC003
+Al Hamd Square Station - Arabella Square Station,Tomnaya,P_B_8,3,P_B_8_NC017
+Al Hamd Square Station - Gas (Banks Area),Tomnaya,P_B_8,3,P_B_8_NC013
+Al Hamd Square Station - Moneeb Konayyesa,Tomnaya,P_B_8,3,P_B_8_IC073
+Al Hamd Square Station - Moneeb Station,Microbus,P_O_14,3,P_O_14_IC089
+Al Hamd Square Station - New Marg Station,Minibus,COOP,3,COOP_IC075
+Al Magzar (Mariouteya) - Marioteya & Ring Rd,Tomnaya,P_B_8,3,UYpQshWZml8TRw8pbOOWx
+Al Magzar (Mariouteya) - Masaken Al Wehda,CTA 934-1071,CTA,3,r_aM8g8hbeCg_QnsOQXZh
+Al Magzar (Mariouteya) - Moneeb Station,Tomnaya,P_B_8,3,P_B_8_GZ047
+Al Magzar (Mariouteya) - Qalaa Station,CTA 342,CTA,3,CTA_342
+Al Malek Al Saleh - Al Sayeda Aisha Station,Microbus,P_O_14,3,P_O_14_CA019
+Al Malek Al Saleh - Matbaa Station,Microbus,P_O_14,3,9HZEMuRNsQzN9flynqhET
+Al Marg Police - Ezbet Al Nakhl,Tomnaya,P_B_8,3,P_B_8_CA148
+Al Marg Police - New Marg Station,Tomnaya,P_B_8,3,P_B_8_CA095
+Al Mostafa Mosque - Gas (Banks Area),Tomnaya,P_B_8,3,P_B_8_NC010
+Al Mostaqbal Entrance - Masaken Othman (6th of October),Box,BOX,3,BOX_6O028
+Al Motamayez Station - Dolce,Tomnaya,P_B_8,3,P_B_8_6O020
+Al Motamayez Station - Laylat Al Qadr Station,Microbus,P_O_14,3,P_O_14_6O021
+Al Motamayez Station - Laylat Al Qadr Station,Tomnaya,P_B_8,3,P_B_8_6O021
+Al Muluk - Hossary Station,Box,BOX,3,BOX_6O006
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Al Sa'a Square Station,Microbus,P_O_14,3,P_O_14_CA081
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Arab Al Tawaila,Microbus,P_O_14,3,JHK6gWh4wxS5zteB3hxbW
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Cairo Airport Station,CTA 318,CTA,3,CTA_318
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Dawaran Shubra Station,Minibus 60,CTA_M,3,y2pNkYKdwmq-DYYWpGD5I
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Mamaleek Station-Manial (Meqyas),Minibus 4,CTA_M,3,zoG2ixCLqw8Ytm3UpbKCp
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Masaken Ain Shams Station,Tomnaya,P_B_8,3,P_B_8_CA106
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Masaken Sheraton,Microbus,P_O_14,3,P_O_14_CA091
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Matbaa Station,Minibus 44,CTA_M,3,7S_gkEV2bsYICm8FcrJRV
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Mazlaqan Ain Shams,Microbus,P_O_14,3,2eCfQDCqolqzBE6SOlWnJ
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Mazlaqan Ain Shams,Microbus,P_O_14,3,P_O_14_CA108
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Mazlaqan Ain Shams,Tomnaya,P_B_8,3,P_B_8_CA107
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Nahda City Station,Microbus,P_O_14,3,P_O_14_CA109
+Al Nozha Al Gadida Station (Gesr El Suez Garage) - Ramses Station,Microbus,P_O_14,3,GT_lXm70bMWn54RrTwB2R
+Al Omraneyya Al Gadida - Al Warraq Station,Minibus  14,CTA_M,3,SI9aO3R9Vl4yBxUdPoO7K
+Al Omraneyya Al Gadida - Al Zawya Al Hamra Station,Minibus 424,CTA_M,3,AK9Xq6-wtWH9sbUvuMUdZ
+Al Omraneyya Al Gadida - Amiriya,Minibus 160,CTA_M,3,WOzJvSlqkyu7lDJGuDjA2
+Al Omraneyya Al Gadida - Attaba,CTA 7,CTA,3,DfiU0lrz_ql4vTYVNSlmz
+Al Omraneyya Al Gadida - Darrasa,Minibus 78,CTA_M,3,3JpAdi2uPwMtPTnRK6Jyp
+Al Omraneyya Al Gadida - Ibrahim Bek,CTA  820,CTA,3,Bp6VC-w4hVf07QNNC-TUQ
+Al Omraneyya Al Gadida - Kilo 4 & Half Station,Minibus  203,CTA_M,3,5CqnnGEDncnHS7HZkkGTj
+Al Omraneyya Al Gadida - Koleyet Al Banat - Ain Shams University,Minibus 500,CTA_M,3,MgUVI0pvMFijJFql58iLt
+Al Omraneyya Al Gadida - Qism El Hadayek,CTA 803-1105,CTA,3,epRYw8BYwgHH-RcYG5VZR
+Al Omraneyya Al Gadida - Qism El Hadayek,CTA 810,CTA,3,ymp4c1P70mpX2Br4a7BZ8
+Al Qanatir Al Khayriyyah - Attaba,CTA  212,CTA,3,9j2ux9o5-KraQgcDFxC0H
+Al Qanatir Al Khayriyyah - Moassasa Station,Microbus,P_O_14,3,xHDTuKEcNGya_6TEqky9R
+Al Sa'a Square Station - Helmeyet El Zaitoun Metro,Microbus,P_O_14,3,3Yvct3Jc-AgCLWnx8iJb-
+Al Sa'a Square Station - Ibrahim Bek,CTA 11,CTA,3,M72HU9kmUJZ6FhQHG_GpP
+Al Sa'a Square Station - Matareya Square Station,Microbus,P_O_14,3,P_O_14_CA082
+Al Sa'a Square Station - Ramses Station,Microbus,P_O_14,3,P_O_14_CA083
+Al Sawah Square - Roxy,Microbus,P_O_14,3,m9IKw8bdVfTvbKv5OgLgV
+Al Sayeda Aisha Station -  Znen (Awwel Al Eshreen),Microbus,P_O_14,3,BamKiGYQ3P_xZETsNX1a5
+Al Sayeda Aisha Station - Attaba,Microbus,P_O_14,3,P_O_14_CA009
+Al Sayeda Aisha Station - Awwel Abbas,Microbus,P_O_14,3,P_O_14_CA014
+Al Sayeda Aisha Station - Awwel Faisal,Microbus,P_O_14,3,THrQu8qlfqIVjyIOU9nsp
+Al Sayeda Aisha Station - Awwel Makram Ebeid,Microbus,P_O_14,3,X7OUnQkaUhlNHC3RmAKjb
+Al Sayeda Aisha Station - Bab Al Shaaria Square,Microbus,P_O_14,3,P_O_14_CA017
+Al Sayeda Aisha Station - Basateen,Microbus,P_O_14,3,hnRdMePAiavyLNXrgXpgd
+Al Sayeda Aisha Station - Darrasa,Microbus,P_O_14,3,P_O_14_CA001
+Al Sayeda Aisha Station - Gas (Banks Area),Microbus,P_O_14,3,P_O_14_IC001
+Al Sayeda Aisha Station - Giza Square Station,Microbus,P_O_14,3,hdBN4uzpUjTGN0vKzf9kW
+Al Sayeda Aisha Station - Hadaba Wosta (Moqattam),Microbus,P_O_14,3,P_O_14_CA005
+Al Sayeda Aisha Station - Haram & Marioteya Station,Microbus,P_O_14,3,fwS4JbFtp5dtGtwMGqXBH
+Al Sayeda Aisha Station - Imbaba Station,CTA 99,CTA,3,Eq5DUhwePKrivC_r5EyAz
+Al Sayeda Aisha Station - Imbaba Station,CTA 99ss,CTA,3,CTA_99SS
+Al Sayeda Aisha Station - Isbiko Station,Microbus,P_O_14,3,P_O_14_CA007
+Al Sayeda Aisha Station - Kattameya (Mahmoudeya),Microbus,P_O_14,3,OZAAPeChjNCYfhRh0ytYa
+Al Sayeda Aisha Station - Kattameya Church,Microbus,P_O_14,3,P_O_14_IC004
+Al Sayeda Aisha Station - Madinat Al Bo'oth Al Eslamyya,Microbus,P_O_14,3,P_O_14_CA022
+Al Sayeda Aisha Station - Moneeb Station,Microbus,P_O_14,3,ne9Df9bfGqa0RrCaPqNTA
+Al Sayeda Aisha Station - Nahda City Station,Microbus,P_O_14,3,P_O_14_CA010
+Al Sayeda Aisha Station - Ommal Square Station,Microbus,P_O_14,3,P_O_14_IC002
+Al Sayeda Aisha Station - Ramses Station,Microbus,P_O_14,3,GZtwE0__sVe5sfdM8Hq45
+Al Sayeda Aisha Station - Saad Zaghloul Metro,Microbus,P_O_14,3,zRAXMgMRMVRhmAULPLo0R
+Al Sayeda Aisha Station - Salam Alexandria Station,Microbus,P_O_14,3,P_O_14_CA015
+Al Sayeda Aisha Station - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_CA002
+Al Sayeda Aisha Station - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_CA004
+Al Sayeda Aisha Station - Zahraa Ain Shams,Minibus 7,CTA_M,3,xkcfLc0qC3yXgkL3QkYzS
+Al Sayeda Aisha Station - Zahraa Metro,Tomnaya,P_B_8,3,P_B_8_CA021
+Al Sayeda Nafeesa - El Warsha (Ezbet Al Nakhl),Minibus 146,CTA_M,3,3k65ONadSSpqWJMm7jv4a
+Al Sayeda Nafeesa - Isko,Minibus 88,CTA_M,3,nOJ9PATzYJARWxEfkqu5L
+Al Sayeda Nafeesa - Isko,Minibus 89,CTA_M,3,j0B0wGsqFxUkOptBjcLvx
+Al Sayeda Nafeesa - Khosous,Minibus 421,CTA_M,3,QAtNnDbICPuNWmtoKicmy
+Al Sayeda Nafeesa - Qism El Hadayek,CTA 840,CTA,3,CTA_840
+Al Sayeda Zeinab - Giza Square Station,Microbus,P_O_14,3,P_O_14_IG097
+Al Shabab Entrance - Gas (Banks Area),Tomnaya,P_B_8,3,P_B_8_NC011
+Al Shabab Entrance - Kattameya (Mahmoudeya),Tomnaya,P_B_8,3,P_B_8_NC014
+Al Shari' Al Gadeed  (Bahteem) - Bab Al Shaaria Square,Minibus,COOP,3,COOP_IG080
+Al Shari' Al Gadeed  (Bahteem) - Matareya Square Station,Microbus,P_O_14,3,wMjyQ7gRXkx7VXHzsFwCf
+Al Sheikh Mansour - Matareya Square Station,Minibus,COOP,3,Zy8zeMtNXeBpZrtvM4kDl
+Al Shorouq - Dawaran Shubra Station,CTA 1016,CTA,3,CTA_1016
+Al Shorouq Academy Station - Awwel Makram Ebeid,Microbus,P_O_14,3,P_O_14_IC091
+Al Toub Al Ramly - Bulaq Al Dakrur Station,CTA 926-1126,CTA,3,E5kbHujl_1NdyyZVDIILb
+Al Toub Al Ramly - Masaken Ain Shams Station,Minibus 13,CTA_M,3,Hu_E85mwGGhJHvFmWrLch
+Al Warraq Station - Attaba,Microbus,P_O_14,3,P_O_14_IG039
+Al Warraq Station - Giza Square Station,Microbus,P_O_14,3,P_O_14_GZ017
+Al Warraq Station - Hyper 1 Station,Minibus,COOP,3,COOP_IC065
+Al Warraq Station - Imbaba Station,Microbus,P_O_14,3,P_O_14_GZ016
+Al Warraq Station - Imbaba Station,Minibus,COOP,3,U12iA-JAJn3HecabkdSeW
+Al Warraq Station - Kilo 4 & Half Station,Minibus 102,CTA_M,3,qF9eq082_adr4tlPXHbat
+Al Warraq Station - Masaken Al Shorouq,Minibus 85,CTA_M,3,ctcoGGvDNd93MT5czSIi7
+Al Warraq Station - Moassasa Station,Microbus,P_O_14,3,Z2RSwdOqb-nYzFdq9dXUL
+Al Warraq Station - Qalaa Station,CTA 609,CTA,3,r2vpERz_TL7ahX5F7dvh9
+Al Warraq Station - Ramses Station,Microbus,P_O_14,3,9JtrrWplRidMq_w6-6Bs8
+Al Warraq Station - Tagneed (Al Remaya),Minibus 201,CTA_M,3,CTA_M_201
+Al Wehda Imbaba (Al Bohi) - Attaba,Microbus,P_O_14,3,eNaYFATGV4nFM2ODEQGb5
+Al Wehda Imbaba (Al Bohi) - Bulaq Al Dakrur Station,Microbus,P_O_14,3,wVSEsc9QL4aBYHVv-Spy9
+Al Wehda Imbaba (Al Bohi) - Isaaf,Microbus,P_O_14,3,P_O_14_IG010
+Al Wehda Imbaba (Al Bohi) - Kit Kat Square Station,Microbus,P_O_14,3,P_O_14_GZ033
+Al Wehda Imbaba (Al Bohi) - Ramses Station,Microbus,P_O_14,3,zdqlYRVdftBHIeoVbaRin
+Al Zawya Al Hamra Station - Arab Maadi Station,Minibus 48,CTA_M,3,0mQ8cT0ZE81ogwfFKHdrc
+Al Zawya Al Hamra Station - Ghamra Station,Microbus,P_O_14,3,P_O_14_CA067
+Al Zawya Al Hamra Station - Giza Square Station,CTA 31s,CTA,3,CTA_31S
+Al Zawya Al Hamra Station - Hadaek EL Kobba,Microbus,P_O_14,3,P_O_14_CA066
+Al Zawya Al Hamra Station - Imbaba Station,Microbus,P_O_14,3,EdxCXX3s8ILq_VMt8162G
+Al Zawya Al Hamra Station - Khalafawy Square,Microbus,P_O_14,3,PBikgVF29mTLslC7tpYmN
+Al Zawya Al Hamra Station - Masaken Zeinhom Station,CTA 831,CTA,3,Nd26muQJqx48OOmDQvv7D
+Al Zawya Al Hamra Station - Mazallat Station,Microbus,P_O_14,3,P_O_14_CA068
+Al Zawya Al Hamra Station - Moneeb Station,CTA 931,CTA,3,JlzozxxL918inEWQTu3iJ
+Alf Maskan Station - Al Hamd Square Station,Microbus,P_O_14,3,P_O_14_IC036
+Alf Maskan Station - Al Nozha Al Gadida Station (Gesr El Suez Garage),Microbus,P_O_14,3,P_O_14_CA025
+Alf Maskan Station - Al Nozha Al Gadida Station (Gesr El Suez Garage),Microbus,P_O_14,3,QeibrVPEcAQDuGbYNqK3W
+Alf Maskan Station - Al Sheikh Mansour,Microbus,P_O_14,3,P_O_14_CA040
+Alf Maskan Station - Al Sheikh Mansour,Microbus,P_O_14,3,dGZEosc821pSF0MGiNb76
+Alf Maskan Station - Al Shorouq Academy Station,Microbus,P_O_14,3,P_O_14_IC037
+Alf Maskan Station - Arab Al Tawaila,Microbus,P_O_14,3,U1qTC-v8kA9-Rkit2YfDm
+Alf Maskan Station - Arab Al Tawaila,Tomnaya,P_B_8,3,PNtTPVJcmDWclAFZdvYD2
+Alf Maskan Station - Awwel Makram Ebeid,Microbus,P_O_14,3,aPqU-5Zq_31ywCFAxL2wE
+Alf Maskan Station - Ezbet Al Nakhl,Microbus,P_O_14,3,P_O_14_CA031
+Alf Maskan Station - FUE,Microbus,P_O_14,3,lFki0psvWKrqJWc6Qz6PR
+Alf Maskan Station - Gas (Banks Area),Microbus,P_O_14,3,Eib3Hm9Na_KFRfgk0ykjn
+Alf Maskan Station - Kilo 4 & Half Station,Microbus,P_O_14,3,aJY-YEz8s6i0ojLZgEitA
+Alf Maskan Station - Korba,Microbus,P_O_14,3,T9Z1u1IkkEycKE6B_nakJ
+Alf Maskan Station - Masaken Ain Shams Station,Microbus,P_O_14,3,Ogi2rh_OlSM2h_wvvLGkk
+Alf Maskan Station - Matareya Square Station,Microbus,P_O_14,3,P_O_14_CA027
+Alf Maskan Station - Mazlaqan Ain Shams,Microbus,P_O_14,3,P_O_14_CA030
+Alf Maskan Station - Nahda City Station,Microbus,P_O_14,3,P_O_14_CA033
+Alf Maskan Station - New Cairo Court Station,Microbus,P_O_14,3,6KGSCH_P7m-jw7W1PR0Ht
+Alf Maskan Station - Rehab - Gate 13 - 12,Microbus,P_O_14,3,yiVgiNyYpe2oH4ZTN0Baq
+Alf Maskan Station - Roxy,Microbus,P_O_14,3,NUilWKiUS6Kx6c0X5hCYF
+Alf Maskan Station - Shabab (Obour),Microbus,P_O_14,3,a857emSd0Eg9_C49Uly1i
+Alf Masnaa - Moneeb Station,CTA 573,CTA,3,eWiEGCcCP5bsCA6uPr2nY
+Amiriya - Giza Square Station,CTA 306,CTA,3,CTA_306
+Amiriya - Hadaek EL Kobba,Microbus,P_O_14,3,RSdIAdQiV_sN5aWHuOSsc
+Amiriya - Masaken Zeinhom Station,CTA 122-1059,CTA,3,dJf-9v2Gx-4ypC7DPKMUc
+Amiriya - Moneeb Station,CTA 1129,CTA,3,CTA_1129
+Amiriya - Moneeb Station,CTA 916,CTA,3,EN8O17ndwKGdqbV4Vemgm
+Amiriya - Rehab - Gate 6,Minibus 8,CTA_M,3,zZOoW5YGvB9BYblSit-KB
+Amr Ibn El Aas Station - Bulaq Al Dakrur Station,CTA 814,CTA,3,t-VkUnvixIVORTzsevcAZ
+Amr Ibn El Aas Station - Masaken Ain Shams Station,CTA 945-1082,CTA,3,CTA_945-1082
+Amr Ibn El Aas Station - Masaken Ain Shams Station,CTA 945-1082,CTA,3,c7dsOrHcVJ5TLsMxuO3XG
+Amr Ibn El Aas Station - Mazallat Station,CTA 134,CTA,3,mACiG8_tUrwcPtvZXP8Od
+Amr Ibn El Aas Station - Moassasa Station,CTA 825-1073,CTA,3,7ZNJgilomPVVQdSvyInsq
+Amr Ibn El Aas Station - Moassasa Station,CTA 825-1073,CTA,3,CTA_1073
+Amr Ibn El Aas Station - Om Bayoumi (Mintay),CTA 83,CTA,3,CTA_83
+Amr Ibn El Aas Station - Om Bayoumi (Mintay),CTA 83,CTA,3,DtLLG0DY2SgylTir-e5kd
+Applied Arts - Cairo University - Kerdasa Station,Microbus,P_O_14,3,dOSjy2LRc3erAam81oIco
+Applied Arts - Cairo University - Lebanon Square Station,Minibus,COOP,3,COOP_GZ009
+Arab Al Tawaila - Attaba,Minibus 129,CTA_M,3,JEYUgjN4DNooJRg88uMnU
+Arab Al Tawaila - Basateen,Minibus 79,CTA_M,3,fIX2H6I2zopxdtQs4KTWy
+Arab Al Tawaila - Darrasa,Minibus 202,CTA_M,3,15BSVKWwvsIQTR_rWUxzo
+Arab Al Tawaila - Matareya Square Station,Microbus,P_O_14,3,ezg_t81DPrRfiBGLI9GbE
+Arab Maadi Station - Haram & Marioteya Station,Microbus,P_O_14,3,P_O_14_IG034
+Arab Maadi Station - Maadi Metro Station,Microbus,P_O_14,3,Va6aQT0gwfU48MBTXdWwi
+Arab Maadi Station - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_CA061
+Arabella Square Station - Kattameya (Mahmoudeya),Tomnaya,P_B_8,3,P_B_8_NC015
+Arabella Square Station - New Cairo Academy,Tomnaya,P_B_8,3,P_B_8_NC018
+Ard El Lewaa - Barageel St,Microbus,P_O_14,3,-VhmbIy80una-3ZcYAtuQ
+Ard El Lewaa - Bashtil El Balad,Microbus,P_O_14,3,OOILmjleFc1XPBnUjoK58
+Ard El Lewaa - Bashtil El Balad,Microbus,P_O_14,3,P_O_14_GZ052
+Ard El Lewaa - Bohooth (Al Kobri Al Khashab),Microbus,P_O_14,3,P_O_14_GZ024
+Ard El Lewaa - Giza Square Station,Minibus,COOP,3,COOP_GZ062
+Ard El Lewaa - Imbaba Station,Microbus,P_O_14,3,JyWtn3ABwFi8HtnOdZir3
+Asmarrat - Athar Al Naby,CTA 1142,CTA,3,BV6LVVgDgSW-cSt6IkTzS
+Asmarrat - Manshiyat Nasser Station,CTA 580,CTA,3,CTA_580
+Asmarrat - Manshiyat Nasser Station,Tomnaya,P_B_8,3,Dnad46KxSgtz6WrdlQUHY
+Asmarrat - Mazallat Station,CTA 1128,CTA,3,CTA_1128
+Athar Al Naby - Bulaq Al Dakrur Station,CTA 96,CTA,3,uPQepJdL4bjoI0R7J9XKz
+Athar Al Naby - Khosous,Minibus  310,CTA_M,3,NsRadhTyf0r3kiWFf6VpA
+Attaba - Bashtil,CTA 104,CTA,3,CTA_104S
+Attaba - Bashtil,Microbus,P_O_14,3,r3Rn-Eht_A27WHh3b8Zn0
+Attaba - Bulaq Al Dakrur Station,CTA 166,CTA,3,c9cUCbuNGMusHnHEIT34g
+Attaba - Bus Stop 43 (Matareya),CTA 43,CTA,3,CTA_43
+Attaba - Filfil Mosque (Bashtil),Microbus,P_O_14,3,P_O_14_IG073
+Attaba - Helwan Metro,Microbus,P_O_14,3,GxpEPsh9nVdgjod-tsOkv
+Attaba - Ibrahim Bek,CTA 967,CTA,3,Vdn0kVuba4a9LxwlhEGiJ
+Attaba - Isbiko Station,CTA 1004,CTA,3,Ad2qtlLVDY6f99l6Ca-O6
+Attaba - Kerdasa Station,Microbus,P_O_14,3,P_O_14_IG057
+Attaba - Lebanon Square Station,CTA 568,CTA,3,CTA_568
+Attaba - Masaken Betcho,CTA 1009,CTA,3,CTA_1009
+Attaba - Masaken Othman (Ezbet El Nakhl),CTA 41,CTA,3,vvE6l7VzFeki_7IJpH25B
+Attaba - Masaken Othman (Ezbet El Nakhl),Minibus 41,CTA_M,3,Rid3J784c156sibqnTGhS
+Attaba - Masaken Sheraton,Minibus 21-255,CTA_M,3,igaGwMdEQ1Rm4tT_CEE2b
+Attaba - Moassasa Station,CTA 24,CTA,3,MfH-pfpTAl0OVRoWJgzRH
+Attaba - Moassaset Al Zakah,CTA 1076,CTA,3,CTA_1076
+Attaba - Moassaset Al Zakah,CTA 1076,CTA,3,eVbAOGbA9hx7lvF6qbJse
+Attaba - Moneeb Station,CTA 106-1069,CTA,3,CTA_106-1069
+Attaba - Moneeb Station,CTA 1069,CTA,3,hzSgTxcnjIdeldzq3BHu1
+Attaba - Motseian,CTA 103-1094,CTA,3,CTA_103-1094
+Attaba - New Marg Station,Minibus 155,CTA_M,3,e38x78tDVvSYikf-K2XLZ
+Attaba - Obour Station,CTA 1147,CTA,3,CTA_1147
+Attaba - Om Bayoumi (Mintay),CTA 531,CTA,3,CTA_531
+Attaba - Om Bayoumi (Mintay),CTA 992,CTA,3,AsBiwEEcVj3jrx8lh9jms
+Attaba - Om Bayoumi (Mintay),Minibus,COOP,3,COOP_IG072
+Attaba - Qalyoub,CTA 917,CTA,3,NsWlr8t2byZcKwm7hf7UI
+Attaba - Qalyoub,CTA 917,CTA,3,Plpoxm6EKpqHluA67UbO1
+Attaba - Ramses Station,Microbus,P_O_14,3,P_O_14_CA150
+Attaba - Tagneed (Al Remaya),Minibus 333,CTA_M,3,BV3Lpd-u_IqoQTTAGrXsT
+Attaba - Warraq Al Arab (Cima),CTA 250,CTA,3,CTA_250
+Attaba - Zahraa Ain Shams,CTA 1063,CTA,3,CTA_1063
+Awsim - Kit Kat Square Station,Microbus,P_O_14,3,P_O_14_GZ035
+Awwel Abbas - Ramses Station,Microbus,P_O_14,3,P_O_14_CA154
+Awwel Al Zawya Al Hamra Station - Hadaek EL Kobba,Microbus,P_O_14,3,HZd1EesltJ445uu9I6wbH
+Awwel Al Zawya Al Hamra Station - Hadaek EL Kobba,Microbus,P_O_14,3,P_O_14_CA143
+Awwel Al Zawya Al Hamra Station - Khalafawy Square,Microbus,P_O_14,3,P_O_14_CA146
+Awwel Al Zawya Al Hamra Station - Matareya Square Station,Microbus,P_O_14,3,P_O_14_CA119
+Awwel Al Zawya Al Hamra Station - New Marg Station,Microbus,P_O_14,3,ZqF0hj3CyZzVwb8YwhrN3
+Awwel Makram Ebeid - Ghamra Station,Microbus,P_O_14,3,4cp78uINFpGWUO3lvHpAX
+Awwel Makram Ebeid - Hadaek EL Kobba,Microbus,P_O_14,3,jChkkQK1HtN-5QMYcjlUu
+Awwel Makram Ebeid - Haram Mashaal Station,Microbus,P_O_14,3,P_O_14_IG023
+Awwel Makram Ebeid - Helwan Station,Microbus,P_O_14,3,P_O_14_CA076
+Awwel Makram Ebeid - Helwan Station,Microbus,P_O_14,3,ej2ohQ-P0kTk-y-6MwMbM
+Awwel Makram Ebeid - Hossary Station,Microbus,P_O_14,3,P_O_14_IC014
+Awwel Makram Ebeid - Ramses Station,Microbus,P_O_14,3,vPxZODNW0MlX1OZFVTl8e
+Awwel Makram Ebeid - Saqr Quraish Station,Microbus,P_O_14,3,nf1dT47KvJP9Y2TD0As54
+Bab Al Shaaria Square - Ibrahim Bek,Minibus,COOP,3,COOP_IG069
+Bab Al Shaaria Square - Khosous,Minibus,COOP,3,COOP_IG081
+Bab Al Shaaria Square - Ring Rd Exit to Khosous,Microbus,P_O_14,3,P_O_14_IG088
+Badr City - Hadaek EL Kobba,CTA  1057,CTA,3,wgK6fiDsQ9Yiw7IeDStF9
+Badr City - Moneeb Station,Microbus,P_O_14,3,P_O_14_IC102
+Badr Station (Sheikh Zayed) - Hyper 1 Station,Tomnaya,P_B_8,3,P_B_8_SZ007
+Badr Station (Sheikh Zayed) - Zayed MM Terminal,Tomnaya,P_B_8,3,P_B_8_SZ006
+Badrasheen Station - Giza Square Station,Minibus,COOP,3,IYilQT6atGwqzRh7MNJHd
+Badrasheen Station - Hawamdeyya,Microbus,P_O_14,3,P_O_14_GZ040
+Badrasheen Station - Mazghuna,Microbus,P_O_14,3,P_O_14_GZ041
+Badrasheen Station - Moneeb Station,Microbus,P_O_14,3,P_O_14_GZ042
+Badrasheen Station - Saqqara,Microbus,P_O_14,3,yyGnaQQgQqV2mgxb-3iuX
+Badrasheen Station - Tibeen,Microbus,P_O_14,3,P_O_14_IG078
+Bahtim Square - Moassasa Station,Minibus,COOP,3,COOP_QA005
+Barageel St - Kit Kat Square Station,Microbus,P_O_14,3,P_O_14_GZ037
+Basateen - Maadi Metro Station,Microbus,P_O_14,3,VcyJ3Cygkrd6BpKY5hhzC
+Basateen - Mazallat Station,Minibus 93,CTA_M,3,0ij9-cfVgid7IW1oTQKdT
+Basateen - Moneeb Station,CTA 17-17g-923,CTA,3,YIHTQhZhY68hR2EQjvlF-
+Bashtil - Darrasa,CTA  815,CTA,3,uN-UtT1I06zo3gDqUuEn8
+Bashtil - Masaken Ain Shams Station,Minibus 215,CTA_M,3,AflV7b-3AGXaMj90ZBio9
+Bashtil - Masaken Zeinhom Station,Minibus 119,CTA_M,3,bvWwmlVRmaOh17E4NPADx
+Bashtil - Saqr Quraish Station,Minibus 216,CTA_M,3,VGaQYovXuVb6WPYilc6D0
+Bashtil El Balad - Kit Kat Square Station,Microbus,P_O_14,3,YC8mSQwzG7-Amd9rDuPR1
+Basrawy - Mazallat Station,Microbus,P_O_14,3,IYD6dwYtSHca6S9EV__lK
+Basrawy - Ramses Station,Microbus,P_O_14,3,F-oBh93OH6Ie4snCmxj8i
+Bigam - Masaken Al Shorouq,Minibus 26,CTA_M,3,oq0Kd02t351SYBTGRu4mX
+Bigam - Masaken Sheraton,Minibus 28,CTA_M,3,L6PArmxc9NFPD2d0aCCTb
+Bigam - Moassasa Station,Microbus,P_O_14,3,fhoRkkZP1LuBccGcQ-lPf
+Bohooth (Al Kobri Al Khashab) - Bulaq Al Dakrur Station,Microbus,P_O_14,3,LpiM9b8bL-w2_OYYAi9OZ
+Bohooth (Al Kobri Al Khashab) - Faisal St & Ring Rd,Microbus,P_O_14,3,P_O_14_GZ022
+Bohooth (Al Kobri Al Khashab) - Imbaba Station,Microbus,P_O_14,3,P_O_14_GZ023
+Bohooth (Al Kobri Al Khashab) - Lebanon Square Station,Microbus,P_O_14,3,czcD_GDbPM3RYT-b_E4GE
+Bohooth (Al Kobri Al Khashab) - Madinat Al Talaba (Imbaba),Microbus,P_O_14,3,P_O_14_GZ021
+Bulaq Al Dakrur Station - Cairo Airport Station,CTA 1003,CTA,3,PnnpvX60X8WaRSAtq6_q1
+Bulaq Al Dakrur Station - Darrasa,CTA 186,CTA,3,whPhZJOh0ITe1RuUOEZX2
+Bulaq Al Dakrur Station - El Kafr (Birak Al Khiyam),Microbus,P_O_14,3,ynTk2w8k0i45iT5CkTzX-
+Bulaq Al Dakrur Station - Giza Square Station,Minibus,COOP,3,COOP_GZ028
+Bulaq Al Dakrur Station - Hadaba Wosta (Moqattam),CTA 1085,CTA,3,wz-ZLxXwobCpZlLGOs-nJ
+Bulaq Al Dakrur Station - Haram Areesh (Sahl Hamza),Microbus,P_O_14,3,MUrGLjBAM0T83fv3U3Mqa
+Bulaq Al Dakrur Station - Haram Mashaal Station,Microbus,P_O_14,3,IK0lxgoOk-xJleJOgnUIP
+Bulaq Al Dakrur Station - Isaaf,Microbus,P_O_14,3,P_O_14_IG009
+Bulaq Al Dakrur Station - Kilo 4 & Half Station,Minibus 121,CTA_M,3,tr5C-Vao_XTCqFPXm-mE5
+Bulaq Al Dakrur Station - Kilo 4 & Half Station,Minibus 329,CTA_M,3,ZGjX3QoD_ctqk3lvYrKDL
+Bulaq Al Dakrur Station - Masaken Al Wehda,CTA 921-1133,CTA,3,VjYEpD99WGuBFvH5Dw-gV
+Bulaq Al Dakrur Station - Masaken Sheraton,Minibus 127,CTA_M,3,2Wxf2h2nrj2e5sjOpMram
+Bulaq Al Dakrur Station - Moneeb Station,Microbus,P_O_14,3,Zl9qxNlqnCCOTNhz07iZt
+Bulaq Al Dakrur Station - Nahda City Station,Microbus,P_O_14,3,LNhgToq2DsZoXTXPK8G9d
+Bulaq Al Dakrur Station - Nahia,Microbus,P_O_14,3,P_O_14_GZ026
+Bulaq Al Dakrur Station - Om Bayoumi (Mintay),CTA 203,CTA,3,rumnfrVLyA8ZA3JpTI5Ef
+Bulaq Al Dakrur Station - Qism El Hadayek,CTA 1123,CTA,3,CTA_1123
+Bulaq Al Dakrur Station - Qism El Hadayek,CTA 91,CTA,3,iSJquE4a-hnmErov1zOQm
+Bulaq Al Dakrur Station - Ramses Station,Microbus,P_O_14,3,8TSoqsVo41bExi7Jg16qQ
+Bulaq Al Dakrur Station - Ramses Station,Minibus,COOP,3,COOP_IG053
+Bulaq Al Dakrur Station - Rehab - Gate 6,Agyad Gm7,AGY,3,AGY_Gm7
+CIC - Hyper 1 Station,Tomnaya,P_B_8,3,EbtM_hQ0jhsQyuGc5GCpz
+Cairo Airport Station - Dawaran Shubra Station,CTA 925,CTA,3,9utw1A6O1TUOZSdVJXnIN
+Cairo Airport Station - Lebanon Square Station,Minibus 100,CTA_M,3,CTA_M_100
+Cairo Airport Station - Lebanon Square Station,Minibus 606,CTA_M,3,CTA_M_606
+Cairo Airport Station - Mazallat Station,CTA 1138,CTA,3,N6IzAQa5E4U9mP-CLry9g
+Cairo Airport Station - Moassasa Station,CTA 970,CTA,3,JktuaW0f3dvlZcs7mDGGu
+Cairo Airport Station - Moassasa Station,CTA 970-1051,CTA,3,CTA_970-1051
+Cairo Airport Station - Qalyoub,CTA 530,CTA,3,CTA_530
+Cairo University Metro -  Znen (Awwel Al Eshreen),Microbus,P_O_14,3,-lI1f278TKfnCnumdD48V
+Can Can 12th District  (6th of October) - Imbaba Station,CTA 1043,CTA,3,DafSYVkgsDYBZs729kZGD
+Carrefour - Maadi - Masaken Betcho,Tomnaya,P_B_8,3,30QI2WFsvNrXncGOrD-Yl
+Carrefour - Maadi - Zahraa Metro,Tomnaya,P_B_8,3,79A4DBdhOZXDQqFQNdq_5
+Dandy Mall - Hyper 1 Station,Microbus,P_O_14,3,P_O_14_IC081
+Dandy Mall - Lebanon Square Station,Microbus,P_O_14,3,P_O_14_GZ007
+Dandy Mall - Remaya Station (New Mashaal),Microbus,P_O_14,3,tOuRwi8SSInQQJ7Kbq7O1
+Dar El Salam - Fayda Kamel,Microbus,P_O_14,3,1ZbDBsUQUJRub7iZYmHFI
+Dar El Salam - Giza Square Station,Microbus,P_O_14,3,Nt3X7K8xH9fN8xUI0jtsl
+Darrasa - Imbaba Station,CTA 1117,CTA,3,kBtm-qZ0NnQ1idoAL_yfA
+Darrasa - Imbaba Station,CTA 190-1117,CTA,3,CTA_190-1117
+Darrasa - Isko,Minibus 80,CTA_M,3,ADJZbj6QAtiHt8lqBibnV
+Darrasa - Koleyet Al Banat - Azhar University,CTA 3g,CTA,3,CTA_3G
+Darrasa - Masaken Othman (Ezbet El Nakhl),Minibus 31,CTA_M,3,egjPD6593CKn95Mk98b1K
+Darrasa - Moassasa Station,CTA 915,CTA,3,CTA_915
+Dawaran Shubra Station - Kattameya (Mahmoudeya),Minibus 307,CTA_M,3,tg7Ig_oSMPD5Nr6tlRuK4
+Dawaran Shubra Station - Masaken Al Shorouq,Minibus 47,CTA_M,3,0yN0f3emwwLcW287INPnm
+Dawaran Shubra Station - Masaken Sheraton,Minibus 305,CTA_M,3,kmJvmozOqYl95wRijRLnL
+Dawaran Shubra Station - Obour Market,CTA 1005,CTA,3,CTA_1005
+Dawaran Shubra Station - Orabi Bridge,Microbus,P_O_14,3,G78c4G-oy20XNbcMYCzxY
+Dokki -  Znen (Awwel Al Eshreen),Microbus,P_O_14,3,P_O_14_GZ057
+Dolce - Hossary Station,Tomnaya,P_B_8,3,P_B_8_6O010
+Dolce - Laylat Al Qadr Station,Microbus,P_O_14,3,P_O_14_6O029
+Dolce - Laylat Al Qadr Station,Tomnaya,P_B_8,3,P_B_8_6O029
+El Kafr (Birak Al Khiyam) - Nahia,Microbus,P_O_14,3,P_O_14_GZ048
+El Warsha (Ezbet Al Nakhl) - New Marg Station,Tomnaya,P_B_8,3,P_B_8_CA099
+Ezbet Al Nakhl - New Marg Station,Tomnaya,P_B_8,3,P_B_8_CA094
+FUE - Gas (Banks Area),Tomnaya,P_B_8,3,P_B_8_NC006
+FUE - Moneeb Station,Microbus,P_O_14,3,P_O_14_IC043
+Faisal Tawabek - Giza Square Station,Microbus,P_O_14,3,P_O_14_GZ049
+Fayda Kamel - Giza Square Station,Microbus,P_O_14,3,P_O_14_IG096
+Fayda Kamel - Maadi Metro Station,Microbus,P_O_14,3,P_O_14_CA174
+Fayda Kamel - Saqr Quraish Station,Microbus,P_O_14,3,IcpqTJSZNZXngGCgzW0-u
+Filfil Mosque (Bashtil) - Isaaf,Microbus,P_O_14,3,UqNUrY5nD-HVKa4Wl0Fi3
+Gas (Banks Area) - Haram & Marioteya Station,Microbus,P_O_14,3,P_O_14_IC061
+Gas (Banks Area) - Helwan Station,Microbus,P_O_14,3,P_O_14_IC022
+Gas (Banks Area) - Kattameya (Mahmoudeya),Tomnaya,P_B_8,3,EgKIe-2AnaMNxtDaRSfZi
+Gas (Banks Area) - Kattameya (Mahmoudeya),Tomnaya,P_B_8,3,P_B_8_NC012
+Gas (Banks Area) - Moneeb Station,Microbus,P_O_14,3,P_O_14_IC068
+Gas (Banks Area) - Moneeb Station,Tomnaya,P_B_8,3,P_B_8_IC068
+Gas (Banks Area) - Ommal Square Station,Tomnaya,P_B_8,3,P_B_8_NC002
+Gas (Banks Area) - Ramses Station,Microbus,P_O_14,3,P_O_14_IC023
+Gas (Banks Area) - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_IC021
+Gas (Banks Area) - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_IC053
+Gas (Banks Area) - Traffic Department  (Kattameya),Tomnaya,P_B_8,3,P_B_8_NC005
+Gas (Banks Area) - Zahraa Metro,Tomnaya,P_B_8,3,P_B_8_IC067
+Ghamra Station - Masaken Ain Shams Station,Microbus,P_O_14,3,P_O_14_CA129
+Giza Square Station -  Znen (Awwel Al Eshreen),Microbus,P_O_14,3,mwUKKpciQEKn_H2kOT4BD
+Giza Square Station - Hadaba Wosta (Moqattam),CTA 1108,CTA,3,CTA_1108
+Giza Square Station - Haram & Marioteya Station,Tomnaya,P_B_8,3,P_B_8_GZ015
+Giza Square Station - Haram Areesh (Sahl Hamza),Microbus,P_O_14,3,8RzwcHgdiBJrQow3-bGIj
+Giza Square Station - Haram Mashaal Station,Minibus,COOP,3,COOP_GZ006
+Giza Square Station - Hawamdeyya,Microbus,P_O_14,3,kv8R2uui-Di2K3gVwZO78
+Giza Square Station - Helwan Post Office,Microbus,P_O_14,3,rSzg2M_8gM0cX-PnDBpDS
+Giza Square Station - Hossary Station,Microbus,P_O_14,3,LwkV1eodv1ID5E0MVkEGV
+Giza Square Station - Hossary Station,Microbus,P_O_14,3,P_O_14_IC018
+Giza Square Station - Hyper 1 Station,Microbus,P_O_14,3,3waGFbKHjbGyHsGw8XnY4
+Giza Square Station - Hyper 1 Station,Microbus,P_O_14,3,iMAKUgcl9tKwzLmwnFJLO
+Giza Square Station - Ibrahim Bek,CTA 1028,CTA,3,Ml8Z5Ycxg-taVluDdj9eh
+Giza Square Station - Imbaba Station,Minibus,COOP,3,7K3l-wUpwMqCltVD6bzOd
+Giza Square Station - Isko,Minibus 90,CTA_M,3,gwG-fhicbKS4E3iMRQz6P
+Giza Square Station - Kilo 4 & Half Station,Minibus 40,CTA_M,3,CBxRb0VoXyLWRjw97cRXJ
+Giza Square Station - Kit Kat Square Station,Microbus,P_O_14,3,HgOOTYudP9JvGMJLgyyjz
+Giza Square Station - Laylat Al Qadr Station,Microbus,P_O_14,3,P_O_14_IC097
+Giza Square Station - Lebanon Square Station,Minibus,COOP,3,COOP_GZ011
+Giza Square Station - Masaken Sheraton,CTA 507,CTA,3,CTA_507
+Giza Square Station - Masaken Sheraton,CTA 794,CTA,3,CTA_794
+Giza Square Station - Masallah Al Gadeda Station (Matareyya),Minibus 29,CTA_M,3,xolg4JwSJogcCGeExbjKu
+Giza Square Station - Matbaa Station,Microbus,P_O_14,3,FBT0F0L0nZP2Z5ICmHls-
+Giza Square Station - Moassasa Station,CTA  966-1160,CTA,3,4P_RC_FgHuWtFC8yoCbgz
+Giza Square Station - Moassasa Station,CTA 1160,CTA,3,CTA_1160
+Giza Square Station - Moneeb Station,Microbus,P_O_14,3,blJ-Wh52qAtvzY4CZegdj
+Giza Square Station - Omraneyya Station,Microbus,P_O_14,3,JFURIfkSZvjnSzWLlUZ65
+Giza Square Station - Ramses Station,Microbus,P_O_14,3,P_O_14_IG068
+Giza Square Station - Remaya Square,Minibus,COOP,3,COOP_GZ019
+Giza Square Station - Tagneed (Al Remaya),Minibus,COOP,3,COOP_GZ029
+Giza Square Station - Tagneed (Al Remaya),Minibus,COOP,3,d-Goa1xpnuFiRnI_5i9Uy
+Giza Square Station - Tagneed (Al Remaya),Minibus 12,CTA_M,3,XXk6QOM27EiINNJVOjcue
+Giza Square Station - Zahraa Metro,Microbus,P_O_14,3,SijHB3MvvH7y5f_lh6hO3
+Hadaba Wosta (Moqattam) - Manshiyat Nasser Station,Microbus,P_O_14,3,4oru4f3TseNYYICmUR910
+Hadaba Wosta (Moqattam) - Mazallat Station,CTA 1006,CTA,3,dzCVUSS3MpR4QRQ6vLCn5
+Hadaek EL Kobba - Matareya Square Station,Microbus,P_O_14,3,oVLz5uMkzuzBcOtlii3MM
+Hadaek EL Kobba - Mostorod Station,Microbus,P_O_14,3,EwqAOaw248bX7cqrouzx3
+Hadaek EL Kobba - Qism El Hadayek,Microbus,P_O_14,3,MgUeZY5IH7DhXn9qFpvGl
+Hadayeq Helwan - Helwan Metro,Microbus,P_O_14,3,P_O_14_CA139
+Haram & Marioteya Station - Helwan Station,Microbus,P_O_14,3,CS3b3rHHRUxTf_IncW5DA
+Haram & Marioteya Station - Hossary Station,Microbus,P_O_14,3,tywNfVmg7Vw0gAzy8NLvu
+Haram & Marioteya Station - Kerdasa Station,Microbus,P_O_14,3,67VWfBwz-LVqC7OxaN5Cj
+Haram & Marioteya Station - Matbaa Station,Microbus,P_O_14,3,fI_k2RnEr3Kvx-feFgZpe
+Haram & Marioteya Station - Megawra 11 (15th of May),Microbus,P_O_14,3,P_O_14_IC063
+Haram & Marioteya Station - Moneeb Station,Microbus,P_O_14,3,P_O_14_GZ014
+Haram & Marioteya Station - Moneeb Station,Microbus,P_O_14,3,lERFh__deEcw2uO7KdOxv
+Haram & Marioteya Station - Moneeb Station,Tomnaya,P_B_8,3,P_B_8_GZ014
+Haram & Marioteya Station - Nasr St,Microbus,P_O_14,3,P_O_14_IG036
+Haram & Marioteya Station - Saqqara Traffic Office,Microbus,P_O_14,3,VG85-qS5arY-IxZ4UXiop
+Haram & Marioteya Station - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_IG028
+Haram & Marioteya Station - Shabramant,Microbus,P_O_14,3,fKnTlCkWALIgjxXU63NNV
+Haram & Marioteya Station - Zahraa Madinet Nasr,Microbus,P_O_14,3,2NGKDEeZqTOn-h078Hniy
+Haram Areesh (Sahl Hamza) - Ramses Station,Microbus,P_O_14,3,f_ndpqhZbBLRF7rSyRerB
+Haram Mashaal Station - Hyper 1 Station,Microbus,P_O_14,3,AkZ8btBfGZichKXXhgGwM
+Haram Mashaal Station - Hyper 1 Station,Microbus,P_O_14,3,P_O_14_IC085
+Haram Mashaal Station - Laylat Al Qadr Station,Microbus,P_O_14,3,P_O_14_IC096
+Haram Mashaal Station - Moassasa Station,Microbus,P_O_14,3,P_O_14_IG024
+Haram Mashaal Station - Moneeb Station,Microbus,P_O_14,3,P_O_14_GZ005
+Haram Mashaal Station - Ramses Station,Microbus,P_O_14,3,5KspV5Hlbm-No0kYZeowS
+Haram Mashaal Station - Ramses Station,Microbus,P_O_14,3,P_O_14_IG022
+Haram Talbeya - Kafr Tohormos,Microbus,P_O_14,3,p3-8qu3UivDvTp0cckEVG
+Hawamdeyya - Moneeb Station,Microbus,P_O_14,3,tVSIeyuK_trcKCgwVwM1B
+Hegaz Square - Imbaba Station,CTA 92-1050,CTA,3,CTA_92-1050
+Hegaz Square - Moassasa Station,CTA 975,CTA,3,CTA_975
+Hegaz Square - Tagneed (Al Remaya),Minibus 200,CTA_M,3,y-_-0L2mPQ5hq9U3U_Nk3
+Helmeyet El Zaitoun Metro - Kilo 4 & Half Station,Microbus,P_O_14,3,P_O_14_CA173
+Helmeyet El Zaitoun Metro - Kilo 4 & Half Station,Microbus,P_O_14,3,xQ-gNexveTXTu9hyB09su
+Helwan Metro - Ramses Station,Microbus,P_O_14,3,P_O_14_CA137
+Helwan Metro - Tibeen,Microbus,P_O_14,3,O__qyKz6kCZCjrNB-7OYX
+Helwan Metro - Tibeen,Microbus,P_O_14,3,P_O_14_CA140
+Helwan Metro - Zahraa Madinet Nasr,Microbus,P_O_14,3,P_O_14_CA133
+Helwan Post Office - Ramses Station,Microbus,P_O_14,3,P_O_14_CA135
+Helwan Post Office - Tibeen,Microbus,P_O_14,3,FI3sY62cvzwcF6qpLJTuV
+Helwan Station - Hossary Station,Microbus,P_O_14,3,P_O_14_IC008
+Helwan Station - Saqr Quraish Station,Microbus,P_O_14,3,YOUm7rdzNVY6LFG9JKpHr
+Helwan Station - Tibeen,Microbus,P_O_14,3,P_O_14_CA077
+Helwan Station - Zahraa Madinet Nasr,Microbus,P_O_14,3,P_O_14_CA075
+Horia Square - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_CA058
+Hossary Station - Imbaba Station,Microbus,P_O_14,3,P_O_14_IC015
+Hossary Station - Laylat Al Qadr Station,Tomnaya,P_B_8,3,P_B_8_6O012
+Hossary Station - Lebanon Square Station,Microbus,P_O_14,3,P_O_14_IC007
+Hossary Station - Masaken Dahshour,Tomnaya,P_B_8,3,NQ9Wqx8QvnYzPFWEsHHiM
+Hossary Station - Moassasa Station,Microbus,P_O_14,3,P_O_14_IC016
+Hossary Station - Moassasa Station,Microbus,P_O_14,3,nPQFHmEKjUVtIvFp4H1KK
+Hossary Station - Moneeb Station,Microbus,P_O_14,3,P_O_14_IC017
+Hossary Station - New Marg Station,Microbus,P_O_14,3,P_O_14_IC011
+Hossary Station - Ramses Station,Microbus,P_O_14,3,P_O_14_IC013
+Hossary Station - Zahraa Madinet Nasr,Microbus,P_O_14,3,P_O_14_IC012
+Hyper 1 Station - Lebanon Square Station,Microbus,P_O_14,3,G3SanxHficxx5Wx3Kfnn0
+Hyper 1 Station - Moneeb Station,Microbus,P_O_14,3,P_O_14_IC086
+Hyper 1 Station - New Marg Station,Microbus,P_O_14,3,P_O_14_IC074
+Hyper 1 Station - Qawmeya Arabeya,Microbus,P_O_14,3,P_O_14_IC083
+Hyper 1 Station - Qawmeya Arabeya,Minibus,COOP,3,COOP_IC083
+Hyper 1 Station - Ramses Station,Microbus,P_O_14,3,P_O_14_IC082
+Hyper 1 Station - Remaya Station (New Mashaal),Microbus,P_O_14,3,8X8gLBYp6o4Z9Dc0_MySn
+Hyper 1 Station - Sheikh Zayed General Hospital,Tomnaya,P_B_8,3,P_B_8_SZ005
+Hyper 1 Station - Sheikh Zayed General Hospital,Tomnaya,P_B_8,3,yW2PB6nRIGF3AW92oa9Kq
+Hyper 1 Station - Zayed 2000,Microbus,P_O_14,3,P_O_14_SZ010
+Hyper 1 Station - Zayed MM Terminal,Tomnaya,P_B_8,3,P_B_8_SZ013
+Ibrahim Bek - Mamaleek Station-Manial (Meqyas),CTA 1143,CTA,3,CgY1MncbobepPdQSZZ9dl
+Ibrahim Bek - Masaken Sheraton,CTA 1146,CTA,3,xniqp9cSgkWVk0k63CbZl
+Imbaba Station - Isaaf,Microbus,P_O_14,3,AWvboTfFAFIfUgBcz8N8_
+Imbaba Station - Kattameya (Mahmoudeya),CTA 1107,CTA,3,CTA_1107
+Imbaba Station - Kattameya (Mahmoudeya),CTA 730,CTA,3,L1rMkXC2KSeHo-lMhLN3w
+Imbaba Station - Kilo 4 & Half Station,Minibus 113,CTA_M,3,eyQjmu5-Lb_ghG2yj7OUr
+Imbaba Station - Laylat Al Qadr Station,Microbus,P_O_14,3,P_O_14_IC094
+Imbaba Station - Lebanon Square Station,Microbus,P_O_14,3,P_O_14_GZ010
+Imbaba Station - Masaken Betcho,CTA 1031,CTA,3,CTA_1031
+Imbaba Station - Masaken Betcho,CTA 1031,CTA,3,EJJbs0wpO3klUlJZZvU3J
+Imbaba Station - Matbaa Station,CTA 910,CTA,3,CTA_910
+Imbaba Station - Mazallat Station,Microbus,P_O_14,3,P_O_14_IG083
+Imbaba Station - Moassasa Station,Microbus,P_O_14,3,6K4_YEnZjlrZGldv7Yl2T
+Imbaba Station - Moneeb Station,CTA 1-1140,CTA,3,CTA_1140
+Imbaba Station - Moneeb Station,CTA 1-1140,CTA,3,c_zrdXjQmBwztXf6Nw7jP
+Imbaba Station - Mosheer Ahmed Ismail (Sheraton),Minibus 76,CTA_M,3,3dezhf9N-kKXYX4egwMmg
+Imbaba Station - Nahda City Station,Microbus,P_O_14,3,P_O_14_IG075
+Imbaba Station - Nahda City Station,Microbus,P_O_14,3,jtkYqK9oNBf7XcgtSYXPG
+Imbaba Station - Qawmeya Arabeya,Microbus,P_O_14,3,P_O_14_GZ045
+Imbaba Station - Qawmeya Arabeya,Microbus,P_O_14,3,bxHMMd-JyQtEEVzZqhYxF
+Imbaba Station - Ramses Station,Microbus,P_O_14,3,6HiNrwyzAw5JGPUdaty-0
+Imbaba Station - Ramses Station,Minibus,COOP,3,COOP_IG064
+Imbaba Station - Remaya Station (New Mashaal),Microbus,P_O_14,3,NpVyB3A8oXLi3GfGFKSwW
+Imbaba Station - Remaya Station (New Mashaal),Microbus,P_O_14,3,P_O_14_GZ002
+Imbaba Station - Warraq Al Arab (Cima),Microbus,P_O_14,3,yAI6yQ2LBxm7IO1KMcmR0
+Industrial Zone 3 - Laylat Al Qadr Station,Tomnaya,P_B_8,3,P_B_8_6O027
+Isbiko Station - Moassasa Station,CTA 1030,CTA,3,vLtVl__J6Y88JxSMUbq9e
+Isbiko Station - Nahda City Station,Microbus,P_O_14,3,QORyzDKyscDKk9XRt8ZYZ
+Isko - Laylat Al Qadr Station,Minibus 400,CTA_M,3,CTA_M_400
+Isko - Masaken Al Shorouq,Minibus 18,CTA_M,3,Imw9VlP3uLpN1-7pXr_Qe
+Isko - Masaken Sheraton,Minibus 259,CTA_M,3,OjdWYHiltgq6kjdcreFCA
+Isko - Matbaa Station,Minibus 107,CTA_M,3,7FCzhO02lSZAAW-JhYn9s
+Isko - Moassasa Station,Minibus,COOP,3,COOP_QA002
+Jazirat Mohamed - Qalaa Station,CTA  1109,CTA,3,wYawpUlAxZrHlVxizOLid
+Kafr Al Shurafa - New Marg Station,Microbus,P_O_14,3,P_O_14_CA100
+Kattameya (Mahmoudeya) - Matbaa Station,CTA 1034,CTA,3,hWB-y-hCqfdmkq-zh_JuY
+Kattameya (Mahmoudeya) - New Cairo Academy,Tomnaya,P_B_8,3,P_B_8_NC016
+Kerdasa Station - Nahia,Microbus,P_O_14,3,P_O_14_GZ032
+Kerdasa Station - Qasr Al Einy,Microbus,P_O_14,3,P_O_14_IG058
+Kerdasa Station - Saft Al Laban,Tomnaya,P_B_8,3,KmVdHOhRfUX8cw29qR_Vo
+Khanka - New Marg Station,CTA 321,CTA,3,CTA_321
+Khanka - New Marg Station,Microbus,P_O_14,3,iCZTu5NQScawKNksGO9uH
+Kilo 4 & Half Station -  Znen (Awwel Al Eshreen),Minibus 49,CTA_M,3,_kGwgRC-pycvUmse6VVvU
+Kilo 4 & Half Station - Kolleyet Al Zeraah (Cairo University),CTA 1011,CTA,3,NSy3ZsEBK5pZrZIyk51VL
+Kilo 4 & Half Station - Madinat Al Talaba (Imbaba),Minibus 226,CTA_M,3,e8XSHfUauPfbEm5GI8uZB
+Kilo 4 & Half Station - Matareya Square Station,Microbus,P_O_14,3,P_O_14_CA126
+Kilo 4 & Half Station - Moassasa Station,CTA 927,CTA,3,21kZwsX6wTR98GRcou2yw
+Kilo 4 & Half Station - Orabi Bridge,Minibus 161,CTA_M,3,CTA_M_161
+Kilo 4 & Half Station - Orabi Bridge,Minibus 162,CTA_M,3,j7UPthklnvwZzR-_G5yRe
+Koleyet Al Banat - Ain Shams University - Masaken Dahshour,Green G2,GRN,3,GRN_G2
+Koleyet Al Banat - Ain Shams University - Mazallat Station,Minibus 6,CTA_M,3,hXNe26POoDE0MSAUxW0W_
+Koleyet Al Banat - Azhar University - Masallah Al Gadeda Station (Matareyya),CTA 67,CTA,3,CTA_67
+Koleyet Al Banat - Azhar University - Moneeb Station,CTA 555,CTA,3,cSajDgx0bM1XDy4LLTYL4
+Koleyet Al Banat - Azhar University - Ramses Station,Microbus,P_O_14,3,P_O_14_CA156
+Kolleyet Al Zeraah (Ain Shams University) - Masaken Al Wehda,Microbus,P_O_14,3,ht0GgjSAbF0kdmnExj5Yz
+Kolleyet Al Zeraah (Ain Shams University) - Mostorod Station,Microbus,P_O_14,3,P_O_14_IG056
+Kolleyet Al Zeraah (Ain Shams University) - Mostorod Station,Minibus,COOP,3,PtTt3WzbrwwaHofgpaVMj
+Kolleyet Al Zeraah (Ain Shams University) - Obour Market,Microbus,P_O_14,3,P_O_14_IC100
+Kolleyet Al Zeraah (Ain Shams University) - Ramses Station,Microbus,P_O_14,3,P_O_14_IG065
+Korba - Masaken Ain Shams Station,Microbus,P_O_14,3,P_O_14_CA130
+Laylat Al Qadr Station - Lebanon Square Station,Microbus,P_O_14,3,P_O_14_IC047
+Laylat Al Qadr Station - Moassasa Station,Microbus,P_O_14,3,P_O_14_IC095
+Laylat Al Qadr Station - New Marg Station,Microbus,P_O_14,3,P_O_14_IC076
+Laylat Al Qadr Station - Ramses Station,Microbus,P_O_14,3,P_O_14_IC093
+Laylat Al Qadr Station - Total  (6th of October),Box,BOX,3,BOX_6O016
+Lebanon Square Station - Masaken Al Wehda,CTA 16,CTA,3,RyRTkp5hY0SfFs9yKCDfN
+Lebanon Square Station - Ramses Station,Microbus,P_O_14,3,h8hJSqxjvR_DV1rkw2S5k
+Lebanon Square Station - Saqr Quraish Station,CTA 977-1084,CTA,3,aWV3f3TuFNL4Wo6tZP7KU
+Lebanon Square Station - Smart Village,Microbus,P_O_14,3,h2J_fjZiNjbt_8gzFSmzs
+Lebanon Square Station - Zahraa Madinet Nasr,Minibus 125,CTA_M,3,3Dt_GqyHPoLGPo1ZegcTc
+Lebanon Square Station - Zahraa Madinet Nasr,Minibus 167,CTA_M,3,CTA_M_167
+Maadi Metro Station - Saqr Quraish Station,Microbus,P_O_14,3,lzExfvE08FXIFTjkNJgv9
+Madinat Al Solb  (Al Tibeen) - Ramses Station,CTA  409-1089,CTA,3,J5A7VH01y0jYe8-oy58XV
+Manshiyat Nasser Station - Moneeb Station,Microbus,P_O_14,3,NvP4fRLg68f35n6CvEdEj
+Manshiyat Nasser Station - Qism El Hadayek,CTA 73,CTA,3,CTA_73
+Manshiyat Nasser Station - Ramses Station,Microbus,P_O_14,3,v3r7iBOk8eP_u6GCz6kpD
+Marioteya & Ring Rd - Moneeb Station,Microbus,P_O_14,3,P_O_14_GZ060
+Marioteya & Ring Rd - Moneeb Station,Tomnaya,P_B_8,3,P_B_8_GZ060
+Masaken Ain Shams Station -  Znen (Awwel Al Eshreen),Minibus 51,CTA_M,3,nhJyCrgCzEnJX58NfGuFk
+Masaken Ain Shams Station - Matareya Square Station,Microbus,P_O_14,3,1hy6BzswcfezL07nZtvGZ
+Masaken Ain Shams Station - Matareya Square Station,Microbus,P_O_14,3,P_O_14_CA117
+Masaken Ain Shams Station - Matbaa Station,CTA 1002,CTA,3,ktpntHMzg1dBhqPWG7ifu
+Masaken Ain Shams Station - Motseian,CTA 990,CTA,3,A45ex-5A-EQJSEd1EPD_K
+Masaken Ain Shams Station - Motseian,CTA 990,CTA,3,CTA_990
+Masaken Ain Shams Station - Ramses Station,Microbus,P_O_14,3,AsoLzlPVywndjqDIeorpb
+Masaken Al Shorouq - Mazallat Station,Minibus 72,CTA_M,3,wGCNj9b51EYHmlNiQLQOJ
+Masaken Al Wehda - Saqr Quraish Station,CTA 1008,CTA,3,wTMLwyykgGKLFW3yYaNnx
+Masaken Dahshour - Ramses Station,Masreya Ms4,MSR,3,MSR_Ms4
+Masaken Dahshour - Remaya Station (New Mashaal),Tomnaya,P_B_8,3,BJ5gu8S2fvtVIQNgi3LNC
+Masaken Helmeyet Al Zaitoun - Masaken Zeinhom Station,CTA 46,CTA,3,CTA_46
+Masaken Othman (Ezbet El Nakhl) - Matareya Square Station,Minibus,COOP,3,RsaOPeERsjGuuC6Q-S_FU
+Masaken Othman (Ezbet El Nakhl) - Moassaset Al Zakah,Microbus,P_O_14,3,OXsaA6ch0zWJIr-wsnU3M
+Masaken Othman (Ezbet El Nakhl) - New Marg Station,Tomnaya,P_B_8,3,rdpn6hzcA1xgiqwViabDy
+Masaken Othman (Ezbet El Nakhl) - New Marg Station,Tomnaya,P_B_8,3,wefEKmjKPjq1ZbcWyQSwL
+Masaken Sheraton - Mazallat Station,Minibus 11,CTA_M,3,KRWhc98g65P9U2MM4fs0A
+Masaken Sheraton - Saqr Quraish Station,Minibus 55,CTA_M,3,gD54eeIS5drTlju1bVuOq
+Matareya Square Station - Mazallat Station,Microbus,P_O_14,3,aLrT5j0aQaI9mR_I4nxYy
+Matareya Square Station - Mazlaqan Ain Shams,Microbus,P_O_14,3,P_O_14_CA120
+Matareya Square Station - Mostorod Station,Microbus,P_O_14,3,P_O_14_CA118
+Matareya Square Station - Roxy,Microbus,P_O_14,3,Fuoze4mwamBt6aoqW-wJH
+Mazallat Station - Mostorod Station,Microbus,P_O_14,3,FCAAr3fes-LcOKbkahMq-
+Mazallat Station - Motseian,CTA 833,CTA,3,CTA_833
+Mazallat Station - Orabi Bridge,Microbus,P_O_14,3,P_O_14_IG082
+Mazallat Station - Qalyoub,Minibus,COOP,3,COOP_IG048
+Mazallat Station - Qalyoub El Balad,Minibus,COOP,3,luITCTGk3nUs1odvaqf3p
+Mazallat Station - Roxy,Microbus,P_O_14,3,IMRynqA53QmU-orlgoLIj
+Mazallat Station - Tagneed (Al Remaya),CTA 1145,CTA,3,CTA_1145
+Mazallat Station - Zahraa Madinet Nasr,Minibus  225,CTA_M,3,LTPSVqGzJYucn9U0WTWQz
+Mazghuna - Moneeb Station,Microbus,P_O_14,3,P_O_14_GZ059
+Mazghuna - Tibeen,Microbus,P_O_14,3,P_O_14_IG084
+Mazlaqan Al Deweqa - Moneeb Station,Microbus,P_O_14,3,26Q9q9X6pYG2gBMg7IWKk
+Mazlaqan Al Deweqa - Nahda City Station,Microbus,P_O_14,3,P_O_14_CA159
+Mehwar & Alex Desert Rd - Moassasa Station,Microbus,P_O_14,3,P_O_14_IC040
+Mehwar & Alex Desert Rd - Remaya Square,Microbus,P_O_14,3,P_O_14_IC039
+Mehwar & Alex Desert Rd - Remaya Station (New Mashaal),Microbus,P_O_14,3,P_O_14_IC028
+Mehwar & Alex Desert Rd - Smart Village,Microbus,P_O_14,3,P_O_14_IC005
+Mehwar & Alex Desert Rd - Sphinx Airport,Microbus,P_O_14,3,P_O_14_IC038
+Moassasa Station - Mostorod Station,Microbus,P_O_14,3,iDpD8dsATU1Rs0Mdtlwor
+Moassasa Station - Nahda City Station,Microbus,P_O_14,3,P_O_14_IG076
+Moassasa Station - New Marg Station,Minibus,COOP,3,COOP_IG045
+Moassasa Station - Obour Market,Microbus,P_O_14,3,XJQVWOM0aIFhA0CTFaprI
+Moassasa Station - Obour Station,CTA 1032,CTA,3,wjw5IKW5tGSh5Qf2OIk5Y
+Moassasa Station - Qalaa Station,CTA 235,CTA,3,db_dOwMf5RFl45eluXu_7
+Moassasa Station - Qalyoub,Minibus,COOP,3,COOP_QA001
+Moassasa Station - Qalyoub El Balad,Microbus,P_O_14,3,foiu6unw8p8KJnIDFM5Xs
+Moassasa Station - Qalyoub El Balad,Minibus,COOP,3,COOP_QA003
+Moassasa Station - Ramses Station,Microbus,P_O_14,3,GxHvz209T3KnqSnTEacs-
+Moassasa Station - Ramses Station,Microbus,P_O_14,3,P_O_14_IG066
+Moassasa Station - Remaya Station (New Mashaal),Microbus,P_O_14,3,uVXNDIyKAilRBZ3n92UQo
+Moassasa Station - Remaya Station (New Mashaal),Minibus,COOP,3,bIbrbTpxCAep4mS2L2FoJ
+Moassasa Station - Tagneed (Al Remaya),CTA 2002,CTA,3,9vBFhlX-T17hM_HD2xuxr
+Mohagreen (Ezbet Al Nakhl) - New Marg Station,Microbus,P_O_14,3,P_O_14_CA097
+Mohagreen (Ezbet Al Nakhl) - New Marg Station,Tomnaya,P_B_8,3,P_B_8_CA097
+Moneeb Station - Qasr Al Einy,Microbus,P_O_14,3,GXDzdgrpKw9Tm5MLKMFPP
+Moneeb Station - Qism El Hadayek,CTA 777-1046,CTA,3,avm32oXuwPxCT17sZkBf2
+Moneeb Station - Ramses Station,Microbus,P_O_14,3,NrOaoQJmSjyW5uQtfFt7p
+Moneeb Station - Remaya Square,Microbus,P_O_14,3,P_O_14_GZ018
+Moneeb Station - Remaya Station (New Mashaal),Microbus,P_O_14,3,eZRgIovK0tJAVzmhR85GR
+Moneeb Station - Shabramant,Microbus,P_O_14,3,P_O_14_GZ055
+Moneeb Station - Zahraa Madinet Nasr,CTA 1162,CTA,3,CTA_1162
+Moneeb Station - Zahraa Madinet Nasr,Microbus,P_O_14,3,P_O_14_IG050
+Mostorod Ring Rd - New Marg Station,Microbus,P_O_14,3,P_O_14_IG044
+Mostorod Ring Rd - New Marg Station,Tomnaya,P_B_8,3,P_B_8_IG044
+Nahda City Station - Ramses Station,Microbus,P_O_14,3,P_O_14_CA151
+New Cairo Academy - New Marg Station,Minibus,COOP,3,COOP_IC077
+New Marg Station - Qalyoub Exit,Microbus,P_O_14,3,P_O_14_IG042
+New Marg Station - Qalyoub Exit,Microbus,P_O_14,3,uW2y9jwwdAHo_waEy2qex
+New Marg Station - Rawda Mosque  (Obour),Microbus,P_O_14,3,P_O_14_IC026
+New Marg Station - Rehab - Gate 13 - 12,Microbus,P_O_14,3,P_O_14_IC044
+New Marg Station - Rehab - Gate 13 - 12,Minibus,COOP,3,COOP_IC044
+New Marg Station - Remaya Square,Microbus,P_O_14,3,P_O_14_IG041
+New Marg Station - Remaya Station (New Mashaal),Microbus,P_O_14,3,P_O_14_IG006
+New Marg Station - Shabab (Obour),Microbus,P_O_14,3,P_O_14_IC033
+New Marg Station - Zahraa Madinet Nasr,Microbus,P_O_14,3,P_O_14_CA092
+Om Bayoumi (Mintay) - Orabi Bridge,Microbus,P_O_14,3,P_O_14_QA004
+Qalaa Station - Zahraa Ain Shams,Minibus 30,CTA_M,3,ER0t9nxcaa0Md4Nm7r-oa
+Qasr Al Einy -  Znen (Awwel Al Eshreen),Microbus,P_O_14,3,P_O_14_IG089
+Rabaah Al Adaweya Mosque - Salam Alexandria Station,Microbus,P_O_14,3,P_O_14_CA167
+Rabaah Al Adaweya Mosque - Saqr Quraish Station,Microbus,P_O_14,3,P_O_14_CA063
+Ramses Station - Remaya Square,Microbus,P_O_14,3,P_O_14_IG051
+Ramses Station - Sharabeya,Microbus,P_O_14,3,P_O_14_CA152
+Ramses Station - Warraq Al Arab (Cima),Microbus,P_O_14,3,P_O_14_IG060
+Ramses Station - Warraq Al Arab (Cima),Microbus,P_O_14,3,P_O_14_IG061
+Ramses Station - Warraq Al Arab (Cima),Microbus,P_O_14,3,YwAwwkJqjET3Y_3C9x3AO
+Rehab - Gate 13 - 12 - Zahraa Madinet Nasr,Microbus,P_O_14,3,P_O_14_IC045
+Rehab - Gate 6 -  Znen (Awwel Al Eshreen),Minibus  50,CTA_M,3,7rXRm-ODpC-4pUd0AdZcX
+Saqr Quraish Station - Zahraa Madinet Nasr,Microbus,P_O_14,3,dM98F5uCHLC-eVa5-BvJZ

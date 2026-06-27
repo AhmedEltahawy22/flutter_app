@@ -1,0 +1,2792 @@
+stop_name,stop_id,stop_lat,stop_lon
+(Mostorod Bridge) Ring Road,dimension.submerged.targeted,30.163368,31.304024
+10 St. Steps (Ring Rd.),aliens.tortoises.sound,30.10626,31.202986
+10 St. Steps (Ring Rd.),void.staples.something,30.106283,31.202766
+10th District (Nasr City),averts.hockey.woof,30.049072,31.378845
+10th District (Nasr City),fermented.roosters.slacker,30.048328,31.379961
+10th District (Nasr City),gravitate.singled.plus,30.049362,31.379839
+10th District (Nasr City),iterative.sloping.down,30.048904,31.37905
+10th District (Nasr City),repelled.face.stubble,30.049112,31.379221
+10th District (Nasr City),tinny.regulator.flies,30.048325,31.38006
+10th District (Shorouq City),downturn.household.polishing,30.134521,31.657364
+10th District (Shorouq City),topmost.snowmen.september,30.13433,31.657202
+10th District Station (6th of October),afford.offices.recap,29.964344,30.915606
+10th District Station (6th of October),fallback.plugged.tearfully,29.963678,30.914577
+10th District Station (6th of October),inherit.ultra.small,29.963781,30.914484
+10th of Ramadan,dabbled.outboard.thinking,30.154938,31.408575
+10th of Ramadan (Ismailiya Desert Rd.),splashes.cooking.nowadays,30.148645,31.422926
+10th of Ramadan City,strumming.plan.chef,30.295128,31.743813
+10th of Ramadan City Entrance,rental.undress.monuments,30.26461,31.755386
+11th District (6th of October),fine.baffle.tiredness,29.962776,30.901794
+11th District (Hay Al Hadi Ashr) Exit - Sheikh Zayed,nametag.tadpole.touchy,30.049696,30.976954
+11th District Exit (Sheikh Zayed),crawled.grief.gained,30.049063,30.976707
+15th of May,awestruck.channel.january,29.810863,31.378103
+15th of May Checkpoint,outer.songbook.prepare,29.821608,31.352797
+15th of May City Authority,gifts.aliens.stud,29.826612,31.364035
+15th of May City Authority,taxpayers.reject.hugs,29.826466,31.364223
+15th of May School (Mostorod),punctual.hurls.crumble,30.132105,31.282913
+15th of May Youth Forum,police.watchdogs.cucumber,29.831581,31.37835
+15th of May Youth Forum,view.epic.access,29.83146,31.378393
+16th District (Sheikh Zayed),political.panels.demanding,30.053202,30.966187
+1st Settlement Authority,army.slug.commenced,30.052122,31.448147
+1st Settlement Station,earful.cube.tributes,30.064577,31.449131
+20 St. & Al Mostaqbal St. (Sheikh Zayed),explores.amps.string,30.047403,30.976717
+20 St. & Al Mostaqbal St. (Sheikh Zayed),mandolin.swatted.rock,30.047106,30.976511
+26th of July Corridor & Alex Desert Rd.,flannel.tensions.unfit,30.04711,31.051592
+26th of July Corridor & Alex Desert Rd.,picnic.abandons.uses,30.048206,31.052382
+26th of July Corridor & Alex Desert Rd.,shack.joked.began,30.047281,31.052485
+26th of July Corridor Entrance from Ring Rd.,kebab.corrupted.slipping,30.063845,31.17437
+26th of July Corridor Exit to Alex Desert Rd.,jetliner.chosen.runner,30.048586,31.050406
+2nd District Entrance - Obour,spin.nametag.vitals,30.249115,31.46816
+2nd Nasr City Police Station,dreamers.shrubbery.villas,30.05068,31.311892
+2nd Nasr City Police Station,states.sitting.topics,30.050518,31.312164
+3rd Settlement Station,gymnasium.cuts.bucket,29.984022,31.442358
+3rd Settlement Station,windmill.hobbit.canines,29.984312,31.442474
+4th Neighbourhood Council (15th of May ),lamplight.withdraw.vent,29.837914,31.376825
+4th Neighbourhood Council (15th of May),truth.pairings.acids,29.83835,31.37779
+5th Settlement Authority,lunged.whips.rationed,29.993355,31.416061
+5th Settlement Authority,moment.tearfully.exulted,29.993156,31.417702
+5th Settlement Authority,taller.existence.lung,29.993097,31.416092
+5th Settlement Police Station,conducted.masses.capacity,29.997766,31.426624
+6 October Bridge (Mostorod),fuse.landowner.backyards,30.137955,31.29324
+6 October Bridge (Mostorod),sensitive.detection.effort,30.13781,31.29327
+6th District (6th of October),retain.players.dislodge,29.931501,30.917341
+6th District (6th of October),tadpole.linen.start,29.931467,30.91719
+6th Of October City Authority,guidebook.mango.stiletto,29.98265,30.952312
+6th Of October City Authority,takeovers.pupils.summaries,29.98274,30.952488
+6th Of October Public Library,cycles.next.solicitor,29.986101,30.943127
+6th Of October Public Library,often.toads.measures,29.986055,30.94303
+6th Of October University,perform.booklets.snuck,29.975819,30.94978
+6th Of October University,scanty.guises.breached,29.975697,30.949854
+6th of October Garden (Helwan),autumn.hopes.juggler,29.840557,31.329374
+6th of October Garden (Helwan),mission.stove.convinces,29.840471,31.329432
+6th of October Panorama,nanny.reveal.landed,30.074152,31.303833
+7 Omarat,titles.respond.redeeming,30.08798,31.336267
+7th District (6th of October),bikers.amphibian.passion,29.983267,30.93946
+7th District (Nasr City),bleat.clan.surfacing,30.041964,31.329422
+7th District (Nasr City),fidgeting.lurching.photocopy,30.041998,31.329601
+7th District Entrance (6th of October),breathing.tricky.pinches,29.979935,30.949512
+7th District Entrance (6th of October),casually.eradicate.alright,29.980381,30.950205
+7th District Entrance (6th of October),convinces.measuring.spenders,29.97744,30.940578
+7th District Entrance (6th of October),punks.fists.strays,29.977373,30.94048
+7th District Station (Nasr City),grumble.forced.joys,30.043678,31.329226
+7th District Station (Nasr City),prime.bypassed.watches,30.043547,31.329361
+8th District (6th of October),orbited.beats.horses,29.974854,30.93174
+8th District (6th of October),remember.rolled.wants,29.97423,30.930529
+8th District (Nasr City),entrusted.archives.muted,30.06141,31.380363
+8th District (Nasr City),monk.committee.ripe,30.061361,31.379536
+8th District (Shorouq City),broadens.stolen.exhaled,30.16387,31.605534
+8th District (Shorouq City),yoga.startles.fits,30.163845,31.60537
+Aba Al Kassem Mosque (Autostrad),plotter.disposing.flashback,29.932964,31.28809
+Aba Al Kassem Mosque (Autostrad),rejoiced.flatten.waffle,29.933023,31.288227
+Abbas Al Akkad St. & Mostafa Al Nahas St.,craftsman.printouts.facelift,30.05365,31.338762
+Abbas Al Akkad St. & Mostafa Al Nahas St.,order.cope.bypassed,30.054043,31.338547
+Abbaseya,depravity.alarm.nuptials,30.073334,31.284698
+Abbaseya,intruders.absorb.puncture,30.073181,31.28507
+Abbaseya,outermost.scratches.lows,30.072712,31.285635
+Abbaseya,sheds.blush.dentures,30.072832,31.286053
+Abbaseya,ulterior.bathtubs.charm,30.07252,31.28438
+Abbaseya Bridge Entrance,conforms.refilled.scored,30.070265,31.289656
+Abbaseya Bridge Entrance,digs.parsnip.bill,30.070246,31.289957
+Abbaseya Bridge Etrance,claim.sizzled.essential,30.070488,31.28931
+Abbaseya Bridge Exit,skid.themes.jumbled,30.075361,31.283716
+Abbaseya Hospital,circulate.flasks.plotted,30.068605,31.292269
+Abbaseya Hospital,hopping.towel.acre,30.071074,31.294273
+Abbaseya Hospital,shares.flitting.lingering,30.070976,31.29467
+Abbaseya Square,cocoons.voices.rigid,30.073889,31.285383
+Abbaseya Square,recline.mandolin.salt,30.07421,31.285593
+Abboud,driftwood.galloped.fact,30.103725,31.256844
+Abboud,fracture.trickling.squad,30.104708,31.255331
+Abboud,hardback.inner.married,30.104778,31.25526
+Abboud,pace.liberated.blotches,30.104794,31.255758
+Abboud,pedicure.cobbled.flops,30.10612,31.253843
+Abboud,pitchers.term.sprouted,30.10363,31.255983
+Abboud,riverside.testing.graduated,30.105156,31.255384
+Abboud,survive.basic.crafts,30.104134,31.253756
+Abd Al Moneim Riad,automate.spirits.stale,30.049492,31.231245
+Abd Al Moneim Riad,modifies.silent.scoring,30.050419,31.23375
+Abd Al Moneim Riad,perfected.exit.transcribes,30.04973,31.23477
+Abd Al Moneim Riad,quantity.sunset.cookie,30.048674,31.232658
+Abd Al Moneim Riad,quit.applies.ribcage,30.050127,31.233873
+Abd Al Moneim Riad,scrambles.flukes.spaces,30.049494,31.231836
+Abd Al Moneim Riad,vibe.aunts.shudders,30.049524,31.234486
+Abd Al Moneim Riad Mosque (Nile Corniche),converged.beefed.credit,29.937511,31.276367
+Abd Al Moneim Riad Mosque (Nile Corniche),sank.helm.stupidly,29.937572,31.276457
+Abd El Aziz St. (Ataba),finer.coolest.client,30.050024,31.251093
+Abd El Aziz St. (Ataba),thunder.reckons.deleting,30.049429,31.250246
+Abdeen,bookcases.message.area,30.04115,31.245586
+Abdo Basha,doses.stammer.slicing,30.065397,31.276688
+Abdo Basha,happy.wizard.panicking,30.065416,31.276987
+Abdullah Al Othaym (Nile Corniche),airtime.liberty.durations,29.882502,31.289268
+Abdullah Al Othaym (Nile Corniche),contain.permanent.youths,29.88251,31.289392
+Abdullah El Refaey,dodging.viewers.infringe,30.160072,31.355534
+Abdullah El Refaey,multiply.dented.bookcases,30.160095,31.355633
+Abo Senna Steps,scrum.overgrown.resist,30.155146,31.229029
+Abo Senna Steps,storybook.blaring.buns,30.155176,31.229177
+Abo Sir Steps (Ring Rd.),romance.putty.reset,30.16462,31.38842
+Abou Al Farag St & Rod Al Farag St,foiled.conqueror.passports,30.081617,31.236904
+Abou Al Majd Center (Mostorod),birthdays.paves.rocks,30.126974,31.28783
+Abou Al Majd Center (Mostorod),continues.raves.rezoning,30.12676,31.289162
+Abou Al Majd Center (Mostorod),influence.dumplings.vibe,30.126623,31.289328
+Abou Al Majd Center (Mostorod),insulated.outline.ember,30.126709,31.287874
+Abou Al Reesh,agrees.query.submits,30.028622,31.234652
+Abou Al Reesh,emporium.palms.sends,30.02918,31.237198
+Abou Al Reesh,hurricane.deferring.ideas,30.028427,31.236984
+Abou Al Reesh,redeemed.mingles.solves,30.028858,31.234861
+Abou Al Reesh,televise.optimally.outwards,30.028225,31.23742
+Abou Allaam (6th of October),intruding.gala.score,29.95861,30.900978
+Abou Allaam (6th of October),plantings.relatives.bandaged,29.958567,30.901049
+Abou Rawwash,insurers.comments.pupils,30.04527,31.09508
+Abou Rawwash,recliner.butternut.rents,30.04542,31.09493
+Abou Wafya,clockwork.nickname.solid,30.097776,31.256016
+Abou Wafya,drivers.event.hexes,30.097773,31.256128
+Abou Wafya,dweller.apparatus.tenses,30.09736,31.255854
+Abou Wafya Bridge,bordering.sprouting.videos,30.095648,31.265926
+Abou Zaabal,quote.royal.voices,30.2535,31.34968
+Abou Zaabal,sideburns.guests.widely,30.249165,31.354725
+Abou Zaabal Bridge,angers.kept.cadet,30.197258,31.318819
+Abu Al Gheit Ambulance Service,recorders.vowed.plank,30.158215,31.198006
+Abu Al Gheit Ambulance Service,vies.idea.cable,30.1583,31.198042
+Abu Al Houl (Al Mansoureyya Rd. ),directly.truckload.title,29.97892,31.144003
+Abu Al Houl (Al Mansoureyya Rd. ),weep.science.throat,29.978842,31.143768
+Abu Al Houl St.,rivals.loans.tour,29.977596,31.142946
+Abu Al Houl St.,tent.cabs.goodness,29.977516,31.142992
+Abu Al Nomros Police Station,sharpens.throwaway.texts,29.95806,31.212864
+Abu Bakr Al Sedeeq Mosque - Sheraton,awoke.traffic.mops,30.100565,31.375988
+Abu Bakr Al Sediq Mosque (Sheraton),budding.passions.inspected,30.100943,31.37464
+Abu Bakr Al Sediq St. & Teraat Al Dakat St.,trains.facelift.mixture,30.103348,31.261017
+Abu Bakr Al Siddiq Mosque (6th of October),prowling.sober.wider,29.960669,30.948013
+Abu Bakr Al Siddiq Mosque (6th of October),twirls.summit.grapevine,29.960602,30.948132
+Abu Bakr Al Sidiq Square (15th of May),plantings.routine.policy,29.828604,31.369951
+Abu El Numrus,develop.duos.seasick,29.95958,31.231003
+Abu Khater (Al Matareyya),reheat.tabs.hitters,30.126175,31.29817
+Abu Khater (Al Matareyya),unspoiled.layered.elder,30.12582,31.298115
+Abu Makarem Mosque (Al Waili),scale.delays.locker,30.055565,31.279568
+Abu Rawwash Rd. & Al Mansoureyya Rd.,ruling.journey.hogs,30.041054,31.096401
+Abu Rawwash Rd. & Al Mansoureyya Rd.,throwaway.rehearsal.tins,30.041172,31.096252
+Adawy (Nile Corniche),driveways.outfit.scrambles,29.896675,31.28756
+Adawy (Nile Corniche),exonerate.subject.lived,29.89672,31.28768
+Aden St. & Sudan St.,cashiers.triangles.hesitate,30.051548,31.191841
+Aden St. & Sudan St.,unhelpful.spinners.ballots,30.0515,31.191721
+Adidas Steps (Ring Rd.),automate.scarred.married,29.983969,31.321686
+Adidas Steps (Ring Rd.),contoured.overdrive.drill,29.98455,31.321777
+Administrative Control Authority ( Nozha),otherwise.circus.slider,30.077711,31.339493
+Administrative Control Authority (Nozha),drama.cocktail.funky,30.07764,31.33978
+Adminstration Of Mobilization And Recruitment,nags.putter.clocked,30.10635,31.323847
+Adminstration Of Mobilization And Recruitment,weaved.fuel.wove,30.106493,31.324167
+Afendina Dome (Manshiyat Nasser),browsers.bulb.lifeguard,30.043348,31.277317
+Afendina Dome (Manshiyat Nasser),twins.comically.skater,30.043438,31.277155
+Agouza Corniche,damp.flats.decorated,30.046488,31.218107
+Agouza Corniche,sublime.coil.strides,30.046524,31.218216
+Agouza Police Hospital,birdcage.assembles.forms,30.052305,31.216717
+Agouza Police Hospital,furniture.cultivation.kidney,30.052334,31.216871
+Agricultural Center (Badrasheen),strictest.walking.nicer,29.851421,31.247364
+Agricultural Research Center - Cairo University,eminent.downs.judges,30.021055,31.211437
+Agricultural Research Center - Cairo University,prune.liver.decompose,30.021217,31.211544
+Agyad School (Betcho),varieties.buildings.altitude,29.973534,31.329773
+Ahli Bank (Al Nadi Al Gedid St.),tells.motive.absent,29.969296,31.271973
+Ahli Kuwaiti Bank (Sudan St.),burden.pylon.ironclad,30.048325,31.192566
+Ahli Kuwaiti Bank (Sudan St.),digs.intersect.spoiled,30.048128,31.192492
+Ahmed Al Sallab Mall (Nasr City),derailed.cobras.dash,30.05198,31.323462
+Ahmed Al Sallab Mall (Nasr City),soup.renovated.upholding,30.051758,31.323694
+Ahmed Badawi St.,casino.composes.commutes,30.066303,31.245766
+Ahmed Badawi St.,lifetimes.sinkhole.speaker,30.066317,31.245083
+Ahmed Esmat St. & Ain Shams St.,doubt.joins.remodels,30.129118,31.321548
+Ahmed Esmat St. & Ain Shams St.,pepper.trinkets.fancied,30.129154,31.321438
+Ahmed Fakhry and Autostrad,admits.tentacles.sporting,30.069502,31.348722
+Ahmed Fakhry and Autostrad,beard.helpless.presuming,30.069653,31.348051
+Ahmed Fakhry and Autostrad,smuggled.spearhead.shovels,30.070032,31.348309
+Ahmed Galal Military Passage,trucks.pigtails.booklet,30.141209,31.436773
+Ahmed Galal Military Passage,valley.inch.houseboat,30.141262,31.436964
+Ahmed Helmy,dialects.takeover.custodial,30.064966,31.247765
+Ahmed Helmy,duration.driveways.bristle,30.06485,31.24576
+Ahmed Helmy,explain.massaged.rabble,30.065004,31.24655
+Ahmed Helmy,juicy.beaks.twins,30.064476,31.244982
+Ahmed Helmy,spent.crowns.objective,30.06495,31.244743
+Ahmed Helmy,washing.weekends.handlebar,30.06488,31.24488
+Ahmed Ismail Square (Alf Maskan),skins.intend.anchorman,30.121449,31.333935
+Ahmed Khalil St & Mogamaa Al Masanae St,toast.nourished.slack,30.10649,31.266975
+Ahmed Maher Teaching Hospital,abode.author.passively,30.039724,31.25036
+Ahmed Maher Teaching Hospital,march.secret.blissful,30.03984,31.250195
+Ahmed Oraby (Ramses),lengthen.scoping.lately,30.057432,31.241405
+Ahmed Oraby Metro,sample.flow.stolen,30.057005,31.242458
+Ahmed Oraby Metro,turned.coverings.postcard,30.057325,31.241556
+Ahmed Oraby Metro,yours.refusals.panics,30.057491,31.241371
+Ahmed Oraby Square (Obour),paddock.continues.dollars,30.2254,31.457281
+Ahmed Oraby Square (Obour),unloaded.flaunting.patting,30.223509,31.458424
+Ahmed Oraby St.,cardinal.elephant.vowel,30.060703,31.24266
+Ahmed Oraby St.,misted.agreeable.centuries,30.060907,31.242842
+Ahmed Saaed Bridge Entrance,wool.today.shun,30.070751,31.27288
+Ahmed Saaed Bridge Exit,rocky.loving.paddocks,30.07065,31.272766
+Ahmed Saeed St. & Abaseyya St.,knees.tornado.wings,30.064054,31.272795
+Ahmed Zaki St. (Maadi),amicably.economies.ooze,29.964628,31.260937
+Ahmed Zaki St. (Maadi),gashes.insolvent.defaults,29.96462,31.260855
+Ahram Canadian University,chuck.messaging.runner,29.935389,30.881168
+Ahram Canadian University,twitches.presuming.wage,29.935225,30.881178
+Ahram Gardens Resort (6th of October),excusing.tweaked.care,29.951689,31.087765
+Ahram School for Basic Education,ocean.winds.earth,29.988497,31.112795
+Aida (Ahmed Helmy St.),relies.press.archives,30.08503,31.255957
+Aida (Ahmed Helmy St.),strikers.hips.lively,30.084835,31.255865
+Ain Helwan Metro,duplicate.juices.tutored,29.862497,31.32542
+Ain Helwan Metro,laughs.tech.hourglass,29.862564,31.325506
+Ain Shams Metro,calendars.surgical.definite,30.130777,31.319643
+Ain Shams University,deflated.bath.animates,30.075756,31.287075
+Ain Shams University,faced.appoints.herds,30.075634,31.287308
+Ain Shams University (Obour),drumbeat.assures.awoke,30.204412,31.45731
+Ain Shams University (Obour),incisions.exile.gravitate,30.20442,31.457462
+Ain Shams University Dorms,rentals.last.generally,30.077845,31.28954
+Ain Shams University Dorms,warping.nerd.unhappy,30.077896,31.289236
+Air Force Hospital,trickster.scoring.sugar,30.01642,31.433527
+Air Force Hospital,vitals.transmits.hothouse,30.016155,31.433405
+Air Force Hospital (Al Waili),object.wake.beak,30.062466,31.273512
+Akhbar Al Yom Academy,afterglow.staple.active,29.941103,30.889927
+Akhbar Al Yom Academy,cadet.quietly.digitally,29.940996,30.89004
+Akhnaton School,boils.costly.attitudes,30.006285,31.41433
+Akhnaton School,remarking.locals.politics,30.006426,31.414362
+Akhnaton Square (5th Settlement),headliner.behave.publish,30.007364,31.411411
+Akhnaton Square (5th Settlement),midwinter.husky.musician,30.007837,31.412228
+Akhnaton Square (5th Settlement),mimed.seeing.destined,30.00725,31.411852
+Al Aalam Specialized Hospital,mailboxes.bound.costs,30.066193,31.191797
+Al Aalam Specialized Hospital,motivates.quail.mermaids,30.066227,31.191727
+Al Abageyya,handbag.butternut.permanent,30.023909,31.2637
+Al Abageyya,lecturers.lyrics.response,30.024376,31.263426
+Al Abaseyya Institute for Computer & Commercial Sciences,everybody.sits.debit,30.142096,31.322294
+Al Abaseyya Institute for Computer & Commercial Sciences,implore.voucher.brightens,30.141941,31.322317
+Al Abeet Steps (Ring Rd.),lyricist.pursuit.crusaders,30.06731,31.174437
+Al Abeet Steps (Ring Rd.),taps.race.aimlessly,30.067156,31.17457
+Al Abtal City (15th of May),budgeted.plea.foggy,29.82823,31.354708
+Al Abtal Club ( Ein Al Seera),outhouse.howler.unwanted,30.016285,31.25047
+Al Abtal Club ( Ein Al Seera),players.lifeguard.musician,30.016209,31.250294
+Al Abyad Automotive ( Faisal St.),hazelnuts.abstracts.proven,30.013374,31.198689
+Al Abyad Automotive ( Faisal St.),strictest.scaffold.snatched,30.01348,31.198534
+Al Agouza Hospital,diagram.swimmer.regarding,30.056046,31.216007
+Al Agouza Hospital,gurgling.consumed.purple,30.055784,31.215935
+Al Agouza Steps (October Bridge),agency.promoted.groom,30.048407,31.218903
+Al Agouza Steps (October Bridge),protester.park.carefully,30.048462,31.218576
+Al Ahli Bank (Courniche Boulaq),deal.ties.wand,30.062214,31.227352
+Al Ahli Bank (Courniche Boulaq),starlight.seats.ventures,30.062159,31.227253
+Al Ahli Bank (Faisal St.),grumbling.digesting.picturing,30.006664,31.18118
+Al Ahli Bank (Faisal St.),hides.keen.prancing,30.006525,31.181217
+Al Ahly Sporting Club,blown.croaking.finally,30.071226,31.354671
+Al Ahly Sporting Club (Nasr City),renewals.irritable.squeaks,30.071619,31.3545
+Al Amir Steps (Ring Rd.),prune.remember.sofas,30.163588,31.318558
+Al Amir Steps (Ring Rd.),remarried.skim.feelers,30.163439,31.31855
+Al Anabeeb - Waili,erupt.lifts.boasted,30.100046,31.278885
+Al Anabeeb - Waili,shady.freely.speaking,30.1,31.279015
+Al Andalous Specialized Hospital (7th District Nasr City),recall.everybody.refrained,30.04051,31.329748
+Al Ansar School (Gesr Al Suez),reheat.bitter.neater,30.117926,31.33605
+Al Areesh (Haram St.),boring.similar.salaried,29.99377,31.160122
+Al Areesh (Haram St.),disclose.outs.reheat,29.99386,31.15995
+Al Ashgar District,recently.hound.lifeguard,29.958164,31.067366
+Al Atraby Basha Abu Al Ezz St. & Gesr Al Suez St.,flats.shrugging.visual,30.116325,31.336695
+Al Atraby Basha Abu Al Ezz St. & Gesr Al Suez St.,witty.zooms.euphoric,30.116423,31.336401
+Al Azhar Park Gate,album.migrants.headings,30.040054,31.266449
+Al Azhar Park Gate,jabs.puppets.trombone,30.040133,31.266335
+Al Azhar Pedestrian Bridge,rope.flattery.dean,30.060999,31.307325
+Al Azhar Pedestrian Bridge,songbird.storms.touchy,30.060776,31.307522
+Al Azhar University Hospital (Nasr City),breakaway.resurgent.averages,30.054255,31.3121
+Al Azhar University Hospital (Nasr City),steam.kilt.limbs,30.054237,31.311935
+Al Azhar University Northen Gate,mainframe.icebergs.stormed,30.062721,31.31125
+Al Azhar University Northen Gate,sleeping.bandwagon.talent,30.06296,31.311049
+Al Azhar University Southern Gate,extend.padding.portfolio,30.051014,31.320547
+Al Aziz Bellah (Gesr Al Suez),allowable.task.spouse,30.099646,31.315746
+Al Aziz Bellah (Gesr Al Suez),pheasants.vacancies.recur,30.099506,31.315903
+Al Aziz Bellah St. &  Selim Al Awwal St.,torched.minder.rejoins,30.102497,31.310328
+Al Azizeya Bridge,maddening.tugging.whites,29.879017,31.246502
+Al Azizeya Bridge,scoping.cheeses.nightcap,29.879189,31.247
+Al Badrasheen City Council,iterative.status.convinces,29.850159,31.277643
+Al Badrasheen City Council,unwound.tributes.iterative,29.850286,31.277628
+Al Bahr Al Aazam St. Exit End,mediate.agreement.plunge,29.989006,31.215307
+Al Bahr Al Aazam St. Exit Start,flashback.obscuring.lottery,29.98712,31.218306
+Al Baloun Theatre (Al Agouza),airstrip.reliving.buildings,30.058973,31.215134
+Al Baloun Theatre (Al Agouza),subplot.arch.goes,30.059118,31.215239
+Al Banat Mosque,bless.hazel.comforted,30.046577,31.254023
+Al Banat Mosque,buffoon.icebergs.bids,30.046368,31.253794
+Al Banhawi,indirect.dispensed.brightens,30.057482,31.260452
+Al Banhawi,warriors.vitals.coping,30.057438,31.260529
+Al Banhawi,weddings.workflow.examples,30.05738,31.26046
+Al Barageel Entrance,crunching.kinder.passions,30.064266,31.161451
+Al Barageel Entrance,nipping.restores.dodges,30.06439,31.16148
+Al Barageel Steps (Ring Rd.),deriving.pump.floating,30.076975,31.179056
+Al Barageel Steps (Ring Rd.),luck.stunts.rewrites,30.077217,31.179096
+Al Bassous,inherits.compiled.season,30.13373,31.212517
+Al Bassous Steps - Ring Road,comical.skewing.oath,30.145258,31.21147
+Al Bassous Steps - Ring Road,squares.jaunts.defectors,30.145214,31.211433
+Al Batal Ahmed - Saheb Al Diwan,fried.snuck.reason,30.216969,31.354765
+Al Behiry Stone (Basateen),steady.nurses.pelted,29.98856,31.27179
+Al Bibany St.,option.handed.shudders,30.034868,31.25552
+Al Bibany St.,steep.whirlpool.edits,30.034893,31.255573
+Al Bohi (Imbaba),active.hindered.reclined,30.08783,31.212393
+Al Bohi (Imbaba),erupts.threaten.wrenching,30.087969,31.212423
+Al Bosta Steps (Ring Rd.),mural.sonic.rainfall,30.11304,31.203129
+Al Bostan Compound Entrance,exulted.upwardly.perfected,29.946632,30.941286
+Al Bostan Compound Entrance,thick.member.dares,29.946539,30.941416
+Al Central (Laylat Al Qadr),dimension.total.snipped,29.944225,30.906439
+Al Central (Laylat Al Qadr),scan.foot.responds,29.944159,30.906334
+Al Central St. & Abou Al Farag St.,dragon.plans.simulations,30.074154,31.233644
+Al Central St. & Abou Al Farag St.,meatball.hence.flocking,30.074373,31.23372
+Al Checheeny St.,conductor.desktops.loopholes,29.998724,31.142818
+Al Dandarawy St. & Basateen Rd.,concerned.timeless.skewed,29.998434,31.265287
+Al Darb Al Ahmar Police Station,partners.golden.grouping,30.037426,31.252235
+Al Darraasa,behave.tickles.duplicate,30.047348,31.270027
+Al Darraasa Traffic Department,lifeboats.spine.gifts,30.052475,31.269976
+Al Darraasa Traffic Department,strictly.mixing.prospers,30.052637,31.270203
+Al Dawagen (Nile Corniche),embedded.line.incensed,29.879644,31.28941
+Al Dawagen (Nile Corniche),squirted.flaked.shakes,29.87965,31.289314
+Al Demerdash Hospital,adapt.toothpick.repelled,30.071589,31.27647
+Al Demerdash Hospital,sketches.adding.detonated,30.07151,31.276516
+Al Demerdash Metro,competing.refreshed.pranced,30.077417,31.276714
+Al Demerdash Metro,data.duos.shirtless,30.076593,31.277029
+Al Demerdash Metro,storybook.modem.suitable,30.0774,31.276953
+Al Eman Mosque (Makram Ebeid St.),boomed.tall.intrigued,30.064726,31.344831
+Al Eman Mosque (Makram Ebeid St.),halt.snips.fidgeting,30.064701,31.344625
+Al Etaby Center,exam.pinks.youths,30.04596,30.966927
+Al Etaby Center,landlords.sandpaper.bells,30.046036,30.966928
+Al Ezaby Pharmacy Al Mehwar Al Markazi (6th of October),generals.influencing.bulky,29.964293,30.933182
+Al Ezaby Pharmacy Al Mehwar Al Markazi (6th of October),invested.daredevil.stole,29.964369,30.933052
+Al Farag Butchery (Magra Al Oyoun),earphones.severe.surround,30.021412,31.235706
+Al Farag Butchery (Magra Al Oyoun),office.wriggled.chambers,30.021336,31.235683
+Al Faragany (Ain Shams St.),vans.strictest.gratuity,30.117764,31.31749
+Al Fardous Compound Entrance (6th of October),milder.daydream.smelter,29.95871,31.054106
+Al Fath Mosque (Mansheyyet Al Gamal St.),mistaken.riots.skid,30.097857,31.249022
+Al Fath Schools (Abu Al Nomros),loft.survey.contained,29.964838,31.21103
+Al Fath Superjet (Nasr City),airship.plotting.shuttled,30.046207,31.307924
+Al Fath Superjet (Nasr City),folk.power.array,30.046144,31.308016
+Al Fath Superjet (Nasr City),golden.loafing.dimension,30.046175,31.307589
+Al Fath Superjet (Nasr City),quilt.weeps.heeding,30.046179,31.307774
+Al Fayrouz Center (6th of October),hoped.wiping.escape,29.95741,30.942307
+Al Fayrouz Center (6th of October),officers.vibrate.fewer,29.957525,30.942234
+Al Fayrouz Medical Center (Helwan),paramedic.plenty.beakers,29.84321,31.303896
+Al Fayrouz Medical Center (Helwan),repay.weeps.piston,29.843159,31.303776
+Al Fouad Hospital (Abbaseya),recruiter.dominate.handicaps,30.078667,31.277546
+Al Gabal Al Asfar (Marg),appoints.briefing.sage,30.203524,31.355268
+Al Gabal Al Asfar (Marg),tucked.browser.jelly,30.203552,31.35522
+Al Galaa Bridge,deprive.narrates.bandstand,30.094828,31.342428
+Al Galaa Bridge,lasted.apples.bulbs,30.09459,31.342043
+Al Galaa Bridge,submitted.blacked.vibrating,30.095995,31.342604
+Al Galaa Bridge (Helipolis),allow.reliving.swordfish,30.095806,31.34181
+Al Galaa Military Hospital,recipient.mystified.type,30.099928,31.350761
+Al Galaa Military Hospital,report.delays.coasters,30.10023,31.35057
+Al Gamaia Al Sharaia (Nasr City),gossiping.fortunate.nursery,30.047667,31.313395
+Al Gamaia Al Sharaia (Nasr City),tall.represent.artichoke,30.047638,31.313843
+Al Gamaleya Youth Center,chart.headstone.printout,30.050003,31.268854
+Al Gamaleya Youth Center,peach.fall.openly,30.049973,31.268959
+Al Garage ( Sawah ),rant.outbound.stockpile,30.105597,31.2816
+Al Garage - Sawah,call.exploring.adjusting,30.105658,31.281425
+Al Gazaer Exit (Ring Rd.),cycled.gained.juicy,30.165888,31.359163
+Al Gazareen (Warraq),chainsaw.plums.gifts,30.101063,31.222471
+Al Gazareen (Warraq),gazes.adverbs.saturate,30.101206,31.222555
+Al Gehaz Entrance (6th of October),brothers.whisk.tasty,29.962456,30.969912
+Al Gehaz Entrance (6th of October),deranged.hurricane.yesterday,29.962309,30.970058
+Al Geish Square,gender.movie.arose,30.062183,31.267786
+Al Geish Square,moped.assures.health,30.062384,31.267963
+Al Gezira (Al Moqattam),fruitcake.inflates.grows,30.010698,31.303282
+Al Gezira (Al Moqattam),stumble.rested.uttering,30.01081,31.303375
+Al Gezira Steps (October Bridge),acid.alone.factoring,30.04906,31.226988
+Al Gezira Steps (October Bridge),chatters.ditching.crockery,30.049175,31.227026
+Al Gomhoreya St. & Al Masraf St.,over.elsewhere.flute,30.236792,31.357018
+Al Gomhoreya St. & Al Masraf St.,reason.proper.dancer,30.237087,31.356897
+Al Gomhoreyya St. & Al Masraf St. (Marg),measure.skinning.nitrogen,30.175446,31.347479
+Al Gomhoreyya St. & Howd Al Shaikh St. (Marg),material.televise.galaxies,30.187437,31.351437
+Al Habib Mosque (Al Barageel),measuring.passion.holds,30.073574,31.169323
+Al Hadaba Al Wosta (Al Moqattam),deploying.rats.thrashed,30.009562,31.338305
+Al Hadaba Al Wosta (Al Moqattam),losing.handed.atoms,30.010624,31.339434
+Al Hadaba Al Wosta (Al Moqattam),scored.gain.marching,30.009756,31.339985
+Al Hamd Square Station,infinite.plankton.arrow,30.00197,31.423
+Al Hamd Square Station,rocket.bronzer.mothering,30.002249,31.423048
+Al Haq Hospital (Arbean St.),duties.stumps.monopoly,30.133135,31.314157
+Al Harania Footbridge,averts.trickling.roaring,29.968088,31.177929
+Al Harania Footbridge,freedom.revisits.operating,29.96837,31.177433
+Al Hawamdeyya,advances.wished.sneezing,29.896235,31.265867
+Al Hawamdeyya,capacity.cases.according,29.887955,31.272583
+Al Hawamdeyya,cares.suggested.unite,29.896284,31.265852
+Al Hawamdeyya,nearly.stag.pylon,29.88794,31.272482
+Al Hawamdeyya Bridge St.,condition.legs.adults,29.897238,31.270447
+Al Hawamdeyya Bridge St.,winner.outwit.routs,29.897247,31.270351
+Al Hawamdeyya Traffic Authority,gains.regretted.coupler,29.905104,31.268637
+Al Hawamdeyya Traffic Authority,inhabited.palace.braked,29.905119,31.268744
+Al Hayat Islamic School (Marg),decreased.rumbles.tickling,30.189718,31.351118
+Al Hays Pastry (Nozha St.),classmate.trailer.vertical,30.104265,31.34375
+Al Hays Pastry (Nozha St.),remake.tropic.promotion,30.10434,31.343601
+Al Hedaya Mosque (6th of October),ponies.choirs.trembles,29.92803,30.943192
+Al Hegaz Mall (6th of October),dividers.domestic.waltzed,29.964191,30.950956
+Al Hegaz Mall (6th of October),stream.spectacle.haggis,29.964224,30.951107
+Al Hegaz Square,airbase.salt.meant,30.111052,31.344738
+Al Hegaz Square,crunching.grad.fetches,30.110971,31.345095
+Al Hegaz Square,fondest.tradition.scooter,30.11072,31.346651
+Al Hegaz Square,mountain.cement.novel,30.1106,31.346199
+Al Helmeya Garden (Gesr Al Suez),fuses.decorate.shutting,30.108894,31.32707
+Al Helmeya Garden (Gesr Al Suez),lays.multiple.magazines,30.108757,31.327242
+Al Helmeya Square (Heliopolis),closes.regime.cabbies,30.111986,31.316608
+Al Helmeya Square (Heliopolis),generated.friends.thrashed,30.112122,31.316082
+Al Hennawy Furniture (Airport Rd.),fights.waddled.operation,30.124329,31.376574
+Al Hennawy Furniture (Airport Rd.),riskiest.newlywed.mocked,30.12446,31.376423
+Al Herafeyin (Gesr Al Suez),tricycle.adhesive.them,30.136763,31.387785
+Al Herafyeen (Gesr Al Suez),solicitor.sprawls.eyelash,30.136904,31.387648
+Al Hikma Labs (Nohza St.),gadgets.barefoot.regularly,30.107193,31.344307
+Al Hikma Labs (Nohza St.),hobbies.disarmed.laugh,30.107138,31.344542
+Al Hoda Factory (6th of October),nicknames.bordering.alpha,29.911556,30.897825
+Al Hoda Factory (6th of October),outlawing.lawns.formation,29.91161,30.897757
+Al Horeyya Rd. (Badr),corporations.temptations.chair,30.13239,31.71704
+Al Horeyya Rd. (Badr),dominant.kiosk.lorry,30.132471,31.717293
+Al Horia Square (Maadi),pleasing.just.hunk,29.95966,31.254309
+Al Horreya Square (Shorouq City),invoices.yelled.shuttling,30.168861,31.602583
+Al Horreya Square (Shorouq City),petted.hardback.fatherly,30.167946,31.602236
+Al Hossary Azhari Language School,packages.cleanser.suffer,29.97068,30.949888
+Al Hossary Azhari Language School,something.specifies.tortoises,29.970753,30.949821
+Al Huda Mosuqe (Al Mosky),penned.stocky.lyrics,30.052149,31.256735
+Al Huda Mosuqe (Al Mosky),youths.boating.sunbeam,30.052002,31.256573
+Al Hussein Hospital (Al Darraasa),coarser.alerting.gangs,30.04557,31.267014
+Al Imam Al Shafei Cemetaries (Autostrad),breed.dimension.streak,30.01218,31.267265
+Al Imam Al Shafei Cemetaries (Autostrad),coping.beauty.grips,30.012442,31.267273
+Al Ismailiya (10th of Ramadan),extensively.counter.nitpicking,30.266582,31.753588
+Al Ismailiya Square,impressed.newly.snapper,30.096703,31.334856
+Al Ismailiya Square,scream.amaze.decays,30.096458,31.334913
+Al Itihadeya,grub.foggy.sweeter,30.0903,31.319857
+Al Itihadeya,revised.sisters.buzzards,30.090506,31.319868
+Al Juman,goals.shred.axed,30.033937,30.982586
+Al Kabbani Furniture (6th of October),invented.purses.fatigued,29.957438,30.92147
+Al Kabbani Furniture (6th of October),misfits.quote.attic,29.957325,30.92156
+Al Kahraba Housing Complex,convinced.coughed.waxing,29.872654,31.289335
+Al Kahraba Housing Complex,gloom.empty.huddled,29.872765,31.289448
+Al Kahraba St. & Al Wahat Road,sensitive.sparrows.surpassed,29.94554,30.948612
+Al Kahraba St. & Al Wahat Road,visitors.sniff.cover,29.945427,30.94858
+Al Kahraba St. & Tabarak St.,including.basically.strike,29.947828,30.94267
+Al Kahraba St. & Tabarak St.,resonates.pokes.invested,29.947971,30.942572
+Al Kahraba St. (Nasr City),imprinted.restores.familiar,30.0502,31.389242
+Al Kahraba St. (Nasr City),latched.propelled.abstracts,30.05003,31.389256
+Al Karma Compound Gate (Sheikh Zayed),greet.privately.takeovers,30.042257,31.00429
+Al Karma Compound Gate (Sheikh Zayed),plankton.consonant.fattest,30.042171,31.004456
+Al Kawetch (Al Matareyya),bitter.labels.hurry,30.128681,31.296139
+Al Kawetch (Al Matareyya),sues.teams.oiled,30.128363,31.296206
+Al Kawthar St. & Gamal Al Din Al Banna St.,continued.dive.stooping,30.007936,31.134933
+Al Kawthar St. & Gamal Al Din Al Banna St.,regress.automate.unlimited,30.007704,31.135054
+Al Kerdasi Schools (Marg),starting.debut.protest,30.207495,31.356346
+Al Kersh Cars (Heliopolis),meant.coasters.appointed,30.084106,31.325827
+Al Khalafawy Square,animals.shower.marzipan,30.098,31.245333
+Al Khalafawy Square,chickens.scavenger.hazy,30.098118,31.245436
+Al Khalafawy Square,half.forever.demanding,30.097866,31.245634
+Al Khanka (Al Salam Rd.),quickly.cubes.panicking,30.227818,31.35844
+Al Khanka (Al Salam Rd.),tablet.prouder.uttering,30.227833,31.358517
+Al Khanka Local Unit,microfilm.cackling.fortnight,30.223232,31.359287
+Al Khanka Local Unit,uttering.stunt.actors,30.22325,31.359203
+Al Khanka Terminal,performs.joys.souk,30.22,31.371689
+Al Khankah Police Station,snapped.fracture.mysteries,30.22834,31.3622
+Al Khashab Bridge,hulk.allies.lump,30.009602,31.227407
+Al Khashab Bridge,mule.lovely.brightens,30.009604,31.22727
+Al Khazan St. (6th of October),plugs.artichoke.gushes,29.956507,30.920063
+Al Khazan St. (6th of October),whizzing.distorts.armrest,29.956379,30.92011
+Al Khelaa St.,holdings.outboard.gasp,30.017767,31.264633
+Al Khelaa St.,milder.deed.dolls,30.017385,31.264917
+Al Kholafaa Al Rashdeen Mosque (Nasr City),pockets.herb.pats,30.037191,31.333483
+Al Kholafaa Al Rashedeen Mosque (6th of October),churn.flames.walls,29.950453,30.931364
+Al Kholafaa Al Rashedeen Mosque (6th of October),describes.trump.eyepieces,29.950335,30.931425
+Al Khosous,primed.lease.cleanest,30.16287,31.323223
+Al Khosous,repelled.luxury.highs,30.1579,31.32025
+Al Khosous,roost.punch.playback,30.15803,31.320232
+Al Khouly Steps (Ring Rd.),obstruct.stops.hindering,30.099281,31.200953
+Al Khouly Steps (Ring Rd.),scribbled.prove.tailing,30.099117,31.20103
+Al Kuwaiti Mosque (Zahraa Al Maadi),jars.rainwater.brochure,29.9614,31.313738
+Al Kuwaiti Mosque (Zahraa Al Maadi),peachy.samples.archduke,29.961643,31.313585
+Al Laimoon Bridge,trailing.outlines.pave,30.062027,31.246017
+Al Maadi Company St. and Al Gazaer St.,destroyer.degree.bandstand,29.98506,31.273626
+Al Maadi Company St. and Al Gazaer St.,frizz.vocally.reprints,29.985058,31.27377
+Al Maagfera Mosque (Bolak),december.scatters.creamed,30.0675,31.229301
+Al Maagfera Mosque (Bolak),positions.ankle.union,30.067547,31.229431
+Al Maamal ( Al Remaya St.),distracts.proven.tent,29.990488,31.116158
+Al Maasara Ferry,reckons.swatted.before,29.901474,31.288033
+Al Maasara Ferry,tweezers.renewals.regulator,29.90146,31.28794
+Al Maasara For Engineering Industries,behaving.shields.fuzz,29.905754,31.288372
+Al Maasara For Engineering Industries,winning.cement.rhino,29.905787,31.288431
+Al Maasara Police Station,magnets.passes.spaceship,29.888689,31.3039
+Al Mafareq (Al Moqattam),expensive.sushi.flattery,30.011747,31.329819
+Al Mafareq (Al Moqattam),incisions.applause.teaches,30.011885,31.329071
+Al Mafareq (Al Moqattam),park.galloping.darkens,30.011995,31.3292
+Al Mafariq (Al Zawya Al Hamra),confident.anchorman.results,30.098444,31.264992
+Al Magzar (Al Mariouteya),named.growl.replayed,29.97866,31.159628
+Al Magzar (Al Mariouteya),outlawing.aunts.refutes,29.978767,31.15969
+Al Magzar (Al Mariouteya),shuffle.scatters.frantic,29.978935,31.15996
+Al Magzar Al Aali (Autostrad),pictured.plausible.servants,30.00261,31.2745
+Al Magzar Al Aali (Autostrad),trumped.turkeys.campfires,30.002554,31.274338
+Al Mahkama (New Cairo),cheaply.happy.saddens,30.00348,31.426191
+Al Mahkama (New Cairo),warbler.fond.hems,30.003382,31.426245
+Al Malek Al Saleh,butlers.cartoons.reflected,30.01593,31.23239
+Al Malek Al Saleh,carbonate.squirted.enrolling,30.01536,31.228754
+Al Malek Al Saleh,clattered.stiff.gates,30.016024,31.230904
+Al Malek Al Saleh,cove.flagging.dives,30.016022,31.23239
+Al Malek Al Saleh,hiker.cheer.blasted,30.015383,31.22852
+Al Malek Al Saleh Bridge,insect.reshape.sneezing,30.015816,31.228838
+Al Malek Al Saleh Bridge,offerings.perkily.turntable,30.015966,31.22862
+Al Malek Al Saleh Bridge Entrance,courts.funny.drooling,30.013632,31.228355
+Al Malek Al Saleh Bridge Entrance,retrain.irritate.tiles,30.013716,31.22827
+Al Malek Al Saleh Metro,eased.gashes.measures,30.018171,31.229294
+Al Malek Al Saleh Metro,hinders.apartment.stole,30.018211,31.22921
+Al Malek Al Saleh Tunnel Square,bunk.streak.finalists,30.01615,31.234028
+Al Manara Kiosk (Al Moqattam),pose.sway.notices,30.007004,31.328888
+Al Manara Kiosk (Al Moqattam),snuggled.sprouting.dwarf,30.006956,31.328785
+Al Manarah Center For International Conferences,tastes.prettiest.ticking,30.018322,31.386217
+Al Manhal Private School,noble.modes.conforms,30.056055,31.357536
+Al Manhal Private School,tight.agency.command,30.055525,31.3573
+Al Manial,likely.bookshop.friend,30.02843,31.224298
+Al Manial,strumming.dupe.wizards,30.028318,31.224285
+Al Mansoreya & 26th of July Corridor,important.towns.scars,30.062769,31.098043
+Al Mansoreya & 26th of July Corridor,locked.missions.landowner,30.062904,31.09802
+Al Mansoureya Canal Rd. (Nahya),drops.birdcage.riddle,30.058088,31.127079
+Al Mansoureyya Rd. & Ring Rd.,blocks.rave.miracles,29.954962,31.154152
+Al Mansoureyya Rd. & Ring Rd.,cleanser.chapels.about,29.955954,31.153889
+Al Maqreezy St. & Gesr Al Suez St.,remix.ripe.enchanted,30.089796,31.303766
+Al Maqreezy St. & Gesr Al Suez St.,swipes.dictation.committee,30.09006,31.30434
+Al Maraziq,baking.cigar.commenced,29.8083,31.27276
+Al Maraziq,existence.soap.jokers,29.80826,31.27266
+Al Marioteya Rd. & 26th of July Corridor,finer.outpost.eminent,30.065132,31.126377
+Al Marioteya Rd. & 26th of July Corridor,reinvest.whiplash.coping,30.064991,31.126404
+Al Markaz St. (Abu Al Nomros),shapeless.stun.clinking,29.95322,31.213694
+Al Masa Hall (Nile Corniche),jabs.petition.tailwind,29.911516,31.286692
+Al Masa Hall (Nile Corniche),leathers.yield.pony,29.911526,31.286804
+Al Masabek Steps (Ring Rd.),evolves.latches.shelving,30.090952,31.196869
+Al Masah (Nasr City),devotion.sedative.bids,30.059359,31.317032
+Al Masah (Nasr City),redeemed.sage.policy,30.059227,31.316841
+Al Masah Hospital (Mahdy Arafa St.),equivocal.legwork.running,30.052721,31.379496
+Al Masah Hospital (Mahdy Arafa St.),traded.toasters.essential,30.052734,31.379246
+Al Masallah St. & Al Terilli St,certainly.dummy.coffee,30.127495,31.308311
+Al Masanea Rd. & Nile Corniche,increased.moisture.assembles,29.79661,31.298319
+Al Masanea Rd. & Nile Corniche,wins.tornado.excellent,29.796595,31.298445
+Al Masriya (Nasr City),jokes.drawn.blasted,30.062925,31.361877
+Al Massalah (6th of October),lightly.stud.gossiped,29.92767,30.903837
+Al Massalah (6th of October),responses.mango.perkily,29.927605,30.903896
+Al Matareyya Central,jolt.evoke.scarred,30.129805,31.312162
+Al Matareyya City Authority,unfilled.brightly.toast,30.113956,31.297707
+Al Matareyya City Authority,unhappily.wiser.breakfast,30.113855,31.297613
+Al Matareyya Educational Hospital,evaporate.mull.hotspot,30.118303,31.304146
+Al Matareyya Educational Hospital,organist.hunk.tells,30.118229,31.304071
+Al Matareyya Metro,lush.headless.talker,30.121422,31.313549
+Al Matareyya Square Station,depending.informer.headed,30.115042,31.306063
+Al Matareyya Square Station,united.buckets.troll,30.115557,31.306524
+Al Mazallaat ( Shubra),radiating.users.lyrics,30.101793,31.24535
+Al Mazallaat ( Shubra),uproot.arena.lifetimes,30.101738,31.245249
+Al Mazallat,reclaimed.spirits.gathers,30.103737,31.245483
+Al Mazallat Metro Station,scope.derailed.producing,30.103745,31.245829
+Al Mearag Mosque (Ring Rd.),sleepers.slanting.riders,29.986458,31.309261
+Al Moassasa Steps (Ring Rd.),contained.response.collected,30.16674,31.37168
+Al Moassasa Steps (Ring Rd.),populate.loom.sulked,30.166914,31.371672
+Al Moatamadiya Post Office,crass.gazed.haggling,30.050852,31.169855
+Al Moatamadiya Post Office,suiting.imprinted.crunched,30.050783,31.169752
+Al Moemen Mosque,ribcage.bluntly.post,30.057875,31.374603
+Al Moemen Mosque,target.weeps.clues,30.057322,31.372074
+Al Mohandes Insurance (Ramses),hampers.hobby.excavate,30.066647,31.259783
+Al Mohandes Insurance (Ramses),limiting.town.eggshell,30.066555,31.260061
+Al Mokhayam Al Daaem (Nasr City),scaffold.dangerously.redeeming,30.047398,31.31414
+Al Mokhtabar (Haram St.),faces.apart.enlarge,29.992449,31.156635
+Al Mokhtabar (Haram St.),health.evenings.budget,29.992586,31.156551
+Al Montazah Compound,anyway.confident.swung,29.943274,30.939817
+Al Montazah Compound,moved.smarter.overpaid,29.943312,30.939692
+Al Moqattam Entrance (Al Gamea Al Haditha St.),challenge.realm.absorbs,29.991447,31.318209
+Al Moqattam Entrance (Al Gamea Al Haditha St.),still.boomed.swimsuits,29.991526,31.31776
+Al Moqattam Hospital,slicer.probably.fidgeted,30.020498,31.243654
+Al Moqattam Hospital,vase.spindles.padlock,30.020576,31.243595
+Al Mosheer Tantawy Mosque,townhouse.supply.provider,30.020458,31.377924
+Al Moshir Tantawi Corridor Entrance,motored.mothering.escaping,30.02461,31.358881
+Al Moshir Tantawi Corridor Entrance,ruffling.kilts.fairy,30.024332,31.358952
+Al Mosky (Port Said St.),reprints.curtail.newsreel,30.048029,31.254915
+Al Mostafa Center (6th of October),limes.gathering.basher,29.965252,30.905333
+Al Mostafa Center (6th of October),rapport.events.seducing,29.96514,30.905413
+Al Mostafa Mosque,reason.progress.lyricism,30.00582,31.454342
+Al Mostafa Mosque,unleashed.proud.conceals,30.005945,31.454512
+Al Mostaqbal Entrance,cubes.custom.steam,29.933107,30.92047
+Al Mostaqbal Entrance,ruffling.awakening.prude,29.933048,30.920523
+Al Mostaqbal Square (Obour),acclaimed.indulges.ballots,30.267118,31.478725
+Al Mostaqbal Square (Obour),heave.rounds.chap,30.26732,31.479343
+Al Mostashfa St & Ahmed Helmy St,bigger.throat.admiral,30.073332,31.254347
+Al Mostashfa St & Ahmed Helmy St,zips.distract.pods,30.07331,31.254482
+Al Mostashfa St. & Faisel St.,ignore.elevated.dandelions,29.995499,31.151705
+Al Mostashfa St. & Faisel St.,tidy.mainframe.shrubbery,29.99566,31.151697
+Al Motamayez Entrance (6th of October),calendars.being.united,29.995663,30.962337
+Al Motamayez Entrance (6th of October),mint.investor.afternoon,29.995943,30.96201
+Al Motamayez Entrance (6th of October),sapping.recipient.searches,29.995743,30.96219
+Al Motamayez Entrance (6th of October),sharper.resources.dinner,29.996058,30.961914
+Al Motamayez Station,inflation.clenching.puzzle,29.98229,30.979116
+Al Motamayez Wahat Entrance 1,raves.sponge.creatures,29.97491,30.98913
+Al Motamayez Wahat Entrance 1,sprinkler.repayment.formed,29.9747,30.989222
+Al Motamayez Wahat Entrance 2,opened.manly.signs,29.973446,30.987085
+Al Motamayez Wahat Entrance 2,tight.dusters.dining,29.973629,30.98698
+Al Mothalath (Ahmed Al Zomor St.),issues.reefs.multiples,30.048033,31.370842
+Al Mothalath (Ahmed Al Zomor St.),singers.ratio.pampered,30.048288,31.37139
+Al Mothalath (Marg),yourself.play.disprove,30.212894,31.35778
+Al Mounira Hospital,barbarian.herds.clock,30.034418,31.23906
+Al Mounira School (Downtown),witty.salads.lowest,30.032558,31.234665
+Al Mukhtar Mosque (Bassous),trombone.trespass.kickbacks,30.132278,31.217838
+Al Muluk,reap.standards.crouching,29.942482,30.919756
+Al Naam Square (Ain Shams),backtrack.funds.police,30.12167,31.317968
+Al Nada Hospital (Al Manial),coining.fault.impresses,30.019455,31.225248
+Al Nada Hospital (Al Manial),unheated.cries.shapeless,30.019386,31.225323
+Al Nadi Square (Maadi),racetrack.bond.messing,29.963156,31.263714
+Al Nady St. & Al Khalifa Al Mamoun St.,elbowed.dribble.squeaking,30.091326,31.311943
+Al Nady St. & Al Khalifa Al Mamoun St.,upon.votes.unpacked,30.090502,31.312386
+Al Nafoura Square (Al Moqattam),buildings.puzzled.revised,30.015251,31.281609
+Al Nafoura Square (Al Moqattam),domain.stormed.spaces,30.015163,31.281435
+Al Nagda Square (6th of October),fastening.officials.shuts,29.96105,30.929283
+Al Nagda Square (6th of October),subtitle.alas.divisions,29.961401,30.929354
+Al Nahda Square (5th Settlement),riot.meanest.niece,29.99892,31.468252
+Al Nahda Square (5th Settlement),shady.stiffly.ethic,29.999655,31.469324
+Al Nahda Square (Shorouq City),dreamer.reflected.jetting,30.1612,31.62346
+Al Nahda Square (Shorouq City),tadpoles.cubes.recent,30.1618,31.624016
+Al Nakhl (Nile Corniche),couches.performed.tidying,29.8887,31.289171
+Al Nakhl (Nile Corniche),reseller.sporting.perfumed,29.888704,31.28927
+Al Narges 4 (5th Settlement),once.pavement.grub,30.005848,31.449463
+Al Narges 4 (5th Settlement),searcher.startles.snapped,30.005953,31.449608
+Al Narges 7 (5th Settlement),lavender.deprives.flannel,30.003317,31.459267
+Al Narges 7 (5th Settlement),masterpiece.global.galleries,30.00344,31.458988
+Al Narges 8 (5th Settlement),winters.petrified.minivans,30.001673,31.461159
+Al Nasr Hospital (Helwan),magnitude.skins.trackers,29.839209,31.321718
+Al Nasr Hospital (Helwan),sidelined.canine.prepped,29.839321,31.321663
+Al Nasr Hotel (Al Tayaran St.),fields.hunk.cherish,30.070602,31.324417
+Al Nasr Hotel (Al Tayaran St.),waged.views.evidently,30.070452,31.324629
+Al Nasr Restaurant (Basateen),wand.removable.frantic,29.98616,31.271645
+Al Nasr School ( Al Waili ),acrobats.craftsmen.screening,30.0966,31.277388
+Al Nasr School ( Al Waili ),revealing.talker.darting,30.096582,31.277498
+Al Noaman Palace (Orouba Rd.),cork.deflate.guarding,30.086115,31.32596
+Al Noaman Palace (Orouba Rd.),knowledge.shameless.cavalier,30.08624,31.325869
+Al Noor Al Mohammady (Imbaba),chains.recruiter.beefed,30.091385,31.21306
+Al Noor Al Mohammady (Imbaba),knowledge.flopping.fiery,30.090916,31.213305
+Al Noqrashy School (Hadayek Al Qobba),circular.clarifies.cult,30.091951,31.293217
+Al Noqrashy School (Hadayek Al Qobba),stems.cleanser.kindness,30.092031,31.29312
+Al Nour Mosque (6th of October),prone.pylon.highlighted,29.923346,30.935284
+Al Nour Mosque (Abbaseya),over.narrow.thrashed,30.074873,31.282331
+Al Nour Mosque (Helwan Corniche),mash.sediment.toads,29.813047,31.301075
+Al Nour Mosque (Helwan Corniche),redeeming.dizzy.animator,29.813057,31.301178
+Al Nour Mosque (Nasr City),unwraps.send.hats,30.04985,31.386005
+Al Nozha Al Gadeeda,graph.helping.powers,30.1277,31.362385
+Al Nozha Al Gadeeda,shepherds.innocence.snails,30.12908,31.36174
+Al Nozha Al Gadida,pinks.acrobatic.hires,30.125357,31.362902
+Al Nozha Al Gadida,yummy.capers.guideline,30.125673,31.363243
+Al Nozha St. & 30 St. (Sheikh Zayed),birdcage.sandals.concerned,30.041935,31.012388
+Al Nozha St. & 30 St. (Sheikh Zayed),stardom.wiped.hack,30.041945,31.012049
+Al Nozha St. & Al Horreya (Sheikh Zayed),educated.lanes.bookshelf,30.044872,31.009504
+Al Nozha St. & Al Horreya (Sheikh Zayed),fool.damp.ghosts,30.045076,31.009653
+Al Nozha St. & Al Horreya (Sheikh Zayed),puzzles.love.unite,30.045862,31.008646
+Al Omraneyya,bared.bracelet.conspire,29.995625,31.203712
+Al Omraneyya Al Gadida,limo.steer.villager,29.98854,31.189411
+Al Omraneyya Bridge Entrance from Giza,limiting.latitudes.overt,30.002886,31.208817
+Al Omraneyya Bridge Entrance from Giza,pram.lawful.cadet,30.002901,31.208694
+Al Omraneyya Bridge Exit,chatters.situation.resold,29.998625,31.205225
+Al Omraneyya Bridge Exit,gather.writers.plod,29.998503,31.20515
+Al Omraneyya Steps (Ring Rd.),absent.channel.tweeted,29.985207,31.206505
+Al Omraneyya Steps (Ring Rd.),weary.walkway.flamed,29.985334,31.206339
+Al Orouba Rd. & Al Thawra St.,dispenser.cheetahs.dining,30.089006,31.330618
+Al Orouba Rd. & Al Thawra St.,parties.reissued.bumps,30.088335,31.33001
+Al Orouba St. & Mergheny St.,rewarded.committed.drift,30.084906,31.323523
+Al Orouba St. & Mergheny St.,unclaimed.brimmed.sunflower,30.085289,31.324465
+Al Othman Motors (Ring Rd.),frown.sampled.internal,30.165676,31.358969
+Al Qanater Al Khayriya,journals.ultra.node,30.194822,31.132936
+Al Qanater Al Khayriya,nurse.ruling.goals,30.194876,31.133083
+Al Qawmeya Al Arabeya St.,loses.petrified.sing,30.09339,31.208502
+Al Qawmeya Cement Club,dizziness.elders.flaking,29.823414,31.300066
+Al Qawmeya Cement Club,tonsils.removers.delusions,29.823425,31.299944
+Al Qobba Al Fidaweyya Mosque (Abbaseya),forensic.actors.tentacles,30.069128,31.280527
+Al Qobba Al Fidaweyya Mosque (Abbaseya),signature.walking.twins,30.069046,31.280552
+Al Qudsi Mosque (Ain Shams St.),outsmart.prefix.trees,30.137257,31.325626
+Al Qudsi Mosque (Ain Shams St.),ringside.tiny.rugs,30.137259,31.325539
+Al Rabwa (Sheikh Zayed),cheerily.drummers.help,30.056498,30.999525
+Al Rabwa (Sheikh Zayed),info.diplomats.plan,30.05621,30.999773
+Al Rahma Mosque (Airport Rd.),grounded.index.syndicate,30.121313,31.372154
+Al Rahma Mosque (Airport Rd.),toddler.postings.scorecard,30.121025,31.372356
+Al Rahman Mosque (1st Settlement),hurtles.crash.ember,30.052885,31.455204
+Al Rahman Mosque (Al Salam City),asterisk.touched.spaceship,30.170624,31.422419
+Al Rashaah (Kerdasa),claw.bumps.bulky,30.023123,31.106602
+Al Rashaah (Kerdasa),national.golf.soonest,30.023104,31.106535
+Al Rashaah Steps (Ring Rd.),busy.shortens.dubbing,30.163366,31.323687
+Al Rawda & Al Horreya St.,courts.coffee.hoping,30.040749,31.003204
+Al Rawda & Al Horreya St.,flexibly.mash.truly,30.040493,31.002905
+Al Rawda Square (Al Manial),conspired.overruns.distracts,30.016167,31.2247
+Al Rawda Square (Al Manial),cracker.cookbooks.colder,30.016163,31.224783
+Al Rayan Hospital (Maadi),looms.sprouted.exacted,29.968021,31.264923
+Al Rayan Hospital (Maadi),partly.numeral.bronzed,29.967318,31.265654
+Al Remaya Square,earplugs.plug.sooner,29.98795,31.12821
+Al Remaya Square,nerd.directs.vowing,29.990381,31.133532
+Al Remaya Square,positive.situates.debate,29.98952,31.12884
+Al Remaya Square,spent.hillside.outs,29.990044,31.127506
+Al Saa Square,prickly.dressings.picnic,30.06942,31.338238
+Al Saa Square,whoever.polar.pads,30.069859,31.338638
+Al Sabteyya School,plank.ghosts.finger,30.06549,31.23596
+Al Safa School (Wadi Hof),bookshelf.national.strongly,29.886381,31.303558
+Al Safa Square (Sheikh Zayed),pounces.wallet.being,30.030735,30.99008
+Al Safa Wal Marwa Mosque Steps (Ring Rd.),caressing.insiders.clings,29.99251,31.24058
+Al Saff,cleanser.luring.fresh,29.863565,31.323288
+Al Saff,riverbed.narrating.switch,29.863678,31.323399
+Al Safwa Hospital (Shubra),adopters.eaten.reinvest,30.093689,31.245354
+Al Safwa Hospital (Shubra),behalf.impaled.fortress,30.0937,31.245256
+Al Safwa Mall,evoke.sake.secures,30.01558,31.002607
+Al Safwa Wood Trading (6th of October),stems.flooding.chugging,29.95713,30.89871
+Al Safwa Wood Trading (6th of October),toads.whisk.cope,29.957077,30.898762
+Al Sahel Fire Department,answers.distracts.stiletto,30.08544,31.24541
+Al Sahel Fire Department,nodded.utter.coil,30.085474,31.24531
+Al Sahel Police Department,broker.seeing.lifted,30.083984,31.245268
+Al Sahel Police Department,districts.tidal.switch,30.084158,31.245382
+Al Sahel Youth Center,downs.sobbed.obviously,30.097725,31.253256
+Al Sahel Youth Center,mulls.series.pressing,30.097607,31.253016
+Al Salam,confident.slamming.fuel,30.155006,31.408901
+Al Salam,wording.pelt.serve,30.15528,31.40884
+Al Salam Center (Maadi),dynamic.rattler.succumbs,29.977562,31.275085
+Al Salam Center (Maadi),lookout.comically.skews,29.977638,31.275238
+Al Salam First Police Station,deflection.love.ordeals,30.159403,31.413313
+Al Salam First Police Station,vines.towel.dent,30.159355,31.41338
+Al Salam Hospital (Al Salam City),scorecard.repeating.whirlpool,30.164234,31.419847
+Al Salam Hospital (Al Salam City),wicked.voter.streetcar,30.164211,31.419672
+Al Salam International Hospital,doses.replayed.waged,29.98506,31.229553
+Al Salam International Hospital,handlebar.yacht.crush,29.985056,31.22967
+Al Salam Mosque (Haram St.),chambers.slyly.throw,30.00362,31.1863
+Al Salam Mosque (Haram St.),forensic.quits.jams,30.003792,31.186283
+Al Salam Mosque (Nasr City),dazzling.peach.valley,30.046284,31.356174
+Al Salam Mosque (Nasr City),hoping.excusing.translate,30.046846,31.356453
+Al Salam Mosque (Wahat Rd.),duty.cope.direction,29.964508,31.034796
+Al Salam Mosque (Wahat Rd.),mainly.styled.sometimes,29.964306,31.03473
+Al Salam Tunnel Exit (Ring Rd.),eats.asked.glades,30.14842,31.42572
+Al Salam Tunnel Ring Rd. Entrance,harmless.jolt.slam,30.148613,31.425762
+Al Saraya Elementary School (Abbaseya),slimmer.frames.sensibly,30.06767,31.28357
+Al Saraya Mall (5th Settlement),crossings.admire.pram,29.996315,31.430637
+Al Sawah Square,piled.pretty.telephone,30.107841,31.282597
+Al Sawah Square,prawn.conjured.test,30.108393,31.28317
+Al Sawahel Canal St.,prank.loudness.cluttered,30.075298,31.211945
+Al Sawalha Complex (Al Sekka Al Hadeed St.),dugouts.treetop.leads,30.128717,31.270584
+Al Sawalha Complex (Al Sekka Al Hadeed St.),latter.series.prettiest,30.128977,31.27041
+Al Sawy Culture Wheel,dumpy.haggling.tidal,30.062286,31.217205
+Al Sawy Culture Wheel,fictional.numeral.lodge,30.062117,31.217148
+Al Sayeda Aisha,convinced.avoid.unzipped,30.02439,31.257479
+Al Sayeda Aisha,dentures.summit.deed,30.02615,31.25722
+Al Sayeda Aisha,dude.webcams.circling,30.026709,31.25608
+Al Sayeda Aisha,fidgeting.groom.cure,30.024618,31.257446
+Al Sayeda Aisha,innovator.trimmer.tenders,30.028326,31.257912
+Al Sayeda Aisha Station,dignify.alarming.heats,30.0245,31.257284
+Al Sayeda Aisha Station,tests.sour.unicorns,30.024458,31.257383
+Al Sayeda Khadiga School (Al Zawya Al Hamra),royal.puddles.trudges,30.099007,31.267427
+Al Sayeda Khadija Mosque,scrolled.firming.difficult,30.117731,31.35562
+Al Sayeda Khadija Mosque - Al Hegaz Street,sweep.shun.watched,30.117971,31.355305
+Al Sayeda Nafeesa,deals.glare.presented,30.020191,31.25143
+Al Sayeda Nafeesa,weaned.invent.sparkles,30.019945,31.251179
+Al Sayeda Safeya Mosque (Salah Salem St.),chum.composers.digitally,30.08379,31.321436
+Al Sayeda Safeya Mosque (Salah Salem St.),testers.bill.nametag,30.083628,31.321547
+Al Sayeda Zeinab,inhales.claims.demotion,30.033152,31.241777
+Al Sayeda Zeinab,waving.shrug.bulk,30.032047,31.243006
+Al Sayeda Zeinab District Presidency,tablets.quite.latitudes,30.030712,31.247993
+Al Sekka (Ring Rd.),iterative.sleeps.divorcing,30.07941,31.183414
+Al Sekka (Ring Rd.),mulls.parked.backs,30.07954,31.183384
+Al Sekka (Ring Rd.),pacifist.harp.stiletto,30.079273,31.18345
+Al Sekka Al Hadid Sporting Club (Nasr City),issued.amps.hungry,30.058798,31.30376
+Al Sekka Al Hadid Sporting Club (Nasr City),pounces.blotting.implanted,30.059313,31.302637
+Al Sekka Al Hadid Sporting Club (Nasr City),throat.manages.binder,30.058357,31.302303
+Al Serag Mall,calendars.weaned.objective,30.05135,31.346582
+Al Sewedy (Laylat Al Qadr),collide.rooting.pupils,29.948046,30.907045
+Al Sewedy (Laylat Al Qadr),waddle.windpipe.guests,29.947927,30.907137
+Al Shaarawy (Arbean St.),brothers.rationed.bashful,30.135317,31.315006
+Al Shaarawy St. (Shubra Al Kheima),marine.bride.wagers,30.133772,31.277494
+Al Shabab (Al Tagneed),bunk.loser.loaning,29.984213,31.111347
+Al Shabab (Al Tagneed),shrugging.nervy.inflation,29.984228,31.111443
+Al Shabab Entrance (1st Settlement),elbowing.roof.establish,30.052444,31.452364
+Al Shabab Entrance (1st Settlement),grape.pirates.lightens,30.052664,31.452328
+Al Shabab Entrance (5th Settlement),promise.elated.overtones,29.986502,31.41828
+Al Shabab Entrance (5th Settlement),strutted.dumpling.ladder,29.986694,31.417976
+Al Shabab Square (1st Settlement),mimed.tubes.recliner,30.053411,31.46075
+Al Shabab Square (1st Settlement),sleep.looked.unsettled,30.053001,31.462132
+Al Shaboory Canal,replied.easygoing.snail,30.132582,31.281689
+Al Shaboory Canal,tastier.clinking.chilling,30.132423,31.281706
+Al Shabrawy (1st Settlement),mourner.gains.warp,30.0597,31.461454
+Al Shabrawy (Al Mansoureyya Rd.),equal.paradise.freezers,29.989964,31.134977
+Al Shaheed Corridor,incurring.expecting.wacky,30.023886,31.343197
+Al Shaheed Corridor,moon.chickens.thousands,30.022781,31.344294
+Al Shaheed Corridor Pedestrian Bridge,labs.garages.cooked,30.031809,31.335459
+Al Shaheed Corridor Pedestrian Bridge,roofed.snowy.implore,30.031593,31.335361
+Al Shaheed Mosque (Al Marg),along.projects.crumb,30.153433,31.3303
+Al Shaheed Mosque (Al Marg),boil.neatly.plenty,30.153305,31.33041
+Al Shaheed Square (Obour),custard.zaps.kitten,30.25835,31.469742
+Al Shaheed Square (Obour),reflector.gourmet.tarred,30.258074,31.469984
+Al Shaq Pedestrian Bridge (Autostrad),circus.seriously.credited,29.953848,31.287386
+Al Shaq Pedestrian Bridge (Autostrad),redeeming.archives.genetics,29.953852,31.28719
+Al Shari' Al Gadeed (Bahteem),pipeline.necklaces.trickle,30.135191,31.270918
+Al Shari' Al Gadeed (Bahteem),steep.obtain.pipeline,30.135656,31.270992
+Al Sheikh Agamy (Marg),ambushes.masterpiece.executive,30.195745,31.352886
+Al Sheikh Agamy (Marg),champions.stages.award,30.195843,31.352856
+Al Sheikh Al Jadid St.,router.transcribes.kite,30.031729,31.120783
+Al Sheikh Al Jadid St.,warblers.radar.recipient,30.031609,31.120724
+Al Sheikh Mansour,arise.chatting.crouches,30.145397,31.331627
+Al Sheikh Parking (Ahmed Helmy St.),harnessed.radically.lows,30.094189,31.256025
+Al Sheikh Parking (Ahmed Helmy St.),nightfall.facing.tailors,30.094103,31.256134
+Al Shenawy St. & Sadat St.,digesting.explained.since,30.149118,31.402313
+Al Shenawy St. & Sadat St.,producing.devoured.bonfires,30.1491,31.402212
+Al Shimy Car Center (Hadayeq Al Qobba),straddled.access.prevents,30.093586,31.288649
+Al Shimy Car Center (Hadayeq Al Qobba),works.majors.engine,30.093678,31.288498
+Al Shorouq Academy Entrance,kebab.landmark.pacifist,30.10842,31.611654
+Al Shorouq Academy Entrance,venue.tilts.ignore,30.108286,31.612204
+Al Shorouq Academy Station,enormous.tricky.everybody,30.11909,31.604338
+Al Shorouq Academy Station,polices.motored.flippers,30.11918,31.604593
+Al Shorouq City Authority Steps,gems.roaming.cubs,30.158035,31.607243
+Al Shorouq City Authority Steps,grudging.burden.sprint,30.157942,31.607294
+Al Shorouq Club (Nile Corniche),hesitate.looks.obtain,29.945822,31.269642
+Al Shorouq Club (Nile Corniche),strictest.fussed.gates,29.945614,31.269749
+Al Shorouq Entrance 3,lifestyle.betraying.guards,30.10999,31.6705
+Al Shorouq Entrance 3,soils.unfocused.buzzing,30.10973,31.67149
+Al Shorouq Hospital ( 15th of May St.),megawatt.drip.elect,30.11874,31.266876
+Al Shorouq Hospital ( 15th of May St.),premiums.juicy.downturn,30.118591,31.26701
+Al Shorouq School (Shorouq City),detect.wounds.bookings,30.166422,31.651648
+Al Shorouq School (Shorouq City),nerd.emperor.picnic,30.166288,31.651531
+Al Shorouq Water Station,acre.vaccines.generally,30.161491,31.621613
+Al Shorouq Water Station,retiring.hulk.euphoric,30.161568,31.621567
+Al Soltan Hassan Mosque,political.harsh.offstage,30.031046,31.257513
+Al Soltan Hassan Mosque,slings.merge.plant,30.031393,31.256714
+Al Souq (Al Moqattam),flickers.supreme.crystals,30.011305,31.33171
+Al Souq (Al Moqattam),perkily.fortress.proves,30.011248,31.332712
+Al Souq Al Qadeem (6th of October),snowstorm.deflate.crypt,29.929688,30.915205
+Al Taawon (Haram St),obtain.blatantly.icicles,29.995722,31.164904
+Al Taawon (Haram St),worm.directly.novels,29.99567,31.165176
+Al Taawon Gas Station (Al Shabab St. Obour),clattered.young.super,30.247726,31.459013
+Al Tabba (6th of October),exhaling.stapled.enormous,29.991407,30.95497
+Al Tabba (6th of October),linguists.lectured.mole,29.991531,30.954884
+Al Tabba (6th of October),loudness.shipyards.ankle,29.991058,30.95524
+Al Tabba (6th of October),tramps.rectangular.tunes,29.991201,30.955112
+Al Tabba (Nasr City),singers.thrashing.menswear,30.058405,31.379938
+Al Tabba (Nasr City),sprays.otherwise.producing,30.05805,31.379911
+Al Tabba (Nasr City),unite.cookers.king,30.05832,31.380188
+Al Tadreeb Gate (Teraet Al Ismaili St),melons.composts.begins,30.11002,31.269814
+Al Tadreeb Gate (Teraet Al Ismaili St),stud.awaited.bonfires,30.10991,31.26968
+Al Takwa Mosque (5th Settlement),chatted.creatures.stunning,29.995167,31.42283
+Al Takwa Mosque (5th Settlement),vows.annual.catch,29.99528,31.422848
+Al Talateeny (Al Lebeny St.),operating.specifies.dishing,29.982605,31.153406
+Al Talateeny (Al Lebeny St.),slim.jogged.woodstove,29.982697,31.1535
+Al Talbeya Steps (Ring Rd.),scars.suddenly.fruitcake,29.986698,31.188534
+Al Talbeya Steps (Ring Rd.),starter.smug.reseller,29.986858,31.188484
+Al Tarek Al Abead & Rind Rd.,brew.selection.stone,30.056694,31.176073
+Al Tarek Al Abead & Rind Rd.,plotting.sweeper.insulated,30.05666,31.1759
+Al Tarfaya (Dahshour),emulated.equipping.pine,29.830582,31.274818
+Al Tawba Mosque (Abu Al Nomros),bracelet.bead.arise,29.929398,31.259315
+Al Tawba Mosque (Abu Al Nomros),estimated.swanky.wheat,29.929361,31.259226
+Al Tawheed Mosque (1st Settlement),dabbling.melons.simulations,30.061687,31.461777
+Al Tawheed Mosque (Al Zaytoun),durations.dormant.afford,30.100172,31.290648
+Al Tawheed Wal Nour (10th of Ramadan),exposes.geese.available,30.28025,31.749067
+Al Tawheed Wal Nour (10th of Ramadan),slang.hoped.orbited,30.280191,31.748812
+Al Tawheed Wal Nour (Abbas Al Akkad St.),imperious.warnings.hurtles,30.056221,31.338232
+Al Tawheed Wal Nour (Abbas Al Akkad St.),squeezed.songbird.elbow,30.056185,31.33803
+Al Tawheed Wal Nour (Al Geish St.),riverside.space.dogs,30.060652,31.264574
+Al Tawheed Wal Nour (Al Hossary),juggles.perused.broadens,29.9689,30.93914
+Al Tawheed Wal Nour (Al Hossary),squeaking.stands.tailors,29.96878,30.939222
+Al Tawheed Wal Nour (Al Nozha St),ages.reclining.sprain,30.090273,31.341446
+Al Tawheed Wal Nour (Al Nozha St.),perplexed.chainsaw.oppose,30.090595,31.340986
+Al Tawheed Wal Nour (Al Sayeda Zeinab),piano.threading.limp,30.035936,31.247921
+Al Tawheed Wal Nour (Al Sayeda Zeinab),ratty.spin.handbook,30.03587,31.247982
+Al Tawheed Wal Nour (Autostrad Maadi),coins.sparrows.profiled,29.961706,31.287447
+Al Tawheed Wal Nour (Autostrad Maadi),task.exploring.mainframe,29.961756,31.287579
+Al Tawheed Wal Nour (Faisal St.),blaring.helpless.compress,29.992489,31.143232
+Al Tawheed Wal Nour (Faisal St.),suitably.scarred.canines,29.992393,31.143328
+Al Tawheed Wal Nour (Merryland),hope.stockpile.safety,30.100769,31.324593
+Al Tawheed Wal Nour (Merryland),warns.verge.loafing,30.100578,31.324722
+Al Tawheed Wal Nour (Mostafa Al Nahas St.),marine.beam.lifeguard,30.054754,31.34605
+Al Tawheed Wal Nour (Mostafa Al Nahas St.),parading.frost.melons,30.054358,31.346323
+Al Tawheed Wal Nour (Obour),romance.screeches.stores,30.19898,31.457628
+Al Tawheed Wal Nour (Obour),unfocused.peanut.overcomes,30.199045,31.457785
+Al Tawheed Wal Nour (Warraq),mainland.beside.producers,30.09628,31.223362
+Al Tawheed Wal Nour (Warraq),moved.formless.policy,30.096283,31.22344
+Al Tawheed Wal Nour - Al Waili,uppermost.knots.likes,30.094427,31.288992
+Al Tayaran St. & Khedr Al Touny St.,freedom.bottom.poorly,30.075645,31.321928
+Al Tayaran St. & Khedr Al Touny St.,lion.dress.plums,30.075857,31.322075
+Al Tayaran St. & Khedr Al Touny St.,skims.moderated.rummage,30.075668,31.322474
+Al Tayaran St. & Mostafa Al Nahas,nails.buyers.mend,30.052792,31.32718
+Al Tayaran St. & Mostafa Al Nahas,wrong.refuse.indulgent,30.05223,31.327091
+Al Teraa Al Bolaqiya St.,composts.pausing.financial,30.116007,31.258604
+Al Thawra Hospital (Helipolis),convey.become.retrain,30.090767,31.325748
+Al Thawra Hospital (Helipolis),inefficient.smarting.ages,30.09069,31.325626
+Al Tibeen,boarding.soonest.graced,29.789625,31.296223
+Al Tibeen,deranged.giants.graver,29.790243,31.29775
+Al Tibeen,looks.things.shimmered,29.789711,31.296118
+Al Toob Al Ramly,elastic.glow.ruling,30.037226,31.359314
+Al Toob Al Ramly,overdone.alternate.town,30.037018,31.359291
+Al Torgoman,fetch.rollers.liquid,30.060598,31.237522
+Al Torgoman,mixer.aimlessly.camp,30.060602,31.237339
+Al Wafaa Wal Amal City,jelly.amps.elbowing,30.03927,31.355385
+Al Wagih Center (6th of October),retained.competing.beams,29.962532,30.901417
+Al Wagih Center (6th of October),shunning.crossing.calls,29.96264,30.901323
+Al Waha Compound (Shorouq City),leans.dabbling.rocked,30.14337,31.661596
+Al Waha Compound (Shorouq City),lung.counters.whiplash,30.143536,31.661903
+Al Waha Garage (Nasr City),soonest.mixing.sifts,30.040447,31.37774
+Al Wahab Mosque St. (Marg),entitles.slanting.stoops,30.19853,31.353642
+Al Wahab Mosque St. (Marg),parked.spurted.houseboat,30.198679,31.35374
+Al Ward St. & Al Mansoureyya Rd.,ripples.bandaged.awoke,29.967728,31.146627
+Al Ward St. & Al Mansoureyya Rd.,taxed.spades.funds,29.967644,31.146423
+Al Warraq,dwell.tanks.searching,30.121422,31.20168
+Al Warraq,thickens.grace.solo,30.12139,31.201439
+Al Warraq,weedy.unfocused.next,30.121138,31.202892
+Al Warraq Central Hospital,debut.hunter.bashful,30.093447,31.214027
+Al Warraq Central Hospital,radiates.bouncing.goat,30.09315,31.213753
+Al Warraq Exit (Ring Rd.),smiling.innocence.ordering,30.125547,31.201492
+Al Warraq Exit (Ring Rd.),webcams.doted.fled,30.119043,31.202131
+Al Warraq Ferry,cobras.mailers.restless,30.105005,31.220545
+Al Warraq Ferry,mills.lows.dream,30.10492,31.22048
+Al Warraq Station,inched.facelift.bars,30.107075,31.213226
+Al Warraq Station,waltzed.splints.grudges,30.107082,31.213411
+Al Warraq Water Station,potato.shadows.blunders,30.114674,31.209661
+Al Warraq Water Station,trappings.collide.wakes,30.114756,31.20952
+Al Wehda (Imbaba),crouch.basic.hourglass,30.08687,31.217087
+Al Wehda (Imbaba),degrading.first.confronts,30.086967,31.217117
+Al Wehda (Imbaba),fonts.swooning.soak,30.086967,31.216597
+Al Wehda Square,grumbles.snake.heap,29.983654,31.418552
+Al Wehda Square,spotty.incisions.refrained,29.98375,31.41796
+Al Wekala (Nile Courniche),pigs.remit.booms,30.059109,31.227978
+Al Wekala (Nile Courniche),routs.holly.minds,30.059196,31.228071
+Al Yasmin Compound North,reckoned.shakes.entire,29.941122,30.934982
+Al Yasmin Compound North,surprises.beaks.workshop,29.94124,30.934973
+Al Yasmine Compound (6th of October),hosts.metro.earmarked,29.93766,30.927471
+Al Yasmine Compound (6th of October),poets.wizard.drilled,29.937609,30.92751
+Al Yasmine Compound Gate 3 (Sheikh Zayed),executive.gravest.threading,30.052652,30.990992
+Al Yasmine Compound Gate 3 (Sheikh Zayed),frock.hurry.snowmen,30.052395,30.99094
+Al Zaeem (Rashah),relishing.crusher.highways,30.143288,31.383312
+Al Zahraa & Al Bewehy St. (Alf Maskan),patching.comments.hitters,30.13177,31.33668
+Al Zatoun School (Heliopolis),goodbyes.slumped.rival,30.11052,31.315401
+Al Zawya Al Hamra,kilts.mixing.herring,30.095545,31.266605
+Al Zawya Al Hamra,receiving.walled.held,30.095463,31.266596
+Al Zawya Al Hamra,snares.humans.webcams,30.098625,31.26226
+Al Zawya Youth Center,monument.remove.baths,30.101631,31.265745
+Al Zohour Nursery (Sheikh Zayed),dozens.unframed.target,30.0472,30.973793
+Al Zohour Nursery (Sheikh Zayed),making.eruptions.half,30.047274,30.973854
+Alex Bank (Al Hegaz),agency.dignity.handle,30.09675,31.319399
+Alex Bank (Al Hegaz),similar.slice.testy,30.096613,31.31956
+Alex Bank (Gameat Al Dowal St.),defectors.uniforms.direct,30.05123,31.199507
+Alex Bank (Gameat Al Dowal St.),large.repaying.jams,30.051115,31.199553
+Alexandria Desert Rd. Steps (26th of July Corrdior),jaws.lamenting.cute,30.046585,31.051739
+Alexandria Desert Rd. Steps (26th of July Corrdior),protrude.browser.engine,30.046364,31.051823
+Alf Maskan,carriage.says.rectangular,30.118416,31.340485
+Alf Maskan,eyelashes.overtones.enlighten,30.119146,31.339767
+Alf Maskan,neckline.sediment.fond,30.118752,31.34082
+Alf Maskan,piglet.treating.snowstorm,30.121021,31.340454
+Alf Maskan,plant.clocking.landlords,30.118889,31.339851
+Alf Maskan,slid.ratio.repeats,30.121344,31.339989
+Alf Masnaa,choice.multiples.hunk,29.975065,31.479588
+Alfa Lab (Al Manial),defenders.manliness.revamped,30.023283,31.225885
+Alfa Market (Nile Corniche),defining.talkative.complains,29.962276,31.246313
+Alfa Market (Nile Corniche),waddle.airports.ballooned,29.962267,31.246174
+Ali Abdel Halim St. & Tahrir St.,bead.jingles.describe,30.039167,31.215864
+Ali Abdel Halim St. & Tahrir St.,relies.pasta.insect,30.03929,31.215893
+Ali Al Sheikh Tower (Abboud),juggled.slung.talkative,30.10118,31.256067
+Ali Al Sheikh Tower (Abboud),reputable.ships.flight,30.101057,31.255949
+Ali Basha St. & Al Qalaa St.,announced.apricot.bridges,30.036158,31.255018
+Ali Basha St. & Al Qalaa St.,mincing.hippy.downfield,30.036268,31.255045
+Almaza Bridge Entrance,childcare.angle.sorry,30.080095,31.360907
+Almaza Bridge Exit,streaking.reforming.tucked,30.080404,31.360401
+American School (Sheikh Zayed),paddle.stole.hardback,30.032972,30.98804
+American University in Cairo (AUC) Gate 1 (New Cairo),mattress.ogre.subject,30.025032,31.498503
+American University in Cairo (AUC) Gate 1 (New Cairo),tasks.gratuity.placidly,30.025183,31.49882
+Americana Plaza - Sheikh Zayed,carpeted.diver.coffee,30.02826,31.01251
+Americana Plaza Mall,noting.wreck.drip,30.025452,31.495346
+Americana Plaza Mall,schools.played.eventful,30.025034,31.4952
+Amin Hamada St & Petroleum St.,windpipe.directly.browsers,30.14823,31.329876
+Amir Al Shoaraa School (Al Giza),hexes.rainfall.other,30.000275,31.20876
+Amir Al Shoaraa School (Al Giza),match.anode.vessel,30.00015,31.208939
+Amir Mall (Khaloussi),evolution.blurs.outbid,30.079182,31.247953
+Amiriyyah,duet.husbands.removal,30.107508,31.29008
+Ammar Bin Yasser School (Al Moqattam),cork.language.twitching,30.002645,31.33008
+Ammar Bin Yasser School (Al Moqattam),slept.scrolled.crafts,30.002623,31.329975
+Amoun Fountain (Obour),deferring.branched.sweetener,30.187254,31.466995
+Amoun Fountain (Obour),tweezers.threaten.manifests,30.186325,31.468576
+Amr Ibn Al Aas School (Sheikh Zayed),embodied.snitch.shrub,30.04944,30.98182
+Amr Ibn Al Aas School (Sheikh Zayed),suits.crossword.bumpy,30.049297,30.982044
+Amr Ibn El Aas,sponge.observer.amplifier,30.009342,31.232174
+Anas Al Wogood Borg (Badrasheen),shiny.dusty.importers,29.848698,31.270706
+Antidote and Vacince (Mohandeseen),according.arrive.cowboy,30.051065,31.209562
+Antidote and Vacince (Mohandeseen),spare.strays.behalf,30.050838,31.209574
+Anwar Al Sadat Square (6th of October),sapping.stones.sweeping,29.953854,30.909399
+Arab African Bank (Haram St.),holidays.newsreel.reported,29.998188,31.171827
+Arab Contractors Sporting Club (Nasr Rd.),advancing.conceals.subsystem,30.05571,31.294613
+Arab Contractors Sporting Club (Nasr Rd.),swear.powerful.resembles,30.055565,31.294643
+Arab Engineering & Construction Company (Shubra Al Kheima),worldwide.uncle.willing,30.13335,31.278421
+Arab Investment Bank (Faisal St.),admires.radiates.armrests,29.991955,31.140034
+Arab Investment Bank (Faisal St.),machinery.trials.continues,29.991861,31.140041
+Arab Maadi,bottom.choppers.pages,29.970665,31.270039
+Arab Maadi,customers.bonds.recruiter,29.969334,31.269043
+Arab Maadi,generally.lightly.ranges,29.969128,31.269053
+Arab Specialized Hospital (Gesr Al Suez),additives.nest.shades,30.126457,31.351467
+Arab Specialized Hospital (Gesr Al Suez),bands.tinsel.gentlemen,30.12621,31.351257
+Arab Tuweila,darkens.clipboard.engrossed,30.139448,31.315664
+Arabella Square,basics.feasting.feast,29.985535,31.430393
+Arabella Square,searching.enveloped.outfitter,29.985172,31.429834
+Arabella Square,seasick.unloaded.clinking,29.985737,31.430256
+Aramex (10th of Ramadan),announced.rating.tomorrow,30.289186,31.745926
+Aramex (10th of Ramadan),microchip.recover.excavated,30.289076,31.745697
+Arayes (Maadi),egging.pints.scooters,29.97889,31.285913
+Ard Al Lewa,alarmed.skate.mile,30.057407,31.18847
+Ard Al Lewa,onlookers.glory.unrealistic,30.05746,31.18802
+Ard Al Lewa Steps (26th of July Corridor),hoped.reconnect.self,30.060074,31.187222
+Ard Al Lewa Steps (26th of July Corridor),vitals.seriously.behalf,30.059988,31.187159
+Ard Khedr Pedestrian Bridge (Shubra Al Kheima),dentistry.liked.baths,30.129501,31.23814
+Ard Khedr Pedestrian Bridge (Shubra Al Kheima),sharpened.populate.cave,30.129261,31.238634
+Ariel (6th of October Industrial Zone 4),being.breakfast.treaties,29.938059,30.885239
+Ariel (6th of October Industrial Zone 4),townhouse.pigs.juniors,29.93794,30.885338
+Arkadia Mall,bend.town.unafraid,30.069899,31.226944
+Arkadia Mall,domain.shots.sprays,30.069885,31.226824
+Armed Forces College Of Medicine,slouched.disengage.revised,30.086802,31.303703
+Armed Forces Medical Complex (Kobry Al Qobba),beaters.excuse.pocketed,30.086048,31.297905
+Armed Forces Medical Complex (Kobry Al Qobba),padding.impeached.hotels,30.085926,31.29804
+Arts Academy (Al Omraneyya ),attending.setting.gather,29.99835,31.20017
+Asaer Al Fardous (6th of October),betraying.amaze.outline,29.951084,30.900373
+Asaer Al Fardous (6th of October),shortage.tastier.tuck,29.951176,30.9005
+Asfour Mosque ( Ibrahim Bek ),louder.imparts.burst,30.124979,31.259953
+Asfour Mosque ( Ibrahim Bek ),sweeter.engrossed.deliver,30.124855,31.25972
+Ashrafco Tyres (Nasr City),workflow.mixers.raced,30.050446,31.319397
+Asmarat,guidebook.adopters.scoots,29.991255,31.344364
+Asmarat,powers.patching.warm,29.991201,31.344263
+Aswan Pedestrian Bridge (Shubra Al Kheima),project.highbrow.speeding,30.110758,31.275791
+Aswan Pedestrian Bridge (Shubra Al Kheima),tonal.much.prosper,30.110903,31.276033
+Ataba,expensive.nooks.moderated,30.054266,31.248539
+Ataba,fallback.jetted.tapers,30.05226,31.24975
+Ataba,feeds.shuffles.exclaim,30.0516,31.25051
+Ataba,fingernails.folks.releasing,30.0536,31.246878
+Ataba,quitter.guesswork.laptop,30.05327,31.247133
+Ataba,register.beakers.magazines,30.05151,31.250525
+Atfal Misr Hospital (Abou Al Reesh),relegate.song.soldiers,30.026718,31.235876
+Athar Al Naby,went.adding.vegetable,29.98894,31.234833
+Atlas Pharmacy (Atlas St),evenings.isolating.tangible,29.834776,31.348751
+Audi Bank (Salah Salem St.),banks.fragment.ushering,30.07629,31.30995
+Audi Bank (Salah Salem St.),ears.bitter.commit,30.076578,31.309841
+Audi Bank (Salah Salem St.),majors.smoker.secure,30.076628,31.30963
+Autostrad & Al Moneeb Axis,comfort.ringside.zoom,29.994051,31.281534
+Autostrad & Al Moneeb Axis,shots.suiting.drifting,29.994602,31.280895
+Autostrad Entrance from Al Abageyya,punctual.across.helpers,30.021492,31.263777
+Autostrad Entrance from Al Abageyya,refusals.trustees.proven,30.021446,31.263645
+Autostrad Entrance from Al Abageyya,rinsed.treat.zaps,30.021435,31.263556
+Autostrad Entrance from Al Maasra,game.ulterior.sends,29.904932,31.307676
+Autostrad Entrance from Al Maasra,slows.removers.bounding,29.904943,31.307844
+Autostrad Tunnel,mildest.sensibly.pilots,29.978851,31.28994
+Awlad Ragab Plumbing (6th of October),notices.shielding.sparrows,29.940735,30.92947
+Awlad Ragab Plumbing (6th of October),waggled.arena.thinkers,29.940784,30.929546
+Awlad Sokkar St. & Bigam Rd.,corrosive.oaks.flood,30.133034,31.246592
+Awsim,divisions.inherits.visit,30.125387,31.134064
+Awsim,starfish.crumb.quilt,30.125263,31.134157
+Awwal Abbas Al Akkad,craziest.shifting.grad,30.068348,31.333212
+Awwal Abbas Al Akkad,soak.reset.drainage,30.068241,31.336452
+Awwal Abbas Al Akkad,stolen.corded.bind,30.06808,31.33295
+Awwal Faisal,dividers.thing.zeal,30.013945,31.199232
+Awwal Makram Ebeid,drooling.scan.inserted,30.069063,31.344217
+Awwal Makram Ebeid,include.fractions.swarm,30.069258,31.343737
+Awwal Makram Ebeid,mainland.owned.swift,30.069513,31.343733
+Awwal Makram Ebeid,regal.married.editor,30.067999,31.343933
+Awwel Al Eshreen (Zenin),baseballs.airports.followers,30.030329,31.18343
+Awwel Al Zawya,lawfully.heavy.joyously,30.092615,31.275766
+Awwel Al Zawya Bus Station,registers.pillows.spins,30.093119,31.276106
+Awwel El Zawya Station,bells.occupations.cleans,30.092552,31.275875
+Awwel El Zawya Station,seagulls.ulterior.crust,30.093374,31.276096
+Azhar University City for Boys,ally.cable.selection,30.050238,31.315918
+Azhar University City for Boys,decorator.dices.group,30.050026,31.316544
+Azhari Institute,pillows.alive.blacken,30.037365,31.0093
+Azhari Institute (Ahmed Helmy St.),crumple.learns.these,30.069838,31.253277
+Azhari Institute (Ahmed Helmy St.),motel.songbird.makeovers,30.069832,31.253138
+B Tech (Ahmed Oraby St.),health.device.systems,30.067122,31.19948
+B Tech (Ahmed Oraby St.),unwraps.heightens.tagging,30.067488,31.199842
+Bab Al Fotouh ( Al Gamalia ),responded.paying.runner,30.05598,31.262964
+Bab Al Fotouh ( Al Gamalia ),squeaking.afford.slanting,30.056015,31.263086
+Bab Al Karim Mosque (Nahya),caressed.means.mobile,30.044624,31.181974
+Bab Al Karim Mosque (Nahya),glance.serious.types,30.044712,31.181976
+Bab Al Khalq ( Qalaa St. ),bluffing.cafe.stance,30.039595,31.253798
+Bab Al Nasr ( Al Gamalia ),reply.sidelined.curvy,30.054354,31.26539
+Bab Al Nasr ( Al Gamalia ),stormy.disposal.crossings,30.054308,31.265255
+Bab Al Shaaria Square,axed.trout.upwardly,30.054953,31.257505
+Bab Al Shaaria Square,conductor.cuter.carpets,30.054777,31.257803
+Bab Al Shaaria Square,warmers.besotted.exhaling,30.055357,31.257668
+Bab Al Shaereyya Girls Elementary School,played.wheat.soils,30.061934,31.261353
+Bab Al Shaereyya Girls Elementary School,teachers.overlooks.sapping,30.061977,31.261244
+Bab Al Shaereyya Hospital,mouse.apart.catching,30.060572,31.26049
+Bab Al Shaereyya Hospital,roadways.fidgeting.cried,30.060635,31.26064
+Bab Al Sheareyya Metro,until.abundance.puppy,30.053144,31.255331
+Badr,combative.amended.arrival,30.135027,31.734587
+Badr,spin.napping.quickened,30.135859,31.735222
+Badr Land,oppose.texted.clef,30.128847,31.36723
+Badr Land,owned.soils.guess,30.129065,31.367178
+Badr Pharmacy (Helwan Corniche),chugging.ranked.works,29.81646,31.30071
+Badr Pharmacy (Helwan Corniche),notifying.blunders.gobbling,29.816504,31.30059
+Badr Station (Sheikh Zayed),year.suggested.acrobat,30.05496,30.959381
+Badr Station (Sheikh Zayed),youth.blotchy.tarnished,30.05504,30.959675
+Badr Waste Area,diagonally.skims.extroverts,30.132702,31.706966
+Badr Waste Area,ferries.richly.endorphin,30.132751,31.70702
+Badrasheen Bus Station,dawn.submerge.wrenching,29.8474,31.27606
+Badrasheen Station,schooling.avoid.changing,29.852234,31.277987
+Badrashen,eggplants.testers.fortunate,29.84522,31.276844
+Bahteem,emperor.grinders.liberated,30.157246,31.280693
+Bahteem,motorist.emptied.glove,30.157566,31.280933
+Bahteem,oxidation.restored.modes,30.156252,31.280128
+Bahteem Specialized Hospital For Surgery,armful.inert.landowner,30.14473,31.277905
+Bahteem Specialized Hospital For Surgery,glance.push.reporters,30.144743,31.277752
+Bahteem Square,ketchup.contacts.impulsive,30.141333,31.277658
+Bahteem Square,occur.nowadays.spout,30.141485,31.27754
+Banha University (Obour),breed.firewall.drives,30.244678,31.4593
+Bank Al Etihad (South Teseen St.),conspired.dressings.marching,30.01639,31.420664
+Bank Area Station (5th Settlement),snowboard.glow.inherit,30.016949,31.42785
+Banque Misr (Abbas Al Akkad St.),bonfires.often.native,30.058453,31.337698
+Banque Misr (Abbas Al Akkad St.),breathy.regal.intent,30.058475,31.337915
+Banque Misr (Aghakhan),dimension.limp.dice,30.103033,31.24348
+Banque Misr (Aghakhan),increases.random.cosmetic,30.103247,31.24322
+Banque Misr (Aghakhan),tuxedos.conceals.abruptly,30.103184,31.243336
+Barageel St.,falters.weary.nurture,30.075052,31.164042
+Barageel St.,panic.newsstand.jetting,30.07496,31.163914
+Barageel St. (Ring Rd.),sprain.profiled.pebble,30.071934,31.176071
+Barageel St. (Ring Rd.),stared.expecting.fried,30.072035,31.175343
+Baron Mall Pedestrian Bridge (Ring Rd.),models.skim.variously,29.981976,31.338408
+Baron Mall Pedestrian Bridge (Ring Rd.),washable.bristle.magnetic,29.982088,31.3386
+Basateen,activity.pushover.coach,29.988531,31.271383
+Basateen,bracing.stadium.education,29.989359,31.267551
+Basateen,careful.gains.deodorant,29.991135,31.28123
+Basateen,file.apron.tweezers,29.991308,31.282515
+Basateen,firelight.meatball.unloading,29.990677,31.27163
+Basateen Police Station,amounting.froth.blanket,29.991611,31.266865
+Basateen Rd.,settled.serve.realm,30.007051,31.262888
+Basateen Steps (Ring Rd.),obliging.blog.blaring,29.990417,31.266972
+Basha Square (Al Manial),shadow.live.framework,30.020788,31.225475
+Basha Square (Al Manial),signed.snack.dare,30.020779,31.225552
+Bashayer,nicely.digital.fussed,29.967297,30.912882
+Bashayer Entrance (6th of October),spillage.workbench.lowest,29.97127,30.918036
+Bashayer Entrance (6th of October),streak.blogging.highlighted,29.97136,30.917973
+Bashtil,packets.extensive.tweed,30.083393,31.189917
+Bashtil,painting.audio.beauty,30.0825,31.188906
+Bashtil (Ring Rd.),economics.potential.posts,30.084145,31.192013
+Bashtil (Ring Rd.),stocked.ridiculed.spearing,30.084227,31.19186
+Bashtil El Balad,deflate.event.providing,30.087393,31.183043
+Bashtil El Balad,name.plotted.eased,30.087406,31.183687
+Basrawy,harshest.scarf.trails,30.083416,31.206392
+Basrawy,letters.quietest.bouncing,30.083326,31.2064
+Batrawy (Abbas Al Akkad St.),defensive.slurred.varieties,30.061724,31.3375
+Batrawy (Abbas Al Akkad St.),helps.pursue.rewarded,30.061733,31.337187
+Bavaria Egypt (Gesr Al Suez),paints.kinds.massaging,30.13295,31.378578
+Bayt Al Karam Al Shamy (Haram St.),heckler.secrets.replayed,29.99737,31.169285
+Bayt Al Karam Al Shamy (Haram St.),litters.equipment.panoramic,29.997135,31.169065
+Bein Al Sarayat Youth Center,pollution.brothers.chopper,30.029305,31.202393
+Beirut Square (Korba),crouches.dwelled.beads,30.093082,31.327492
+Berm Al Tounsi St ( Abou Al Reesh ),spits.swordfish.takeover,30.025824,31.240131
+Bigam,bless.natively.lollipop,30.135122,31.245707
+Bisco Misr (Al Zaytoun),radiating.rummage.scars,30.104403,31.29614
+Bisco Misr (Al Zaytoun),shelter.recorders.position,30.104233,31.296091
+Bloom Bank (South Teseen St.),certainty.perusing.troubled,30.016375,31.417522
+Blue Bells School (Al Motamayez),handfuls.wider.breathing,29.985638,30.975561
+Blue Bells School (Al Motamayez),pigment.spins.attic,29.985565,30.975487
+Board of Trustees (6th of October),bunks.woodstove.coins,29.994164,30.960052
+Board of Trustees (6th of October),leathers.prep.meal,29.99461,30.959673
+Board of Trustees (6th of October),move.permit.entertainer,29.994495,30.959768
+Board of Trustees (6th of October),should.mulled.unscrew,29.994295,30.959944
+Bohooth,mouth.escalates.worked,30.035366,31.198715
+Bohooth,polar.outraged.judge,30.035524,31.19872
+Bonook (5th Settlement),apart.upper.fairness,30.016565,31.427847
+Bonook (5th Settlement),moguls.pictured.rural,30.016407,31.427917
+Bonook (5th Settlement),recline.burden.snuggle,30.016125,31.427883
+Brazil St. & 26th of July,bluffs.claw.regarding,30.060143,31.222118
+Brazil St. & 26th of July,deals.harnessed.exams,30.05999,31.22204
+Btech (Masr Wal Sudan St.),spindles.scenes.admit,30.083288,31.281857
+Bulaq Al Dakrur,excusing.stormy.giraffes,30.040771,31.194324
+Bulaq Dakrur,blogging.steady.unpacked,30.042427,31.192392
+Bulaq Dakrur,elect.sticks.gaps,30.040995,31.194695
+Bulaq Dakrur,entitles.spending.fallback,30.040976,31.194618
+Bulaq Dakrur,unclaimed.windpipe.nicely,30.042358,31.192322
+Bulaq Dakrur,vessel.lollipop.metals,30.04295,31.192608
+Bus Stop 43 (Al Matareyya),advice.tradition.tailwind,30.126816,31.316278
+Bus Terminal to 6th of October,daredevil.steadily.salutes,30.051308,31.177576
+CIB (Al Hegaz),dried.done.grudge,30.105307,31.332354
+CIB (Al Hegaz),rigs.tomorrow.lows,30.105328,31.331972
+CIB (South Teseen St.),firepower.burst.crinkled,30.016125,31.423038
+CIB (South Teseen St.),onlookers.clown.loads,30.016392,31.423069
+CIC - Sheikh Zayed,twilight.unimpeded.vase,30.044933,30.991009
+CTA Garage (Heliopolis),cleanser.radiates.salads,30.129633,31.360706
+CTA Garage (Heliopolis),with.iron.corrosive,30.129417,31.360561
+Cairo Airport,starfish.pipe.trailing,30.120197,31.398315
+Cairo Airport,tightrope.repayment.banquets,30.118357,31.397535
+Cairo Airport Station,tropic.spoken.rhino,30.119211,31.398531
+Cairo Alexandria Agriculture Road Pedestrian Mit Nama,subtitle.smoke.agreed,30.142992,31.231098
+Cairo Club (Opera St.),beaker.landlady.juggle,30.040838,31.222605
+Cairo Club (Opera St.),thick.wordplay.gladiators,30.040794,31.222727
+Cairo Economic Court (Ring Rd.),applied.wreck.grants,29.987778,31.303753
+Cairo Economic Court (Ring Rd.),inversion.songs.squirts,29.988321,31.303864
+Cairo Economic Court (Ring Rd.),laces.dividing.showrooms,29.988024,31.303741
+Cairo Economic Court (Ring Rd.),sunblock.pads.unsecured,29.988201,31.303795
+Cairo Fair Metro,newspaper.hood.earliest,30.073378,31.301579
+Cairo Fair Metro,shampoo.superhero.props,30.073666,31.30152
+Cairo Festival City (South Teseen St.),guesswork.suffix.calculate,30.01601,31.40746
+Cairo Festival City (South Teseen St.),trek.seriously.ogre,30.016441,31.407455
+Cairo Festival City Pedestrian Bridge (Ring Rd.),modifies.panic.implanted,30.025211,31.40099
+Cairo Festival City Pedestrian Bridge (Ring Rd.),snoring.dislikes.resorting,30.025072,31.402718
+Cairo Pyramids Hotel (Cairo Alex Desert Rd.),congratulations.value.uppermost,29.992447,31.125385
+Cairo Pyramids Hotel (Cairo Alex Desert Rd.),estimated.release.blossom,29.992464,31.125683
+Cairo Security Directorate,replaying.townhouse.legs,30.043674,31.2528
+Cairo Security Directorate,selection.footpath.clouds,30.043777,31.252527
+Cairo Stadium,pages.crispy.protester,30.064495,31.306273
+Cairo Stadium,profiled.breezes.continued,30.064552,31.306486
+Cairo University (Sheikh Zayed),lavished.third.exhales,30.03518,31.017578
+Cairo University (Sheikh Zayed),youths.eternity.fastening,30.035393,31.018013
+Cairo University Bridge,tributes.held.defaults,30.028505,31.216496
+Cairo University Bridge,whiplash.cookies.bugs,30.028324,31.216492
+Cairo University Main Gate,merchant.island.dabbling,30.027258,31.210968
+Cairo University Main Gate,sensibly.learning.rollers,30.027906,31.210682
+Cairo University Main Gate,unlucky.secures.quitter,30.027864,31.210907
+Cairo University Metro,cobbled.whips.tumblers,30.025322,31.201765
+Cairo University Metro,rifled.transcribes.shirtless,30.025337,31.201849
+Cairo University Metro,zone.directors.charging,30.027088,31.200535
+Car Market (Nasr City),blotting.thatched.ultra,30.047895,31.366194
+Car Market (Nasr City),strongly.inversion.passion,30.047565,31.366226
+Carrefour (Al Gazaer St.),situation.fillings.educated,29.983765,31.273972
+Carrefour (Al Gazaer St.),starch.skinning.entry,29.983484,31.274128
+Carrefour (Obour),drooling.scouts.tickling,30.171757,31.475435
+Carrefour (Obour),masterpiece.tabs.shall,30.172108,31.474895
+Carrefour (Shorouq City),electric.autumn.moment,30.173714,31.592606
+Carrefour (Shorouq City),yappy.chickens.political,30.173826,31.591864
+Carrefour (Tora),imparting.recoup.target,29.928919,31.281488
+Carrefour (Tora),styled.reception.sketching,29.92887,31.281387
+Carrefour Maadi (Ring Rd.),ghosts.reserve.packets,29.984188,31.318043
+Carrefour Maadi (Ring Rd.),pink.hothouse.reform,29.984005,31.318106
+Carrefour Maadi (Ring Rd.),stick.radiating.snatched,29.983389,31.318142
+Catholic Cemetery (Misr Al Qadima),outright.conveying.stressed,30.013136,31.23316
+Catholic Cemetery (Misr Al Qadima),rhino.verifying.refilled,30.013172,31.233051
+Cemeteries (Maadi),trip.uncle.portable,30.021177,31.346272
+Center Cairo Governorate Information Networks,zest.quietly.birdcage,30.095085,31.382605
+Centeral Al Fustat,sundial.trimmer.flops,30.003334,31.24275
+Centeral Al Fustat,surfer.remission.shiver,30.00305,31.242348
+Central Agency for Public Mobilization and Statistics,betraying.talkers.device,30.079536,31.315125
+Central Agency for Public Mobilization and Statistics,pocketed.twice.gurgled,30.079325,31.315351
+Central Agency for Public Mobilization and Statistics,spillage.revealing.abolish,30.079586,31.314957
+Central Bank (Ataba),barstool.wiped.skate,30.05546,31.246712
+Central Bank (Ataba),persuade.lifeguard.clipped,30.056198,31.24648
+Central Park (Badr),flourished.establishment.roundly,30.125532,31.714417
+Central Park (Badr),tonic.again.dedicatory,30.125671,31.714249
+Ceramica Cleopatra (Sheikh Zayed),contemplate.managed.livid,30.025337,31.017067
+Ceramica Cleopatra (Sheikh Zayed),presumes.leave.verge,30.025467,31.01694
+Ceramica Cleopatra (Sheikh Zayed),recently.daytime.blacken,30.02515,31.01726
+Ceramica Cleopatra (Sheikh Zayed),skid.alleges.packets,30.025055,31.017366
+Ceramica Cleopatra (Sheikh Zayed),static.tactical.slide,30.025883,31.016518
+Ceramica Square - Sheikh Zayed,fillers.eruptions.developed,30.03808,30.97876
+Child Care Club Association - Al Sayeda Zeinab,rebounded.custodial.exchanges,30.029947,31.24871
+City Mall (Shorouq City),closet.forwarded.grow,30.18022,31.599415
+City Mall (Shorouq City),voted.master.community,30.18045,31.59938
+City Scape Mall (6th of October),hydration.rugs.worry,29.963898,30.926651
+City Stars Mall,fever.riverbank.senior,30.073526,31.339188
+City Stars Mall,rice.responses.valley,30.073557,31.338863
+Civil Registry (Haram),befitting.something.cherish,29.999212,31.174557
+Civil Registry (Haram),conforms.taxpayers.stews,29.999329,31.174477
+Civil Registry (Imbaba),backyards.explain.aspect,30.079487,31.223639
+Civil Registry (Imbaba),slim.measuring.weeded,30.0796,31.223648
+Concord Al Salam Hotel (Gesr Al Suez),delusions.handyman.swooning,30.124,31.346899
+Concord Al Salam Hotel (Gesr Al Suez),locate.commutes.keyboard,30.124153,31.346788
+Concord Plaza (5th Settlement),arming.sunblock.spell,30.025543,31.485273
+Concord Plaza (5th Settlement),unheated.waged.contact,30.025213,31.485222
+Conrad Hotel,pesky.starting.clinic,30.065182,31.227211
+Conrad Hotel,reefs.overjoyed.defends,30.065123,31.227304
+Constitutional Court,tame.copper.removals,29.969234,31.238335
+Coop (Cairo Airport),concluded.thrones.servicing,30.12299,31.398748
+Coop (Nasr Al Islam Square),changed.supposes.crouch,30.088142,31.253609
+Coop Gas Station (Helwan Corniche),ears.sobered.timed,29.80848,31.301844
+Coop Gas Station (Helwan Corniche),wake.resonated.visions,29.808403,31.301712
+Coop Gas Station (Om Bayoumi),nervy.open.foot,30.129553,31.251131
+Coop Gas Station (Om Bayoumi),waggled.regret.foods,30.12967,31.251339
+Coptic Hospital,infants.cyber.observer,30.063524,31.251974
+Coptic Hospital,stack.spillage.reshaping,30.063448,31.252092
+Cottonil Factory - Gesr Al Suez,prune.trainer.lunge,30.130552,31.372196
+Credit Agricole (Al Mansoureyya Rd.),stub.adjuster.policy,29.987421,31.13228
+Criminal Evidence Registery (Abbaseya),boxing.widget.bulky,30.071947,31.28747
+Criminal Evidence Registery (Abbaseya),reinstate.spades.breeding,30.071728,31.287243
+Criminal Evidence Registery (Abbaseya),senders.toenail.goodbye,30.07124,31.287176
+Criminal Investigation Department (Al Maadi Company St.),eternity.headstone.haunts,29.984978,31.283539
+Criminal Investigation Department (Al Maadi Company St.),existence.shapes.resists,29.985058,31.283352
+Crystal Asfour ( Masaken Al Wehda ),cages.drawn.roughest,30.120337,31.25831
+Crystal Asfour ( Masaken Al Wehda ),yelled.soft.tribe,30.120152,31.258314
+Culture & Science City (6th of October),poetry.swatting.skins,29.956316,30.913296
+Czesch Republic Embassy (Dokki),idealist.intestine.guides,30.030886,31.212473
+Czesch Republic Embassy (Dokki),outlined.deeds.lines,30.031044,31.21231
+Dabsha ( Al Zaytoun),liquid.staple.wages,30.106659,31.286913
+Dabsha (Al Zaytoun),camcorder.edit.blitz,30.106762,31.287254
+Daewoo,rotations.blank.awestruck,29.919989,30.889503
+Dandy Mall,condensed.caps.whom,30.060894,31.028856
+Dandy Mall,everybody.compress.self,30.06123,31.029121
+Dandy Mall,hedgehog.munched.track,30.06015,31.029615
+Dar Al Foad Hospital (6th of October),concerned.nicer.relate,29.999298,30.966888
+Dar Al Foad Hospital (6th of October),precluded.calculate.doubt,29.999014,30.96719
+Dar Al Foad Hospital (6th of October),scouts.commit.pausing,29.99922,30.96702
+Dar Al Mohandeseen Club (Helwan),attending.wrong.spoons,29.864378,31.291712
+Dar Al Mohandeseen Club (Helwan),pricing.dreaming.typified,29.864328,31.291842
+Dar Al Mona (Alexandria Desert Rd.),dividers.otter.change,30.024654,31.085266
+Dar Al Mona (Alexandria Desert Rd.),mammoth.zoomed.plankton,30.024527,31.085314
+Dar Al Salam,commutes.winemaker.dressy,29.984676,31.241718
+Dar Al Salam,lawns.sing.coasting,29.981066,31.231771
+Dar Al Salam,transmits.blemishes.spared,29.984034,31.238049
+Dar Al Salam Police Station,craftsman.built.shepherdess,29.971968,31.246912
+Dar Al Salam Police Station,rats.galleries.tissue,29.972128,31.24698
+Dar Misr Square (Shorouq City),asteroid.sending.retraced,30.16457,31.640238
+Dar Misr Square (Shorouq City),chips.superhero.sprinter,30.164211,31.640512
+Darb 1718,apple.sues.stun,30.00264,31.232004
+Darb 1718,richly.daredevil.towns,30.002718,31.232061
+Darb Al Saqia (Manshiyat Nasser),charities.escorting.vibrates,30.04743,31.281578
+Darb Al Saqia (Manshiyat Nasser),hurls.laugh.actors,30.047285,31.281683
+Dawaran Shubra,chucks.slices.seagulls,30.080523,31.24572
+Degla Azhari Language School (Zahraa Al Maadi),cleanser.turkeys.coverage,29.964096,31.283844
+Degla Azhari Language School (Zahraa Al Maadi),narrates.dodges.stretcher,29.963974,31.283764
+Diamonds Mall (6th of October),daydreams.truly.spearing,29.97673,30.944956
+Diamonds Mall (6th of October),scatter.newer.collides,29.976816,30.944853
+Didi Mall (1st Settlement),scratches.currently.going,30.070581,31.452255
+Doctors Tower (Nasr City),guarding.fittingly.punks,30.055182,31.352243
+Doctors Tower (Nasr City),incomes.grin.surpassed,30.055378,31.352175
+Documentation Center (Bolak),forgotten.partners.person,30.066687,31.227057
+Documentation Center (Bolak),neutron.tracking.pesky,30.066761,31.226917
+Dokki,deflection.fillers.flitting,30.03739,31.211329
+Dokki,servers.irony.decays,30.037415,31.211552
+Dokki Metro,sudden.friends.distracts,30.038628,31.212915
+Dokki Metro,tucked.succeed.marble,30.0385,31.212864
+Dokki Square,kettles.shred.pebbles,30.038311,31.211502
+Dokki Square,vision.avoiding.crispier,30.038118,31.211105
+Dolce,caves.contemplate.herds,29.935677,30.924425
+Dolce,leans.poetic.basically,29.935627,30.924484
+Dolphin Mall,began.history.unheated,29.978647,30.955572
+Dolphin Mall,relished.readings.buckets,29.978714,30.955675
+Dolphin Mall,tour.sofa.shrugging,29.978891,30.955803
+Dorat Al Karaz Mall,parsnips.notion.stew,29.990593,31.537077
+Dorat Al Karaz Mall,wrong.stated.tries,29.992373,31.537487
+Downtown Mall,kinds.geek.commander,30.016325,31.41264
+Downtown Mall,sometime.giants.adjust,30.016045,31.4115
+Dreamland,winks.wing.schematic,29.958776,31.054636
+Dusit Hotel,chum.encourage.eating,30.025146,31.456976
+Dusit Hotel,january.castle.slowness,30.025436,31.456917
+Duty Free (Gameat Al Dowal St.),crucially.merchant.offers,30.04715,31.196344
+Duty Free (Gameat Al Dowal St.),pampered.occur.strain,30.04732,31.196085
+Dwidar St. & Hadayeq Al Qobba St.,pigment.forgotten.method,30.0837,31.28441
+East Bulaq Dakrur (Nahya),prop.radiated.sweetly,30.0429,31.193829
+East Bulaq Dakrur (Nahya),reduce.options.testy,30.042837,31.193748
+East Imbaba,tenure.trappings.dots,30.077642,31.221771
+Eastern Gate Obour Market,traded.punters.lemons,30.167093,31.476759
+Eastern Weavers (Al Moqattam),clarifies.outs.samplers,30.010664,31.334198
+Eastern Weavers (Al Moqattam),sprouting.bowls.native,30.010893,31.334133
+Ebny Baitak (Wahat Rd.),savers.rules.rejoins,29.955969,31.078617
+Education Directorate (Helwan),link.silk.fruitcake,29.853346,31.295263
+Education Directorate (Helwan),snowmen.spaces.dictation,29.853361,31.295443
+Egypt Air Hospital,acids.briefer.safety,30.091642,31.348394
+Egypt Air Hospital,waged.trespass.purified,30.091494,31.348236
+Egypt Air Steps (Ring Rd.),grumbles.postings.employ,29.982597,31.178705
+Egypt Air Steps (Ring Rd.),nicknames.ideal.treatable,29.982721,31.178564
+Egyptian Agricultural Bank (Al Giza),motivator.purple.expressed,30.008606,31.209003
+Egyptian Agricultural Bank (Al Giza),wiping.ulterior.mailers,30.008642,31.209127
+Egyptian Media Production City,evoke.bothered.releasing,29.969198,31.017769
+Egyptian Media Production City,rollover.contrived.twins,29.969402,31.01783
+Egyptian Parlimant,lunged.conveying.pedicure,30.041445,31.235617
+Egyptian Russian University,continental.handwritten.illustration,30.139751,31.717985
+Egyptian Russian University,dedicated.impairments.unerring,30.139896,31.718245
+Egyptian Russian University - East,equip.fail.detestable,30.14367,31.722767
+Egyptian Shooting Club Pedestrian Tunnle (Kattameya),column.attends.cools,29.983536,31.325695
+Egyptian Shooting Club Pedestrian Tunnle (Kattameya),irritable.swells.text,29.983368,31.325684
+Egyptian Shooting Club Pedestrian Tunnle (Kattameya),though.calm.react,29.98388,31.325584
+Egyptian Telecom Club (Autostrad Maadi),nurses.workers.ferrying,29.969759,31.289045
+Egyptian Telecom Club (Autostrad Maadi),snares.code.billiard,29.969809,31.288832
+El Kafr (Birak Al Khiyam),freshest.ahead.bristle,30.045744,31.157124
+El Khanka Mental Health Hospital,fuss.gobbling.deciding,30.225204,31.367352
+El Nasr English School (Heliopolis),blackbird.rescue.villager,30.101046,31.332985
+El Nasr English School (Heliopolis),padlock.deranged.caskets,30.101124,31.33253
+El Warsha (Ezbet Al Nakhl),argue.strongly.loft,30.141165,31.34389
+El Warsha (Ezbet Al Nakhl),health.wonderful.disco,30.141405,31.343824
+Elecrticity Hospital (Suez Rd),aquatics.averages.standards,30.078793,31.372389
+Elecrticity Hospital (Suez Rd),bogus.totally.collapsed,30.079138,31.372322
+Elecrticity Hospital (Suez Rd),tested.joystick.attends,30.079008,31.372307
+Emad El Deen St. & 26th of July St.,clown.workforce.defectors,30.052555,31.244308
+Emad Market (6th of October),dolphin.poster.fermented,29.961224,30.899387
+Emad Market (6th of October),loafing.merchant.laughs,29.961327,30.899296
+Emerald (New Cairo),offer.shampoo.eyepieces,30.052742,31.430485
+Enppi,breakfast.country.things,30.044985,31.340738
+Enppi,chromatic.known.error,30.044605,31.339363
+Epx Logistics For Transportation And Warehousing (Obour),haunts.brothers.unspoiled,30.260643,31.472372
+Epx Logistics For Transportation And Warehousing (Obour),prospered.stand.elections,30.260561,31.472498
+Experimental School (Bahteem),paused.household.shuttling,30.141401,31.275148
+Experimental School (Bahteem),risen.models.durations,30.141304,31.27523
+Export Development Authority (6th of October),doubts.sulk.desiring,29.94117,30.908895
+Export Development Authority (6th of October),lotteries.amends.slurs,29.94123,30.908987
+Ezbet Al Baydaa Steps (Ring Rd.),bumping.friend.towels,30.163185,31.32703
+Ezbet Al Baydaa Steps (Ring Rd.),operating.screaming.eggplants,30.162998,31.327888
+Ezbet Al Mofti Steps (Ring Rd.),daytime.jumpy.gossiping,30.0884,31.195387
+Ezbet Al Mofti Steps (Ring Rd.),radiated.fire.huddling,30.088337,31.195547
+Ezbet Al Nakhl,abruptly.warm.strikers,30.138672,31.326351
+Ezbet Al Nakhl,leader.swerves.putts,30.139065,31.32537
+Ezbet Al Nakhl,loitering.movies.situation,30.138702,31.326279
+Ezbet Anwar Steps (Ring Rd.),handy.milder.ballooned,30.150188,31.265081
+Ezbet Kheirallah Steps 1 (Ring Rd.),press.lifeboats.cooks,29.992666,31.243715
+Ezbet Kheirallah Steps 1 (Ring Rd.),sprinkler.tablets.plotting,29.992844,31.243715
+Ezbet Kheirallah Steps 2 (Ring Rd.),clash.assembles.cubs,29.991568,31.251917
+Ezbet Kheirallah Steps 2 (Ring Rd.),picnic.refills.status,29.99172,31.251968
+Ezbet Kheirallah Steps 3 (Ring Rd.),catchers.losses.school,29.990322,31.257889
+Ezbet Kheirallah Steps 3 (Ring Rd.),youthful.chess.bound,29.989767,31.260696
+Ezbet Makar Bridge,division.paler.quench,29.910059,31.213072
+Ezbet Makar Bridge,snowboard.path.heads,29.910412,31.213366
+Faculty of Agriculture (Cairo University),lure.holdings.spectacle,30.019436,31.211624
+Faculty of Agriculture (Cairo University),officials.tadpole.cheer,30.019444,31.211748
+Faculty of Agriculture - Ain Shams University,corkscrew.guards.curls,30.111685,31.248222
+Faculty of Agriculture - Ain Shams University,cries.heat.sweetly,30.11212,31.2482
+Faculty of Agriculture - Ain Shams University,restless.wink.threading,30.115358,31.250252
+Faculty of Agriculture - Ain Shams University,self.talker.sensibly,30.115234,31.250093
+Faculty of Applied Arts (Helwan University),reverted.factoring.torches,30.0294,31.20868
+Faculty of Commerce (Cairo University),instilled.sticky.spreads,30.028393,31.20555
+Faculty of Commerce (Cairo University),nosedive.albatross.hoot,30.02853,31.2055
+Faculty of Dental & Oral Medicine - Cairo University (Manial),ecologist.reporters.overdrive,30.028442,31.226645
+Faculty of Dentistry - Modern Academy,itself.bullion.friend,29.997204,31.317764
+Faculty of Dentistry - Modern Academy,marine.reminds.cashiers,29.997166,31.317648
+Faculty of Engineering (Al Azhar University),overdone.promotes.lorry,30.064007,31.286402
+Faculty of Engineering (Al Azhar University),punks.parading.slips,30.064156,31.286692
+Faculty of Engineering (Cairo University),slurping.messed.assorted,30.024944,31.210882
+Faculty of Engineering (Cairo University),trade.easels.messy,30.02497,31.211037
+Faculty of Engineering - Cairo University (Sheikh Zayed),churn.thickened.flasks,30.034067,31.010378
+Faculty of Engineering - Cairo University (Sheikh Zayed),mushroom.summaries.movement,30.034042,31.010565
+Faculty of Medicine - Ain Shams University,removes.furnish.jolt,30.077158,31.281176
+Faculty of Pharmacy - Modern Academy,internal.commands.defected,29.99502,31.3183
+Faculty of Pharmacy - Modern Academy,likely.force.mystified,29.995129,31.318352
+Faisal,stow.responded.belt,29.99369,31.14715
+Faisal Bank (Othman Bin Affan St.),interests.ridiculed.many,30.0993,31.341133
+Faisal Bank (Othman Bin Affan St.),mailer.squabbles.clay,30.099216,31.341293
+Faisal Islamic Bank (Tahrir St.),modifies.votes.eyelash,30.039593,31.217766
+Faisal Islamic Bank (Tahrir St.),twig.brimmed.growth,30.039766,31.21812
+Faisal St.,books.gangs.fiery,29.99048,31.135342
+Faisal St.,rules.smiled.escape,29.99018,31.13518
+Faisal Tawabek,nips.clenching.against,29.998228,31.15938
+Faisal Tawabek,paraded.tempting.dentistry,29.998325,31.159292
+Falcon School (Shorouq City),gambles.catchers.roofer,30.135733,31.663792
+Falcon School (Shorouq City),voltage.eyelashes.tinkle,30.135576,31.66328
+Family Land (6th of October),almost.length.mainly,29.977726,30.928099
+Farghali Realestate in Bashayer,anyway.leader.sprayer,29.967047,30.909021
+Farghali Realestate in Bashayer,science.exits.looks,29.966946,30.909039
+Farhety Hall (Port Said St.),disgraced.rare.setting,30.078896,31.26989
+Farhety Hall (Port Said St.),feared.waggled.turns,30.078915,31.270004
+Farouq Corner Musuem (Helwan),boggles.intervene.amps,29.84686,31.295616
+Farouq Square (Maadi),drooling.dunk.browsers,29.957434,31.25595
+Fatma Al Sharbatly Mosque,allies.sometime.jumbled,30.006203,31.44623
+Fatma Al Sharbatly Mosque,extremely.expansion.attend,30.005634,31.445208
+Fayda Kamel,throwaway.page.suggested,29.976025,31.258179
+Fayda Kamel,typical.bloom.crowbar,29.976044,31.258282
+Fayed Desert Rd. Exit to Madinaty,ranking.torso.retraced,30.174204,31.554844
+Ferdous (Rod Al Farag),sweetened.wardrobe.explains,30.078747,31.235851
+Fiat Service Center (Obour),passenger.generals.pokers,30.179096,31.471952
+Fiat Service Center (Obour),pinch.scooped.pegs,30.179071,31.472136
+Filfil Mosque (Bashtil),emulating.leafing.endearing,30.082487,31.193096
+Fom Al Khalig,applause.painting.cuddling,30.023077,31.230179
+Fom Al Khalig,treaties.saturate.chips,30.022871,31.2309
+Fom Al Khalig Police Station,splendid.shadowed.originate,30.024158,31.232475
+Free Zone (Nasr City),stove.moon.vessel,30.035168,31.34707
+Free Zone (Nasr City),workflow.much.mixed,30.034992,31.34721
+Fustat Market,muffin.rankings.saddens,30.009237,31.23143
+Fustat Market,weeks.reporting.politics,30.009287,31.231325
+Future School (Nasr City),prune.stow.mugs,30.045698,31.34755
+Future School (Nasr City),remarried.famous.fewest,30.045496,31.347565
+Future University in Egypt (FUE),fussed.scorching.trucks,30.025515,31.491087
+Future University in Egypt (FUE),hardening.amphibian.hook,30.025673,31.490385
+Future University in Egypt (FUE),many.hillsides.hack,30.025234,31.490547
+Galaa Bridge Exit to Dokki,childcare.various.discusses,30.040174,31.220144
+Galaa Bridge Exit to Dokki,dream.prank.suggested,30.040054,31.220125
+Galal Motors (Basateen),gossiping.debt.just,29.989855,31.271263
+Galal Motors (Basateen),solicitor.alternate.condense,29.98996,31.271091
+Galleria 40,idealist.pushing.fools,30.01535,31.00181
+Galleria 40,increment.piglets.hits,30.015417,31.001556
+Gamaa St. (Obour),acclaimed.cigar.tonic,30.2109,31.457462
+Gamaat Rd. (Obour),rinsed.deerskins.sickbay,30.142193,31.691246
+Gamaat Rd. (Obour),ties.lampshades.wonderful,30.14274,31.69098
+Gamal Abd Al Nasser Metro,flux.eagles.additives,30.053526,31.23882
+Gamal Abd Al Nasser Metro,long.helpfully.output,30.053915,31.23769
+Gamal Abd Al Nasser Square (5th Settlement),novel.zapped.scorching,29.991102,31.431713
+Gamal Abd Al Nasser Square (5th Settlement),survive.sharpness.dining,29.99041,31.430689
+Gamal Abd Al Nasser St. in Bashayer (6th of October),digested.jacuzzi.composts,29.970097,30.91605
+Gamal Abd Al Nasser St. in Bashayer (6th of October),squaring.doubt.sharp,29.969976,30.916067
+Gamal Abd Al Nasser Steps (Ring Rd.),promises.spillage.placed,30.072231,31.175898
+Gamal Abd Al Nasser Steps (Ring Rd.),slings.raven.flood,30.072258,31.175756
+Gamal Al Din Al Banna St. & Al Checheeny St.,copiers.horseshoe.jazzy,29.997728,31.142284
+Gamal Al Din Al Banna St. & Al Checheeny St.,increases.banana.joked,29.997906,31.142288
+Gardenia (Cairo Suez Rd.),noisy.dustbin.singer,30.081188,31.399471
+Gardenia (Cairo Suez Rd.),terminal.fortunate.torso,30.080574,31.399897
+Gardenia Heights (5th Settlement),digests.robes.buck,29.985876,31.468805
+Gardenia Heights (5th Settlement),shirt.twit.summit,29.985523,31.468552
+Gas (5th Settlement),gilding.undertook.plunge,30.01481,31.416227
+Gas (5th Settlement),rabble.personal.telephone,30.014647,31.416464
+Gas Tech Gas Station ( Faisal St.),indulgent.bunk.dated,29.998543,31.15986
+Gas Tech Gas Station ( Faisal St.),seeing.loving.blocks,29.99843,31.159916
+Gawad Hosny St & Anwar Al Sadat St.,suits.unloads.ranted,29.814964,31.380407
+General Company for Land Reclamation,trickster.clipboard.sizzled,29.984325,31.254826
+Genius International School (Kerdasa),reserves.commutes.steadily,30.009972,31.115637
+Genius International School (Kerdasa),trickster.worldwide.inert,30.009825,31.115635
+Gesr Al Suez - Taha Hussein,shed.taster.drumbeat,30.13218,31.376968
+Gesr Al Suez St. & Al Qobba St.,bright.sinkhole.shaves,30.095554,31.310822
+Gesr Al Suez St. & Al Qobba St.,gilding.longingly.madder,30.095737,31.310823
+Gesr El Suez Garage Station,eradicate.parts.critic,30.127558,31.362158
+Gesr El Suez Garage Station,intruded.recorder.else,30.128984,31.361477
+Ghamra,bleach.playroom.stapled,30.068111,31.264067
+Ghamra,imperious.blotchy.players,30.068193,31.264004
+Ghamra,pinches.contrived.melon,30.068024,31.264788
+Ghamra,titles.elaborate.encodes,30.068064,31.26467
+Ghamra Bridge Entrance,captures.fired.sneezing,30.073153,31.26721
+Ghamra Bridge Exit to Cairo University,charted.plugs.revived,30.073225,31.267382
+Girls' College (Ain Shams University),prominent.rafters.rewarded,30.080982,31.32727
+Girls' College (Ain Shams University),retailing.hopefully.fracture,30.081087,31.327066
+Giza Bridge Exit to Cairo University,exhale.continues.spurted,30.017714,31.211979
+Giza Bridge Exit to Cairo University,report.funky.third,30.017687,31.211834
+Giza Courthouse Complex,equity.dribble.swanky,30.010727,31.209091
+Giza Courthouse Complex,sounding.reckons.purchaser,30.010729,31.208992
+Giza Directorate of Health Affairs,agreed.sizing.swordfish,30.067818,31.193562
+Giza Directorate of Health Affairs,relatives.wooden.parked,30.067879,31.193472
+Giza Governorate Authority,dressing.beak.finely,30.008718,31.199814
+Giza Governorate Authority,variation.synthetic.broth,30.008764,31.199505
+Giza Helwan Bus Station,finishers.sensitive.stitching,30.015514,31.215265
+Giza Metro,skies.remains.trade,30.01407,31.206219
+Giza Park (Bashtil),shirt.ridiculed.fully,30.077011,31.193508
+Giza Park (Bashtil),snores.birthdays.entrusted,30.076767,31.193062
+Giza Square,blessing.profiled.stocks,30.016607,31.21213
+Giza Square,crumble.leave.dignify,30.014465,31.210016
+Giza Square,expert.valued.against,30.0145,31.209661
+Giza Square,invented.boats.scrapping,30.016932,31.213783
+Giza Square,magma.result.dupe,30.0167,31.211948
+Giza Square,nearly.pays.towel,30.015232,31.212465
+Giza Square,proclaims.noise.shortens,30.016989,31.213684
+Giza Square Station,ballooned.client.rejects,30.015612,31.212263
+Giza Square Station,lessening.afternoon.cornfield,30.015663,31.211855
+Gladios Garden Compound,excuse.clogging.navigate,30.009624,31.1046
+Gladios Garden Compound,stream.gong.racked,30.00958,31.104485
+Golf Square (5th Settlement),blasted.quaking.prayers,29.99893,31.405945
+Greek Hospital,quantity.joyously.zoom,30.066776,31.280869
+Green Hills Club,access.retina.hushed,30.163437,31.634155
+Green Hills Club,random.walked.simulations,30.16318,31.634249
+Hadabet Al Ahram,spenders.headline.defected,29.971235,31.108894
+Hadabet Al Ahram,usages.modern.crypt,29.971302,31.108633
+Hadayek Al Ahram Gate 3,quirky.regret.locked,29.948538,31.095287
+Hadayek Al Qobba,catching.exotic.cheese,30.087042,31.290428
+Hadayek Al Qobba Metro,thrashed.acrobats.monitors,30.086649,31.292427
+Hadayek Al Qobba Police Station,chains.estimated.flames,30.094019,31.286434
+Hadayek Al Qobba Police Station,polka.mammoths.about,30.093857,31.286385
+Hadayek Al Qobba Youth Center,bind.yoga.regrowth,30.08954,31.285679
+Hadayek Al Qobba Youth Center,often.woods.scribbled,30.089405,31.285637
+Hadayek Al Qobba Youth Center,scrum.sunblock.aviation,30.089594,31.285381
+Hadayeq Al Qobba Police Station,oval.dives.lobbed,30.092794,31.288004
+Hadayeq Al Zaytoun School (Al Matareyya St.),than.lighters.mass,30.109705,31.303926
+Hadayeq Al Zaytoun School (Al Matareyya St.),winter.robes.novel,30.109724,31.304052
+Hadayeq Helwan,costly.stiffly.training,29.892954,31.298574
+Hall 3 (Cairo Airport),cries.traps.tour,30.12284,31.402615
+Hall 4 (Cairo Airport),cowboys.woof.bypassed,30.124031,31.397747
+Hamada Emam - Industrial Zone 2,clogging.plots.quirky,29.909454,30.894407
+Hamada Emam - Industrial Zone 2,policy.decompose.assess,29.909355,30.894491
+Haram & Marioteya,menswear.electrode.sprouts,29.989735,31.149443
+Haram & Marioteya,mingles.worlds.rocket,29.989939,31.14931
+Haram & Marioteya,tiredness.fidgeted.quoted,29.98991,31.149921
+Haram Mashaal,cured.king.project,29.986492,31.141478
+Haram Mashaal,dabbing.puppy.daunted,29.986578,31.141068
+Haram Mashaal,hints.nuance.innovator,29.98784,31.14374
+Haram Mashaal,quoted.crop.examine,29.987705,31.14034
+Haram Mashaal,ramps.icons.smaller,29.987938,31.140657
+Haram Mashaal,wriggle.innocence.bland,29.987679,31.143797
+Haram Mashaal (Al Mansoreya Rd.),bowls.baseballs.immune,29.98683,31.141497
+Haram St. & Talbeya,reckoned.castle.revamping,30.001793,31.181437
+Haram Talbeya,beak.butter.limit,30.001972,31.181414
+Haram Tunnel (Al Lebeny St.),chair.mourner.lied,29.988,31.149021
+Haram Tunnel (Al Lebeny St.),conspire.valued.survey,29.987968,31.148926
+Hareer St. (Helwan),proud.nuance.golden,29.841398,31.307827
+Hareer St. (Helwan),refuses.small.dressings,29.84144,31.307983
+Hazem Hassan Consulting (Alexandria Desert Rd.),blackmail.wounds.bounding,30.022081,31.072115
+Hazem Hassan Consulting (Alexandria Desert Rd.),instance.tearfully.boggles,30.021868,31.072021
+Health Affairs Directorate - 6th of October,eliminate.rashers.rattler,30.045992,30.970053
+Health Affairs Directorate - 6th of October,stow.aced.fired,30.045921,30.969946
+Health Insurance Hospital (Nasr City),point.unzipped.stable,30.0595,31.326233
+Health Insurance Hospital (Nasr City),vision.tickling.private,30.059725,31.325876
+Hearing and Speech Institute (Imbaba),mimic.salads.quaking,30.081364,31.225246
+Hearing and Speech Institute (Imbaba),warp.glare.slimmer,30.081566,31.225447
+Heliopolis Central (Gesr Al Suez),selects.helpfully.hardback,30.104343,31.321579
+Heliopolis Central (Gesr Al Suez),venues.diverts.detriment,30.10418,31.321753
+Heliopolis Courthouse Complex,highways.outfitter.apple,30.103313,31.328146
+Heliopolis Courthouse Complex,pats.foil.budding,30.103254,31.327711
+Heliopolis Courthouse Complex,persuade.relishes.contacts,30.104174,31.32796
+Heliopolis Hospital,forkful.entry.reap,30.107111,31.33593
+Heliopolis Hospital,hurray.belonging.stopwatch,30.107023,31.336441
+Heliopolis Sporting Club,blaze.shock.conveying,30.090063,31.3158
+Heliopolis Sporting Club,walking.grips.limbs,30.089039,31.317375
+Heliopolis Square,elephant.touchy.unstated,30.108246,31.338537
+Heliopolis Square,winds.codes.mysteries,30.108091,31.338926
+Helmeyet Al Zatoun Metro,hamsters.airliners.teaching,30.112823,31.31431
+Helmeyet Al Zatoun Metro,sake.admit.suggested,30.113195,31.314354
+Helwan Mental Health Hospital,lyricist.fires.petition,29.836367,31.335947
+Helwan Mental Health Hospital,pull.abruptly.headlight,29.836317,31.335808
+Helwan Metro,concerned.speeded.doors,29.848576,31.333967
+Helwan Metro,deflect.overpower.terribly,29.85194,31.33436
+Helwan Metro,monkey.fearfully.rocket,29.84972,31.33528
+Helwan Observatory,blank.tripling.panting,29.868448,31.354622
+Helwan Post Office,gone.argue.ignore,29.84743,31.33273
+Helwan Post Office,response.lamenting.weaved,29.8464,31.334034
+Helwan Station,ditching.natural.tensions,29.854057,31.331528
+Helwan Station,package.gobblers.scrap,29.854126,31.33159
+Helwan University,besotted.bullion.former,29.869402,31.320698
+Helwan University,widget.flows.blotchy,29.869045,31.320093
+Herafyeen Bridge Exit,artist.marshes.chess,30.138832,31.39696
+Herafyeen Bridge Exit,tortoises.driver.foreheads,30.138674,31.39704
+Higher Institute For Hotels & Tourism (Sheraton),community.lizards.talents,30.102877,31.380312
+Higher Institute For Hotels & Tourism (Sheraton),exhales.timing.nutty,30.102781,31.380157
+Higher Institute Of Marketing Commerce & Information Systems,amid.newspaper.deflate,30.066246,31.450163
+Higher Institute Of Marketing Commerce & Information Systems,fishery.darts.workshop,30.066242,31.450056
+Higher Technological Institute HTI (6th of October),captures.electric.forensic,29.955938,30.939781
+Higher Technological Institute HTI (6th of October),gentlemen.graph.frosted,29.955828,30.939842
+Hikestep Bridge Entrance,grin.applauded.punters,30.14311,31.403936
+Hilton Pyramids Golf (Dreamland),craftsman.lectures.heartburn,29.96232,31.041578
+Hilton Pyramids Golf (Dreamland),snoozing.purified.obligated,29.961554,31.044987
+Holding Company For Water & Wastewater (HCWW),measures.alternate.slower,30.080078,31.230715
+Holding Company For Water & Wastewater (HCWW),punctual.forgiven.lifetimes,30.080034,31.23081
+Hospital 57357 (  Magra Al Oyoun ),areas.pure.baths,30.025192,31.238302
+Hossary Station,advising.sideburns.blur,29.973577,30.943935
+Hossary Station,customers.broads.onwards,29.968252,30.948452
+Hossary Station,darts.caps.cabbages,29.970945,30.946234
+Hossary Station,documents.cultivation.december,29.97349,30.943802
+Hossary Station,prefer.protrude.obstruction,29.971909,30.944084
+Hossary Station,synthetic.backhand.dabble,29.97205,30.943916
+Housing & Utilities Directorate (Giza),dressing.communal.landlady,30.000895,31.204584
+Housing And Development Bank (6th of October),unit.yours.positives,29.95936,30.926264
+Housing And Development Bank (6th of October),wharfs.circles.shun,29.959248,30.926346
+Huckstep,onto.ecologist.belief,30.159666,31.468777
+Huckstep,singles.diver.javelin,30.159693,31.468613
+Huckstep Bridge Entrance,recital.whoever.stolen,30.143229,31.403664
+Hussein Sedqy Mosque (Maadi),energetic.bedrooms.lamplight,29.959015,31.251232
+Hyper One (10th of Ramadan),domed.conclusions.jeeps,30.244669,31.725433
+Hyper One (10th of Ramadan),pubs.dangled.unscrew,30.244528,31.725595
+Hyper One (Sheikh Zayed),allies.denser.incursion,30.029799,31.02244
+Hyper One (Sheikh Zayed),ideals.raking.released,30.029882,31.024052
+Hyper One (Sheikh Zayed),molars.baths.weekend,30.029541,31.024239
+Hyper One (Sheikh Zayed),officials.section.jabs,30.028921,31.02162
+Hyper One (Sheikh Zayed),shuttered.smashes.streamers,30.03007,31.024
+Hyper One (Sheikh Zayed),single.searching.crank,30.029627,31.02411
+Ibn Al Hakam Square (Heliopolis),imprinted.haggling.retail,30.10983,31.32031
+Ibn Al Hakam Square (Heliopolis),noun.lucky.bystander,30.11032,31.32029
+Ibn Khaldoun School (Heliopolis),disprove.womb.brisk,30.118187,31.320263
+Ibrahim Abdel Raziq St. & Ain Shams St.,polar.backlog.flasks,30.126215,31.320044
+Ibrahim Abdel Raziq St. & Ain Shams St.,shirtless.smoking.martini,30.126429,31.320028
+Ibrahim Al Afifi Alley (Al Mansoureyya Rd.),dissolves.trek.chimp,29.974312,31.145088
+Ibrahim Al Afifi Alley (Al Mansoureyya Rd.),rather.shifts.drill,29.974058,31.144901
+Ibrahim Al Rifaie School (1st Settlement),clocked.estimated.broker,30.070019,31.456205
+Ibrahim Al Rifaie School (1st Settlement),clouds.comedians.halt,30.070099,31.45631
+Ibrahim Anwar Mosque (Al Zaytoun),anode.mammoths.subject,30.103159,31.300596
+Ibrahim Anwar Mosque (Al Zaytoun),scuba.powers.magazines,30.103012,31.300531
+Ibrahim Bek,desiring.repayment.takeover,30.136793,31.263454
+Ibrahim Bek,ruffle.materials.expanded,30.13684,31.26313
+Ibrahim Bek Youth Center,guesswork.knitted.fictional,30.133259,31.262064
+Ibrahim Bek Youth Center,inherits.badge.starts,30.13321,31.26229
+Ibrahim Mosque (Marg Axis),idealist.wage.admires,30.15425,31.375656
+Ibrahim Mosque (Marg Axis),strutted.grad.blatantly,30.154047,31.375692
+Icon for Construction And Development,cookers.dusts.attitudes,29.893797,31.315569
+Icon for Construction And Development,qualifier.chill.valuables,29.893703,31.31569
+Ideal Standard (Nasr Rd.),liquid.fixture.name,30.091213,31.372532
+Ideal Standard (Nasr Rd.),specifies.jumped.wanting,30.091103,31.372566
+Ikea (Cairo Festival City),musically.leaves.limit,30.03103,31.403511
+Imam Al Shafei Mosque (Basateen Rd.),agreeing.timing.incurring,30.012344,31.262177
+Imam Mohamed St & Anwar Al Sadat St.,coupler.blows.growl,29.820072,31.37639
+Imam Mohamed St & Anwar Al Sadat St.,officers.outlawing.crab,29.820087,31.376524
+Imbaba,already.drum.grove,30.07957,31.214594
+Imbaba,laugh.dabble.colder,30.078262,31.21852
+Imbaba,lifeboats.thick.agents,30.07665,31.213968
+Imbaba,prove.organist.groups,30.078259,31.217115
+Imbaba,pythons.flipper.premiums,30.079754,31.214539
+Imbaba,ranks.jolly.replenish,30.076674,31.214165
+Imbaba,spreading.doubts.raves,30.078299,31.218414
+Imbaba Fevers Hospital,bloom.tugging.starts,30.083801,31.226295
+Imbaba Fevers Hospital,flush.cheese.sagging,30.083834,31.225988
+Imbaba Police Station,custodian.vegetable.surfaces,30.075249,31.222174
+Imbaba Police Station,store.remembers.trifle,30.074944,31.222086
+Imbaba Station,committee.safari.healers,30.077566,31.221828
+Industrial School (6th of October),promotion.dozed.party,29.948103,30.927742
+Industrial School (6th of October),vesting.collide.headstone,29.948004,30.927816
+Industrial Technical Institute (Al Azhar),cars.void.unwraps,30.056147,31.271927
+Industrial Zone 3,elections.outnumber.smaller,29.92983,30.892282
+Industrial Zone's Banks Area (6th of October),part.earpiece.untruth,29.946507,30.898552
+Industrial Zone's Banks Area (6th of October),pianists.snore.boomers,29.946634,30.89845
+Infantry House (Heliopolis),puppy.different.roaring,30.07803,31.300356
+Infantry House (Heliopolis),wobbles.boat.birds,30.078014,31.300213
+International Garden,outlawing.premature.plump,30.051584,31.338675
+International Garden,robot.agency.panther,30.051746,31.338886
+Isaaf,chosen.squeezed.shock,30.054693,31.238459
+Isaaf,floating.expansion.stuffing,30.054348,31.236347
+Isaaf,squashes.infects.pixel,30.053852,31.23797
+Isbiko Station,damp.tailwind.ripe,30.18049,31.412437
+Isko,president.promising.cowboys,30.15113,31.277302
+Islamic Center (Sheikh Zayed),backfired.screamed.readings,30.05079,30.976734
+Islamic Center (Sheikh Zayed),crossing.lilac.start,30.049625,30.978374
+Islamic Center (Sheikh Zayed),loaders.duplicity.approach,30.049282,30.9787
+Islamic Studies Institute (Al Waili),absorbs.consults.user,30.056332,31.279274
+Islamic Studies Institute (Al Waili),economics.stir.gamer,30.056273,31.279202
+Ismailiya Desert Rd. & Belbeis Desert Rd.,flaked.scare.poetry,30.150515,31.429752
+Ismailiya Desert Rd. & Belbeis Desert Rd.,reference.toddler.feuds,30.150192,31.429571
+Jazirat Mohamed,positive.commented.fools,30.112425,31.204498
+Journalists Club (Al Bahr Al Aazam St.),pinks.nuzzling.generally,30.00548,31.217411
+Journalists Club (Al Bahr Al Aazam St.),survive.dugouts.unframed,30.00547,31.217558
+Judges Club (Al Dokki),crossword.flattered.wharfs,30.04289,31.219189
+Judges Club (Al Dokki),secondly.physical.computers,30.042927,31.219313
+Juhayna Square,expressed.mainly.gangs,30.008417,30.982393
+Juhayna Square,kinder.helpfully.curvy,30.008562,30.98152
+KFC ( Faisal St. ),bespoke.carry.loom,30.002823,31.171217
+KFC ( Faisal St. ),crunches.hostels.robots,30.00271,31.171293
+KFC (Al Lebeny St.),save.trifling.wished,29.98655,31.150272
+KFC (Al Lebeny St.),sung.sensitive.shock,29.986595,31.15034
+KFC (Al Manial),screening.plots.nosedive,30.02819,31.226633
+KFC (Gameat Al Dowal St.),display.closet.meatballs,30.055166,31.203672
+KFC (Gameat Al Dowal St.),replaying.baths.token,30.055372,31.203403
+Kabdet Al Prince (Imbaba),boggles.punctual.lavished,30.080658,31.219267
+Kabdet Al Prince (Imbaba),limitless.shelved.hillside,30.080744,31.219303
+Kafr AL Shurafa,hires.farmland.soft,30.143358,31.358383
+Kafr AL Shurafa,salmon.fetching.magma,30.143213,31.358608
+Kafr Hamza Mill,tasteful.nowadays.narrating,30.220135,31.32774
+Kafr Hamza Mosque,unzipped.gifts.tropic,30.230728,31.33224
+Kafr Tohormos Steps (Ring Rd.),hill.cackling.mocking,30.018217,31.166443
+Kafr Tohormos Steps (Ring Rd.),stuffing.flocking.then,30.018171,31.166273
+Kafr Tuhurmis,interview.resort.postings,30.016369,31.174747
+Kafr Tuhurmis,sidelined.pipeline.monorail,30.016333,31.174618
+Kahraba Club (Rod Al Farag),appealing.indicate.fillers,30.084936,31.232613
+Kahraba Club (Rod Al Farag),swimsuits.best.dormant,30.08505,31.232473
+Kan Kan 12th District (6th of October),devours.sprain.cyber,29.955828,30.896494
+Kan Kan 12th District (6th of October),resort.breakaway.dishing,29.95577,30.896347
+Kasr Al Ainy,crusher.exists.defrost,30.02923,31.2298
+Kasr Al Ainy Hospital,cuddling.alcove.upsetting,30.029202,31.231014
+Kasr Al Ainy Hospital,risky.evolves.startles,30.030838,31.232492
+Kasr Al Ainy Hospital,walking.shower.regress,30.030737,31.23078
+Kattameya,composts.waving.unclaimed,29.9757,31.395063
+Kattameya,tens.saturate.sharper,29.974869,31.394905
+Kattameya Church,commuted.spreads.plotted,29.982222,31.416859
+Kattameya Church,trim.baseline.massaging,29.982185,31.416798
+Kattameya Traffic Department,justifies.clogging.readings,29.97313,31.38987
+Kattameya Traffic Department,taps.rant.candy,29.97353,31.38994
+Kawkab Al Sharq Cafe - Bashayer,sector.skill.eggplants,29.968777,30.914675
+Kawkab Al Sharq Cafe - Bashayer,toasters.aims.regard,29.968601,30.914368
+Kempinski Hotel (Ring Rd.),bitters.shelving.plugged,30.060923,31.417439
+Kempinski Hotel (Ring Rd.),seasons.mini.derailed,30.060982,31.417215
+Kempinski Nile Hotel (Qasr Al Nile),loaning.hooks.certainly,30.037794,31.229729
+Kerdasa Saft Al Laban Rd.,universally.headliner.ladder,30.032202,31.135979
+Kerdasa Saft Al Laban Rd.,yawned.swelling.gobblers,30.032131,31.13604
+Kerdasa Station,dishes.measuring.stuffing,30.035316,31.116539
+Kerdasa Station,magnitude.obstinate.darker,30.035124,31.11687
+Khadija Mosque (Obour),comply.micro.parts,30.235514,31.462864
+Khadija Mosque (Obour),irritate.vitamins.live,30.235748,31.463572
+Khair Zaman (Zahraa Al Maadi),misfits.groomed.calculate,29.961248,31.289583
+Khalafawi Square,icebergs.generated.basis,30.097776,31.249243
+Khalil Agha Military School,swan.motivates.nudge,30.059074,31.262318
+Kheir Zaman (Ahmed Al Zomor St.),itself.suspended.wage,30.047047,31.359509
+Kheir Zaman Al Mehwar Al Markazi (6th of October),sulked.shock.inflates,29.972227,30.937765
+Khofo Gate (Hadayek Al Ahram),belts.refutes.occupiers,29.977314,31.112429
+Khofo Gate (Hadayek Al Ahram),smoothly.failed.unhelpful,29.977547,31.112259
+Khosous,daring.elbowing.demand,30.162863,31.32287
+Khosous,imperious.audit.screaming,30.163202,31.323433
+Kia Motors (Joseph Tito St.),purified.flag.overlook,30.136324,31.392082
+Kids Land (Mostafa Al Nahas St.),boils.varieties.bags,30.057266,31.369188
+Kids Land (Mostafa Al Nahas St.),title.notifying.unrealistic,30.057037,31.369213
+Kilo 4 & Half Bus Station,escape.amber.jetliner,30.079138,31.381405
+Kilo 4 & Half Bus Station,weary.guessing.lungs,30.079643,31.381018
+Kit Kat District,large.garages.inspected,30.071037,31.21763
+Kit Kat District,taxpayers.lived.repair,30.071089,31.217554
+Kit Kat Square,baseballs.whizzing.dimension,30.066458,31.213568
+Kit Kat Square,empire.drilled.unloads,30.065704,31.213562
+Kit Kat Square,mirroring.alleges.intention,30.065008,31.213667
+Kit Kat Square,pits.smooth.crinkled,30.066555,31.213938
+Kobry Al Qobba,aliens.muffin.valid,30.083977,31.295345
+Kobry Al Qobba,breezy.stirs.skirt,30.087126,31.289679
+Kobry Al Qobba,otter.punchy.awaited,30.084438,31.296179
+Kobry Al Qobba,roosters.dollars.plump,30.086536,31.29245
+Kobry Orabi,immediate.transcribes.this,30.121626,31.250525
+Kobry Orabi,scarcely.drape.astounded,30.122028,31.250044
+Kobry Orabi,threaded.fence.blurts,30.122084,31.250387
+Koleyet Al Banat (Azhar University),chairing.hero.sentences,30.05677,31.326336
+Koleyet Al Banat (Azhar University),gangway.envoy.once,30.052738,31.324799
+Koleyet Al Banat (Azhar University),response.amends.somewhere,30.052969,31.325039
+Koleyet Al Banat (Azhar University),witty.typist.class,30.056778,31.32662
+Koleyet Al Banat Metro,behaving.efficient.slide,30.083923,31.32859
+Konayyesa (Moneeb),always.autumn.jiggle,29.985369,31.19737
+Konayyesa (Moneeb),early.cheeses.limits,29.985258,31.197275
+Konayyesa (Moneeb),stretch.irritate.hides,29.985495,31.197496
+Korba District,bells.typically.durations,30.093632,31.324766
+Korba District,deodorant.debt.chess,30.092373,31.323391
+Korba District,straddled.ignoring.chipper,30.092485,31.323189
+Koshary Abu Hanafy (Al Moqattam),commended.dating.cackling,29.999783,31.330936
+Koshary Abu Hanafy (Al Moqattam),tougher.comedy.best,29.999662,31.330887
+Koshary Al Tahrir (Nasr St.),dozed.attaching.clinic,29.975891,31.284729
+Koshary Al Tahrir (Nasr St.),raves.ranted.demotion,29.976028,31.284718
+Koshary Aladin (Shobra),vocally.treatable.ogre,30.070969,31.247192
+Koshary Hend ( Masaken Al Wehda),organ.meanders.skyrocket,30.128618,31.260704
+Koshary Hend ( Masaken Al Wehda),worksheet.inhabited.mammal,30.12872,31.260933
+Language Institute (Al Qobba),exotic.campers.slimming,30.0815,31.299479
+Language Institute (Al Qobba),questions.breached.tones,30.081596,31.299576
+Laylat Al Qadr Entrance,gladiator.sudden.fills,29.948961,30.902271
+Laylat Al Qadr Station,gentlemen.escorting.stated,29.94641,30.904919
+Laylat Al Qadr Station,ideals.increment.rush,29.946274,30.904243
+Laylat Al Qadr Station,paradise.asterisk.snapper,29.946026,30.904238
+Laylat Al Qadr Station,steam.comic.archduke,29.946623,30.904802
+Leather and Tanning Company (Autostrad),euphoric.costumed.exporters,30.00009,31.27656
+Leather and Tanning Company (Autostrad),regaining.dried.parent,30.000038,31.276407
+Lebanon Square,albums.protect.pleaser,30.059446,31.193308
+Lebanon Square,camcorder.generals.awake,30.059494,31.192745
+Lebanon Square,defenders.forever.little,30.05926,31.189613
+Lebanon Square,fulfilled.doctors.hidden,30.059477,31.189928
+Lebanon Square,melons.kilt.without,30.059841,31.19268
+Lebanon Square,squabbles.outsiders.wrenching,30.059484,31.19002
+Libya St,handyman.crib.matchbox,30.134573,31.251005
+Libya St,hopefully.civil.overdrive,30.134546,31.250698
+Lotfy Al Sayed St & Masr Wal Sudan St,muddy.reclined.toasters,30.074575,31.27288
+Lotus (5th Settlement),slang.switch.flexibly,30.02684,31.49883
+Lux School (Al Marg),crossword.spilling.factories,30.15831,31.328766
+Lux School (Al Marg),ranked.innovator.spotted,30.158333,31.328917
+MCS Oil (Zahraa Al Maadi ),anode.warbler.basically,29.964432,31.3197
+MCS Oil (Zahraa Al Maadi),caressed.skis.stop,29.964256,31.319916
+MIU (Obour),crumble.hologram.fuzz,30.166313,31.491087
+MIU (Obour),slumped.flinches.regard,30.166183,31.492315
+MSA University,interviewer.gold.wades,29.954983,30.959091
+MSA University,originate.reduce.relishing,29.955088,30.95896
+MSA University,totals.inflating.torches,29.955181,30.958813
+Maadi Metro,pipeline.masses.risking,29.961842,31.258198
+Maadi Metro Station,clipboard.stag.pylons,29.96018,31.257246
+Maadi Military Hospital,employers.regard.direction,29.968187,31.239403
+Maadi Military Hospital,lazy.outnumber.funded,29.967924,31.239506
+Maahad Baneen,challenge.replied.surreal,30.039726,30.978
+Maasara Autostrad,brain.swung.culling,29.91316,31.298084
+Maasara Autostrad,defeat.affirming.curving,29.913094,31.297924
+Macdonald's (Mergheny St.),plotter.dash.spend,30.087107,31.334702
+Macdonald's (Mergheny St.),towels.dabble.dreams,30.08687,31.333899
+Madbah ( Magra Al Oyoun),formless.tailing.reliving,30.020966,31.240217
+Madbah ( Magra Al Oyoun),shiny.radiating.annotated,30.020893,31.240175
+Madbah Steps (Ring Rd.),lushly.retire.dads,30.149805,31.247515
+Madbah Steps (Ring Rd.),promises.positives.belt,30.1497,31.242952
+Madinat Al Bo'oth Al Eslamyya,barrel.listed.interval,30.0524,31.2771
+Madinat Al Bo'oth Al Eslamyya,enveloped.mega.tunnel,30.052263,31.277122
+Madinat Al Solb (Al Tibeen),manuals.juggles.bibs,29.781528,31.309252
+Madinat Al Talaba,appointed.september.respond,30.06988,31.20258
+Madinat Al Talaba,frosted.remains.untruth,30.07137,31.200375
+Madinat Al Talaba,octagon.overlook.disposing,30.071438,31.20031
+Mafareq (Hadayeq Helwan),butternut.surveyors.otter,29.893034,31.301353
+Magd Al Islam Hospital,texted.motivates.eyebrows,30.103848,31.254587
+Magda Square,clumped.turned.cabbies,29.975174,30.942778
+Magda Square,episode.airbase.financial,29.974874,30.94245
+Magda Square,rinsed.noses.thinnest,29.97563,30.942186
+Magda Square,sometime.anchovies.dampen,29.975327,30.942335
+Magra Al Oyoun (Salah Salem),radar.icicles.parsnips,30.018284,31.25178
+Magra Al Oyoun (Salah Salem),rope.pegged.fulfilled,30.018,31.251762
+Mahmoudeya Housing (Al Moqattam),boasted.afterglow.reunion,30.005571,31.336842
+Mahmoudeya Station,events.sprouting.diamond,29.974686,31.397041
+Mahmoudeya Station,marriage.parading.caravans,29.97478,31.39704
+Makram Ebeid St. & Mostafa Al Nahas St.,enthused.grab.months,30.055138,31.346209
+Mall of Arabia,bandage.second.embellish,30.002531,30.972605
+Mall of Arabia,ringside.intent.petal,30.002762,30.972473
+Mall of Arabia,second.unhelpful.chicken,30.002829,30.972307
+Mall of Egypt,actual.busters.paces,29.97066,31.013449
+Mall of Egypt,dugouts.digests.likes,29.970472,31.013355
+Mamaleek (Al Manial),airfields.spurring.reverted,30.009726,31.226
+Manial Shiha Elementary School,nail.trombone.trackers,29.950745,31.243542
+Manial Shiha Elementary School,rang.tailors.throwaway,29.9507,31.243439
+Manial Shiha Post Office,pack.shameless.liability,29.959942,31.232166
+Manial Shiha Post Office,shrugging.flags.pure,29.95997,31.232262
+Mankaraa Gate (Hadayek Al Ahram),assure.flushes.irony,29.95373,31.103989
+Manshiyat Al Bakri Steps (Ring Rd.),extensive.tennis.terribly,30.011126,31.14575
+Manshiyat Al Bakri Steps (Ring Rd.),unrealistic.banquets.planting,30.011288,31.145678
+Manshiyat Al Bakry General Hospital,buck.refers.hockey,30.093624,31.304672
+Manshiyat Al Bakry General Hospital,declares.feasting.case,30.092787,31.3057
+Manshiyat Al Bakry General Hospital,eruptions.smiling.haggle,30.09242,31.30703
+Manshiyat Al Bakry General Hospital,leaps.mandates.grapevine,30.09259,31.307098
+Manshiyat Al Gamal,gross.smoke.aboard,30.094223,31.272373
+Manshiyat Nasser,bookcases.tastier.task,30.044466,31.278223
+Manshiyat Nasser,depth.youngest.opposites,30.041414,31.275078
+Manshiyat Nasser,recent.poetry.ripen,30.038061,31.27194
+Manshiyat Nasser,stir.riverbank.cropping,30.041296,31.275137
+Manshiyat Nasser,wells.streaking.galloped,30.044363,31.27835
+Mansour Chevrolet Sales Center (Alexandria Desert Rd.),things.marriage.procures,30.025475,31.092121
+Mansour Chevrolet Sales Center (Alexandria Desert Rd.),vast.resorting.candidate,30.025595,31.09211
+Marioteya & Ring Rd.,logbook.fussed.square,30.009365,31.13633
+Marioteya & Ring Rd.,noticing.vampire.moderated,30.008919,31.135946
+Marioteya Rd. & Faisal St.,camper.painting.sleepers,29.993595,31.147207
+Marioteya Rd. & Faisal St.,landlords.furnish.blunders,29.99388,31.147522
+Marioteya Tunnel Entrance,flick.ditching.apartment,29.994669,31.144905
+Marioteya Tunnel Exit,online.hologram.soulful,29.994795,31.14496
+Marioteyya,crop.sharpened.household,30.010399,31.141424
+Marioteyya,hunk.poet.surging,30.01011,31.14128
+Markaz Al Nakheel (6th of October),broom.swerving.rejoined,29.963812,30.903355
+Maryam Pharmacy (Faisal St.),cluttered.drilling.spellings,30.009298,31.188375
+Maryam Pharmacy (Faisal St.),presume.motive.keyboard,30.009354,31.188183
+Masaken Ain Shams,ended.snow.witty,30.136303,31.351545
+Masaken Ain Shams,relay.officials.questions,30.136423,31.351551
+Masaken Ain Shams Station,sketching.puzzles.producers,30.13588,31.349798
+Masaken Al Abd (Al Salam),misted.committed.stages,30.170074,31.408842
+Masaken Al Abd (Al Salam),resolves.crouching.rider,30.169989,31.408886
+Masaken Al Kendy,bonfires.arming.dunes,29.991936,31.293015
+Masaken Al Kendy,plays.alleyway.storeroom,29.9921,31.293024
+Masaken Al Kendy,thudding.pumpkin.issuer,29.991785,31.292902
+Masaken Al Kendy,valuables.grumble.spoils,29.99164,31.292896
+Masaken Al Shrouq,lodge.vandalism.tape,30.070164,31.368526
+Masaken Al Shrouq,payback.passing.dumps,30.070038,31.368912
+Masaken Al Shrouq Entrance,craftsman.shin.wells,30.067085,31.36026
+Masaken Al Shrouq Entrance,inspects.shin.inclined,30.06716,31.36039
+Masaken Al Wadi Al Qadeem (Al Salam),dispose.obtain.subsystem,30.174566,31.412636
+Masaken Al Wadi Al Qadeem (Al Salam),outreach.comically.reader,30.174633,31.412687
+Masaken Al Wehda,trappings.rummage.glimmers,30.119507,31.258417
+Masaken Al Zobbat (10th District Nasr City),fund.supply.worms,30.038418,31.394695
+Masaken Almaza,crops.convey.nearly,30.090158,31.348623
+Masaken Betcho,alcove.mouth.diplomats,29.96947,31.329725
+Masaken Betcho,cheer.pebble.scorching,29.969332,31.329721
+Masaken Helmeyet Al Zatoun,grandson.hacking.forklift,30.117426,31.328484
+Masaken Isbiko St.,nuggets.luck.bombshell,30.17711,31.410534
+Masaken Isbiko St.,scans.gold.submitted,30.17713,31.410727
+Masaken Othman,splendid.assess.flight,29.918983,30.939407
+Masaken Sheraton,stray.unusually.providing,30.10547,31.385391
+Masaken Zainhom Station,stages.lollipop.fronted,30.022728,31.244081
+Masaken Zobbat Almaza,steady.basher.trainer,30.082645,31.378819
+Masarra,hems.curtains.honeybees,30.07357,31.2404
+Mashaal (Haram),glorified.projects.loses,29.992138,31.13027
+Mashyakhet Al Azhar Al Sharif,infringe.market.daring,30.045752,31.27117
+Mashyakhet Al Azhar Al Sharif,souk.mocked.should,30.045607,31.271275
+Mashyakhet Al Azhar Al Sharif,train.refutes.fractions,30.045563,31.271353
+Maspero Exit (15th of May Bridge),alike.strutted.tamed,30.05515,31.229155
+Masraweya,coverage.generally.magnitude,30.025578,31.475554
+Masraweya,strictest.glimmers.combines,30.025293,31.475529
+Massalah Gadeeda (Al Matareyya),overdone.animates.earpiece,30.127802,31.300982
+Mastoura Mosque (Al Moqattam),hypocrite.montage.mentioned,30.008434,31.315588
+Mastoura Mosque (Al Moqattam),portable.shadow.lotteries,30.008352,31.31579
+Matbaa,haircuts.satin.fools,29.973722,31.24716
+Matbaa,resonated.unlucky.together,29.973726,31.246655
+May Fair Village (Shorouq City),dwell.donation.rewrites,30.132847,31.60121
+May Fair Village (Shorouq City),pinging.flopping.trams,30.13288,31.601458
+Mazallat,completed.obviously.picnic,30.105316,31.24671
+Mazallat,however.firepower.sprinkle,30.10494,31.246498
+Mazallat,instilled.agreement.hips,30.10495,31.246717
+Mazallat,pins.farmland.abstracts,30.104982,31.246624
+Mazallat Station,clicker.movies.lately,30.102018,31.246168
+Mazar Mall,alleyway.loud.quicksand,30.053305,30.96169
+Mazar Mall,memo.yacht.protect,30.053345,30.962124
+Mazda Plaza (Alexandria Desert Rd.),acrobatic.handbag.infuses,30.081022,30.993906
+Mazda Plaza (Alexandria Desert Rd.),clarifies.globe.node,30.081692,30.99462
+Mazghuna,overcomes.stylists.courage,29.744741,31.261349
+Mazghuna,washing.arranges.captive,29.74476,31.26125
+Mazlaqan Ain Shams,binder.hairstyle.senior,30.132488,31.3231
+Mazlaqan Ain Shams,holiday.valley.haystack,30.132532,31.323242
+Mazlaqan Ain Shams,styled.operating.areas,30.133928,31.32383
+Mazlaqan Al Deweqa,smaller.informal.fussy,30.049547,31.286484
+Mazlaqan Al Deweqa,weeded.airbag.extremely,30.04977,31.286497
+Mazlaqan Om Khinan (Al Hawamdeyya),films.sling.trudges,29.912025,31.267132
+Mazlaqan Om Khinan (Al Hawamdeyya),subway.setting.variances,29.912062,31.267258
+Megawra 11 (15th of May),tracking.bedspread.golden,29.81839,31.36344
+Megawra 3 Bus Station (15th of May),buck.estuaries.parkway,29.8326,31.379328
+Megawra 3 Bus Station (15th of May),scanner.blocking.additives,29.832556,31.379131
+Mena House,defends.recording.mankind,29.98459,31.13563
+Meriam's Tree (Al Matareyya),rates.whizzing.joins,30.12029,31.307356
+Metro (Misr Helwan Rd.),alright.kilt.quiz,29.964836,31.249016
+Metro (Misr Helwan Rd.),lamps.regretted.gifts,29.964918,31.24913
+Mffco Helwan (Helwan Corniche),sisters.poses.incurring,29.833902,31.299072
+Mffco Helwan (Helwan Corniche),squeaks.grudge.approvals,29.833868,31.298967
+Military Academy Stadium (Sheraton),beads.doped.dollar,30.112537,31.368286
+Military Academy Stadium (Sheraton),scorecard.deploying.prowl,30.111944,31.369085
+Military Cemetery (N/A Axis),shows.coolest.triangles,30.022703,31.352621
+Mina Gate 4 (Hadayek Al Ahram),walked.gracing.talkers,29.951818,31.088005
+Minerals & Refrigeration Center (Abboud),newlywed.cowboy.tiles,30.107801,31.260393
+Ministry Of Higher Education,incensed.slimming.prices,30.037981,31.34052
+Ministry Of Youth And Sports,quality.succeed.appoints,30.060923,31.205006
+Ministry Of Youth And Sports,quick.pushes.nourished,30.06081,31.205017
+Ministry of Agriculture (Dokki),mystery.electrode.modem,30.04341,31.211712
+Ministry of Agriculture (Dokki),reheat.acid.companies,30.043566,31.211887
+Ministry of Irrigation (Warraq),ending.pizzas.mallets,30.09151,31.225206
+Ministry of Irrigation (Warraq),swan.recall.overhear,30.091454,31.225082
+Misr 2000,path.motored.terms,30.038557,31.438967
+Misr Al Gadida Military Hospital,currently.among.singles,30.113325,31.332628
+Misr Al Gadida Military Hospital,organs.dissolve.fuzz,30.1133,31.332912
+Misr Al Qadima,goodnight.trouble.footpath,30.000582,31.227833
+Misr Al Qadima Police Department,afflicted.tune.ticket,30.006916,31.253723
+Misr Al Qadima Post Office,decoded.entrust.airports,30.00559,31.226345
+Misr Al Qadima Post Office,tender.documents.piglets,30.005592,31.226488
+Misr Al Wosta Electricity Company (Al Bahr Al Aazam St.),cupcake.shrub.showrooms,29.994123,31.215244
+Misr Al Wosta Electricity Company (Al Bahr Al Aazam St.),flows.taxpayers.hopes,29.994125,31.215385
+Misr Bank (Shobra St.),believer.agreement.nibbles,30.069054,31.24502
+Misr El Qadima District Presidency,peachy.obviously.basic,30.015621,31.238953
+Misr El Qadima District Presidency,stops.clinic.football,30.0157,31.23896
+Misr El Qadima Police Department,reserved.deciding.everybody,30.007671,31.254263
+Misr Gas Station (Giza Square),unpacked.loud.taster,30.014462,31.208406
+Misr Insurance Company (Al Moqattam),exist.prune.square,30.01296,31.294006
+Misr Insurance Company (Al Moqattam),order.inspected.crows,30.01305,31.293583
+Misr Petroleum (Port Said St.),passports.enjoyable.exporters,30.083559,31.271982
+Misr Petroleum (Port Said St.),scuba.thrillers.toggle,30.083525,31.272093
+Misr Petroleum - Masaken Al Wehda,expressed.surviving.shelter,30.118504,31.25844
+Misr Petroleum Gas Station (Badrasheen),copiers.enhances.stowing,29.850142,31.26311
+Misr Public Library (Port Said St.),beefed.consoled.wins,30.087687,31.273754
+Misr Public Library (Port Said St.),gifted.smothered.party,30.087793,31.273918
+Misr Sudan (Nasr City),hobby.retraced.alleyway,30.049006,31.327852
+Misr Sudan (Nasr City),storyline.encoder.golf,30.049034,31.328003
+Misr University for Sciences and Technology (MUST),corkscrew.waddle.judge,29.99783,30.964651
+Misr University for Sciences and Technology (MUST),earphones.splits.request,29.997766,30.964796
+Misr University for Sciences and Technology (MUST),submit.dared.seriously,29.997503,30.964962
+Misr for Packing (6th of October),slack.patrolled.treatable,29.920591,30.892967
+Misr for Packing (6th of October),sway.approach.firepower,29.920528,30.89303
+Mit Halfa ( Cairo Alexandria Agriculture Rd. ),cable.extra.collides,30.162876,31.22779
+Mit Halfa - Cairo Alexandria Agriculture Road,beefed.piled.matrons,30.162655,31.227962
+Mit Nama Steps (Cairo Alexandria Agriculture Rd.),swimsuits.sitting.surreal,30.142952,31.230963
+Moasasset Al Zakah,bleaching.fatter.tapes,30.166513,31.383146
+Moassasa,bars.servants.worms,30.123888,31.243042
+Moassasa,case.pods.rummage,30.12328,31.245155
+Moassasa,channel.remission.spoiled,30.123755,31.242823
+Moassasa,dreading.lorry.scarecrow,30.12281,31.24161
+Moassasa,gymnasium.outreach.quarrel,30.123138,31.245121
+Moassasa,porch.prune.country,30.12043,31.24559
+Moassasa,portfolio.certified.bulky,30.120544,31.24574
+Moassasa Pedestrian Bridge,escape.district.spouting,30.13647,31.233164
+Moassasa Pedestrian Bridge,jetting.technical.primed,30.136417,31.233028
+Mobil (Ahmed Esmat St.),bride.carpentry.prices,30.125023,31.334133
+Mobil (Al Khalafawy),image.hospitals.gossiped,30.093803,31.236374
+Mobil (Al Khalafawy),valid.erupt.parks,30.09378,31.236244
+Mobil (Cairo Assyout Agricultural Rd.),trains.diverged.restrict,29.921242,31.265068
+Mobil (Cairo Assyout Agricultural Rd.),youthful.pheasants.quietly,29.921207,31.26494
+Mobil (Hassan Al Sherif St.),forced.tallest.fetching,30.051668,31.356836
+Mobil (Hassan Al Sherif St.),ribcage.skate.flown,30.051498,31.356998
+Mobil (Mostafa Kamel Axis & 1st Settlement),dust.fluffed.blues,30.05894,31.443382
+Mobil (Mostafa Kamel Axis & 1st Settlement),parsnip.lighter.stubborn,30.058962,31.44368
+Mobil (Nile Corniche Maasara),crafts.masks.frostbite,29.90768,31.287535
+Mobil (Nile Corniche Maasara),upward.files.requiring,29.90765,31.287441
+Mobil (North Teseen St.),intervals.dude.imparting,30.021812,31.43163
+Mobil - Mall of Arabia,arise.bleak.dash,30.004608,30.975332
+Mobil - Mall of Arabia,galaxy.each.decimals,30.004383,30.975464
+Mobil - Mall of Arabia,life.thrashed.paused,30.004738,30.97525
+Mobil Gas Station (Abdel Hameed Badawy St.),jets.finalists.sharpen,30.104605,31.37826
+Mobil Gas Station (Abdel Hameed Badawy St.),ringers.rust.converged,30.104471,31.37811
+Mobil Gas Station Bostan St. (Downtown),skews.schematic.escalated,30.046085,31.235731
+Modern School (Ahmed Esmat St.),aviators.loosens.human,30.126257,31.330357
+Moemen (Nasr St.),scorching.someone.shameless,29.975727,31.281904
+Moemen (Nasr St.),tasty.gong.discussed,29.975554,31.28192
+Mohagreen (Ezbet Al Nakhl),dorms.saves.filer,30.14138,31.337551
+Mohagreen (Ezbet Al Nakhl),pegged.partly.shudders,30.1416,31.337622
+Mohamed Farid St. & Al Mathan St.,proven.engineers.retire,30.168118,31.411205
+Mohamed Farid St. & Al Mathan St.,trackers.slicer.collect,30.168062,31.411081
+Mohamed Khattab Pharmacy (Kerdasa),readily.dreams.spectacle,30.02989,31.10432
+Mohamed Khattab Pharmacy (Kerdasa),sway.stance.commands,30.02995,31.104385
+Mohamed Naguib Metro Station,seemingly.glorified.simmer,30.045362,31.244032
+Mohamed Naguib St. (Al Salam City),alienated.ranges.surging,30.170652,31.41781
+Mohamedan Light Hospital (Ain Shams),complies.closets.poem,30.126768,31.307093
+Mohamedan Light Hospital (Ain Shams),friction.guises.conspired,30.126793,31.308014
+Mohammed Farid Post Office,boomed.either.buggy,30.048399,31.244154
+Mohie Al Deen Aboul Ezz St. & Tahrir St.,rounds.tractor.basically,30.036175,31.201689
+Mohie Al Deen Aboul Ezz St. & Tahrir St.,scanning.spike.tolerates,30.036022,31.201664
+Moneeb,clearly.clicker.lunge,29.980621,31.213013
+Moneeb,demotion.risen.friday,29.982689,31.212095
+Moneeb,desktops.artist.hedge,29.984816,31.212927
+Moneeb,desktops.qualifier.jots,29.985378,31.213394
+Moneeb,distilled.crunched.locate,29.98663,31.209547
+Moneeb,dote.hindering.pampered,29.98669,31.209644
+Moneeb,fear.marginal.cyber,29.980995,31.210665
+Moneeb,into.alpha.postcard,29.98297,31.21172
+Moneeb,lateral.buggy.astounded,29.98266,31.21223
+Moneeb,liberated.heats.petal,29.983364,31.21092
+Moneeb,pleaser.noise.idea,29.988012,31.214615
+Moneeb,sneezing.trucked.paths,29.98515,31.213678
+Moneeb Station,names.presides.marked,29.987915,31.21475
+Montasser (Nile Corniche),gravitate.mulls.thinker,29.892239,31.288769
+Montasser (Nile Corniche),soccer.processor.witless,29.892223,31.288654
+Moqattam Entrance from Salah Salem,hotspots.squeaking.seated,30.029894,31.26644
+Moqattam Entrance from Salah Salem,pitch.united.deriving,30.029848,31.26656
+Mosheer Ahmed Ismail Station (Sheraton),animates.nappy.gobbling,30.093536,31.372044
+Mosheer Ahmed Ismail Station (Sheraton),wheat.overtime.offhand,30.09324,31.37221
+Mostorad Pedestrian Bridge,protects.idealist.supporter,30.131987,31.283829
+Mostorod,glossed.pill.amid,30.129927,31.291702
+Mostorod,gong.lamps.eventful,30.129854,31.291637
+Mostorod,heaven.adjuster.uncle,30.130009,31.291748
+Mostorod,nozzle.gobbling.heave,30.129797,31.291643
+Mostorod,slider.copiers.existence,30.1313,31.289093
+Mostorod Bridge (Ring Rd.),noticing.image.brimmed,30.163208,31.303968
+Mostorod Ring Rd.,magma.aviators.rebounder,30.16411,31.30308
+Mostorod Ring Rd.,travel.attitudes.seriously,30.164034,31.303305
+Motseian,accordion.star.incurring,30.01683,31.204742
+Motseian,custodian.heads.vitamins,30.016756,31.204502
+Mountain View Square,emulated.having.reckoned,30.01647,31.445032
+Mountain View Square,restless.leans.baguette,30.01585,31.445246
+Mubarak Educational City Entrance,fussy.cheater.live,30.010162,30.99353
+Mubarak Educational City Entrance,plan.enclosing.cringe,30.010006,30.993658
+Mubarak Educational City Entrance,ushering.monument.lobby,30.00982,30.993801
+Nadi Al Baraka Steps (Ring Rd.),chap.rescuer.being,30.165895,31.3833
+Nadi Al Baraka Steps (Ring Rd.),firewall.vertical.crowbar,30.165834,31.382612
+Naguib Mahfouz Square (1st Settlement),mirror.snows.hypocrite,30.06315,31.432755
+Nahda City,trail.smirking.firming,30.170757,31.439262
+Nahda City,womanly.eyepieces.farmland,30.17079,31.439524
+Nahia,camp.hires.slang,30.045496,31.129242
+Nahia,culminate.examples.loses,30.045734,31.130259
+Nahya Steps (Ring Rd.),beyond.jets.alleyway,30.044216,31.174948
+Nahya Steps (Ring Rd.),earliest.bloodshot.tripled,30.044273,31.17522
+Nasr Al Islam Mosque (Al Nozha St.),carbonate.lavender.taped,30.090536,31.341705
+Nasr City Sporting Club,passwords.reverted.lunge,30.058653,31.310932
+Nasr City Sporting Club,publish.signal.plod,30.058647,31.310713
+Nasr City Towers,dormant.condiment.norms,30.031542,31.354586
+Nasr City Towers,outright.daunted.coats,30.03162,31.354424
+Nasr St. Exit from Autostrad,club.increment.simple,29.979927,31.289436
+Nasser Bank (Al Moqattam),beeline.reflected.escaping,30.018106,31.281368
+Nasser Bank (Al Moqattam),husky.albums.sheet,30.018063,31.281324
+Nasser Institue For Research (Al Khalafawy),erupt.mend.slacker,30.096975,31.238222
+Nasser Institue For Research (Al Khalafawy),hotspot.overused.snacks,30.097075,31.238113
+National Authority For Military Production,noon.mavericks.gossip,30.108791,31.26082
+National Cardiac Institute,decreased.plankton.incomes,30.06694,31.21059
+National Institute for Diabetes (Magra Al Oyoun),career.strapping.megawatt,30.025934,31.23191
+National Institute for Diabetes (Magra Al Oyoun),condensed.chatters.quarrel,30.025974,31.230856
+National Institute for Occupational Safety and Health (Al Amn Al Senaey),sheds.proofread.agenda,30.11318,31.348698
+National Institute for Occupational Safety and Health (Al Amn Al Senaey),unfocused.screaming.singers,30.113134,31.348196
+National Institute for Tumor Studies (Magra Al Oyoun),frowns.lyricism.dose,30.02206,31.2309
+National Institute for Tumor Studies (Magra Al Oyoun),strapped.moth.committee,30.022137,31.230976
+National Research Center (Dokki),cookbooks.moral.property,30.036842,31.204725
+National Research Center (Dokki),truck.chugging.wiped,30.036734,31.204826
+National Security (Alexandria Desert Rd.),croaking.used.campus,30.041265,31.056395
+National Security (Alexandria Desert Rd.),desk.stressed.intricate,30.041227,31.055977
+Nazlet Al Ashtar Post Office,wicket.smarting.sprinkle,29.951668,31.199818
+Nefertari International School,emerge.heartburn.teachers,30.154018,31.443474
+Nefertari International School,tapers.sinkhole.riddle,30.154213,31.44341
+Neiazi Sayed (Al Mansoureyya Rd.),masterful.toys.nozzles,30.003693,31.11961
+Neiazi Sayed (Al Mansoureyya Rd.),organist.transcribes.mornings,30.003916,31.119549
+New Cairo Academy (5th Settlement),panicking.wonderfully.vines,29.993273,31.434444
+New Cairo Academy (5th Settlement),ramming.magma.acrobatic,29.9935,31.43483
+New Cairo Court Station,kilt.feasting.ratty,30.00447,31.425842
+New Cairo Sporting Club,inversion.dime.exists,30.009804,31.523787
+New Cairo Sporting Club,usual.array.bike,30.00966,31.52347
+New Giza Gate 1,community.piper.snitch,30.024078,31.067287
+New Giza Gate 1,safari.today.nutty,30.023973,31.067097
+New Heliopolis City Authority,reaction.headpieces.user,30.137775,31.679846
+New Heliopolis City Authority,stationing.pavers.narrows,30.13771,31.680084
+New Heliopolis Entrance,agreement.straw.hobbies,30.110437,31.691042
+New Housing Complex (Al Khanka),calendars.quail.joined,30.230246,31.375162
+New Housing Complex (Al Khanka),irony.crucially.rifled,30.230326,31.37518
+New Marg,longingly.armrests.blast,30.162203,31.337381
+New Marg,mere.costumed.shot,30.16266,31.337194
+New Marg,photos.convinces.grin,30.162813,31.339207
+New Marg,spilled.dozen.insurance,30.164436,31.338858
+New Marg Exit (Ring Rd.),soonest.willpower.envy,30.162926,31.334133
+New Marg Station,alpha.somebody.venue,30.162825,31.337185
+New Marg Station,lectured.conspire.bashed,30.163492,31.337286
+New Marg Station,styled.corrode.pizzeria,30.163736,31.338997
+New Market (Asmarat),samples.handlebar.geek,29.992046,31.340439
+New Musuem (Cairo Alex Desert Rd.),curls.farmland.doubts,29.997232,31.119184
+New Musuem (Cairo Alex Desert Rd.),fronted.upsetting.retrain,29.997341,31.119328
+New Nahda Police Station,file.aside.disbelief,30.167107,31.44029
+Nile Club (Shubra Al Kheima),notch.smiling.denim,30.110659,31.24347
+Nile Club (Shubra Al Kheima),november.surpasses.locating,30.110699,31.243565
+Nile Corniche & Ring Rd. (Maadi),fluid.long.hothouse,29.98977,31.22771
+Nile Corniche & Ring Rd. (Maadi),reveal.searcher.deal,29.989622,31.227827
+Nile Towers (Nile Corniche),anguished.snap.declining,30.072557,31.22727
+Nile Towers (Nile Corniche),desktops.expand.danger,30.072458,31.227383
+Nile Towers (Nile Corniche),uplifting.credited.scoping,30.072723,31.228285
+Nile University,backlog.rationed.snow,30.009514,30.98544
+Nile University,bagpipes.dwarf.scrum,30.009085,30.985386
+Nile University,powering.restored.filed,30.009325,30.985413
+Nissan (Kattameya),desk.digests.panels,29.993433,31.384256
+Nissan (Kattameya),suspends.tiles.ticket,29.993568,31.384138
+North Cairo CCPP,hospitals.shaves.material,30.106194,31.26972
+North Cairo Electricity Distribution Company (Al Helmeya),patching.again.sheets,30.111246,31.318192
+North Cairo Electricity Distribution Company (Al Helmeya),zinc.offstage.applauded,30.111158,31.318108
+North Imbaba,pleasing.perplexed.worms,30.081482,31.216576
+North Imbaba,poets.octagonal.choppy,30.081392,31.216545
+Northen Giza Courthouse,ankle.washing.scooters,30.06882,31.205635
+Noubar St.,publisher.junction.mass,30.044579,31.241898
+Nour Al Huda Automotive (Shubra Al Kheima),showering.layered.stop,30.107895,31.246504
+Nour Al Huda Automotive (Shubra Al Kheima),tentacles.amplifier.saying,30.107985,31.246365
+Nour Al Islam Azhari Institute (Kafr Al Gabal),craftsman.fled.betraying,29.959454,31.162056
+Nour Al Islam Azhari Institute (Kafr Al Gabal),flattered.broached.shirts,29.959702,31.162035
+Nour Al Islam Mosque ( Shubra Al Kheima),webcams.panicking.healers,30.116081,31.284252
+Nour Al Islam Mosque (Shubra Al Kheima),fixtures.slimming.gushes,30.115997,31.284431
+Nour Al Islam Mosque Steps (Ring Rd.),dislodge.tearfully.postcard,29.992725,31.24664
+Nour City steps (Ring Rd.),chatters.fells.outfit,30.012594,31.155396
+Nour City steps (Ring Rd.),noble.discusses.electrode,30.012444,31.155436
+Novartis Pharma (Al Zaytoun),owners.remotest.misted,30.105461,31.291664
+Novartis Pharma (Al Zaytoun),workbook.befitting.emulating,30.105604,31.29171
+Nozha - Nabil Al Waqaad,headless.protests.electrode,30.081999,31.340124
+Nozha Bridge Entrance,vocals.firelight.display,30.086819,31.340912
+Nozha Bridge Exit,juniors.ounce.rooster,30.086803,31.341164
+Oasis Mall (Sheraton),extremely.racetrack.unscathed,30.10915,31.37198
+Oasis Mall (Sheraton),limits.drifter.wiring,30.10911,31.371708
+Obour,crossword.whites.cubed,30.270905,31.487392
+Obour,duplicate.shovels.mute,30.270998,31.487482
+Obour City Authority,illogical.partner.agenda,30.23899,31.458214
+Obour City Authority,quintet.scatters.blur,30.238962,31.458374
+Obour Market,upgrading.cashew.zinc,30.168839,31.46365
+Obour Market - South,printers.whispers.outfitter,30.160854,31.468397
+Obour Market - South,tissue.identity.fenced,30.161366,31.468367
+Obour Police Station,washed.delays.rich,30.235708,31.472202
+Obour Sporting Club,masses.unloads.partners,30.234264,31.458332
+Obour Sporting Club,rejoiced.ozone.deeper,30.23521,31.45811
+Obour Square,tracking.irritable.manly,30.166965,31.477583
+Obour Square (3rd Settlement),focus.skate.mercy,29.984064,31.437868
+Obour Tunnel,badminton.guitar.cakewalk,30.163921,31.479042
+Officers Housing (Al Remaya St.),hawks.outlooks.earl,29.98742,31.120087
+Officers Housing (Al Remaya St.),stepping.backpack.acquaint,29.98739,31.120008
+Oil Libya Gas Station (Sadat Square),advising.lasted.tram,29.841766,31.37508
+Oil Libya Gas Station (Sadat Square),magazines.florists.guards,29.841871,31.375374
+Old 10th of Ramadan,breeding.adhesive.chains,30.148487,31.418085
+Old 10th of Ramadan,display.segregate.branched,30.148884,31.41881
+Olowwa Faris St. (Bab Al Shaereyya),instructs.quieter.anchovies,30.058426,31.259466
+Olowwa Faris St. (Bab Al Shaereyya),reheat.lollipop.pinch,30.058447,31.259624
+Om Al Masryeen Metro,bossy.guessing.rags,30.00547,31.208727
+Om Al Masryeen Metro,coping.surface.toys,30.00551,31.208849
+Om Bayoumi,waggled.puns.cult,30.143345,31.251034
+Om Bayoumi Station,belt.interlude.images,30.148525,31.251385
+Omar Efendi (Ahmed Oraby St.),fights.gliders.park,30.063677,31.205362
+Omar Efendi (Ahmed Oraby St.),wedding.roofer.reporting,30.063797,31.204277
+Omar Ibn Abd El Aziz St. & Al Sekka Al Hadid,debate.mountain.snooping,29.839275,31.31599
+Omar Ibn Abd El Aziz St. & Al Sekka Al Hadid,zest.promoted.embellish,29.839348,31.316017
+Omar Ibn Al Khattab Mosque (Al Matareyya St.),fevered.trickles.nets,30.108007,31.303547
+Omar Ibn Al Khattab Mosque (Al Matareyya St.),selection.dorm.cricket,30.107979,31.303406
+Omar Ibn Al Khattab St. (Awsim),floating.proves.housework,30.113073,31.141054
+Ommal Square (5th Settlement),shuttled.dorms.offer,29.997227,31.43216
+Ommal Square (5th Settlement),wished.dislodge.merit,29.9969,31.432194
+Opera House,replenish.concerts.much,30.043226,31.227074
+Opera House,slimming.motels.agree,30.043356,31.226871
+Orascom Business (Anabib Al Petrol),pulled.complies.cheeses,30.133154,31.37624
+Oriental Weavers (6th of October),breakaway.flickers.haystack,29.954485,30.917194
+Oriental Weavers (6th of October),digits.slogged.objective,29.954613,30.917124
+Oriental Weavers (Al Haram),comfort.geek.tidal,30.01039,31.204151
+Oriental Weavers (Al Haram),paddock.commented.canal,30.010527,31.204174
+Oriental Weavers (Sheraton),struck.completed.chat,30.107906,31.36574
+Oriental Weavers (Sheraton),usage.bloomers.organ,30.108177,31.36552
+Othman Pedestrian Bridge (Ring Rd.),uppermost.tent.excellent,30.16331,31.3127
+Othman Steps (Ring Rd.),disengage.jams.shampoo,30.162973,31.309877
+Palace of Culture (Al Matareyya),stylists.monks.raft,30.11419,31.285294
+Palace of Culture (Al Matareyya),visual.defrost.ridge,30.114325,31.285145
+Palestine School (Ain Shams St.),chair.cattle.riverside,30.130417,31.322088
+Palestine School (Ain Shams St.),doted.elder.recording,30.130455,31.322243
+Palestine St. & Ahmed Oraby St.,quote.critic.notices,30.127151,31.345236
+Panasonic (Abbas Al Akkad St.),squashes.router.grumbling,30.065086,31.336735
+Panasonic (Abbas Al Akkad St.),timed.stutter.charts,30.06514,31.336962
+Papa Jones (Batal Ahmed St.),builders.corporate.caravan,30.053589,31.20565
+Papa Jones (Batal Ahmed St.),uniforms.nightfall.spires,30.053669,31.205774
+Paradise Al Shorouq Compound,disgraced.difficult.noises,30.152594,31.659689
+Paradise Al Shorouq Compound,swatting.engineers.croak,30.152678,31.659798
+Pasta Factory Steps (Ring Rd.),chairing.mixed.clips,29.98468,31.203981
+Pasta Factory Steps (Ring Rd.),graduated.again.untruth,29.984516,31.204021
+Pepsico (Nasr City),bedding.armed.eyepieces,30.038673,31.346432
+Pepsico (Nasr City),something.breezy.evoked,30.038502,31.345976
+Petroleum Square (Al Marg),growl.squeaking.bright,30.149548,31.328136
+Pharaonic Village (Al Bahr Al Aazam St.),coverings.premature.media,29.99727,31.21464
+Pharaonic Village (Al Bahr Al Aazam St.),workshop.grow.hubcaps,29.997166,31.214516
+Physical Therapy - Modern Academy,hinders.wound.petrified,29.992441,31.31131
+Pizza Hut (Mostafa Al Nahas St.),intention.stall.stand,30.05681,31.365112
+Pizza Hut (Mostafa Al Nahas St.),raven.sketching.touchy,30.056606,31.365126
+Plaza Club (Obour),assist.slyly.partly,30.252203,31.463655
+Plaza Club (Obour),spilled.originate.totals,30.252476,31.463747
+Police Academy (Abbaseya),composes.submits.privately,30.069082,31.285023
+Police Academy (Mostafa Kamel Axis),incensed.spades.loves,30.049852,31.442184
+Police Academy (New Cairo),observers.eats.expecting,30.053429,31.4134
+Police Academy (Ring Rd.),crust.loss.unclaimed,30.037453,31.404417
+Police Academy (Ring Rd.),fatigued.wounds.latest,30.037678,31.403715
+Police Academy (Ring Rd.),finer.widely.resources,30.038445,31.402857
+Police Academy (Ring Rd.),game.undertone.reverses,30.037693,31.403917
+Police Hospital (Agouza),rucksack.deferring.retailing,30.05125,31.216951
+Police Hospital (Agouza),sourcing.hence.shipwreck,30.05129,31.217096
+Police Hospital (Al Shaheed Corridor),forum.lightbulb.cubs,30.038506,31.328217
+Police Hospital (Al Shaheed Corridor),ratty.yesterday.cookies,30.038624,31.328287
+Police Hospital (Al Tayaran St.),fidget.suspended.lunge,30.038805,31.331459
+Police Hospital (Al Tayaran St.),steer.flipper.rehearsed,30.038734,31.331314
+Police Mosque (Salah Salem St.),cured.surpasses.mime,30.051949,31.276707
+Police Mosque (Salah Salem St.),highways.subsystem.suffer,30.051893,31.276802
+Police Officers Club (Zamalek),unfocused.gets.dignity,30.061401,31.218784
+Police Officers Club (Zamalek),wake.firelight.misfits,30.061554,31.218866
+Police Union Club,portfolio.betrayed.scorch,30.055428,31.27624
+Policeman Institute St. (Nile Corniche),combines.knees.lectured,29.943016,31.272236
+Policeman Institute St. (Nile Corniche),warnings.autumn.hurray,29.942905,31.272217
+Port Said Square (Maadi),laminated.whoever.brochure,29.961239,31.262598
+Port Said St. (Al Sawah),returns.prefect.nearing,30.107693,31.283998
+Port Said St. Pedestrian Al Mosky,acting.amending.disposing,30.04988,31.255562
+Port Said St. Pedestrian Al Mosky,flukes.weeds.trying,30.049904,31.255737
+Porto Cairo Mall,absorb.milkman.lung,30.065744,31.42187
+Porto Cairo Mall,reception.strictly.liver,30.065454,31.422123
+Postal Office (1st Settlement),octagonal.cashier.class,30.067,31.46181
+Postal Services Office (Al Haram St.),kettles.coach.sunblock,29.984957,31.135763
+Public Taxes Mission (Nasr City),cassettes.hoping.tortoises,30.059427,31.345406
+Public Taxes Mission (Nasr City),discloses.cubs.appealed,30.059458,31.345594
+QNB Bank (Haram St),disband.consumed.haggling,29.988863,31.146486
+QNB Bank (Haram St.),tasters.daytime.surprised,29.98873,31.146557
+Qadry Basha (Al Sayeda Zeinab),puzzle.wedding.bulge,30.03332,31.245604
+Qadry Basha (Al Sayeda Zeinab),scouted.eternally.blown,30.03323,31.245687
+Qalaa,whirlpool.goodbyes.direction,30.029772,31.257717
+Qalaa Post Office,mimes.teaspoons.snowboard,30.03049,31.25628
+Qalyoub Al Balad Bus Station,invoices.provider.mammals,30.181273,31.207623
+Qalyoub Al Balad Bus Station,remake.chainsaw.poorly,30.181347,31.207645
+Qalyoub District Court,blame.blush.hound,30.18091,31.216993
+Qalyoub District Court,roofed.mammoth.elsewhere,30.180977,31.217005
+Qalyoub Exit,profiled.strong.sampled,30.149473,31.230865
+Qalyoub Exit to Ring Rd.,paddocks.highlight.partners,30.149155,31.22889
+Qalyub,copy.durations.single,30.181232,31.19986
+Qalyub Exit (Cairo Alexandria Agriculture Rd.),wound.panning.dolly,30.146801,31.230234
+Qalyub Specialized Hospital,positives.arranged.guesswork,30.180817,31.22172
+Qalyub Specialized Hospital,riverside.bubbles.notifying,30.181185,31.223207
+Qalyub Steps (Ring Rd.),hairspray.engine.poodle,30.1493,31.230368
+Qasr Oraby Furniture (Gamal Abdel Nasser),scatters.itself.officials,30.141216,31.39789
+Qasr Oraby Furniture (Gamal Abdel Nasser),stay.butterfly.mini,30.14141,31.397808
+Qatar Ahly Bank (Al Tayaran St.),bluff.pose.rigid,30.062386,31.32556
+Qatar Ahly Bank (Al Tayaran St.),submitted.exporters.archives,30.062422,31.325817
+Qawmeya Arabeya,texts.trinkets.garlic,30.094538,31.204626
+Qawmeya Arabeya,when.clogging.roadblock,30.094893,31.204119
+Qawmeya Arabeya Secondary Bus Station,painter.goose.analogy,30.0952,31.20067
+Qawmeya Steps (Ring Rd.),megawatt.nurse.sweeten,30.096333,31.199623
+Qawmeya Steps (Ring Rd.),tumble.blesses.arranger,30.09639,31.199451
+Qism El Marg,remainder.glossed.wink,30.149586,31.341125
+Rabaah Al Adaweya Mosque,blunders.crafts.normal,30.06723,31.324549
+Rabaah Al Adaweya Mosque,ignore.tinsel.ample,30.067356,31.325584
+Rabaah Al Adaweya Mosque,sleepless.enhances.etchings,30.067537,31.325497
+Radisson Hotel (Sheraton),gather.middle.songbook,30.106964,31.375172
+Radisson Hotel (Sheraton),torch.limits.looks,30.107082,31.375326
+Radobis Cinema (Haram St.),singer.owes.directive,30.006748,31.194588
+Ragab Sons (Al Gazaer St.),access.locate.endearing,29.975527,31.275873
+Ragab Sons (Al Gazaer St.),reshaping.stated.marketing,29.975555,31.27603
+Ragab Sons (Al Magzar Mariouteya),amounting.minus.pocket,29.977827,31.163212
+Ragab Sons (Al Magzar Mariouteya),chuck.atomic.valid,29.977547,31.162792
+Ragab Sons (Al Magzar Mariouteya),doing.journals.straddled,29.977093,31.162197
+Ragab Sons (Al Magzar Mariouteya),trouser.ripples.intention,29.976965,31.162193
+Ragab Sons (Al Shabab St. Obour),importing.tonal.resettle,30.26533,31.477188
+Ragab Sons (Al Shabab St. Obour),painters.doubt.lump,30.265488,31.477118
+Ragab Sons (Mahdy Arafa St.),houseboat.sailor.tribune,30.054977,31.379784
+Ragab Sons (Mahdy Arafa St.),shiver.televise.ignoring,30.054983,31.379532
+Ragab Sons 7th District (6th of October),because.ownership.teaching,29.97828,30.93584
+Ragab Sons 7th District (6th of October),smile.thatched.windy,29.978182,30.93591
+Ragab Sons Al Mehwar Al Markazi (6th of October),expel.plotting.vowing,29.966967,30.936174
+Ragab Sons Al Mehwar Al Markazi (6th of October),fries.elect.returns,29.966864,30.936258
+Rahma Mosque (Mostafa Al Nahas St.),rainwater.decanter.seashell,30.053057,31.332745
+Rahma Mosque (Mostafa Al Nahas St.),worksheet.examples.bolts,30.053263,31.332731
+Ramses,cosmetic.directive.metals,30.061483,31.246998
+Ramses,divided.money.shadowing,30.06066,31.246267
+Ramses,exporters.croaking.cattle,30.058985,31.244516
+Ramses,facing.figs.joystick,30.06259,31.243174
+Ramses,stutter.acids.iteration,30.061308,31.245522
+Ramses Extension (North of Nasr Rd.),crumb.milk.delved,30.06407,31.297379
+Ramses Extension (North of Nasr Rd.),grapevine.words.supreme,30.06368,31.298397
+Ramses Extension (South of Nasr Rd.),cake.factually.fairness,30.05132,31.30754
+Ramses Extension (South of Nasr Rd.),dishing.skim.gravitate,30.050913,31.307331
+Ramses Extension (South of Nasr Rd.),published.craftsman.script,30.050425,31.307947
+Ramses Language Schools (Khaloussi),crowns.formally.hiked,30.078287,31.250034
+Ramses Language Schools (Khaloussi),pedicure.caged.milky,30.078348,31.249996
+Ramses Railway Station,earlobe.fetching.mulls,30.06187,31.24814
+Ramses Railway Station,pills.compiler.calculating,30.061956,31.248016
+Ramses Station,rungs.bothered.besotted,30.060566,31.243015
+Raslan (6th of October),endearing.verge.balanced,29.952736,30.914503
+Raslan (6th of October),informs.nozzles.fortified,29.952843,30.914396
+Rawda Mosque (Obour),wells.match.renewals,30.242155,31.481285
+Real Estate Registration Mission (Shobra),spinning.incursion.decoding,30.07419,31.247946
+Real Estate Registration Office (Shobra),sandwich.houseboat.reforming,30.074175,31.24804
+Realestate Regulation Authoity (6th of October),bleaching.grocers.shapeless,29.937725,30.912022
+Realestate Regulation Authoity (6th of October),result.navigate.offerings,29.937658,30.911901
+Red Crescent ( Masaken Zainhom),locator.cools.diner,30.02165,31.245596
+Red Kiosk (6th of October),distilled.stepping.support,29.966007,30.917887
+Red Kiosk (6th of October),relishes.glades.belts,29.965906,30.917984
+Rehab Gate 13,adding.velocity.reclined,30.063908,31.474693
+Rehab Gate 13,taster.district.flattered,30.064064,31.475073
+Rehab Gate 6,hotspots.documents.skippers,30.053411,31.490616
+Rehab Gate 6,rumbles.enveloped.desktops,30.05324,31.49001
+Rehab Square,guesswork.shunts.against,30.05463,31.475485
+Rehab Square,ramps.perfect.rational,30.05502,31.47436
+Remaya 28,activates.liked.betrayal,29.990032,31.133598
+Remaya 28,daisy.commands.lifeboats,29.990707,31.132212
+Research Institute of Ophthalmology (Al Giza),extremely.wriggled.greed,30.015724,31.216688
+Research Institute of Ophthalmology - Giza,jabs.kilt.gold,30.015842,31.216574
+Rihana Plaza (Sheikh Zayed),able.womb.earlobes,30.051807,31.00357
+Rihana Plaza (Sheikh Zayed),minivans.brotherly.tuxedos,30.051924,31.003777
+Rimo Car (Ahmed Helmy St.),deadline.tagging.acrobatic,30.078533,31.255575
+Rimo Car (Ahmed Helmy St.),protects.boat.illogical,30.078783,31.25575
+Ring Rd. & Al Mansoureyya Rd.,cheetahs.myth.grazes,29.999887,31.120844
+Ring Rd. & Al Mansoureyya Rd.,pronouns.inspects.spout,30.000034,31.120731
+Ring Rd. & Cario Alex Desert Rd.,spoiler.lollipop.itself,29.998892,31.117403
+Ring Rd. Entrance from Moneeb,sandbags.jumped.licks,29.98619,31.208862
+Ring Rd. Exit to Al Salam,estimate.tomato.deck,30.164644,31.389011
+Ring Rd. Exit to Al Warraq,inversion.occurs.traffic,30.125515,31.20174
+Ring Rd. Exit to Bashtil,proudest.originals.pouch,30.082924,31.189302
+Ring Rd. Exit to Cairo Alexandria Agriculture Road,insist.shifters.equipping,30.149597,31.23345
+Ring Rd. Exit to Khosous,riskiest.montage.standard,30.158407,31.301918
+Ring Rd. Exit to Khosous,shins.princely.bandstand,30.158318,31.302074
+Ring Rd. Exit to Moneeb,gain.debate.nosedive,29.985952,31.208733
+Ring Rd. Exit to Saft Al Laban,fuse.vanished.visa,30.025599,31.164125
+Ring Rd. Exit to Saft Al Laban,poppy.paddlers.quack,30.033657,31.165335
+Ring Rd. Exit to Saft Al Laban,streaks.outermost.forkful,30.025583,31.163956
+Ring Rd. Exit to Zahraa Misr Al Qadima,dusts.lighters.shows,29.991615,31.234865
+Ring Rd. Exit to Zahraa Misr Al Qadima,exist.skis.loom,29.99177,31.234758
+Ring Rd. Pedestrian Ezbet Anwar,tiptoes.paddlers.orange,30.15035,31.265003
+Ring Rd. Steps 1 (26th of July Corridor),edge.boots.transmits,30.06248,31.172695
+Ring Rd. Steps 2 (26th of July Corridor),closed.beam.functions,30.061895,31.175503
+Ring Rd. Steps to New Marg,cage.eruptions.gosh,30.163607,31.341734
+Ring Rd. Steps to New Marg,dared.tingled.degrading,30.163393,31.341467
+Ring Rd. Steps to Qalyub,wiggles.split.exonerate,30.149168,31.230326
+Ring Road Entrance from Cairo Alexandria Agriculture Rd.,card.makeovers.inefficient,30.149067,31.22532
+Ring Road Entrance from Cairo Alexandria Agriculture Rd.,jammy.general.duties,30.149412,31.233467
+Ring Road Exit to Qalyub,vans.overheard.massive,30.148836,31.22521
+Ring Road Steps to 26th of July Mehwar,incurs.aquatics.firm,30.062,31.175514
+Ring Road Steps to 26th of July Mehwar,outermost.puncture.decide,30.062584,31.172712
+River Transport Authority (Zahraa),clasping.roadways.documents,29.998129,31.228434
+River Transport Authority (Zahraa),signified.pats.diagram,29.998611,31.228842
+Rod Al Farag Metro Station,boost.nesting.worms,30.080585,31.245245
+Rod Al Farag Metro Station,hacksaw.sandbags.swatted,30.080608,31.24538
+Rod Al Farag Youth Center,commuting.songbook.page,30.075893,31.228775
+Rod Al Farag Youth Center,dizziness.reviewed.divides,30.07534,31.228266
+Rotana Motors (Maadi),outermost.dips.hinders,29.986393,31.278807
+Rotana Motors (Maadi),sulky.birthing.atoms,29.986486,31.27877
+Roushdy Pharmacy (Al Remaya Square),greyhound.parts.taster,29.991058,31.130579
+Roxy,bashful.watchdogs.sunset,30.092884,31.315899
+Roxy,garage.legroom.alongside,30.094385,31.317944
+Roxy,minimums.ember.artist,30.093555,31.314127
+Roxy,nitrogen.brambles.comedians,30.094969,31.316103
+Roxy,obliging.lame.imported,30.093004,31.315187
+Roxy,rebounder.ridiculed.anode,30.094545,31.31603
+Roxy,successes.stolen.happening,30.0936,31.314375
+Royal City Gate (Sheikh Zayed),bootleg.modifies.oatmeal,30.032719,31.0291
+Royal City Gate (Sheikh Zayed),clicker.windpipe.frosted,30.032812,31.028227
+Royal City Gate (Sheikh Zayed),date.factories.installs,30.03283,31.029007
+Royal City Gate (Sheikh Zayed),unwraps.hubcaps.mute,30.032986,31.028809
+Roz Al Youssef Magazine (Garden City),station.dreaming.romantics,30.035095,31.233833
+SODIC (Sheikh Zayed),decide.enthused.padding,30.0767,30.948786
+SODIC (Sheikh Zayed),sushi.ringside.prickly,30.0773,30.948208
+Saad Zaghloul Metro,averts.trucked.duplicity,30.036503,31.24037
+Saad Zaghloul School (15th of May),fabric.firmer.science,29.832794,31.38189
+Saad Zaghloul School (15th of May),mandolin.prep.warthog,29.8327,31.3823
+Saad Zaghloul St & Anwar Al Sadat St.,onions.reception.gamer,29.823698,31.373394
+Saad Zaghloul St & Anwar Al Sadat St.,piglet.clincher.kickbacks,29.823755,31.373163
+Sadat Academy (Maadi),ascendant.norms.soccer,29.959782,31.248505
+Sadat Academy (Maadi),income.swerving.cleansed,29.9596,31.248276
+Safeer Square (Heliopolis),cable.edit.forgotten,30.097895,31.338606
+Safeer Square (Heliopolis),starters.doubts.billiard,30.097448,31.337849
+Saft Al Laban,adapt.grad.ivory,30.031227,31.16789
+Saft Al Laban,encloses.miss.plus,30.03168,31.168608
+Saft Al Laban,pizzas.sharpness.above,30.03113,31.167854
+Saft Al Laban Axis,bonfires.farmed.mirror,30.030321,31.162144
+Saft Al Laban Entrance from Ring Rd.,saving.craftsmen.fights,30.033817,31.165249
+Saft Al Laban Steps (Ring Rd.),underway.reassured.silks,30.036617,31.168077
+Safwa Clinics (Obour),deeds.premiums.sums,30.256216,31.46786
+Safwa Clinics (Obour),heads.taxi.loafing,30.256252,31.467695
+Saint Fatima Square,sides.adjusted.unleashed,30.105753,31.343786
+Saint Fatima Square,talents.compelled.ripen,30.105818,31.344086
+Saint George Church (Kotseika),cone.thirsty.multiples,29.935097,31.278316
+Saint George Church (Kotseika),nerd.captive.free,29.935076,31.278421
+Saint Teresa Metro,minerals.addicted.spouting,30.089281,31.24534
+Saint Teresa Metro,similar.symphonic.various,30.089275,31.245255
+Sakiat Mekki Metro,recording.boil.contracts,29.994568,31.209032
+Sakiat Mekki Metro,stated.qualify.prefix,29.994572,31.209177
+Sakkara Steps (Ring Rd.),epidemics.game.costs,29.973913,31.172462
+Sakkara Steps (Ring Rd.),televise.sprouting.offhand,29.973978,31.172287
+Salah Al Din Citadel (Salah Salem),bluntly.screeches.mime,30.025267,31.26173
+Salah Al Din Citadel (Salah Salem),defenders.migrants.chambers,30.025393,31.261648
+Salah Al Din Square (Heliopolis),bends.sprayer.stereos,30.095177,31.330278
+Salah Al Din Square (Heliopolis),graced.sidelined.eaten,30.095098,31.330305
+Salam Alexandria,compiler.breeze.martini,30.191721,31.419973
+Salam Alexandria Station,inhaled.directive.owned,30.178528,31.420797
+Salam Alexandria Station,kidney.popping.rudder,30.178455,31.420889
+Salam Nahda,harps.diverged.rewarding,30.15508,31.4098
+Salam Station (10th of Ramadan Station),emeralds.hooks.lifestyle,30.152508,31.409582
+Salam Station (10th of Ramadan Station),shred.trickster.snuggle,30.147972,31.420414
+Salam Station (10th of Ramadan Station),stole.makeup.giggles,30.147766,31.42015
+Salam Station (10th of Ramadan Station),tonal.shopper.campus,30.147718,31.420723
+Salam Station (10th of Ramadan Station),unpacked.sheds.inner,30.147877,31.421
+Salamtak Labs (Dolce),couriers.present.refilled,29.934258,30.922235
+Salamtak Labs (Dolce),crops.lamenting.burns,29.934193,30.922283
+Saleh Sobhy (15th of May),forehand.conducted.lists,29.842047,31.357906
+Saleh Sobhy (15th of May),shuffles.amplified.cabinets,29.842592,31.358164
+Samir & Ali Al Thawra St (Heliopolis),unhappily.congratulations.nicer,30.082613,31.342884
+Saqqara (Moroor),songbird.pushover.recent,29.850904,31.241144
+Saqqara (Moroor),stole.overtones.bids,29.85097,31.241674
+Saqqara Rd. & Al Mansoureya Rd.,blemishes.shirts.inch,29.945744,31.189232
+Saqqara Rd. & Al Mansoureya Rd.,cabs.composed.sparkle,29.945488,31.189
+Saqqara St.,sprouting.snooping.lifetimes,29.85025,31.23171
+Saqr Quraish,blotting.grumbles.rising,29.986189,31.289131
+Saqr Quraish,display.debut.rounds,29.98617,31.288908
+Saqr Quraish,hatter.elbowing.thrillers,29.985842,31.285795
+Saqr Quraish,howler.comically.force,29.986128,31.28874
+Saqr Quraish,runner.remarking.hints,29.985199,31.286264
+Saqr Quraish,snowboard.collect.encrusted,29.98587,31.285892
+Saqr Quraish,width.testing.willpower,29.986158,31.288584
+Saray Al Qobba,upholds.parade.pokes,30.098005,31.307537
+Saray Al Qobba,waistcoat.required.formal,30.09799,31.307371
+Sawaris Square (Maadi),tutored.encodes.hazelnuts,29.963215,31.260717
+Sayyed Al Abedeen Pharmacy (Cablat St.),answers.scrub.manager,30.113802,31.292479
+Sayyed Al Abedeen Pharmacy (Cablat St.),fired.insurance.quits,30.113728,31.29267
+Science House Garden (Al Mounira),bake.gums.lushly,30.035187,31.235579
+Scoial Services School (Roxy),whirlwind.trickle.diplomas,30.09133,31.309944
+Sednawy (Sudan St.),openly.winks.crisis,30.038057,31.196566
+Sednawy (Sudan St.),trek.fuels.merge,30.038036,31.196451
+Sekat Hadid Al Mahager (Basateen),different.stacks.spun,29.98429,31.271864
+Sekat Hadid Al Mahager (Basateen),recovery.shrimp.query,29.984457,31.271635
+Sekka Hadid St. Pedesterian Bridge,during.unhappy.published,29.967897,31.224483
+Sekka Hadid St. Pedesterian Bridge,spectacle.reserving.jeeps,29.967943,31.22457
+Sekket Al Waili,entertainer.unspoiled.butter,30.091593,31.280077
+Sekket Al Waili,revision.stowing.subplot,30.09165,31.279657
+Sekket Al Waili St. (Kobry Al Qobba),unloaded.garlic.headset,30.087648,31.289791
+Shabab (Obour),breathing.besotted.upward,30.27276,31.484386
+Shabab (Obour),dislodge.puddles.glitz,30.272766,31.484186
+Shabab (Obour),they.sheds.workshop,30.272966,31.484793
+Shabramant,magical.hobby.sneezing,29.939842,31.195038
+Shabramant,munch.alien.stroke,29.939383,31.194988
+Shabramant,relocated.irony.acoustics,29.940563,31.195961
+Shahrazad Hall ( Sawah),unguarded.book.engraving,30.111885,31.284094
+Shalqan Rd.,fond.toward.proper,30.18578,31.141174
+Shalqan Rd.,replied.educates.bends,30.185928,31.141087
+Shams Club (Alf Maskan),dollars.waking.supporter,30.121374,31.34283
+Shams Club (Alf Maskan),newly.perfumed.nimbly,30.121502,31.342644
+Shams Club Squash Courts,admiringly.fizzled.bagpipes,30.11749,31.36081
+Shams Club Squash Courts,fine.claw.paces,30.1176,31.360994
+Sharabeya,farmland.slime.scariest,30.079042,31.261091
+Sharea Jadid (Marg Axis),busy.bliss.cuddling,30.141787,31.35266
+Sharea Jadid (Marg Axis),reporting.suggested.darling,30.141636,31.352652
+Shawerma Abu Mazen (Maadi),downsize.think.soccer,29.960512,31.250332
+Sheikh Al Balad (Ain Shams St.),testers.rather.absorbing,30.12386,31.318848
+Sheikh Al Balad (Ain Shams St.),unlisted.wound.swept,30.123888,31.318703
+Sheikh Ali Youssef School (Downtown),rivals.ballooned.smile,30.029987,31.233912
+Sheikh Selim Institute (Arbean St.),shocking.objective.breakaway,30.134434,31.31476
+Sheikh Zayed Al Nahian Hospital,relatives.snaps.headline,30.051401,31.288307
+Sheikh Zayed Al Nahian Hospital,tall.willpower.continues,30.051294,31.288368
+Sheikh Zayed Entrance,bluff.decoded.pranced,30.087053,30.962236
+Sheikh Zayed Entrance,thunder.putty.undertook,30.086151,30.963263
+Sheikh Zayed General Hospital,enclosing.enormous.whiplash,30.037895,31.007235
+Sheikh Zayed General Hospital,eyeful.scaffold.crashing,30.0377,31.006987
+Sheikh Zayed General Hospital,losses.movement.boards,30.04054,31.007906
+Sheikh Zayed General Hospital Northside,proceeds.harnessed.clocks,30.040459,31.0091
+Sheikh Zayed General Hospital Northside,typically.interviewer.brightens,30.0406,31.00895
+Sheikh Zayed Specialized Hospital,crafts.swooned.dentistry,30.032946,31.003311
+Shepheard Hotel (Qasr Al Nile),walked.windy.smiles,30.042263,31.231504
+Sheraton,mule.daylight.nametag,30.105793,31.38639
+Shobra  Banha St. & Ring Rd.,present.cabinets.arranger,30.149567,31.254063
+Shobra  Banha St. & Ring Rd.,underline.purified.splice,30.149712,31.25426
+Shorouq City,equipping.offers.skills,30.138931,31.653978
+Shubra Al Khaima City Authority,cleanser.steamed.paddle,30.11991,31.242662
+Shubra Al Kheima City Authority,celebrate.slick.unit,30.1201,31.243366
+Shubra Al Kheima City Council,uproot.pods.closer,30.120104,31.243195
+Shubra Al Kheima East District Authority,revise.gets.vandalism,30.134798,31.27386
+Shubra Al Kheima Metro Station,outlawing.remover.cricket,30.121708,31.244541
+Shubra Al Kheima Metro Station,workforce.duplicate.masterpiece,30.121758,31.24463
+Shubra Al Kheima Power Plant,lays.fork.jumbo,30.11448,31.24205
+Shubra Al Kheima Power Plant,list.limiting.gossiped,30.11446,31.24194
+Silver Nile Social Club (Nile Corniche),applied.unsecured.patting,29.97855,31.233097
+Silver Nile Social Club (Nile Corniche),remembers.verb.defers,29.978497,31.232983
+Silver Star Mall (5th Settlement),began.compelled.zoom,30.003332,31.420359
+Silver Star Mall (5th Settlement),strike.hunches.strutting,30.003584,31.420174
+Simsima (Dokki),leads.amplified.senders,30.033813,31.211926
+Simsima (Dokki),over.tripods.observers,30.033188,31.212132
+Sky Mart Mall (1st Settlement),bright.mural.expert,30.06768,31.451134
+Sky Mart Mall (1st Settlement),crunching.shipwreck.jigsaw,30.067867,31.451164
+Small Industries Association - Al Hegaz Street (6th of October),bowhead.cocoons.profile,29.980724,30.94649
+Small Industries Association - Al Hegaz Street (6th of October),valued.contain.sugars,29.98084,30.94649
+Smart Village,flames.fluid.tolerates,30.064531,31.023527
+Smart Village,political.kinks.segments,30.063822,31.024206
+Soap Factory (Marg),respects.slimmer.shun,30.171864,31.34514
+Soap Factory (Marg),stays.thickens.grit,30.17183,31.345215
+Sobhy Hussein St. (Al  Moqattam),rely.flitting.revival,29.998503,31.326773
+Sobhy Hussein St. (Al Moqattam),hacksaw.asserts.bulky,29.998299,31.327147
+Social Insurance Bureau (Al Khanka),steeped.amaze.city,30.227083,31.363916
+Social Insurance Bureau (Shubra Al Kheima),joined.walks.verb,30.136131,31.27064
+Sonesta Hotel (Al Tayaran St.),feathers.piglets.full,30.078896,31.318731
+Sonesta Hotel (Al Tayaran St.),instead.graphic.melts,30.078796,31.318571
+Souq Al Asr (Khalifa Al Mamoun St.),client.collapsed.baguette,30.088058,31.309906
+Souq Al Asr (Khalifa Al Mamoun St.),relies.ratio.defectors,30.08817,31.309748
+Souq Al Gomla,notifying.rust.cubed,29.966236,31.028818
+Souq Al Gomla,qualify.rebounder.breathy,29.966028,31.02875
+Souq Bab Al Louq,union.impulsive.wired,30.04521,31.23972
+South Cairo Electricity Distribution Co (Kerdasa),chase.geologist.nearing,30.034996,31.099918
+South Cairo Electricity Distribution Co (Kerdasa),clouds.forgives.lordship,30.03506,31.09992
+South Teseen St. Entrance,diplomats.replayed.herring,30.01301,31.401005
+Southern Gate Obour Market,deodorant.riot.arts,30.163269,31.474207
+Sphinx Airport,chosen.vocab.super,30.078087,30.918173
+Sphinx Airport,corrode.leap.before,30.07721,30.91769
+Sphinx Square,dimension.skyrocket.fuels,30.059973,31.208063
+Sphinx Square,heartless.strays.curve,30.062052,31.207659
+Sphinx Square,leathers.cope.sweetly,30.060131,31.207727
+St. Antony Church (Zahraa Al Maadi),dumpling.trying.excellent,29.969433,31.324057
+St. Antony Church (Zahraa Al Maadi),simulations.dragons.toasters,29.969618,31.324062
+St. Mary and St. Mark Church (6th of October),flinches.film.campsites,29.959713,30.918528
+State Council (Dokki),hires.gallons.roadblock,30.036283,31.218552
+State Council (Dokki),snowballs.koala.plank,30.036324,31.218414
+Sudan St. (Ard Al Lewa),encoded.fruitcake.inefficient,30.05537,31.190973
+Sudan St. (Ard Al Lewa),photo.deranged.sourcing,30.055252,31.19091
+Suez Bridge Entrance to Ring Road,double.flushes.mouths,30.080246,31.435545
+Suez Bridge Entrance to Ring Road,vented.rebounds.dupe,30.08016,31.435764
+Suez Canal Bank (Shobra St.),parked.inhales.vibes,30.073187,31.244999
+Sultan Abou Al Ela Mosque (Maspero),garlic.collects.motel,30.056337,31.230844
+Sultan Abou Al Ela Mosque (Maspero),hopes.myth.hypocrite,30.056225,31.230804
+Sultana Weddings Centre (Saqqara),heartburn.allies.pills,29.952555,31.179588
+Sultana Weddings Centre (Saqqara),quack.removes.producers,29.95266,31.17895
+Sun City Mall,slip.bloomers.frantic,30.103867,31.384302
+Sun City Mall,sweetened.melts.taxi,30.103928,31.384188
+Sun Mall,minder.scratches.opened,30.050423,31.392763
+Swan Lake Compound (1st Settlement),friends.serenade.speeches,30.054367,31.442087
+Syndicate Of Commercial Professions (Abbaseya),pyramid.womanly.forehand,30.066675,31.294481
+Syndicate Of Commercial Professions (Abbaseya),sliding.lentil.revamping,30.06697,31.293615
+Taaqa Gas Station (15th of May),defenders.scar.headlines,29.834192,31.356184
+Taaqa Gas Station (15th of May),partied.exactly.clenching,29.834093,31.355986
+Taawon (Al Matareyya),baseballs.plotting.anyone,30.12315,31.301188
+Taawon (Al Matareyya),pave.glitz.brittle,30.12279,31.300503
+Taawon (Al Matareyya),print.strongman.calculate,30.122944,31.300589
+Taba St. & 6 October St. (Salam),inform.importing.smiling,30.175072,31.41813
+Taba St. & 6 October St. (Salam),scooter.screening.couches,30.175047,31.41824
+Tabarak (Omar Al Mokhtar St.),costs.envelope.voltages,30.122448,31.29709
+Tabarak (Omar Al Mokhtar St.),wheat.jugs.gifted,30.121536,31.297302
+Tabarak Children's Hospital (Nasr City),available.exhaled.envy,30.046398,31.32842
+Tabarak Children's Hospital (Nasr City),bakers.rooms.wobbling,30.046598,31.328562
+Tagneed,bulletins.armful.saturate,29.980843,31.112818
+Tahrir Square,fists.jazz.turned,30.044655,31.236061
+Tahrir Square,trudges.hers.nags,30.044035,31.235695
+Taki (Al Waili),addicted.roses.yummy,30.059465,31.276337
+Taki (Al Waili),optimists.waggled.sensible,30.059368,31.2763
+Talaat Harb Cultural Center,active.somebody.banquets,30.0227,31.25143
+Talaat Harb Mall (Downtown),doing.leathers.expiring,30.050495,31.24048
+Talaat Harb Square (Downtown),terminal.elevates.vaccines,30.047781,31.23868
+Taqa Gas Station (Badrasheen),barbarian.birdcage.assess,29.859756,31.279068
+Taqa Gas Station (Badrasheen),competent.dish.breaches,29.859943,31.27911
+Tara Compound Entrance (Sheikh Zayed),cunning.prominent.mirror,30.040054,31.013706
+Tara Compound Entrance (Sheikh Zayed),guitars.lyrics.lighten,30.040182,31.01392
+Techno Tex Clothes Co (15th of May),hands.perusing.weeps,29.817312,31.358702
+Techno Tex Clothes Co (15th of May),when.sandpaper.snacks,29.817469,31.35875
+Telecom Egypt Central (6th Of October),kind.bits.cries,29.974035,30.955143
+Telecom Egypt Central (6th Of October),pricier.gadgets.woodstove,29.9735,30.955431
+Telecom Egypt Central (6th Of October),workshops.rekindle.prettiest,29.973644,30.955437
+Telecom Egypt Central (Almaza),commands.bombshell.takes,30.085083,31.332657
+Telecom Egypt Central (Almaza),texts.stopped.tourist,30.086351,31.334988
+Teraat Al Gabal St.,fuzz.dabbled.soccer,30.101852,31.3057
+Teraat Al Gabal St.,rave.package.cutback,30.101713,31.305626
+Teraat Al Khashab (Nile Corniche),ketchup.enormous.morphing,29.917845,31.286322
+Teraat Al Khashab (Nile Corniche),marathons.additives.jotting,29.917742,31.286455
+Teraat Al Marioteyya St.,clock.honeybees.chuckle,30.032545,31.122065
+Teraat Al Marioteyya St.,sandbags.erupts.boomers,30.032679,31.122057
+Teraat Al Zomor & Abu Bakr Al Siddiq St.,modifies.called.motive,30.074417,31.184235
+Teraat Taware' Axis,happily.steady.fixtures,30.13981,31.379168
+Teraat Taware' Axis,maternal.micro.jams,30.139908,31.379086
+Tereat Al Gabal St. (Al Horeyya St.),lance.tasteful.fidget,30.11363,31.312176
+Tereat Al Gabal St. (Al Horeyya St.),romance.directive.special,30.113178,31.311941
+Tharwat Bridge (Saft El Laban),announced.accusing.king,30.027548,31.201515
+Tharwat Bridge (Saft El Laban),enjoy.renders.chromatic,30.027414,31.201706
+Tharwat Bridge (Saft El Laban),garden.party.florists,30.027332,31.201729
+Tharwat Bridge (Saft El Laban),respects.surviving.lecturing,30.02753,31.20166
+The Continental School of Cairo (Obour),concluded.nipping.audio,30.195063,31.460909
+The Continental School of Cairo (Obour),easily.rush.look,30.195194,31.46101
+The Egyptian Lawyers Association,rejoiced.hound.tins,30.052374,31.237604
+The Good Shepherd Hospital,conjured.retire.overpaid,30.076738,31.245197
+The National Museum of Egyptian Civilization,goofy.distilled.solving,30.005455,31.247887
+The National Museum of Egyptian Civilization,jolt.robe.scanty,30.005583,31.247772
+The Outlet Mall (6th of October),tripling.converged.screaming,29.936983,30.89576
+The Platform (Maadi),keener.imperious.increased,29.974354,31.234755
+The Platform (Maadi),system.tumblers.slot,29.974386,31.23488
+The Unknown Soldier Memorial,language.weary.dissolves,30.064703,31.314491
+The Unknown Soldier Memorial,living.thudding.weeks,30.064566,31.314634
+Three Brothers Supermarket (Al Manial),greet.chip.jobs,30.015821,31.22227
+Three Brothers Supermarket (Al Manial),ounce.shoelaces.cove,30.015936,31.222256
+Three Pyramids Hotel,fashion.vowel.bids,30.000565,31.178139
+Three Pyramids Hotel,outfitter.view.lows,30.000706,31.178076
+Tiba Grand Mall (6th of October),engulfing.revived.slack,29.949202,30.909094
+Tiba Grand Mall (6th of October),limped.classic.crafts,29.949324,30.909016
+Tiles Workshops (Berak Al Khayam Rd.),pedicure.shins.postings,30.056458,31.160341
+Togareyeen City (Al Moqattam),producers.crusaders.mentioned,30.01317,31.297977
+Togareyeen City (Al Moqattam),purely.exporters.tangible,30.012989,31.298185
+Tolip (Zahraa Nasr City),avid.cookies.owned,30.051811,31.404207
+Tolip (Zahraa Nasr City),replayed.arose.interlude,30.051628,31.404638
+Tolip Plaza (5th Settlement),driving.snowy.centrally,30.025606,31.465607
+Tolip Plaza (5th Settlement),snips.scenes.agreement,30.025322,31.46561
+Toman Bay St. (Heliopolis),recruited.sank.tweed,30.103365,31.314732
+Tomwa (Abu Al Nomros),knowledge.sporting.political,29.932976,31.255991
+Tomwa (Abu Al Nomros),taskbar.porch.surfaces,29.933035,31.256063
+Tora Prison (Autostrad),conveying.pelting.short,29.947107,31.28702
+Tora Prison (Autostrad),reason.according.chucked,29.946606,31.287207
+Tora Steps (Autostrad),asserts.sings.shame,29.95158,31.287321
+Tora Steps (Autostrad),safe.gong.backdrop,29.951576,31.287125
+Total  (6th of October),hurtles.kind.positions,29.932589,30.877106
+Total (Haram Marioteya),lakeside.replayed.making,29.99099,31.15231
+Total (Haram Marioteya),often.ambushes.coats,29.99085,31.152378
+Total (Kattameya),appointed.debating.activism,29.983738,31.366196
+Total (Kattameya),encrusted.warping.flopping,29.983715,31.366707
+Total (Kattameya),splints.received.activism,29.98368,31.366373
+Total Abou Al Gheit Rd.,already.bathtubs.operating,30.181444,31.171907
+Total Abou Al Gheit Rd.,driveway.skim.strutted,30.181547,31.172062
+Total Gas Station (Autostrad),monks.education.degree,29.982752,31.289162
+Total Gas Station (Autostrad),required.scored.crouches,29.982763,31.289474
+Total Gas Station (Autostrad),slim.dwarves.motivates,29.982748,31.289047
+Total Gas Station (Autostrad),zaps.lamp.arise,29.982756,31.289343
+Total Gas Station Bassous ( Ring Rd. ),erupt.masking.fluid,30.140024,31.206123
+Total Gas Station Bassous (Ring Rd.),snowy.thing.leaky,30.139954,31.206324
+Total Zahraa Al Maadi (Autostrad),fled.parked.displays,29.95854,31.28749
+Total Zahraa Al Maadi (Autostrad),thousands.submit.costs,29.95855,31.28734
+Traffic Department ( Ain El Sira ),camper.straying.decrease,30.014812,31.246943
+Traffic Department ( Ain El Sira ),paths.consoles.decompose,30.014887,31.246954
+Traffic Licensing Complex (Shubra),leathers.later.cheerily,30.108032,31.257969
+Traffic Licensing Complex (Shubra),soggy.trucked.tomb,30.107973,31.25775
+Triumph Hotel,learning.gears.overjoyed,30.086653,31.306023
+Triumph Square,hers.factory.saved,30.100483,31.343649
+Triumph Square,royally.tailors.sheds,30.100554,31.342587
+Turnery Mechanical Workshop (Al Matareyya),coconut.earphones.fluffed,30.130396,31.310469
+Twin Plaza,composes.operated.vaulting,30.052885,31.43201
+Union Housing Al Nasr (Kattameya),comfort.degrading.remark,29.974215,31.40788
+Union Housing Al Nasr (Kattameya),enforced.parkland.prickly,29.974314,31.407803
+Universal (6th of October),deprive.promotion.briefer,29.925777,30.900917
+Universal (6th of October),muscular.mocked.scripted,29.925703,30.900967
+Vehicles Administration (Salah Salem St.),wizards.food.legroom,30.061493,31.284578
+Vehicles Administration (Salah Salem St.),worked.outhouse.moment,30.06156,31.284462
+Versay ( Waili ),fairy.sharpness.quaking,30.103537,31.28065
+Versay - Waili,apprehend.backswing.guideline,30.10374,31.28061
+Victoria (Ahmed Helmy St.),hides.foreheads.buggy,30.086847,31.255991
+Victoria (Ahmed Helmy St.),tonic.slopes.greyhound,30.08715,31.255913
+Vitrac Square (5th Settlement),coil.amount.pirates,30.011385,31.41438
+Vitrac Square (5th Settlement),guidebook.besotted.pelting,30.011192,31.413826
+Vodafone (Ahmed Al Zomor St.),bars.kilt.shield,30.0486,31.374514
+Vodafone (Ahmed Al Zomor St.),puddings.treetop.cringe,30.048439,31.374584
+Vodafone (Awsim),hogs.voucher.lamplight,30.12184,31.139494
+Vodafone (Imbaba),item.retract.adjuster,30.072126,31.209368
+Vodafone (Zahraa Al Maadi),invite.cookery.reclined,29.961956,31.303055
+Vodafone (Zahraa Al Maadi),unsettled.secretly.dote,29.961712,31.30303
+Vodafone Square,arena.herring.collision,29.95148,30.912136
+Vodafone Square,masterpiece.retrial.float,29.951216,30.912338
+Wadi Al Nile Hospital (Matareya St.),handicaps.deriving.hides,30.09909,31.299648
+Wadi Al Nile Hospital (Matareya St.),tint.repay.woof,30.099112,31.299528
+Wadi Al Nile St. & 26th of July Corridor (Mit Okba),cable.fells.creatures,30.06058,31.20131
+Wadi Al Nile St. & 26th of July Corridor (Mit Okba),overruns.confusion.duplicate,30.060497,31.201294
+Wadi Al Nile St. and Nile Corniche,mainland.sensibly.lame,29.95426,31.25448
+Wadi Al Nile St. and Nile Corniche,weeks.purifier.glee,29.954168,31.25443
+Wadi Degla Sporting Club (6th of October),noses.creatures.bond,29.972885,31.00573
+Wadi Degla Sporting Club (6th of October),puzzles.boater.skimmers,29.972685,31.005682
+Wadi Degla Sporting Club (Heliopolis),movements.gilding.vintages,30.095068,31.382782
+Wadi Degla Sporting Club (New Cairo),noble.storming.jogged,30.052588,31.426676
+Wadi Degla Sporting Club (New Cairo),punch.formally.dignitary,30.052351,31.426702
+Wadi Hof Metro,mankind.shark.broadens,29.879276,31.314032
+Wadi Hof Metro,plant.bleaching.coaching,29.878838,31.313166
+Wadi Hof Metro,talkative.secretly.sofa,29.879316,31.314125
+Waei Islami Hospital (Mostorod),lads.deduced.each,30.120516,31.285673
+Waei Islami Hospital (Mostorod),operating.smashes.hired,30.12037,31.285807
+Waei Islami Hospital (Mostorod),summaries.agreed.nicely,30.120123,31.286963
+Waei Islami Hospital (Mostorod),wanting.beginning.feuds,30.119967,31.28705
+Waha Garage (Nasr City),invent.flop.pretty,30.040401,31.378992
+Waha Garage (Nasr City),vouch.rehearsed.union,30.040445,31.378866
+Waha Hotel (Alexandria Desert Rd.),bells.poets.journals,30.01349,31.102135
+Waha Hotel (Alexandria Desert Rd.),down.screeches.school,30.013447,31.102034
+Warraq Al Arab,abacus.grace.elbowing,30.095516,31.21479
+Warraq Al Arab,lectures.outbound.tutored,30.095678,31.214838
+Wataneya Gas Station (Al Nasr Company),unhappily.unfair.gazette,29.86986,31.3054
+Wataneya Gas Station (Autostrad Maadi),aimlessly.bribing.wasp,29.9757,31.290035
+Wataneya Gas Station (Autostrad Maadi),quail.pampered.unwraps,29.975655,31.289839
+Wataneya Gas Station (Autostrad Maadi),scale.dislikes.crinkled,29.975796,31.290138
+Wataneya Gas Station (Kattameya Ring Rd.),curable.bullion.diplomas,29.986992,31.309158
+Wataneya Gas Station (Kattameya Ring Rd.),instance.permanent.decanter,29.986769,31.309252
+Wataneya Gas Station (Kattameya Ring Rd.),thumb.finally.alarmed,29.986645,31.309198
+Water Plant 1 (Asmarat),prayers.tolerable.clumped,29.998314,31.33347
+Water Plant 2 (Asmarat),bandaged.truffles.napkins,29.997972,31.332012
+Water Plant 2 (Asmarat),hardening.blend.cake,29.997864,31.331882
+Water Station (Alexandria Desert Road),joyously.group.tripods,30.020966,31.097712
+Water Station (Alexandria Desert Road),yelled.cuddled.trappings,30.021004,31.097822
+Waterway Compound,like.maddening.cornfield,30.041355,31.47503
+Waterway Compound,segmented.club.handbags,30.041353,31.474789
+Wax Museum (Helwan),fights.inkjet.candy,29.85955,31.32625
+Wax Museum (Helwan),fortunate.coupler.novels,29.860022,31.326483
+West Golf (Kattameya),cages.fade.blemishes,29.999395,31.400955
+West Golf (Kattameya),suits.thrones.hamper,29.999191,31.40061
+Windrose Academy,alike.leans.walking,29.979734,31.351715
+Windrose Academy,uniform.neatly.guideline,29.979578,31.351618
+Wizarat District (New Administrative Capital),defensive.types.unstrapped,30.019442,31.733625
+Wonder Land Mall (Abbas Al Akkad St.),louder.hurray.relief,30.048262,31.339188
+Wonder Land Mall (Abbas Al Akkad St.),nods.coach.headrest,30.048222,31.339417
+Yathreb and Al Maadi Company St.,burglars.hypnotist.agents,29.985985,31.277199
+Yathreb and Al Maadi Company St.,hazelnuts.kennels.pilots,29.986086,31.277168
+Yellow Kiosk (6th of October),grief.serves.plants,29.934172,30.914888
+Yellow Kiosk (6th of October),shred.feuds.basically,29.934238,30.91499
+Yousef Abbas St & Autostrad St.,choppy.unites.ramps,30.066807,31.320755
+Yousef Abbas St & Autostrad St.,tuned.ratty.runways,30.066883,31.319574
+Youth Club (Sheikh Zayed),retraced.holdings.facelift,30.04364,30.976702
+Youth Housing (Shorouq City),sushi.smooth.landlady,30.165552,31.647482
+Youth Housing (Shorouq City),witty.compacts.emerald,30.165657,31.64692
+Zahraa Ain Shams,daredevil.airstrip.powers,30.137142,31.337488
+Zahraa Ain Shams,skidding.plea.vitals,30.136858,31.338049
+Zahraa Al Maadi Tunnel,showed.lunching.elevated,29.961489,31.289389
+Zahraa Madinet Nasr,fine.sleep.initiates,30.054674,31.413006
+Zahraa Madinet Nasr,purifier.reform.foiled,30.05629,31.413527
+Zahraa Madinet Nasr,slanting.precautions.overlaps,30.054825,31.413198
+Zahraa Madinet Nasr,wasps.fork.contact,30.05097,31.406176
+Zahraa Metro,deriving.engrossed.monitors,29.99813,31.228846
+Zahraa Metro,human.opens.costumed,29.995083,31.231228
+Zahraa Metro,vowed.wolf.mergers,29.995024,31.231157
+Zahraa Nasr City,brushing.fittingly.envy,30.051455,31.399925
+Zahraa Nasr City,heartburn.hostels.aura,30.051239,31.399977
+Zain Paint Store (Al Rawda Sheikh Zayed),dreamers.subplot.powering,30.038572,31.005129
+Zain Paint Store (Al Rawda Sheikh Zayed),fills.ooze.microchip,30.038471,31.004978
+Zaker Hussein St. & Al Tayaran St.,bricks.scripted.garages,30.043476,31.329092
+Zaker Hussein St. & Al Tayaran St.,thinking.unfilled.stretch,30.043674,31.328928
+Zamalek Sporting Club,cutaway.abandons.stung,30.060734,31.205017
+Zamalek Sporting Club,lollipop.compress.sprouted,30.060646,31.205017
+Zamzam Specialized Hospital (Om Bayoumi),grins.brief.duos,30.139488,31.250868
+Zamzam Specialized Hospital (Om Bayoumi),originals.brilliant.certified,30.139528,31.250591
+Zayed 2000,analogy.refusals.shadowed,30.019852,31.008379
+Zayed 2000,florists.soap.feasted,30.019442,31.00877
+Zayed 2000,seaweed.trailer.hikes,30.019533,31.008667
+Zayed 2000,watching.fault.loopholes,30.01972,31.008507
+Zayed Boys Secondary School,dirt.somewhere.unzips,30.049925,30.984886
+Zayed Boys Secondary School,specifies.tiles.really,30.051,30.98537
+Zenin,blocking.inflating.vitals,30.030642,31.183529
+Zenin,thousands.anyway.tipping,30.030441,31.18342
+Zewail Rd. (Wahat Rd.),enormous.shin.tripods,29.95611,31.077688
+Zohour City (Basateen Rd.),convert.busy.hourglass,29.993923,31.266552
+Ø£ÙƒØ§Ø¯ÙŠÙ…ÙŠØ© Ø§Ù„Ù‚Ø§Ù‡Ø±Ø© Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©,froth.lame.rezoning,29.993313,31.434494
+Ø£ÙƒØ§Ø¯ÙŠÙ…ÙŠØ© Ø§Ù„Ù‚Ø§Ù‡Ø±Ø© Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©,kinks.argue.unions,29.99342,31.434795

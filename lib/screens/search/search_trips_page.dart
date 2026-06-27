@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:latlong2/latlong.dart';
 import '../../core/localization.dart';
 import '../../metro_graph.dart';
 import '../../models/trip_option.dart';
@@ -6,6 +7,7 @@ import '../../routing_service.dart';
 import '../../providers/app_route_preference_scope.dart';
 import '../../providers/app_language_scope.dart';
 import '../../public_transport_service.dart';
+import '../../public_transport_data.dart';
 import '../journey/route_details_page.dart';
 import '../settings/settings_page.dart';
 import 'package:shimmer/shimmer.dart';
@@ -47,13 +49,40 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
         
         final segments = <RouteSegment>[];
         if (dynamicResult['walkPoints']!.isNotEmpty) {
-          segments.add(RouteSegment(mode: 'walk', title: tr(context, 'مشي', 'Walk'), subtitle: 'إلى المحطة', durationMinutes: 5, distanceText: '0.5 كم', pathPoints: dynamicResult['walkPoints']!));
+          final startName = _getDisplayName(context, widget.fromId);
+          final endName = _getClosestStopName(dynamicResult['walkPoints']!.last);
+          segments.add(RouteSegment(
+            mode: 'walk',
+            title: tr(context, 'مشي', 'Walk'),
+            subtitle: '$startName ← $endName',
+            durationMinutes: 5,
+            distanceText: '0.5 كم',
+            pathPoints: dynamicResult['walkPoints']!,
+          ));
         }
         if (dynamicResult['metroPoints']!.isNotEmpty) {
-          segments.add(RouteSegment(mode: 'metro', title: tr(context, 'مترو الأنفاق', 'Metro'), subtitle: 'مسار سريع', durationMinutes: 20, distanceText: '10 كم', pathPoints: dynamicResult['metroPoints']!));
+          final startName = _getClosestStopName(dynamicResult['metroPoints']!.first);
+          final endName = _getClosestStopName(dynamicResult['metroPoints']!.last);
+          segments.add(RouteSegment(
+            mode: 'metro',
+            title: tr(context, 'مترو الأنفاق', 'Metro'),
+            subtitle: '$startName ← $endName',
+            durationMinutes: 20,
+            distanceText: '10 كم',
+            pathPoints: dynamicResult['metroPoints']!,
+          ));
         }
         if (dynamicResult['busPoints']!.isNotEmpty) {
-          segments.add(RouteSegment(mode: 'bus', title: tr(context, 'أتوبيس', 'Bus'), subtitle: 'الوجهة النهائية', durationMinutes: 15, distanceText: '5 كم', pathPoints: dynamicResult['busPoints']!));
+          final startName = _getClosestStopName(dynamicResult['busPoints']!.first);
+          final endName = _getDisplayName(context, widget.toId);
+          segments.add(RouteSegment(
+            mode: 'bus',
+            title: tr(context, 'أتوبيس', 'Bus'),
+            subtitle: '$startName ← $endName',
+            durationMinutes: 15,
+            distanceText: '5 كم',
+            pathPoints: dynamicResult['busPoints']!,
+          ));
         }
 
         if (segments.isNotEmpty) {
@@ -327,6 +356,54 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
       return isAr ? station.nameAr : station.nameEn;
     }
     return id; // Return raw input if it's not a metro station ID
+  }
+
+  String _getClosestStopName(LatLng point) {
+    final isAr = AppLanguageScope.notifierOf(context).value == 'ar';
+    double minDistance = double.maxFinite;
+    String closestName = '';
+    bool closestIsPreferredLang = false;
+
+    bool isPreferredLanguage(String text) {
+      final hasArabic = RegExp(r'[\u0600-\u06FF]').hasMatch(text);
+      return isAr ? hasArabic : !hasArabic;
+    }
+
+    // 1. Check Metro stations
+    for (final s in MetroGraph.stations.values) {
+      final dist = (s.location.latitude - point.latitude).abs() + (s.location.longitude - point.longitude).abs();
+      final name = isAr ? s.nameAr : s.nameEn;
+      if (dist < minDistance) {
+        minDistance = dist;
+        closestName = name;
+        closestIsPreferredLang = isPreferredLanguage(name);
+      } else if ((dist - minDistance).abs() < 0.0001) {
+        if (!closestIsPreferredLang && isPreferredLanguage(name)) {
+          closestName = name;
+          closestIsPreferredLang = true;
+        }
+      }
+    }
+
+    // 2. Check Bus regions / stop coordinates from PublicTransportData.regionCoords
+    for (final entry in PublicTransportData.regionCoords.entries) {
+      final name = entry.key;
+      final loc = entry.value;
+      final dist = (loc.latitude - point.latitude).abs() + (loc.longitude - point.longitude).abs();
+      
+      if (dist < minDistance) {
+        minDistance = dist;
+        closestName = name;
+        closestIsPreferredLang = isPreferredLanguage(name);
+      } else if ((dist - minDistance).abs() < 0.0001) {
+        if (!closestIsPreferredLang && isPreferredLanguage(name)) {
+          closestName = name;
+          closestIsPreferredLang = true;
+        }
+      }
+    }
+
+    return closestName.isNotEmpty ? closestName : (isAr ? 'محطة غير معروفة' : 'Unknown Station');
   }
 
   Widget _buildSortChip({

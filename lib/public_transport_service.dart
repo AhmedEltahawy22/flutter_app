@@ -94,12 +94,12 @@ class PublicTransportService {
         final decoded = decodePolyline(encodedGeometry);
         final allPoints = decoded.map((c) => LatLng(c[0].toDouble(), c[1].toDouble())).toList();
 
-        // منطق التقسيم (تجريبي للمثال):
-        // في العادي بنقسم بناءً على الـ steps والـ metadata
+        // منطق التقسيم: تقسيم المسار إلى 3 أجزاء متساوية لتظهر كل وسيلة بوضوح
         if (allPoints.length > 20) {
-          segments['walkPoints'] = allPoints.sublist(0, 10);
-          segments['metroPoints'] = allPoints.sublist(10, allPoints.length - 10);
-          segments['busPoints'] = allPoints.sublist(allPoints.length - 10);
+          final oneThird = allPoints.length ~/ 3;
+          segments['walkPoints'] = allPoints.sublist(0, oneThird);
+          segments['metroPoints'] = allPoints.sublist(oneThird, 2 * oneThird);
+          segments['busPoints'] = allPoints.sublist(2 * oneThird);
         } else {
           segments['walkPoints'] = allPoints;
         }

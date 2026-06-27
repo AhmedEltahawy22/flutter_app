@@ -1,0 +1,1651 @@
+route_id,service_id,trip_headsign,direction_id,shape_id,trip_id
+-6XpwB9WWYaBpVKpKkJAA,Ground_Daily,1st Settlement Station (New Cairo),1,_gyb4P-bdhA2bWbQwlXkk_Shape,_gyb4P-bdhA2bWbQwlXkk-10:00:00
+-6XpwB9WWYaBpVKpKkJAA,Ground_Daily,Mazallat Station,0,EM-ECppQ3G2ccKgFkSWTD_Shape,EM-ECppQ3G2ccKgFkSWTD-10:00:00
+-VhmbIy80una-3ZcYAtuQ,Ground_Daily,Ard El Lewaa,0,k8Dhm6jURcy623yg3NhAh_Shape,k8Dhm6jURcy623yg3NhAh-10:00:00
+-VhmbIy80una-3ZcYAtuQ,Ground_Daily,Barageel St,1,8ye8MRqs-Bmz18Vcxttpj_Shape,8ye8MRqs-Bmz18Vcxttpj-10:00:00
+-lI1f278TKfnCnumdD48V,Ground_Daily,Cairo University Metro,1,B8_j9Uh_HlbVrMmbErUD9_Shape,B8_j9Uh_HlbVrMmbErUD9-10:00:00
+-lI1f278TKfnCnumdD48V,Ground_Daily,Znen (Awwel Al Eshreen),0,u2kCvkJhyUAQnnu8Sj6SO_Shape,u2kCvkJhyUAQnnu8Sj6SO-10:00:00
+-nJDno82fXTeOuqXP8Q3H,Ground_Daily,Ahmed Helmy Station,1,5XnNiz8iMKA-hl_lUmg92_Shape,5XnNiz8iMKA-hl_lUmg92-10:00:00
+-nJDno82fXTeOuqXP8Q3H,Ground_Daily,Asmarrat,0,FHbiEDyaXcBlkC2TuwRdA_Shape,FHbiEDyaXcBlkC2TuwRdA-10:00:00
+0A3pcPjwLEpq7hwveYoyO,Ground_Daily,10th of Ramadan Station,1,mgHuDNQf43eKuKph9wyQl_Shape,mgHuDNQf43eKuKph9wyQl-10:00:00
+0XAvSntelgtvUQzvAfLqW,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,GHXROZgHgUSD5C_2XIVOV_Shape,GHXROZgHgUSD5C_2XIVOV-10:00:00
+0XAvSntelgtvUQzvAfLqW,Ground_Daily,Moassasa Station,0,6OO3Yz8p0IlmViZn-DJ0O_Shape,6OO3Yz8p0IlmViZn-DJ0O-10:00:00
+0ij9-cfVgid7IW1oTQKdT,Ground_Daily,Basateen,1,yYSuQjfqt4hPg1Qc5ulVk_Shape,yYSuQjfqt4hPg1Qc5ulVk-10:00:00
+0ij9-cfVgid7IW1oTQKdT,Ground_Daily,Mazallat Station,0,0jXLhzjwqCIz6DOThb9bW_Shape,0jXLhzjwqCIz6DOThb9bW-10:00:00
+0mQ8cT0ZE81ogwfFKHdrc,Ground_Daily,Al Zawya Al Hamra Station,1,G6XOXoFBJ7xi2VUtpO9Ox_Shape,G6XOXoFBJ7xi2VUtpO9Ox-10:00:00
+0mQ8cT0ZE81ogwfFKHdrc,Ground_Daily,Arab Maadi Station,0,nsQXWU6BjZCW1SNH0DaKf_Shape,nsQXWU6BjZCW1SNH0DaKf-10:00:00
+0yN0f3emwwLcW287INPnm,Ground_Daily,Dawaran Shubra Station,0,jqUOPwQ04nQ8o-2CiF1bk_Shape,jqUOPwQ04nQ8o-2CiF1bk-10:00:00
+0yN0f3emwwLcW287INPnm,Ground_Daily,Masaken Al Shorouq,1,NosOaRbVP_STv2D41mBMn_Shape,NosOaRbVP_STv2D41mBMn-10:00:00
+15BSVKWwvsIQTR_rWUxzo,Ground_Daily,Arab Al Tawaila,0,kZoNiOUMltRRIe7TBhLkA_Shape,kZoNiOUMltRRIe7TBhLkA-10:00:00
+15BSVKWwvsIQTR_rWUxzo,Ground_Daily,Darrasa,1,S-KfbzAVJK7M-SRte4UPQ_Shape,S-KfbzAVJK7M-SRte4UPQ-10:00:00
+189igEKLGNwIUDl8gfOwh,Ground_Daily,Abboud,0,2DDOTu4ngQ7a4DBGEgI0T_Shape,2DDOTu4ngQ7a4DBGEgI0T-10:00:00
+189igEKLGNwIUDl8gfOwh,Ground_Daily,New Marg Station,1,ndsVZ0YrJv4lgDGakQj_D_Shape,ndsVZ0YrJv4lgDGakQj_D-10:00:00
+1ZbDBsUQUJRub7iZYmHFI,Ground_Daily,Dar El Salam,1,R2g31SYTBfGXA06132fCH_Shape,R2g31SYTBfGXA06132fCH-10:00:00
+1ZbDBsUQUJRub7iZYmHFI,Ground_Daily,Fayda Kamel,0,0kBVj_qpOsIrgBHvA34EX_Shape,0kBVj_qpOsIrgBHvA34EX-10:00:00
+1hy6BzswcfezL07nZtvGZ,Ground_Daily,Matareya Square Station,0,44EE1ZHo5XzvZO74R2H9Y_Shape,44EE1ZHo5XzvZO74R2H9Y-10:00:00
+1mr8RU0a90VsX2pRB9Rfl,Ground_Daily,Abou El Numrus,0,m7T3lM3YGSYQQcZxIwjll_Shape,m7T3lM3YGSYQQcZxIwjll-10:00:00
+1mr8RU0a90VsX2pRB9Rfl,Ground_Daily,Moneeb Station,1,tU4dt8xP_IaGNlP3bdLTT_Shape,tU4dt8xP_IaGNlP3bdLTT-10:00:00
+21kZwsX6wTR98GRcou2yw,Ground_Daily,Kilo 4 & Half Station,0,arUAc3-tCLjv_qW3u1t-j_Shape,arUAc3-tCLjv_qW3u1t-j-10:00:00
+21kZwsX6wTR98GRcou2yw,Ground_Daily,Moassasa Station,1,5T4mETzJz8YMVWMoNB7Av_Shape,5T4mETzJz8YMVWMoNB7Av-10:00:00
+24kdxuuUjA0qtjg6P-OPh,Ground_Daily,Abd Al Moneim Riad Station,1,1gC5vWE8urH5UYMQ_e-ll_Shape,1gC5vWE8urH5UYMQ_e-ll-10:00:00
+24kdxuuUjA0qtjg6P-OPh,Ground_Daily,Qalyoub,0,WqQGCqNmjUiM_aA6RZ-Vg_Shape,WqQGCqNmjUiM_aA6RZ-Vg-10:00:00
+26Q9q9X6pYG2gBMg7IWKk,Ground_Daily,Mazlaqan Al Deweqa,0,GSLjXjv5rt3M4hoNTHID8_Shape,GSLjXjv5rt3M4hoNTHID8-10:00:00
+26Q9q9X6pYG2gBMg7IWKk,Ground_Daily,Moneeb Station,1,EixLOm-eVXKTXF3zcWkHv_Shape,EixLOm-eVXKTXF3zcWkHv-10:00:00
+2EAwBcn3IACPZ0xefVHUM,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,fx61ki-EdJcaYRSrBrVB0_Shape,fx61ki-EdJcaYRSrBrVB0-10:00:00
+2EAwBcn3IACPZ0xefVHUM,Ground_Daily,New Marg Station,0,YaJquxQOxVS7keebUeubh_Shape,YaJquxQOxVS7keebUeubh-10:00:00
+2GAYQWfWuEdIk5hhjFe2Q,Ground_Daily,Ahmed Helmy Station,0,lrxpSO2B-k1Nh3xuWuNjk_Shape,lrxpSO2B-k1Nh3xuWuNjk-10:00:00
+2GAYQWfWuEdIk5hhjFe2Q,Ground_Daily,Bigam,1,zJwXqlXqvol3FU31WNF8__Shape,zJwXqlXqvol3FU31WNF8_-10:00:00
+2NGKDEeZqTOn-h078Hniy,Ground_Daily,Haram & Marioteya Station,0,UG2KPxE7nLePrFlgDcVGZ_Shape,UG2KPxE7nLePrFlgDcVGZ-10:00:00
+2NGKDEeZqTOn-h078Hniy,Ground_Daily,Zahraa Madinet Nasr,1,-q8jjwom1iFvWy114rFYc_Shape,-q8jjwom1iFvWy114rFYc-10:00:00
+2Wxf2h2nrj2e5sjOpMram,Ground_Daily,Bulaq Al Dakrur Station,1,CiEZhVNG7bgeLNi27Vk2m_Shape,CiEZhVNG7bgeLNi27Vk2m-10:00:00
+2Wxf2h2nrj2e5sjOpMram,Ground_Daily,Masaken Sheraton,0,uOmpDsDqNvPF-NeqgxiIq_Shape,uOmpDsDqNvPF-NeqgxiIq-10:00:00
+2eCfQDCqolqzBE6SOlWnJ,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,KHcngevQOr4Uw_ISBtSWC_Shape,KHcngevQOr4Uw_ISBtSWC-10:00:00
+2eCfQDCqolqzBE6SOlWnJ,Ground_Daily,Mazlaqan Ain Shams,0,IG684TAymG_bL_hslhyGo_Shape,IG684TAymG_bL_hslhyGo-10:00:00
+2kavxuzVoPAIs0Zo7SkfI,Ground_Daily,Hossary Station,1,VWUclOqbBjPJ7zFG1bgeC_Shape,VWUclOqbBjPJ7zFG1bgeC-10:00:00
+2nunj7L0d16GI8GHhNASo,Ground_Daily,10th of Ramadan Station,1,4Jva7dB93sfvFZfma6i4R_Shape,4Jva7dB93sfvFZfma6i4R-10:00:00
+2nunj7L0d16GI8GHhNASo,Ground_Daily,Al Sayeda Aisha Station,0,UdF78EpkrbmefPoUXomBc_Shape,UdF78EpkrbmefPoUXomBc-10:00:00
+2tYSJSKAX45ZXdXge4fde,Ground_Daily,1st Settlement Station (New Cairo),1,RE_ReXlH3ohJbyGnr1MnS_Shape,RE_ReXlH3ohJbyGnr1MnS-10:00:00
+2tYSJSKAX45ZXdXge4fde,Ground_Daily,Abd Al Moneim Riad Station,0,LydLx1TCca8jr-nEg2Ori_Shape,LydLx1TCca8jr-nEg2Ori-10:00:00
+2teNSAc0dVegVu5GOxcn-,Ground_Daily,1st Settlement Station (New Cairo),0,VmyRsey9yIJ1hsvFGkidI_Shape,VmyRsey9yIJ1hsvFGkidI-10:00:00
+2teNSAc0dVegVu5GOxcn-,Ground_Daily,1st Settlement Station (New Cairo),1,UkGwXH9zTpUeUmJr5owZB_Shape,UkGwXH9zTpUeUmJr5owZB-10:00:00
+30QI2WFsvNrXncGOrD-Yl,Ground_Daily,Carrefour - Maadi,0,V64cQ-K6tX5SQ_8fKKdXb_Shape,V64cQ-K6tX5SQ_8fKKdXb-10:00:00
+30QI2WFsvNrXncGOrD-Yl,Ground_Daily,Masaken Betcho,1,T54onFGMOCluFq178GHtj_Shape,T54onFGMOCluFq178GHtj-10:00:00
+3Dt_GqyHPoLGPo1ZegcTc,Ground_Daily,Lebanon Square Station,0,0B1DaW_i9wMshGIpzWxit_Shape,0B1DaW_i9wMshGIpzWxit-10:00:00
+3Dt_GqyHPoLGPo1ZegcTc,Ground_Daily,Zahraa Madinet Nasr,1,tXP_1b7LJAYvdQE4F2OFW_Shape,tXP_1b7LJAYvdQE4F2OFW-10:00:00
+3JpAdi2uPwMtPTnRK6Jyp,Ground_Daily,Al Omraneyya Al Gadida,0,1vsBeLtLPgNSSnM5gWycm_Shape,1vsBeLtLPgNSSnM5gWycm-10:00:00
+3JpAdi2uPwMtPTnRK6Jyp,Ground_Daily,Darrasa,1,qkX394OF4gANduyF4yLN9_Shape,qkX394OF4gANduyF4yLN9-10:00:00
+3WAtjq7S69P9s8WhLOr4f,Ground_Daily,Abd Al Moneim Riad Station,1,2NVjzzHBIo_-XLsBN4KYh_Shape,2NVjzzHBIo_-XLsBN4KYh-10:00:00
+3WAtjq7S69P9s8WhLOr4f,Ground_Daily,Cairo Airport Station,0,rFly2bIxtK4yRtF-VqziX_Shape,rFly2bIxtK4yRtF-VqziX-10:00:00
+3Yvct3Jc-AgCLWnx8iJb-,Ground_Daily,Al Sa'a Square Station,0,1LP9Vk7ezEV1L_xsceq2e_Shape,1LP9Vk7ezEV1L_xsceq2e-10:00:00
+3Yvct3Jc-AgCLWnx8iJb-,Ground_Daily,Helmeyet El Zaitoun Metro,1,kk1Pa0L52hu0n6GnNopuF_Shape,kk1Pa0L52hu0n6GnNopuF-10:00:00
+3dezhf9N-kKXYX4egwMmg,Ground_Daily,Imbaba Station,1,bJ4Z68be2_W1uBrooHul5_Shape,bJ4Z68be2_W1uBrooHul5-10:00:00
+3dezhf9N-kKXYX4egwMmg,Ground_Daily,Mosheer Ahmed Ismail (Sheraton),0,0aCIFc27lpFi-ZB9v0i5p_Shape,0aCIFc27lpFi-ZB9v0i5p-10:00:00
+3k65ONadSSpqWJMm7jv4a,Ground_Daily,Al Sayeda Nafeesa,1,0uI5Wr3pJc0NdmQU1cqfv_Shape,0uI5Wr3pJc0NdmQU1cqfv-10:00:00
+3k65ONadSSpqWJMm7jv4a,Ground_Daily,El Warsha (Ezbet Al Nakhl),0,aqBMRnqivCa01PTVN_2Rl_Shape,aqBMRnqivCa01PTVN_2Rl-10:00:00
+3waGFbKHjbGyHsGw8XnY4,Ground_Daily,Giza Square Station,0,-nIIIT_qpGw61x8Mh1x_w_Shape,-nIIIT_qpGw61x8Mh1x_w-10:00:00
+4AnLqrfTx4EzrhVcahl7F,Ground_Daily,Abboud,0,-rLtDuwe-jHpFTH7LttYe_Shape,-rLtDuwe-jHpFTH7LttYe-10:00:00
+4AnLqrfTx4EzrhVcahl7F,Ground_Daily,Bulaq Al Dakrur Station,1,1qAG7g39ik2OqfT0WZCnm_Shape,1qAG7g39ik2OqfT0WZCnm-10:00:00
+4E_NzHWE6SBBt9WiSwera,Ground_Daily,10th of Ramadan City,0,0q6B55QFqE7VPO9hLDC0N_Shape,0q6B55QFqE7VPO9hLDC0N-10:00:00
+4E_NzHWE6SBBt9WiSwera,Ground_Daily,10th of Ramadan Station,1,dmacRZFr7jSMiZ_0mtLsI_Shape,dmacRZFr7jSMiZ_0mtLsI-10:00:00
+4P_RC_FgHuWtFC8yoCbgz,Ground_Daily,Giza Square Station,0,UBRs_c9yHSPX1L2xzIbva_Shape,UBRs_c9yHSPX1L2xzIbva-10:00:00
+4P_RC_FgHuWtFC8yoCbgz,Ground_Daily,Moassasa Station,1,eMC5jGCqHPHRdJDUVzA8V_Shape,eMC5jGCqHPHRdJDUVzA8V-10:00:00
+4cp78uINFpGWUO3lvHpAX,Ground_Daily,Awwel Makram Ebeid,0,htTEG9kPkn5YD_oWsMjjp_Shape,htTEG9kPkn5YD_oWsMjjp-10:00:00
+4cp78uINFpGWUO3lvHpAX,Ground_Daily,Ghamra Station,1,c8skzDxRQOYsuhzIHxaBh_Shape,c8skzDxRQOYsuhzIHxaBh-10:00:00
+4oru4f3TseNYYICmUR910,Ground_Daily,Hadaba Wosta (Moqattam),0,DGZ4qJvolGBMlaIluQu7f_Shape,DGZ4qJvolGBMlaIluQu7f-10:00:00
+4oru4f3TseNYYICmUR910,Ground_Daily,Manshiyat Nasser Station,1,5-etov7E27X0Ygqv6bA25_Shape,5-etov7E27X0Ygqv6bA25-10:00:00
+4xLmOtIrO8HsH5BVeVgIZ,Ground_Daily,3rd Settlement  (New Cairo),1,a5D6XZCNvcBg7tpfTpb3s_Shape,a5D6XZCNvcBg7tpfTpb3s-10:00:00
+4xLmOtIrO8HsH5BVeVgIZ,Ground_Daily,Abd Al Moneim Riad Station,0,TQCZCoKKDsdyZ66caCDGa_Shape,TQCZCoKKDsdyZ66caCDGa-10:00:00
+58ec_pyCB_Gbm8WqhvAx2,Ground_Daily,1st Settlement Station (New Cairo),0,BC-O_uPozEjkWPDoe1s7r_Shape,BC-O_uPozEjkWPDoe1s7r-10:00:00
+58ec_pyCB_Gbm8WqhvAx2,Ground_Daily,Dawaran Shubra Station,1,a4aHmJRQLKhD78Ennl22G_Shape,a4aHmJRQLKhD78Ennl22G-10:00:00
+5CqnnGEDncnHS7HZkkGTj,Ground_Daily,Al Omraneyya Al Gadida,1,GdLE5LHKdZ3zncP8aLZ04_Shape,GdLE5LHKdZ3zncP8aLZ04-10:00:00
+5CqnnGEDncnHS7HZkkGTj,Ground_Daily,Kilo 4 & Half Station,0,dGYK60hLqeN5KQ6fMp-Ez_Shape,dGYK60hLqeN5KQ6fMp-Ez-10:00:00
+5KspV5Hlbm-No0kYZeowS,Ground_Daily,Haram Mashaal Station,0,5ctGy1IaXPQHAc-7fyrFp_Shape,5ctGy1IaXPQHAc-7fyrFp-10:00:00
+5KspV5Hlbm-No0kYZeowS,Ground_Daily,Ramses Station,1,kZsbf6-UA3RHv2D_ly5mO_Shape,kZsbf6-UA3RHv2D_ly5mO-10:00:00
+5l1G65qweO5GdBQpfy1EM,Ground_Daily,10th District Station (Nasr City),0,R2wAAhhxXbAnOVR3hyAXh_Shape,R2wAAhhxXbAnOVR3hyAXh-10:00:00
+5l1G65qweO5GdBQpfy1EM,Ground_Daily,Ramses Station,1,Pn-VAAtVdJ1tehS1UDfpj_Shape,Pn-VAAtVdJ1tehS1UDfpj-10:00:00
+5uY9vir47u3ABX4ON8Tf3,Ground_Daily,Moassasa Station,0,nBQyEcOdSAZz-ivOI1I0Z_Shape,nBQyEcOdSAZz-ivOI1I0Z-10:00:00
+5v34MuGjLYA0AFM7dhCCE,Ground_Daily,Abbasseya Station,1,RU5552HElMNpEvqPCN-8S_Shape,RU5552HElMNpEvqPCN-8S-10:00:00
+5v34MuGjLYA0AFM7dhCCE,Ground_Daily,Moneeb Station,0,_nTLBimPnTnsYV-lPplvB_Shape,_nTLBimPnTnsYV-lPplvB-10:00:00
+5ykQMXv-xTjnuXq5iovF7,Ground_Daily,AUC Bus Station,0,WF8offi5yIT58wL6y4JFN_Shape,WF8offi5yIT58wL6y4JFN-10:00:00
+5ykQMXv-xTjnuXq5iovF7,Ground_Daily,Abd Al Moneim Riad Station,1,-yM2E11heYf6ugOQ5AB8I_Shape,-yM2E11heYf6ugOQ5AB8I-10:00:00
+63Gw347SsNx2agQWusD3h,Ground_Daily,1st Settlement Station (New Cairo),1,GCxUlkelfmotgfq1XhPRp_Shape,GCxUlkelfmotgfq1XhPRp-10:00:00
+63Gw347SsNx2agQWusD3h,Ground_Daily,Abou Al Reesh,0,X1W1CCm1QPk6-FFMD_dPF_Shape,X1W1CCm1QPk6-FFMD_dPF-10:00:00
+67VWfBwz-LVqC7OxaN5Cj,Ground_Daily,Haram & Marioteya Station,0,3z3gUc3I9juRxrcHkQfug_Shape,3z3gUc3I9juRxrcHkQfug-10:00:00
+67VWfBwz-LVqC7OxaN5Cj,Ground_Daily,Kerdasa Station,1,WApaQAelLum_mv0NOioxv_Shape,WApaQAelLum_mv0NOioxv-10:00:00
+6HiNrwyzAw5JGPUdaty-0,Ground_Daily,Imbaba Station,1,P9OUS7WEmxYLlk_1O8KV1_Shape,P9OUS7WEmxYLlk_1O8KV1-10:00:00
+6HiNrwyzAw5JGPUdaty-0,Ground_Daily,Ramses Station,0,JH_UY8_LL3OIjuHL6uSJs_Shape,JH_UY8_LL3OIjuHL6uSJs-10:00:00
+6K4_YEnZjlrZGldv7Yl2T,Ground_Daily,Imbaba Station,0,v5lkpeOumWpQYlnx1iKCe_Shape,v5lkpeOumWpQYlnx1iKCe-10:00:00
+6K4_YEnZjlrZGldv7Yl2T,Ground_Daily,Moassasa Station,1,ZGMlEUk0w-JDetqL9Rbg1_Shape,ZGMlEUk0w-JDetqL9Rbg1-10:00:00
+6KGSCH_P7m-jw7W1PR0Ht,Ground_Daily,Alf Maskan Station,1,r7wd4t2a2FZMnz-U2k83x_Shape,r7wd4t2a2FZMnz-U2k83x-10:00:00
+6KGSCH_P7m-jw7W1PR0Ht,Ground_Daily,New Cairo Court Station,0,jfALFuqiIGj49H0Xns6Hz_Shape,jfALFuqiIGj49H0Xns6Hz-10:00:00
+6Qg43sT3Clqienri3AXm7,Ground_Daily,10th of Ramadan Station,0,CQjC1LpNpSw3k5peqHgzk_Shape,CQjC1LpNpSw3k5peqHgzk-10:00:00
+6snbHgT_od7Wcobjy2M68,Ground_Daily,New Marg Station,0,Y3cu1rn3m3tUT7zuf3kEh_Shape,Y3cu1rn3m3tUT7zuf3kEh-10:00:00
+6snbHgT_od7Wcobjy2M68,Ground_Daily,Ramses Station,1,3yvTD4lqn_XxmPtScZ6tC_Shape,3yvTD4lqn_XxmPtScZ6tC-10:00:00
+79A4DBdhOZXDQqFQNdq_5,Ground_Daily,Carrefour - Maadi,0,N8muDfuBqCH1dvUe_rIL__Shape,N8muDfuBqCH1dvUe_rIL_-10:00:00
+79A4DBdhOZXDQqFQNdq_5,Ground_Daily,Zahraa Metro,1,3cX2E05Lngf1Zdt5rKkJ2_Shape,3cX2E05Lngf1Zdt5rKkJ2-10:00:00
+7FCzhO02lSZAAW-JhYn9s,Ground_Daily,Isko,1,JYZxC6PIo6O1Kdo31McUV_Shape,JYZxC6PIo6O1Kdo31McUV-10:00:00
+7FCzhO02lSZAAW-JhYn9s,Ground_Daily,Matbaa Station,0,aJyaGlt127vYP5trgvXPH_Shape,aJyaGlt127vYP5trgvXPH-10:00:00
+7K3l-wUpwMqCltVD6bzOd,Ground_Daily,Giza Square Station,1,1O98xIgi9lUnIlb_m2V-u_Shape,1O98xIgi9lUnIlb_m2V-u-10:00:00
+7K3l-wUpwMqCltVD6bzOd,Ground_Daily,Imbaba Station,0,oKlQRkAker1axINGwCsfr_Shape,oKlQRkAker1axINGwCsfr-10:00:00
+7S_gkEV2bsYICm8FcrJRV,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,V8f_EIo16ogzSvrgRo1nv_Shape,V8f_EIo16ogzSvrgRo1nv-10:00:00
+7S_gkEV2bsYICm8FcrJRV,Ground_Daily,Matbaa Station,0,gGLlt81P1SJDpLE0xHtoH_Shape,gGLlt81P1SJDpLE0xHtoH-10:00:00
+7ZNJgilomPVVQdSvyInsq,Ground_Daily,Moassasa Station,0,fgmB0Jb5ua1RuhXXQ42P7_Shape,fgmB0Jb5ua1RuhXXQ42P7-10:00:00
+7rXRm-ODpC-4pUd0AdZcX,Ground_Daily,Rehab - Gate 6,0,sZIK8H3UBAXDqk8H0Cj2V_Shape,sZIK8H3UBAXDqk8H0Cj2V-10:00:00
+7rXRm-ODpC-4pUd0AdZcX,Ground_Daily,Znen (Awwel Al Eshreen),1,J9oWOKuOwjcbk17DpRb9B_Shape,J9oWOKuOwjcbk17DpRb9B-10:00:00
+8Evj6WpZuMv4pgAH6uHVo,Ground_Daily,Al Sayeda Aisha Station,0,W_tx47G7dbIGqjMpHWZXf_Shape,W_tx47G7dbIGqjMpHWZXf-10:00:00
+8Evj6WpZuMv4pgAH6uHVo,Ground_Daily,Imbaba Station,1,0UylJA7JV_Z7UWAX9gj8E_Shape,0UylJA7JV_Z7UWAX9gj8E-10:00:00
+8RzwcHgdiBJrQow3-bGIj,Ground_Daily,Haram Areesh (Sahl Hamza),0,obq20-MPiO9xlEJ1He0sm_Shape,obq20-MPiO9xlEJ1He0sm-10:00:00
+8TSoqsVo41bExi7Jg16qQ,Ground_Daily,Bulaq Al Dakrur Station,1,qAWJncNf-LHicfrRPrhQ9_Shape,qAWJncNf-LHicfrRPrhQ9-10:00:00
+8TSoqsVo41bExi7Jg16qQ,Ground_Daily,Ramses Station,0,xDeSeOj8pWNU2XgE8tUHa_Shape,xDeSeOj8pWNU2XgE8tUHa-10:00:00
+8X8gLBYp6o4Z9Dc0_MySn,Ground_Daily,Hyper 1 Station,1,8uTcYxpTFUHljpSlh852K_Shape,8uTcYxpTFUHljpSlh852K-10:00:00
+8X8gLBYp6o4Z9Dc0_MySn,Ground_Daily,Remaya Station (New Mashaal),0,qYbzlP9GNoHX_BPP4i_3v_Shape,qYbzlP9GNoHX_BPP4i_3v-10:00:00
+8e41N39_w9qPLPFGgB8Hq,Ground_Daily,7th District Station (Nasr City),0,nhXRp_p6tDx7U5MLHeDbd_Shape,nhXRp_p6tDx7U5MLHeDbd-10:00:00
+8e41N39_w9qPLPFGgB8Hq,Ground_Daily,New Marg Station,1,VBxMKoOHtMwASBLfot8ej_Shape,VBxMKoOHtMwASBLfot8ej-10:00:00
+9HZEMuRNsQzN9flynqhET,Ground_Daily,Al Malek Al Saleh,0,AzjuVB6PMRxrUnOC5Tmj8_Shape,AzjuVB6PMRxrUnOC5Tmj8-10:00:00
+9HZEMuRNsQzN9flynqhET,Ground_Daily,Matbaa Station,1,yE0Blir39F_TBRhILhb6r_Shape,yE0Blir39F_TBRhILhb6r-10:00:00
+9JtrrWplRidMq_w6-6Bs8,Ground_Daily,Al Warraq Station,0,jpKiP4OETsNxgS90sQsmq_Shape,jpKiP4OETsNxgS90sQsmq-10:00:00
+9JtrrWplRidMq_w6-6Bs8,Ground_Daily,Ramses Station,1,irk4Y_jUw3RquhZKqS0gc_Shape,irk4Y_jUw3RquhZKqS0gc-10:00:00
+9WQz2Uku_lDLfa9xlAq6e,Ground_Daily,Abbasseya Station,1,h7o_iGGtRPoftw9ZviPBy_Shape,h7o_iGGtRPoftw9ZviPBy-10:00:00
+9j2ux9o5-KraQgcDFxC0H,Ground_Daily,Al Qanatir Al Khayriyyah,0,sGEL2zX7feVBeuteoGqHZ_Shape,sGEL2zX7feVBeuteoGqHZ-10:00:00
+9j2ux9o5-KraQgcDFxC0H,Ground_Daily,Attaba,1,6oMSoOwDuzkY-s0jPFQcj_Shape,6oMSoOwDuzkY-s0jPFQcj-10:00:00
+9utw1A6O1TUOZSdVJXnIN,Ground_Daily,Cairo Airport Station,1,ebNtAKdGkQA97KUdwr9VV_Shape,ebNtAKdGkQA97KUdwr9VV-10:00:00
+9utw1A6O1TUOZSdVJXnIN,Ground_Daily,Dawaran Shubra Station,0,Gr7VaNh69SiPX2Ldjha50_Shape,Gr7VaNh69SiPX2Ldjha50-10:00:00
+9vBFhlX-T17hM_HD2xuxr,Ground_Daily,Moassasa Station,0,pY_W1zU54lMtSzbN-R39I_Shape,pY_W1zU54lMtSzbN-R39I-10:00:00
+9vBFhlX-T17hM_HD2xuxr,Ground_Daily,Tagneed (Al Remaya),1,7ntVHJkxR29SIUwlfI8RG_Shape,7ntVHJkxR29SIUwlfI8RG-10:00:00
+A45ex-5A-EQJSEd1EPD_K,Ground_Daily,Masaken Ain Shams Station,1,MNHWXe0rNlVKqIDdybIQu_Shape,MNHWXe0rNlVKqIDdybIQu-10:00:00
+ADJZbj6QAtiHt8lqBibnV,Ground_Daily,Darrasa,1,nFIrfqHk5j5oQ4H70Bg7v_Shape,nFIrfqHk5j5oQ4H70Bg7v-10:00:00
+ADJZbj6QAtiHt8lqBibnV,Ground_Daily,Isko,0,brgM19Q_1N79BhOpUEqNE_Shape,brgM19Q_1N79BhOpUEqNE-10:00:00
+AGY_Gm1,Ground_Weekdays,Abd Al Moneim Riad Station,1,AGY_Gm1_R_Shape,AGY_Gm1_R-10:00:00
+AGY_Gm1,Ground_Weekdays,Lotus  (5th Settlement),0,AGY_Gm1_O_Shape,AGY_Gm1_O-10:00:00
+AGY_Gm2,Ground_Weekdays,Abd Al Moneim Riad Station,1,AGY_Gm2_R_Shape,AGY_Gm2_R-10:00:00
+AGY_Gm2,Ground_Weekdays,Masaken Sheraton,0,AGY_Gm2_O_Shape,AGY_Gm2_O-10:00:00
+AGY_Gm4,Ground_Weekdays,AUC Bus Station,0,AGY_Gm4_O_Shape,AGY_Gm4_O-10:00:00
+AGY_Gm4,Ground_Weekdays,Lebanon Square Station,1,AGY_Gm4_R_Shape,AGY_Gm4_R-10:00:00
+AGY_Gm7,Ground_Weekdays,Bulaq Al Dakrur Station,1,AGY_Gm7_R_Shape,AGY_Gm7_R-10:00:00
+AGY_Gm7,Ground_Weekdays,Rehab - Gate 6,0,AGY_Gm7_O_Shape,AGY_Gm7_O-10:00:00
+AK9Xq6-wtWH9sbUvuMUdZ,Ground_Daily,Al Omraneyya Al Gadida,1,_hL-sICA8F0-4trd5N_EU_Shape,_hL-sICA8F0-4trd5N_EU-10:00:00
+AK9Xq6-wtWH9sbUvuMUdZ,Ground_Daily,Al Zawya Al Hamra Station,0,ZxbjsJraMSo6iclelbk6b_Shape,ZxbjsJraMSo6iclelbk6b-10:00:00
+AWvboTfFAFIfUgBcz8N8_,Ground_Daily,Imbaba Station,1,XGBJm1ABL27hojGEP-vEx_Shape,XGBJm1ABL27hojGEP-vEx-10:00:00
+AWvboTfFAFIfUgBcz8N8_,Ground_Daily,Isaaf,0,gfPIlccDp7gHHN0ee2DIi_Shape,gfPIlccDp7gHHN0ee2DIi-10:00:00
+AYG5Jeb5RQthuAg3x6gL_,Ground_Daily,1st Settlement Station (New Cairo),0,dt7nQ_PR4fJuO2dnwIjv__Shape,dt7nQ_PR4fJuO2dnwIjv_-10:00:00
+AYG5Jeb5RQthuAg3x6gL_,Ground_Daily,Masaken Ain Shams Station,1,f3vDFBgnyGBn--Z5Ybiwz_Shape,f3vDFBgnyGBn--Z5Ybiwz-10:00:00
+Ad2qtlLVDY6f99l6Ca-O6,Ground_Daily,Attaba,1,WOREYqLbGCO0c3xeWHZI9_Shape,WOREYqLbGCO0c3xeWHZI9-10:00:00
+Ad2qtlLVDY6f99l6Ca-O6,Ground_Daily,Isbiko Station,0,oCjPi9B5ZvVSRzKI5MOD__Shape,oCjPi9B5ZvVSRzKI5MOD_-10:00:00
+AflV7b-3AGXaMj90ZBio9,Ground_Daily,Bashtil,0,25icSlpda9SQy1Ni48qk__Shape,25icSlpda9SQy1Ni48qk_-10:00:00
+AflV7b-3AGXaMj90ZBio9,Ground_Daily,Masaken Ain Shams Station,1,6O7jDNMm_x-advT2yLqAH_Shape,6O7jDNMm_x-advT2yLqAH-10:00:00
+AkZ8btBfGZichKXXhgGwM,Ground_Daily,Haram Mashaal Station,1,VMKHW4YKdnDvRmHCBT69Z_Shape,VMKHW4YKdnDvRmHCBT69Z-10:00:00
+AkZ8btBfGZichKXXhgGwM,Ground_Daily,Hyper 1 Station,0,UCI0j4bRusr_2bzst5aP1_Shape,UCI0j4bRusr_2bzst5aP1-10:00:00
+AsBiwEEcVj3jrx8lh9jms,Ground_Daily,Attaba,1,X6z4v3fIsz2_sJpSPSrCk_Shape,X6z4v3fIsz2_sJpSPSrCk-10:00:00
+AsBiwEEcVj3jrx8lh9jms,Ground_Daily,Om Bayoumi (Mintay),0,Y9HINyTl_BL58J8fRgiQO_Shape,Y9HINyTl_BL58J8fRgiQO-10:00:00
+AsoLzlPVywndjqDIeorpb,Ground_Daily,Masaken Ain Shams Station,1,1RZbZO-ADFtsczgne9xow_Shape,1RZbZO-ADFtsczgne9xow-10:00:00
+AsoLzlPVywndjqDIeorpb,Ground_Daily,Ramses Station,0,K6vIvSvQTdp2oEbU8SI9A_Shape,K6vIvSvQTdp2oEbU8SI9A-10:00:00
+B31s4JolfJ0z-HLdNoXCR,Ground_Daily,Abou Wafya,0,jnsdDHu8xwsxf6NNDFXLz_Shape,jnsdDHu8xwsxf6NNDFXLz-10:00:00
+B31s4JolfJ0z-HLdNoXCR,Ground_Daily,Al Sayeda Nafeesa,1,urELcGmnycy2EpzGi895Q_Shape,urELcGmnycy2EpzGi895Q-10:00:00
+BBlbsema50qEzicPBcriq,Ground_Daily,8th District (Nasr City) - Al tabba,1,p7tQNNRJWVX68daP1y085_Shape,p7tQNNRJWVX68daP1y085-10:00:00
+BBlbsema50qEzicPBcriq,Ground_Daily,Masaken Betcho,0,9pzzm54xvp0KSQ_wXsokI_Shape,9pzzm54xvp0KSQ_wXsokI-10:00:00
+BJ5gu8S2fvtVIQNgi3LNC,Ground_Daily,Masaken Dahshour,1,FjqS5YZ_SsKiz5lnAETLT_Shape,FjqS5YZ_SsKiz5lnAETLT-10:00:00
+BJ5gu8S2fvtVIQNgi3LNC,Ground_Daily,Remaya Station (New Mashaal),0,Ky9dknZ3NMv0B_gtN6mPL_Shape,Ky9dknZ3NMv0B_gtN6mPL-10:00:00
+BOX_6O002,Ground_Daily,10th District Station (6th of October),1,BOX_6O002_R_Shape,BOX_6O002_R-10:00:00
+BOX_6O002,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,BOX_6O002_O_Shape,BOX_6O002_O-10:00:00
+BOX_6O003,Ground_Daily,10th District Station (6th of October),1,BOX_6O003_R_Shape,BOX_6O003_R-10:00:00
+BOX_6O003,Ground_Daily,Dolce,0,BOX_6O003_O_Shape,BOX_6O003_O-10:00:00
+BOX_6O004,Ground_Daily,10th District Station (6th of October),1,BOX_6O004_R_Shape,BOX_6O004_R-10:00:00
+BOX_6O004,Ground_Daily,Laylat Al Qadr Station,0,BOX_6O004_O_Shape,BOX_6O004_O-10:00:00
+BOX_6O006,Ground_Daily,Al Muluk,0,BOX_6O006_O_Shape,BOX_6O006_O-10:00:00
+BOX_6O006,Ground_Daily,Hossary Station,1,BOX_6O006_R_Shape,BOX_6O006_R-10:00:00
+BOX_6O016,Ground_Daily,Laylat Al Qadr Station,0,BOX_6O016_O_Shape,BOX_6O016_O-10:00:00
+BOX_6O016,Ground_Daily,Total  (6th of October),1,BOX_6O016_R_Shape,BOX_6O016_R-10:00:00
+BOX_6O022,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,BOX_6O022_R_Shape,BOX_6O022_R-10:00:00
+BOX_6O022,Ground_Daily,Industrial Zone 3,0,BOX_6O022_O_Shape,BOX_6O022_O-10:00:00
+BOX_6O023,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,BOX_6O023_R_Shape,BOX_6O023_R-10:00:00
+BOX_6O023,Ground_Daily,Hamada Emam,0,BOX_6O023_O_Shape,BOX_6O023_O-10:00:00
+BOX_6O024,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,BOX_6O024_R_Shape,BOX_6O024_R-10:00:00
+BOX_6O024,Ground_Daily,Daewoo,0,BOX_6O024_O_Shape,BOX_6O024_O-10:00:00
+BOX_6O028,Ground_Daily,Al Mostaqbal Entrance,1,BOX_6O028_R_Shape,BOX_6O028_R-10:00:00
+BOX_6O028,Ground_Daily,Masaken Othman (6th of October),0,BOX_6O028_O_Shape,BOX_6O028_O-10:00:00
+BTapayFKafajyYHQLI30g,Ground_Daily,Ahmed Helmy Station,0,01ZcX73Vgf4WrcQXQ6ZQj_Shape,01ZcX73Vgf4WrcQXQ6ZQj-10:00:00
+BTapayFKafajyYHQLI30g,Ground_Daily,Saqr Quraish Station,1,iqL3eAD_kERL3kW7ME049_Shape,iqL3eAD_kERL3kW7ME049-10:00:00
+BV3Lpd-u_IqoQTTAGrXsT,Ground_Daily,Attaba,0,jRDhTxsMAs31NbeO1aHo2_Shape,jRDhTxsMAs31NbeO1aHo2-10:00:00
+BV3Lpd-u_IqoQTTAGrXsT,Ground_Daily,Tagneed (Al Remaya),1,buENjSeigoJzgROmbs1xz_Shape,buENjSeigoJzgROmbs1xz-10:00:00
+BV6LVVgDgSW-cSt6IkTzS,Ground_Daily,Asmarrat,0,F0WxbJgwrmfSJZBkeLaRm_Shape,F0WxbJgwrmfSJZBkeLaRm-10:00:00
+BV6LVVgDgSW-cSt6IkTzS,Ground_Daily,Athar Al Naby,1,tXULKwYEaQWK_iJNXyfL3_Shape,tXULKwYEaQWK_iJNXyfL3-10:00:00
+BamKiGYQ3P_xZETsNX1a5,Ground_Daily,Al Sayeda Aisha Station,0,F0Zrl6iNm72PrpaV9hcox_Shape,F0Zrl6iNm72PrpaV9hcox-10:00:00
+BamKiGYQ3P_xZETsNX1a5,Ground_Daily,Znen (Awwel Al Eshreen),1,f6-9Wcb-CMDV1r8jAFLkQ_Shape,f6-9Wcb-CMDV1r8jAFLkQ-10:00:00
+Bp6VC-w4hVf07QNNC-TUQ,Ground_Daily,Al Omraneyya Al Gadida,1,hDx8-PygFVGfuCJaR9t-a_Shape,hDx8-PygFVGfuCJaR9t-a-10:00:00
+Bp6VC-w4hVf07QNNC-TUQ,Ground_Daily,Ibrahim Bek,0,D1WOB23QBx0xcHv6uRkNj_Shape,D1WOB23QBx0xcHv6uRkNj-10:00:00
+C6RjvuOaE6Jy7WRZtUxaM,Ground_Daily,Abbasseya Station,0,qNLl4_jWKENhijCSE-GGP_Shape,qNLl4_jWKENhijCSE-GGP-10:00:00
+C6RjvuOaE6Jy7WRZtUxaM,Ground_Daily,Moassasa Station,1,BHRVWFr9jn6rq_ljQhSz4_Shape,BHRVWFr9jn6rq_ljQhSz4-10:00:00
+CBxRb0VoXyLWRjw97cRXJ,Ground_Daily,Giza Square Station,0,HHiQbe_uI9evPrIeovzWb_Shape,HHiQbe_uI9evPrIeovzWb-10:00:00
+CBxRb0VoXyLWRjw97cRXJ,Ground_Daily,Kilo 4 & Half Station,1,U5H-hQidWhNZjyh4O8aK-_Shape,U5H-hQidWhNZjyh4O8aK--10:00:00
+COOP_GZ006,Ground_Daily,Giza Square Station,0,COOP_GZ006_O_Shape,COOP_GZ006_O-10:00:00
+COOP_GZ009,Ground_Daily,Lebanon Square Station,1,COOP_GZ009_R_Shape,COOP_GZ009_R-10:00:00
+COOP_GZ011,Ground_Daily,Lebanon Square Station,1,COOP_GZ011_R_Shape,COOP_GZ011_R-10:00:00
+COOP_GZ019,Ground_Daily,Remaya Square,1,COOP_GZ019_R_Shape,COOP_GZ019_R-10:00:00
+COOP_GZ028,Ground_Daily,Bulaq Al Dakrur Station,1,COOP_GZ028_R_Shape,COOP_GZ028_R-10:00:00
+COOP_GZ028,Ground_Daily,Giza Square Station,0,COOP_GZ028_O_Shape,COOP_GZ028_O-10:00:00
+COOP_GZ029,Ground_Daily,Giza Square Station,0,COOP_GZ029_O_Shape,COOP_GZ029_O-10:00:00
+COOP_GZ062,Ground_Daily,Ard El Lewaa,1,COOP_GZ062_R_Shape,COOP_GZ062_R-10:00:00
+COOP_GZ062,Ground_Daily,Giza Square Station,0,COOP_GZ062_O_Shape,COOP_GZ062_O-10:00:00
+COOP_IC024,Ground_Daily,10th of Ramadan Station,0,COOP_IC024_O_Shape,COOP_IC024_O-10:00:00
+COOP_IC042,Ground_Daily,10th of Ramadan Station,0,COOP_IC042_O_Shape,COOP_IC042_O-10:00:00
+COOP_IC042,Ground_Daily,FUE,1,COOP_IC042_R_Shape,COOP_IC042_R-10:00:00
+COOP_IC044,Ground_Daily,New Marg Station,0,COOP_IC044_O_Shape,COOP_IC044_O-10:00:00
+COOP_IC065,Ground_Daily,Al Warraq Station,1,COOP_IC065_R_Shape,COOP_IC065_R-10:00:00
+COOP_IC075,Ground_Daily,Al Hamd Square Station,0,COOP_IC075_O_Shape,COOP_IC075_O-10:00:00
+COOP_IC075,Ground_Daily,New Marg Station,1,COOP_IC075_R_Shape,COOP_IC075_R-10:00:00
+COOP_IC077,Ground_Daily,New Cairo Academy,0,COOP_IC077_O_Shape,COOP_IC077_O-10:00:00
+COOP_IC077,Ground_Daily,New Marg Station,1,COOP_IC077_R_Shape,COOP_IC077_R-10:00:00
+COOP_IC083,Ground_Daily,Hyper 1 Station,1,COOP_IC083_R_Shape,COOP_IC083_R-10:00:00
+COOP_IC084,Ground_Daily,10th of Ramadan Station,0,COOP_IC084_O_Shape,COOP_IC084_O-10:00:00
+COOP_IC088,Ground_Daily,10th of Ramadan Station,0,COOP_IC088_O_Shape,COOP_IC088_O-10:00:00
+COOP_IC088,Ground_Daily,Al Hamd Square Station,1,COOP_IC088_R_Shape,COOP_IC088_R-10:00:00
+COOP_IG026,Ground_Daily,Qalyoub Exit,0,COOP_IG026_O_Shape,COOP_IG026_O-10:00:00
+COOP_IG045,Ground_Daily,Moassasa Station,0,COOP_IG045_O_Shape,COOP_IG045_O-10:00:00
+COOP_IG045,Ground_Daily,New Marg Station,1,COOP_IG045_R_Shape,COOP_IG045_R-10:00:00
+COOP_IG048,Ground_Daily,Mazallat Station,0,COOP_IG048_O_Shape,COOP_IG048_O-10:00:00
+COOP_IG048,Ground_Daily,Qalyoub,1,COOP_IG048_R_Shape,COOP_IG048_R-10:00:00
+COOP_IG053,Ground_Daily,Ramses Station,0,COOP_IG053_O_Shape,COOP_IG053_O-10:00:00
+COOP_IG064,Ground_Daily,Imbaba Station,0,COOP_IG064_O_Shape,COOP_IG064_O-10:00:00
+COOP_IG064,Ground_Daily,Ramses Station,1,COOP_IG064_R_Shape,COOP_IG064_R-10:00:00
+COOP_IG069,Ground_Daily,Bab Al Shaaria Square,0,COOP_IG069_O_Shape,COOP_IG069_O-10:00:00
+COOP_IG072,Ground_Daily,Om Bayoumi (Mintay),0,COOP_IG072_O_Shape,COOP_IG072_O-10:00:00
+COOP_IG080,Ground_Daily,Al Shari' Al Gadeed  (Bahteem),1,COOP_IG080_R_Shape,COOP_IG080_R-10:00:00
+COOP_IG081,Ground_Daily,Bab Al Shaaria Square,0,COOP_IG081_O_Shape,COOP_IG081_O-10:00:00
+COOP_IG081,Ground_Daily,Khosous,1,COOP_IG081_R_Shape,COOP_IG081_R-10:00:00
+COOP_QA001,Ground_Daily,Qalyoub,1,COOP_QA001_R_Shape,COOP_QA001_R-10:00:00
+COOP_QA002,Ground_Daily,Isko,1,COOP_QA002_R_Shape,COOP_QA002_R-10:00:00
+COOP_QA002,Ground_Daily,Moassasa Station,0,COOP_QA002_O_Shape,COOP_QA002_O-10:00:00
+COOP_QA003,Ground_Daily,Moassasa Station,0,COOP_QA003_O_Shape,COOP_QA003_O-10:00:00
+COOP_QA003,Ground_Daily,Qalyoub El Balad,1,COOP_QA003_R_Shape,COOP_QA003_R-10:00:00
+COOP_QA005,Ground_Daily,Bahtim Square,1,COOP_QA005_R_Shape,COOP_QA005_R-10:00:00
+COOP_QA005,Ground_Daily,Moassasa Station,0,COOP_QA005_O_Shape,COOP_QA005_O-10:00:00
+COOP_QA007,Ground_Daily,Abou Zaabal,0,COOP_QA007_O_Shape,COOP_QA007_O-10:00:00
+CS3b3rHHRUxTf_IncW5DA,Ground_Daily,Haram & Marioteya Station,1,nllc6stUxtM6y6BL4K5M7_Shape,nllc6stUxtM6y6BL4K5M7-10:00:00
+CS3b3rHHRUxTf_IncW5DA,Ground_Daily,Helwan Station,0,XwdpK4l1rg3JsMTm-8Jhz_Shape,XwdpK4l1rg3JsMTm-8Jhz-10:00:00
+CT0zYWqMQPGAbKnQfzLyJ,Ground_Daily,Abd Al Moneim Riad Station,1,y43fKdy7gRwH5SnkNQb40_Shape,y43fKdy7gRwH5SnkNQb40-10:00:00
+CT0zYWqMQPGAbKnQfzLyJ,Ground_Daily,Masaken Almaza,0,vRYQxm7XTLc_hDDRfO8Gk_Shape,vRYQxm7XTLc_hDDRfO8Gk-10:00:00
+CTA_1,Ground_Daily,3rd Settlement  (New Cairo),1,CTA_1_R_Shape,CTA_1_R-10:00:00
+CTA_1,Ground_Daily,New Marg Station,0,CTA_1_O_Shape,CTA_1_O-10:00:00
+CTA_1005,Ground_Daily,Dawaran Shubra Station,1,CTA_1005_R_Shape,CTA_1005_R-10:00:00
+CTA_1005,Ground_Daily,Obour Market,0,CTA_1005_O_Shape,CTA_1005_O-10:00:00
+CTA_1009,Ground_Daily,Attaba,1,CTA_1009_R_Shape,CTA_1009_R-10:00:00
+CTA_1009,Ground_Daily,Masaken Betcho,0,CTA_1009_O_Shape,CTA_1009_O-10:00:00
+CTA_1010,Ground_Daily,Attaba,0,CTA_1010_O_Shape,CTA_1010_O-10:00:00
+CTA_1016,Ground_Daily,Al Shorouq,1,CTA_1016_R_Shape,CTA_1016_R-10:00:00
+CTA_1016,Ground_Daily,Dawaran Shubra Station,0,CTA_1016_O_Shape,CTA_1016_O-10:00:00
+CTA_1018,Ground_Daily,3rd Settlement  (New Cairo),1,CTA_1018_R_Shape,CTA_1018_R-10:00:00
+CTA_1018,Ground_Daily,Ahmed Helmy Station,0,CTA_1018_O_Shape,CTA_1018_O-10:00:00
+CTA_1019,Ground_Daily,1st Settlement Station (New Cairo),0,CTA_1019_O_Shape,CTA_1019_O-10:00:00
+CTA_1019,Ground_Daily,Masaken Zeinhom Station,1,CTA_1019_R_Shape,CTA_1019_R-10:00:00
+CTA_1021,Ground_Daily,8th District (Nasr City) - Al tabba,1,CTA_1021_R_Shape,CTA_1021_R-10:00:00
+CTA_1021,Ground_Daily,Imbaba Station,0,CTA_1021_O_Shape,CTA_1021_O-10:00:00
+CTA_1022,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,CTA_1022_R_Shape,CTA_1022_R-10:00:00
+CTA_1022,Ground_Daily,Giza Square Station,0,CTA_1022_O_Shape,CTA_1022_O-10:00:00
+CTA_1024,Ground_Daily,Ahmed Helmy Station,1,CTA_1024_R_Shape,CTA_1024_R-10:00:00
+CTA_1024,Ground_Daily,Kattameya (Mahmoudeya),0,CTA_1024_O_Shape,CTA_1024_O-10:00:00
+CTA_1025,Ground_Daily,15th of May,0,CTA_1025_O_Shape,CTA_1025_O-10:00:00
+CTA_1025,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_1025_R_Shape,CTA_1025_R-10:00:00
+CTA_1026,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_1026_R_Shape,CTA_1026_R-10:00:00
+CTA_1026,Ground_Daily,Hadaba Wosta (Moqattam),0,CTA_1026_O_Shape,CTA_1026_O-10:00:00
+CTA_103-1094,Ground_Daily,Attaba,0,CTA_103or1094_O_Shape,CTA_103or1094_O-10:00:00
+CTA_103-1094,Ground_Daily,Motseian,1,CTA_103or1094_R_Shape,CTA_103or1094_R-10:00:00
+CTA_1031,Ground_Daily,Imbaba Station,0,CTA_1031_O_Shape,CTA_1031_O-10:00:00
+CTA_1047,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_1047_R_Shape,CTA_1047_R-10:00:00
+CTA_1047,Ground_Daily,Badr Station (Sheikh Zayed),0,CTA_1047_O_Shape,CTA_1047_O-10:00:00
+CTA_104S,Ground_Daily,Attaba,1,CTA_104S_R_Shape,CTA_104S_R-10:00:00
+CTA_104S,Ground_Daily,Bashtil,0,CTA_104S_O_Shape,CTA_104S_O-10:00:00
+CTA_1053,Ground_Daily,7th District Station (Nasr City),1,CTA_1053_R_Shape,CTA_1053_R-10:00:00
+CTA_1053,Ground_Daily,Masaken Al Wehda,0,CTA_1053_O_Shape,CTA_1053_O-10:00:00
+CTA_106-1069,Ground_Daily,Attaba,1,CTA_106or1069_R_Shape,CTA_106or1069_R-10:00:00
+CTA_106-1069,Ground_Daily,Moneeb Station,0,CTA_106or1069_O_Shape,CTA_106or1069_O-10:00:00
+CTA_1063,Ground_Daily,Attaba,0,CTA_1063_O_Shape,CTA_1063_O-10:00:00
+CTA_1063,Ground_Daily,Zahraa Ain Shams,1,CTA_1063_R_Shape,CTA_1063_R-10:00:00
+CTA_1064,Ground_Daily,3rd Settlement  (New Cairo),1,CTA_1064_R_Shape,CTA_1064_R-10:00:00
+CTA_1064,Ground_Daily,Attaba,0,CTA_1064_O_Shape,CTA_1064_O-10:00:00
+CTA_1073,Ground_Daily,Amr Ibn El Aas Station,1,CTA_1073_R_Shape,CTA_1073_R-10:00:00
+CTA_1076,Ground_Daily,Attaba,1,CTA_1076_R_Shape,CTA_1076_R-10:00:00
+CTA_1078,Ground_Daily,1st Settlement Station (New Cairo),1,CTA_1078_R_Shape,CTA_1078_R-10:00:00
+CTA_1078,Ground_Daily,Matbaa Station,0,CTA_1078_O_Shape,CTA_1078_O-10:00:00
+CTA_1081,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_1081_R_Shape,CTA_1081_R-10:00:00
+CTA_1081,Ground_Daily,Isbiko Station,0,CTA_1081_O_Shape,CTA_1081_O-10:00:00
+CTA_1083,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_1083_R_Shape,CTA_1083_R-10:00:00
+CTA_1083,Ground_Daily,Obour Station,0,CTA_1083_O_Shape,CTA_1083_O-10:00:00
+CTA_1087,Ground_Daily,Abou Wafya,0,CTA_1087_O_Shape,CTA_1087_O-10:00:00
+CTA_1087,Ground_Daily,Masaken Sheraton,1,CTA_1087_R_Shape,CTA_1087_R-10:00:00
+CTA_1088,Ground_Daily,15th of May,1,CTA_1088_R_Shape,CTA_1088_R-10:00:00
+CTA_1088,Ground_Daily,Abbasseya Station,0,CTA_1088_O_Shape,CTA_1088_O-10:00:00
+CTA_1097,Ground_Daily,7th District Station (Nasr City),0,CTA_1097_O_Shape,CTA_1097_O-10:00:00
+CTA_1097,Ground_Daily,Lebanon Square Station,1,CTA_1097_R_Shape,CTA_1097_R-10:00:00
+CTA_1107,Ground_Daily,Imbaba Station,0,CTA_1107_O_Shape,CTA_1107_O-10:00:00
+CTA_1107,Ground_Daily,Kattameya (Mahmoudeya),1,CTA_1107_R_Shape,CTA_1107_R-10:00:00
+CTA_1108,Ground_Daily,Giza Square Station,0,CTA_1108_O_Shape,CTA_1108_O-10:00:00
+CTA_1108,Ground_Daily,Hadaba Wosta (Moqattam),1,CTA_1108_R_Shape,CTA_1108_R-10:00:00
+CTA_1118,Ground_Daily,7th District Station (Nasr City),1,CTA_1118_R_Shape,CTA_1118_R-10:00:00
+CTA_1118,Ground_Daily,Tagneed (Al Remaya),0,CTA_1118_O_Shape,CTA_1118_O-10:00:00
+CTA_1123,Ground_Daily,Bulaq Al Dakrur Station,1,CTA_1123_R_Shape,CTA_1123_R-10:00:00
+CTA_1123,Ground_Daily,Qism El Hadayek,0,CTA_1123_O_Shape,CTA_1123_O-10:00:00
+CTA_1128,Ground_Daily,Asmarrat,1,CTA_1128_R_Shape,CTA_1128_R-10:00:00
+CTA_1128,Ground_Daily,Mazallat Station,0,CTA_1128_O_Shape,CTA_1128_O-10:00:00
+CTA_1129,Ground_Daily,Amiriya,1,CTA_1129_R_Shape,CTA_1129_R-10:00:00
+CTA_1129,Ground_Daily,Moneeb Station,0,CTA_1129_O_Shape,CTA_1129_O-10:00:00
+CTA_1134,Ground_Daily,Abbasseya Station,1,CTA_1134_R_Shape,CTA_1134_R-10:00:00
+CTA_1134,Ground_Daily,Moneeb Station,0,CTA_1134_O_Shape,CTA_1134_O-10:00:00
+CTA_1136,Ground_Daily,1st Settlement Station (New Cairo),0,CTA_1136_O_Shape,CTA_1136_O-10:00:00
+CTA_1136,Ground_Daily,Al Zawya Al Hamra Station,1,CTA_1136_R_Shape,CTA_1136_R-10:00:00
+CTA_1140,Ground_Daily,Imbaba Station,1,CTA_1140_R_Shape,CTA_1140_R-10:00:00
+CTA_1144,Ground_Daily,Abageyah,1,CTA_1144_R_Shape,CTA_1144_R-10:00:00
+CTA_1144,Ground_Daily,Ibrahim Bek,0,CTA_1144_O_Shape,CTA_1144_O-10:00:00
+CTA_1145,Ground_Daily,Mazallat Station,0,CTA_1145_O_Shape,CTA_1145_O-10:00:00
+CTA_1145,Ground_Daily,Tagneed (Al Remaya),1,CTA_1145_R_Shape,CTA_1145_R-10:00:00
+CTA_1147,Ground_Daily,Attaba,1,CTA_1147_R_Shape,CTA_1147_R-10:00:00
+CTA_1147,Ground_Daily,Obour Station,0,CTA_1147_O_Shape,CTA_1147_O-10:00:00
+CTA_1148,Ground_Daily,Abd Al Moneim Riad Station,0,CTA_1148_O_Shape,CTA_1148_O-10:00:00
+CTA_1148,Ground_Daily,Isbiko Station,1,CTA_1148_R_Shape,CTA_1148_R-10:00:00
+CTA_1150,Ground_Daily,15th of May,1,CTA_1150_R_Shape,CTA_1150_R-10:00:00
+CTA_1150,Ground_Daily,Giza Square Station,0,CTA_1150_O_Shape,CTA_1150_O-10:00:00
+CTA_1160,Ground_Daily,Giza Square Station,0,CTA_1160_O_Shape,CTA_1160_O-10:00:00
+CTA_1160,Ground_Daily,Moassasa Station,1,CTA_1160_R_Shape,CTA_1160_R-10:00:00
+CTA_1161,Ground_Daily,1st Settlement Station (New Cairo),0,CTA_1161_O_Shape,CTA_1161_O-10:00:00
+CTA_1161,Ground_Daily,Moneeb Station,1,CTA_1161_R_Shape,CTA_1161_R-10:00:00
+CTA_1162,Ground_Daily,Moneeb Station,1,CTA_1162_R_Shape,CTA_1162_R-10:00:00
+CTA_1162,Ground_Daily,Zahraa Madinet Nasr,0,CTA_1162_O_Shape,CTA_1162_O-10:00:00
+CTA_130,Ground_Daily,Abd Al Moneim Riad Station,0,CTA_130_O_Shape,CTA_130_O-10:00:00
+CTA_130,Ground_Daily,Masaken Helmeyet Al Zaitoun,1,CTA_130_R_Shape,CTA_130_R-10:00:00
+CTA_15,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_15_R_Shape,CTA_15_R-10:00:00
+CTA_15,Ground_Daily,Saft Al Laban,0,CTA_15_O_Shape,CTA_15_O-10:00:00
+CTA_170,Ground_Daily,Abou Wafya,1,CTA_170_R_Shape,CTA_170_R-10:00:00
+CTA_170,Ground_Daily,Mamaleek Station-Manial (Meqyas),0,CTA_170_O_Shape,CTA_170_O-10:00:00
+CTA_190-1117,Ground_Daily,Darrasa,1,CTA_190or1117_R_Shape,CTA_190or1117_R-10:00:00
+CTA_190-1117,Ground_Daily,Imbaba Station,0,CTA_190or1117_O_Shape,CTA_190or1117_O-10:00:00
+CTA_2,Ground_Daily,Qism El Hadayek,0,CTA_2_O_Shape,CTA_2_O-10:00:00
+CTA_204,Ground_Daily,Abbasseya Station,1,CTA_204_R_Shape,CTA_204_R-10:00:00
+CTA_204,Ground_Daily,Khosous,0,CTA_204_O_Shape,CTA_204_O-10:00:00
+CTA_24T,Ground_Daily,7th District Station (Nasr City),0,CTA_24T_O_Shape,CTA_24T_O-10:00:00
+CTA_24T,Ground_Daily,Darrasa,1,CTA_24T_R_Shape,CTA_24T_R-10:00:00
+CTA_250,Ground_Daily,Attaba,0,CTA_250_O_Shape,CTA_250_O-10:00:00
+CTA_250,Ground_Daily,Warraq Al Arab (Cima),1,CTA_250_R_Shape,CTA_250_R-10:00:00
+CTA_26T,Ground_Daily,Abbasseya Station,0,CTA_26T_O_Shape,CTA_26T_O-10:00:00
+CTA_26T,Ground_Daily,Amr Ibn El Aas Station,1,CTA_26T_R_Shape,CTA_26T_R-10:00:00
+CTA_306,Ground_Daily,Amiriya,1,CTA_306_R_Shape,CTA_306_R-10:00:00
+CTA_306,Ground_Daily,Giza Square Station,0,CTA_306_O_Shape,CTA_306_O-10:00:00
+CTA_317,Ground_Daily,10th of Ramadan Station,0,CTA_317_O_Shape,CTA_317_O-10:00:00
+CTA_317,Ground_Daily,Badr City,1,CTA_317_R_Shape,CTA_317_R-10:00:00
+CTA_318,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,CTA_318_R_Shape,CTA_318_R-10:00:00
+CTA_318,Ground_Daily,Cairo Airport Station,0,CTA_318_O_Shape,CTA_318_O-10:00:00
+CTA_31S,Ground_Daily,Al Zawya Al Hamra Station,1,CTA_31S_R_Shape,CTA_31S_R-10:00:00
+CTA_31S,Ground_Daily,Giza Square Station,0,CTA_31S_O_Shape,CTA_31S_O-10:00:00
+CTA_321,Ground_Daily,Khanka,0,CTA_321_O_Shape,CTA_321_O-10:00:00
+CTA_321,Ground_Daily,New Marg Station,1,CTA_321_R_Shape,CTA_321_R-10:00:00
+CTA_342,Ground_Daily,Al Magzar (Mariouteya),0,CTA_342_O_Shape,CTA_342_O-10:00:00
+CTA_342,Ground_Daily,Qalaa Station,1,CTA_342_R_Shape,CTA_342_R-10:00:00
+CTA_366-1054,Ground_Daily,Ahmed Helmy Station,1,CTA_366or1054_R_Shape,CTA_366or1054_R-10:00:00
+CTA_366-1054,Ground_Daily,Cairo Airport Station,0,CTA_366or1054_O_Shape,CTA_366or1054_O-10:00:00
+CTA_370,Ground_Daily,Abbasseya Station,0,CTA_370_O_Shape,CTA_370_O-10:00:00
+CTA_370,Ground_Daily,Badr Station (Sheikh Zayed),1,CTA_370_R_Shape,CTA_370_R-10:00:00
+CTA_3G,Ground_Daily,Darrasa,1,CTA_3G_R_Shape,CTA_3G_R-10:00:00
+CTA_3G,Ground_Daily,Koleyet Al Banat - Azhar University,0,CTA_3G_O_Shape,CTA_3G_O-10:00:00
+CTA_43,Ground_Daily,Attaba,1,CTA_43_R_Shape,CTA_43_R-10:00:00
+CTA_43,Ground_Daily,Bus Stop 43 (Matareya),0,CTA_43_O_Shape,CTA_43_O-10:00:00
+CTA_44S-1042,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_44Sor1042_R_Shape,CTA_44Sor1042_R-10:00:00
+CTA_44S-1042,Ground_Daily,Zahraa Ain Shams,0,CTA_44Sor1042_O_Shape,CTA_44Sor1042_O-10:00:00
+CTA_46,Ground_Daily,Masaken Helmeyet Al Zaitoun,1,CTA_46_R_Shape,CTA_46_R-10:00:00
+CTA_46,Ground_Daily,Masaken Zeinhom Station,0,CTA_46_O_Shape,CTA_46_O-10:00:00
+CTA_507,Ground_Daily,Giza Square Station,0,CTA_507_O_Shape,CTA_507_O-10:00:00
+CTA_507,Ground_Daily,Masaken Sheraton,1,CTA_507_R_Shape,CTA_507_R-10:00:00
+CTA_530,Ground_Daily,Cairo Airport Station,1,CTA_530_R_Shape,CTA_530_R-10:00:00
+CTA_530,Ground_Daily,Qalyoub,0,CTA_530_O_Shape,CTA_530_O-10:00:00
+CTA_531,Ground_Daily,Attaba,1,CTA_531_R_Shape,CTA_531_R-10:00:00
+CTA_531,Ground_Daily,Om Bayoumi (Mintay),0,CTA_531_O_Shape,CTA_531_O-10:00:00
+CTA_532,Ground_Daily,Abbasseya Station,1,CTA_532_R_Shape,CTA_532_R-10:00:00
+CTA_532,Ground_Daily,Basateen,0,CTA_532_O_Shape,CTA_532_O-10:00:00
+CTA_568,Ground_Daily,Attaba,0,CTA_568_O_Shape,CTA_568_O-10:00:00
+CTA_568,Ground_Daily,Lebanon Square Station,1,CTA_568_R_Shape,CTA_568_R-10:00:00
+CTA_580,Ground_Daily,Asmarrat,1,CTA_580_R_Shape,CTA_580_R-10:00:00
+CTA_580,Ground_Daily,Manshiyat Nasser Station,0,CTA_580_O_Shape,CTA_580_O-10:00:00
+CTA_65,Ground_Daily,8th District (Nasr City) - Al tabba,0,CTA_65_O_Shape,CTA_65_O-10:00:00
+CTA_65,Ground_Daily,Amr Ibn El Aas Station,1,CTA_65_R_Shape,CTA_65_R-10:00:00
+CTA_67,Ground_Daily,Koleyet Al Banat - Azhar University,0,CTA_67_O_Shape,CTA_67_O-10:00:00
+CTA_67,Ground_Daily,Masallah Al Gadeda Station (Matareyya),1,CTA_67_R_Shape,CTA_67_R-10:00:00
+CTA_69,Ground_Daily,1st Settlement Station (New Cairo),1,CTA_69_R_Shape,CTA_69_R-10:00:00
+CTA_69,Ground_Daily,Attaba,0,CTA_69_O_Shape,CTA_69_O-10:00:00
+CTA_73,Ground_Daily,Manshiyat Nasser Station,1,CTA_73_R_Shape,CTA_73_R-10:00:00
+CTA_73,Ground_Daily,Qism El Hadayek,0,CTA_73_O_Shape,CTA_73_O-10:00:00
+CTA_794,Ground_Daily,Giza Square Station,0,CTA_794_O_Shape,CTA_794_O-10:00:00
+CTA_794,Ground_Daily,Masaken Sheraton,1,CTA_794_R_Shape,CTA_794_R-10:00:00
+CTA_80,Ground_Daily,10th District Station (Nasr City),0,CTA_80_O_Shape,CTA_80_O-10:00:00
+CTA_80,Ground_Daily,Darrasa,1,CTA_80_R_Shape,CTA_80_R-10:00:00
+CTA_82,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_82_R_Shape,CTA_82_R-10:00:00
+CTA_82,Ground_Daily,Masarra,0,CTA_82_O_Shape,CTA_82_O-10:00:00
+CTA_828,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_828_R_Shape,CTA_828_R-10:00:00
+CTA_828,Ground_Daily,Masaken Ain Shams Station,0,CTA_828_O_Shape,CTA_828_O-10:00:00
+CTA_83,Ground_Daily,Om Bayoumi (Mintay),0,CTA_83_O_Shape,CTA_83_O-10:00:00
+CTA_833,Ground_Daily,Mazallat Station,0,CTA_833_O_Shape,CTA_833_O-10:00:00
+CTA_833,Ground_Daily,Motseian,1,CTA_833_R_Shape,CTA_833_R-10:00:00
+CTA_840,Ground_Daily,Al Sayeda Nafeesa,1,CTA_840_R_Shape,CTA_840_R-10:00:00
+CTA_840,Ground_Daily,Qism El Hadayek,0,CTA_840_O_Shape,CTA_840_O-10:00:00
+CTA_86,Ground_Daily,Abageyah,1,CTA_86_R_Shape,CTA_86_R-10:00:00
+CTA_86,Ground_Daily,Warraq Al Arab (Cima),0,CTA_86_O_Shape,CTA_86_O-10:00:00
+CTA_900,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_900_R_Shape,CTA_900_R-10:00:00
+CTA_900,Ground_Daily,Tagneed (Al Remaya),0,CTA_900_O_Shape,CTA_900_O-10:00:00
+CTA_910,Ground_Daily,Imbaba Station,0,CTA_910_O_Shape,CTA_910_O-10:00:00
+CTA_910,Ground_Daily,Matbaa Station,1,CTA_910_R_Shape,CTA_910_R-10:00:00
+CTA_912-1048,Ground_Daily,7th District Station (Nasr City),1,CTA_912or1048_R_Shape,CTA_912or1048_R-10:00:00
+CTA_912-1048,Ground_Daily,Moneeb Station,0,CTA_912or1048_O_Shape,CTA_912or1048_O-10:00:00
+CTA_914,Ground_Daily,Abbasseya Station,0,CTA_914_O_Shape,CTA_914_O-10:00:00
+CTA_914,Ground_Daily,Dawaran Shubra Station,1,CTA_914_R_Shape,CTA_914_R-10:00:00
+CTA_915,Ground_Daily,Darrasa,1,CTA_915_R_Shape,CTA_915_R-10:00:00
+CTA_915,Ground_Daily,Moassasa Station,0,CTA_915_O_Shape,CTA_915_O-10:00:00
+CTA_92-1050,Ground_Daily,Hegaz Square,1,CTA_92or1050_R_Shape,CTA_92or1050_R-10:00:00
+CTA_92-1050,Ground_Daily,Imbaba Station,0,CTA_92or1050_O_Shape,CTA_92or1050_O-10:00:00
+CTA_940S,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_940S_R_Shape,CTA_940S_R-10:00:00
+CTA_940S,Ground_Daily,Salam Alexandria Station,0,CTA_940S_O_Shape,CTA_940S_O-10:00:00
+CTA_945-1082,Ground_Daily,Masaken Ain Shams Station,0,CTA_945or1082_O_Shape,CTA_945or1082_O-10:00:00
+CTA_970-1051,Ground_Daily,Cairo Airport Station,1,CTA_970or1051_R_Shape,CTA_970or1051_R-10:00:00
+CTA_970-1051,Ground_Daily,Moassasa Station,0,CTA_970or1051_O_Shape,CTA_970or1051_O-10:00:00
+CTA_975,Ground_Daily,Hegaz Square,1,CTA_975_R_Shape,CTA_975_R-10:00:00
+CTA_975,Ground_Daily,Moassasa Station,0,CTA_975_O_Shape,CTA_975_O-10:00:00
+CTA_982,Ground_Daily,Ahmed Helmy Station,1,CTA_982_R_Shape,CTA_982_R-10:00:00
+CTA_982,Ground_Daily,Hawamdeyya,0,CTA_982_O_Shape,CTA_982_O-10:00:00
+CTA_987,Ground_Daily,Ahmed Helmy Station,1,CTA_987_R_Shape,CTA_987_R-10:00:00
+CTA_987,Ground_Daily,Badrasheen Station,0,CTA_987_O_Shape,CTA_987_O-10:00:00
+CTA_990,Ground_Daily,Motseian,1,CTA_990_R_Shape,CTA_990_R-10:00:00
+CTA_99SS,Ground_Daily,Al Sayeda Aisha Station,1,CTA_99SS_R_Shape,CTA_99SS_R-10:00:00
+CTA_99SS,Ground_Daily,Imbaba Station,0,CTA_99SS_O_Shape,CTA_99SS_O-10:00:00
+CTA_M_100,Ground_Daily,Cairo Airport Station,0,CTA_M_100_O_Shape,CTA_M_100_O-10:00:00
+CTA_M_100,Ground_Daily,Lebanon Square Station,1,CTA_M_100_R_Shape,CTA_M_100_R-10:00:00
+CTA_M_112,Ground_Daily,Masaken Sheraton,0,CTA_M_112_O_Shape,CTA_M_112_O-10:00:00
+CTA_M_117,Ground_Daily,1st Settlement Station (New Cairo),0,CTA_M_117_O_Shape,CTA_M_117_O-10:00:00
+CTA_M_117,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_M_117_R_Shape,CTA_M_117_R-10:00:00
+CTA_M_142,Ground_Daily,1st Settlement Station (New Cairo),1,CTA_M_142_R_Shape,CTA_M_142_R-10:00:00
+CTA_M_142,Ground_Daily,Mazallat Station,0,CTA_M_142_O_Shape,CTA_M_142_O-10:00:00
+CTA_M_158,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_M_158_R_Shape,CTA_M_158_R-10:00:00
+CTA_M_158,Ground_Daily,Cairo Airport Station,0,CTA_M_158_O_Shape,CTA_M_158_O-10:00:00
+CTA_M_161,Ground_Daily,Kilo 4 & Half Station,0,CTA_M_161_O_Shape,CTA_M_161_O-10:00:00
+CTA_M_161,Ground_Daily,Orabi Bridge,1,CTA_M_161_R_Shape,CTA_M_161_R-10:00:00
+CTA_M_167,Ground_Daily,Lebanon Square Station,1,CTA_M_167_R_Shape,CTA_M_167_R-10:00:00
+CTA_M_167,Ground_Daily,Zahraa Madinet Nasr,0,CTA_M_167_O_Shape,CTA_M_167_O-10:00:00
+CTA_M_180,Ground_Daily,1st Settlement Station (New Cairo),1,CTA_M_180_R_Shape,CTA_M_180_R-10:00:00
+CTA_M_180,Ground_Daily,Orabi Bridge,0,CTA_M_180_O_Shape,CTA_M_180_O-10:00:00
+CTA_M_19,Ground_Daily,1st Settlement Station (New Cairo),0,CTA_M_19_O_Shape,CTA_M_19_O-10:00:00
+CTA_M_19,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_M_19_R_Shape,CTA_M_19_R-10:00:00
+CTA_M_201,Ground_Daily,Al Warraq Station,1,CTA_M_201_R_Shape,CTA_M_201_R-10:00:00
+CTA_M_201,Ground_Daily,Tagneed (Al Remaya),0,CTA_M_201_O_Shape,CTA_M_201_O-10:00:00
+CTA_M_3,Ground_Daily,Abd Al Moneim Riad Station,1,CTA_M_3_R_Shape,CTA_M_3_R-10:00:00
+CTA_M_3,Ground_Daily,Hegaz Square,0,CTA_M_3_O_Shape,CTA_M_3_O-10:00:00
+CTA_M_302,Ground_Daily,1st Settlement Station (New Cairo),1,CTA_M_302_R_Shape,CTA_M_302_R-10:00:00
+CTA_M_302,Ground_Daily,Mamaleek Station-Manial (Meqyas),0,CTA_M_302_O_Shape,CTA_M_302_O-10:00:00
+CTA_M_400,Ground_Daily,Isko,0,CTA_M_400_O_Shape,CTA_M_400_O-10:00:00
+CTA_M_400,Ground_Daily,Laylat Al Qadr Station,1,CTA_M_400_R_Shape,CTA_M_400_R-10:00:00
+CTA_M_606,Ground_Daily,Cairo Airport Station,0,CTA_M_606_O_Shape,CTA_M_606_O-10:00:00
+CTA_M_606,Ground_Daily,Lebanon Square Station,1,CTA_M_606_R_Shape,CTA_M_606_R-10:00:00
+CgY1MncbobepPdQSZZ9dl,Ground_Daily,Ibrahim Bek,0,cwQN0Q63gFZy8c_0Z2Uo8_Shape,cwQN0Q63gFZy8c_0Z2Uo8-10:00:00
+CgY1MncbobepPdQSZZ9dl,Ground_Daily,Mamaleek Station-Manial (Meqyas),1,BawBz0uRh_UJJiLQ6huC-_Shape,BawBz0uRh_UJJiLQ6huC--10:00:00
+D2cZnF4D57su9lDHL4c-h,Ground_Daily,1st Settlement Station (New Cairo),1,OSW9WVW28-_drSmwh_mCm_Shape,OSW9WVW28-_drSmwh_mCm-10:00:00
+D2cZnF4D57su9lDHL4c-h,Ground_Daily,Matbaa Station,0,MlWRR0CjMvgyhbkrf57cZ_Shape,MlWRR0CjMvgyhbkrf57cZ-10:00:00
+DC_H6AbB75qp51RmOSCrt,Ground_Daily,1st Settlement Station (New Cairo),0,HGs03aH05nrZ6AUOdL72G_Shape,HGs03aH05nrZ6AUOdL72G-10:00:00
+DC_H6AbB75qp51RmOSCrt,Ground_Daily,Abd Al Moneim Riad Station,1,URY2R02UBH2bQu4Ne9j_a_Shape,URY2R02UBH2bQu4Ne9j_a-10:00:00
+DafSYVkgsDYBZs729kZGD,Ground_Daily,Can Can 12th District  (6th of October),0,2mVMurkCEL_lpYUvnDS0B_Shape,2mVMurkCEL_lpYUvnDS0B-10:00:00
+DafSYVkgsDYBZs729kZGD,Ground_Daily,Imbaba Station,1,7F9RE9IUMUS4JcjLHMmiv_Shape,7F9RE9IUMUS4JcjLHMmiv-10:00:00
+DbgUPH8AHAnBT59Ux_FrC,Ground_Daily,Abbasseya Station,1,MICwitlNCVr30ld8VbVLI_Shape,MICwitlNCVr30ld8VbVLI-10:00:00
+DbgUPH8AHAnBT59Ux_FrC,Ground_Daily,Matbaa Station,0,sLMeDQQxjfwu3z-w6H5kQ_Shape,sLMeDQQxjfwu3z-w6H5kQ-10:00:00
+DfiU0lrz_ql4vTYVNSlmz,Ground_Daily,Al Omraneyya Al Gadida,0,G52JhmtjT9d0dqveWSe17_Shape,G52JhmtjT9d0dqveWSe17-10:00:00
+DfiU0lrz_ql4vTYVNSlmz,Ground_Daily,Attaba,1,-NOS8NtkEQr3MguOx2Xk1_Shape,-NOS8NtkEQr3MguOx2Xk1-10:00:00
+Dnad46KxSgtz6WrdlQUHY,Ground_Daily,Asmarrat,0,C3FfxGuwB5ZRuWVUlWSiQ_Shape,C3FfxGuwB5ZRuWVUlWSiQ-10:00:00
+Dnad46KxSgtz6WrdlQUHY,Ground_Daily,Manshiyat Nasser Station,1,M4ewegTPJnhphvXipU9Dv_Shape,M4ewegTPJnhphvXipU9Dv-10:00:00
+DtLLG0DY2SgylTir-e5kd,Ground_Daily,Amr Ibn El Aas Station,1,1jADGznxxrt4K2snqmy05_Shape,1jADGznxxrt4K2snqmy05-10:00:00
+E5kbHujl_1NdyyZVDIILb,Ground_Daily,Al Toub Al Ramly,0,vEHBIDP4sqPTJT68YN6Mf_Shape,vEHBIDP4sqPTJT68YN6Mf-10:00:00
+E5kbHujl_1NdyyZVDIILb,Ground_Daily,Bulaq Al Dakrur Station,1,1JAWqfuPYO9izvbREVsLR_Shape,1JAWqfuPYO9izvbREVsLR-10:00:00
+EJJbs0wpO3klUlJZZvU3J,Ground_Daily,Masaken Betcho,1,SWLzsZCswC4DFa3IgbLXs_Shape,SWLzsZCswC4DFa3IgbLXs-10:00:00
+EN8O17ndwKGdqbV4Vemgm,Ground_Daily,Amiriya,0,ZYYlTiPYpNZRbgLSmbRU-_Shape,ZYYlTiPYpNZRbgLSmbRU--10:00:00
+EN8O17ndwKGdqbV4Vemgm,Ground_Daily,Moneeb Station,1,FFK0IKfH-kucfPhPWooUU_Shape,FFK0IKfH-kucfPhPWooUU-10:00:00
+ER0t9nxcaa0Md4Nm7r-oa,Ground_Daily,Qalaa Station,0,vkA9FTRV1Wks3bhJCg-6b_Shape,vkA9FTRV1Wks3bhJCg-6b-10:00:00
+ER0t9nxcaa0Md4Nm7r-oa,Ground_Daily,Zahraa Ain Shams,1,uhlLE3UsJqXgSLCa5JubQ_Shape,uhlLE3UsJqXgSLCa5JubQ-10:00:00
+EbtM_hQ0jhsQyuGc5GCpz,Ground_Daily,CIC,0,Iy4nkqGgiwFLuHDCpdQvg_Shape,Iy4nkqGgiwFLuHDCpdQvg-10:00:00
+EbtM_hQ0jhsQyuGc5GCpz,Ground_Daily,Hyper 1 Station,1,dukmQyH3Bq7wPLZxObjYA_Shape,dukmQyH3Bq7wPLZxObjYA-10:00:00
+EdxCXX3s8ILq_VMt8162G,Ground_Daily,Al Zawya Al Hamra Station,0,ym9_XmxykVxrE1E7jtcic_Shape,ym9_XmxykVxrE1E7jtcic-10:00:00
+EdxCXX3s8ILq_VMt8162G,Ground_Daily,Imbaba Station,1,NcuYrGCa-ZwKaQ_d4yjGh_Shape,NcuYrGCa-ZwKaQ_d4yjGh-10:00:00
+EgKIe-2AnaMNxtDaRSfZi,Ground_Daily,Gas (Banks Area),0,XNpoAo_301r7_-bXlngR2_Shape,XNpoAo_301r7_-bXlngR2-10:00:00
+EgKIe-2AnaMNxtDaRSfZi,Ground_Daily,Gas (Banks Area),1,50I7g-NeO6UVVAitQBYHK_Shape,50I7g-NeO6UVVAitQBYHK-10:00:00
+Eib3Hm9Na_KFRfgk0ykjn,Ground_Daily,Alf Maskan Station,1,RBTtidlMK8LoHrPN8eMPo_Shape,RBTtidlMK8LoHrPN8eMPo-10:00:00
+Eib3Hm9Na_KFRfgk0ykjn,Ground_Daily,Gas (Banks Area),0,EVMTmhBeTDkD2Bnd_ejr8_Shape,EVMTmhBeTDkD2Bnd_ejr8-10:00:00
+Eq5DUhwePKrivC_r5EyAz,Ground_Daily,Al Sayeda Aisha Station,0,g5kXyh6_XLNV93KHZWnNX_Shape,g5kXyh6_XLNV93KHZWnNX-10:00:00
+Eq5DUhwePKrivC_r5EyAz,Ground_Daily,Imbaba Station,1,Q9q-whcYskJPP78-Zhcon_Shape,Q9q-whcYskJPP78-Zhcon-10:00:00
+EvrZ1dQ_nxwknC6nlhifj,Ground_Daily,Ahmed Helmy Station,1,bScfTI9xVV9lS1cvkOOYS_Shape,bScfTI9xVV9lS1cvkOOYS-10:00:00
+EvrZ1dQ_nxwknC6nlhifj,Ground_Daily,Mazlaqan Ain Shams,0,ZW6zZnvhl8dJiWWeEwuur_Shape,ZW6zZnvhl8dJiWWeEwuur-10:00:00
+EwqAOaw248bX7cqrouzx3,Ground_Daily,Hadaek EL Kobba,1,1hhl6rLrvlT10bpEwevs2_Shape,1hhl6rLrvlT10bpEwevs2-10:00:00
+EwqAOaw248bX7cqrouzx3,Ground_Daily,Masallah Al Gadeda Station (Matareyya),0,vVcgD2JTe21Zaahlos0TS_Shape,vVcgD2JTe21Zaahlos0TS-10:00:00
+F-huxTOsiGcnkweRGwZg8,Ground_Daily,10th of Ramadan Station,1,F-qa8NHvy7MY8TP0ZVgZN_Shape,F-qa8NHvy7MY8TP0ZVgZN-10:00:00
+F-huxTOsiGcnkweRGwZg8,Ground_Daily,Attaba,0,NkBnSW7rYbsy19gpQwtS8_Shape,NkBnSW7rYbsy19gpQwtS8-10:00:00
+F-oBh93OH6Ie4snCmxj8i,Ground_Daily,Basrawy,0,zpmq3KxDh4NaJOQpDODit_Shape,zpmq3KxDh4NaJOQpDODit-10:00:00
+F-oBh93OH6Ie4snCmxj8i,Ground_Daily,Ramses Station,1,Nq8xxnyCp-SdjuUEt2s0o_Shape,Nq8xxnyCp-SdjuUEt2s0o-10:00:00
+FBT0F0L0nZP2Z5ICmHls-,Ground_Daily,Giza Square Station,1,AKuYGzCeEfDCBUMS3RuiK_Shape,AKuYGzCeEfDCBUMS3RuiK-10:00:00
+FBT0F0L0nZP2Z5ICmHls-,Ground_Daily,Matbaa Station,0,MDC8D_uCr3dk--ZCf6ddk_Shape,MDC8D_uCr3dk--ZCf6ddk-10:00:00
+FCAAr3fes-LcOKbkahMq-,Ground_Daily,Mazallat Station,1,OvZKKMCpwNrcGHmsapadY_Shape,OvZKKMCpwNrcGHmsapadY-10:00:00
+FCAAr3fes-LcOKbkahMq-,Ground_Daily,Mostorod Station,0,GiazH46CHwSRSOR_UZQmA_Shape,GiazH46CHwSRSOR_UZQmA-10:00:00
+FI3sY62cvzwcF6qpLJTuV,Ground_Daily,Helwan Post Office,0,s16N6yR3eOye8YiH9_2wo_Shape,s16N6yR3eOye8YiH9_2wo-10:00:00
+FI3sY62cvzwcF6qpLJTuV,Ground_Daily,Tibeen,1,87O6m6LEjD11KmE_2Pku4_Shape,87O6m6LEjD11KmE_2Pku4-10:00:00
+FXHbwS2tr2kd-8DtfhIgo,Ground_Daily,Ahmed Maher Hospital,0,TnxdfTNGoloPBPxsVd3z7_Shape,TnxdfTNGoloPBPxsVd3z7-10:00:00
+FXHbwS2tr2kd-8DtfhIgo,Ground_Daily,Matbaa Station,1,ePNQk9H2GgQ-Cbow7POH4_Shape,ePNQk9H2GgQ-Cbow7POH4-10:00:00
+FptsKvc-vW3cBoVWdYDUL,Ground_Daily,Ahmed Helmy Station,1,KL6LiAhzGnxertX9Ff5PL_Shape,KL6LiAhzGnxertX9Ff5PL-10:00:00
+FptsKvc-vW3cBoVWdYDUL,Ground_Daily,Haram & Marioteya Station,0,gjJQWZi93W-mwaLf0GMEK_Shape,gjJQWZi93W-mwaLf0GMEK-10:00:00
+FugP1Vj46_hKrrCUcBN5G,Ground_Daily,1st Settlement Station (New Cairo),1,DdLVstcMX5x3efywlpfpi_Shape,DdLVstcMX5x3efywlpfpi-10:00:00
+FugP1Vj46_hKrrCUcBN5G,Ground_Daily,Isko,0,9gfr3HuSMcJ96Y9sPRvSA_Shape,9gfr3HuSMcJ96Y9sPRvSA-10:00:00
+Fuoze4mwamBt6aoqW-wJH,Ground_Daily,Matareya Square Station,1,ysYRAd5ereUdyHm6Z2Yea_Shape,ysYRAd5ereUdyHm6Z2Yea-10:00:00
+Fuoze4mwamBt6aoqW-wJH,Ground_Daily,Roxy,0,IFcu1WgTeKY4-7lIhGgk7_Shape,IFcu1WgTeKY4-7lIhGgk7-10:00:00
+G3SanxHficxx5Wx3Kfnn0,Ground_Daily,Hyper 1 Station,0,rGpYGyH9PCR2Ao0o4Zq0Z_Shape,rGpYGyH9PCR2Ao0o4Zq0Z-10:00:00
+G3SanxHficxx5Wx3Kfnn0,Ground_Daily,Lebanon Square Station,1,0MD41jZ0fALq1U7ATpERn_Shape,0MD41jZ0fALq1U7ATpERn-10:00:00
+G78c4G-oy20XNbcMYCzxY,Ground_Daily,Dawaran Shubra Station,0,wW_LIR9Nyv-x6L4U61qMo_Shape,wW_LIR9Nyv-x6L4U61qMo-10:00:00
+G78c4G-oy20XNbcMYCzxY,Ground_Daily,Orabi Bridge,1,VOzBhvL9Yj-5M10S2hfp__Shape,VOzBhvL9Yj-5M10S2hfp_-10:00:00
+GKwSUuezWdV45Rd_Qtady,Ground_Daily,Abd Al Moneim Riad Station,1,WJ4ganTpgxWl5-4vcZ3d9_Shape,WJ4ganTpgxWl5-4vcZ3d9-10:00:00
+GKwSUuezWdV45Rd_Qtady,Ground_Daily,Faisal Tawabek,0,HYtx2XW2ic82887tSR3MJ_Shape,HYtx2XW2ic82887tSR3MJ-10:00:00
+GRN_G1,Ground_Weekdays,7th District Station (Nasr City),0,GRN_G1_O_Shape,GRN_G1_O-10:00:00
+GRN_G1,Ground_Weekdays,Masaken Dahshour,1,GRN_G1_R_Shape,GRN_G1_R-10:00:00
+GRN_G2,Ground_Weekdays,Koleyet Al Banat - Ain Shams University,0,GRN_G2_O_Shape,GRN_G2_O-10:00:00
+GRN_G2,Ground_Weekdays,Masaken Dahshour,1,GRN_G2_R_Shape,GRN_G2_R-10:00:00
+GT_lXm70bMWn54RrTwB2R,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,ZSRkaq_0r1DNRk9zjxSM8_Shape,ZSRkaq_0r1DNRk9zjxSM8-10:00:00
+GT_lXm70bMWn54RrTwB2R,Ground_Daily,Ramses Station,0,OlTe86xvEwrOAYtnFll7G_Shape,OlTe86xvEwrOAYtnFll7G-10:00:00
+GXDzdgrpKw9Tm5MLKMFPP,Ground_Daily,Moneeb Station,1,QVQQtdil46u_kG48xX2g4_Shape,QVQQtdil46u_kG48xX2g4-10:00:00
+GXDzdgrpKw9Tm5MLKMFPP,Ground_Daily,Qasr Al Einy,0,Ig8hSt_0_c7ljQghcG-BU_Shape,Ig8hSt_0_c7ljQghcG-BU-10:00:00
+GZtwE0__sVe5sfdM8Hq45,Ground_Daily,Al Sayeda Aisha Station,1,xgzptu0hSpMjx6bbkeHAA_Shape,xgzptu0hSpMjx6bbkeHAA-10:00:00
+GZtwE0__sVe5sfdM8Hq45,Ground_Daily,Ramses Station,0,jFbPFY6bIpjxLpEdccEjh_Shape,jFbPFY6bIpjxLpEdccEjh-10:00:00
+GxHvz209T3KnqSnTEacs-,Ground_Daily,Ahmed Helmy Station,0,TLPy9wUbywTabUSKxXrYx_Shape,TLPy9wUbywTabUSKxXrYx-10:00:00
+GxHvz209T3KnqSnTEacs-,Ground_Daily,Moassasa Station,1,DIoBM3F9Ku5qGmjcLZsyd_Shape,DIoBM3F9Ku5qGmjcLZsyd-10:00:00
+GxpEPsh9nVdgjod-tsOkv,Ground_Daily,Attaba,0,5lAgNo83JBisjYdeAaxD9_Shape,5lAgNo83JBisjYdeAaxD9-10:00:00
+GxpEPsh9nVdgjod-tsOkv,Ground_Daily,Helwan Metro,1,0_YigmbN6W4IoQ5ioOmYR_Shape,0_YigmbN6W4IoQ5ioOmYR-10:00:00
+H0VZrZgURbduJqQJM_OjZ,Ground_Daily,Ahmed Helmy Station,1,3QC2up47RNLPCI1uQ-7_y_Shape,3QC2up47RNLPCI1uQ-7_y-10:00:00
+H0VZrZgURbduJqQJM_OjZ,Ground_Daily,Badr Station (Sheikh Zayed),0,2JJL6fknWMvn_4KD7wU7N_Shape,2JJL6fknWMvn_4KD7wU7N-10:00:00
+HRIoKLqyzSuLF2TLVXtja,Ground_Daily,10th of Ramadan Station,0,wnyUaZjrk2YzxRE9-xn9c_Shape,wnyUaZjrk2YzxRE9-xn9c-10:00:00
+HRIoKLqyzSuLF2TLVXtja,Ground_Daily,Abd Al Moneim Riad Station,1,i0vRkxxnTK4XVRh5Q2555_Shape,i0vRkxxnTK4XVRh5Q2555-10:00:00
+HRKfVI0GjLKHq6o9ulFba,Ground_Daily,Abbasseya Station,1,Ru7r7jA1oEddPP1dkD5t2_Shape,Ru7r7jA1oEddPP1dkD5t2-10:00:00
+HRKfVI0GjLKHq6o9ulFba,Ground_Daily,Mazlaqan Al Deweqa,0,aaee-vekfz_--Z1WL3nIm_Shape,aaee-vekfz_--Z1WL3nIm-10:00:00
+HZd1EesltJ445uu9I6wbH,Ground_Daily,Awwel Al Zawya Al Hamra Station,0,WnbKuRHQM3BfQvqG2hMfL_Shape,WnbKuRHQM3BfQvqG2hMfL-10:00:00
+HgOOTYudP9JvGMJLgyyjz,Ground_Daily,Giza Square Station,1,LLH5CFMcY4B_yrieV6JD7_Shape,LLH5CFMcY4B_yrieV6JD7-10:00:00
+HgOOTYudP9JvGMJLgyyjz,Ground_Daily,Kit Kat Square Station,0,H2Qx0H5UVgktNnPfM9xib_Shape,H2Qx0H5UVgktNnPfM9xib-10:00:00
+Hjh1uRXEyzV0t-_S0vjaF,Ground_Daily,Abbasseya Station,0,xYEMld5Ls_0xn6qhze5rw_Shape,xYEMld5Ls_0xn6qhze5rw-10:00:00
+Hjh1uRXEyzV0t-_S0vjaF,Ground_Daily,Saqr Quraish Station,1,aJn6u7n2wbEPgYGi_9W0__Shape,aJn6u7n2wbEPgYGi_9W0_-10:00:00
+Hu_E85mwGGhJHvFmWrLch,Ground_Daily,Al Toub Al Ramly,0,ISqkUNDqF5DvKN9CHy58K_Shape,ISqkUNDqF5DvKN9CHy58K-10:00:00
+Hu_E85mwGGhJHvFmWrLch,Ground_Daily,Masaken Ain Shams Station,1,f8JcyFtAyk9JQBdi-A-uz_Shape,f8JcyFtAyk9JQBdi-A-uz-10:00:00
+I0McnHOUOXtn5nXDvkIuT,Ground_Daily,8th District (Nasr City) - Al tabba,1,6GFHECCVw6gN59S71EAm3_Shape,6GFHECCVw6gN59S71EAm3-10:00:00
+I0McnHOUOXtn5nXDvkIuT,Ground_Daily,Saft Al Laban,0,9ACmII9WrSEIvaUvgDXsn_Shape,9ACmII9WrSEIvaUvgDXsn-10:00:00
+IK0lxgoOk-xJleJOgnUIP,Ground_Daily,Haram Mashaal Station,0,21XFqItT8ozHWSVS5-v55_Shape,21XFqItT8ozHWSVS5-v55-10:00:00
+IMRynqA53QmU-orlgoLIj,Ground_Daily,Mazallat Station,0,rRONLaRkLCQj_ZXgl0Vgf_Shape,rRONLaRkLCQj_ZXgl0Vgf-10:00:00
+IMRynqA53QmU-orlgoLIj,Ground_Daily,Roxy,1,oa7qYicqdBLo9Y-EoML1O_Shape,oa7qYicqdBLo9Y-EoML1O-10:00:00
+IQBYLZyf_eGY8fK3WVcR0,Ground_Daily,11th District (6th of October),0,yvMDk6teaiUaY2UxRDDer_Shape,yvMDk6teaiUaY2UxRDDer-10:00:00
+IQBYLZyf_eGY8fK3WVcR0,Ground_Daily,Hossary Station,1,U1nTOikCb_V8OWUB4IVt1_Shape,U1nTOikCb_V8OWUB4IVt1-10:00:00
+IRzkagIluHAKgsFxr9c_Z,Ground_Daily,Abageyah,1,PPRq64MRutZS3etkfhj9b_Shape,PPRq64MRutZS3etkfhj9b-10:00:00
+IRzkagIluHAKgsFxr9c_Z,Ground_Daily,Warraq Al Arab (Cima),0,5amEUAf4ze-KNUOhGFnOu_Shape,5amEUAf4ze-KNUOhGFnOu-10:00:00
+IYD6dwYtSHca6S9EV__lK,Ground_Daily,Basrawy,0,RBt5BXosugRVLPo_360aY_Shape,RBt5BXosugRVLPo_360aY-10:00:00
+IYD6dwYtSHca6S9EV__lK,Ground_Daily,Mazallat Station,1,4NvKeh1iX4BuV9GXj7jQj_Shape,4NvKeh1iX4BuV9GXj7jQj-10:00:00
+IYilQT6atGwqzRh7MNJHd,Ground_Daily,Badrasheen Station,1,pihBgGUpjHrq9axTka94b_Shape,pihBgGUpjHrq9axTka94b-10:00:00
+IbXTsW7yTra13ARwexIRz,Ground_Daily,Abageyah,0,Xtmagj9Xur5b4R67zE5Wy_Shape,Xtmagj9Xur5b4R67zE5Wy-10:00:00
+IbXTsW7yTra13ARwexIRz,Ground_Daily,Amiriya,1,XAFG8Nvu-87Fj9shOevqU_Shape,XAFG8Nvu-87Fj9shOevqU-10:00:00
+IcpqTJSZNZXngGCgzW0-u,Ground_Daily,Fayda Kamel,0,n--UfRcvqEhMLsCNKTKE8_Shape,n--UfRcvqEhMLsCNKTKE8-10:00:00
+IcpqTJSZNZXngGCgzW0-u,Ground_Daily,Saqr Quraish Station,1,nFaa7e0Ke-yFd9c4o8LBm_Shape,nFaa7e0Ke-yFd9c4o8LBm-10:00:00
+Imw9VlP3uLpN1-7pXr_Qe,Ground_Daily,Isko,0,aNyLiJylPqOHlEuRAyDsa_Shape,aNyLiJylPqOHlEuRAyDsa-10:00:00
+Imw9VlP3uLpN1-7pXr_Qe,Ground_Daily,Masaken Al Shorouq,1,Bv7YzPxAWRuofjShaRCu4_Shape,Bv7YzPxAWRuofjShaRCu4-10:00:00
+J5A7VH01y0jYe8-oy58XV,Ground_Daily,Madinat Al Solb  (Al Tibeen),0,mAFV_cnn2vCl-FSRE-Svy_Shape,mAFV_cnn2vCl-FSRE-Svy-10:00:00
+J5A7VH01y0jYe8-oy58XV,Ground_Daily,Ramses Station,1,VZzinQNaheUwu237-IBpl_Shape,VZzinQNaheUwu237-IBpl-10:00:00
+JEYUgjN4DNooJRg88uMnU,Ground_Daily,Arab Al Tawaila,1,NQyI__L2TYlwrXqo77JFl_Shape,NQyI__L2TYlwrXqo77JFl-10:00:00
+JEYUgjN4DNooJRg88uMnU,Ground_Daily,Attaba,0,Ip-qafpQBx6pGr-vunYeP_Shape,Ip-qafpQBx6pGr-vunYeP-10:00:00
+JFURIfkSZvjnSzWLlUZ65,Ground_Daily,Giza Square Station,0,ZV7iwXJ4A2DZA_XGIhDlP_Shape,ZV7iwXJ4A2DZA_XGIhDlP-10:00:00
+JFURIfkSZvjnSzWLlUZ65,Ground_Daily,Omraneyya Station,1,RSL1AHOXtJ5udax743ilV_Shape,RSL1AHOXtJ5udax743ilV-10:00:00
+JHK6gWh4wxS5zteB3hxbW,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),0,AVCXwJ2Tg3kjWIiTfzzS-_Shape,AVCXwJ2Tg3kjWIiTfzzS--10:00:00
+JHK6gWh4wxS5zteB3hxbW,Ground_Daily,Arab Al Tawaila,1,MOLkNlZtWL1sCLPO1wr6K_Shape,MOLkNlZtWL1sCLPO1wr6K-10:00:00
+JZOWZGUVIlsyln-SJhGeB,Ground_Daily,10th District Station (Nasr City),0,63OIVr7xvfBkzVbGCppQx_Shape,63OIVr7xvfBkzVbGCppQx-10:00:00
+J_PqoU-hjIL1h8F626aNF,Ground_Daily,10th of Ramadan Station,1,YcqvbKZDU_v8ILe-rKNdv_Shape,YcqvbKZDU_v8ILe-rKNdv-10:00:00
+J_PqoU-hjIL1h8F626aNF,Ground_Daily,Kafr Tohormos,0,kLv16sL-8RlDpMvWTyDCm_Shape,kLv16sL-8RlDpMvWTyDCm-10:00:00
+JiIqBjX2_cEbIJ6DrqtzH,Ground_Daily,1st Settlement Station (New Cairo),0,L7zgWTYV464TdBwPhBOii_Shape,L7zgWTYV464TdBwPhBOii-10:00:00
+JiIqBjX2_cEbIJ6DrqtzH,Ground_Daily,Amr Ibn El Aas Station,1,2LPBg8JF7GOnEJqGOrjjG_Shape,2LPBg8JF7GOnEJqGOrjjG-10:00:00
+JktuaW0f3dvlZcs7mDGGu,Ground_Daily,Cairo Airport Station,0,hLLYwro_URVUJIc0h9fcW_Shape,hLLYwro_URVUJIc0h9fcW-10:00:00
+JktuaW0f3dvlZcs7mDGGu,Ground_Daily,Moassasa Station,1,OG9hXc2j6ii6x89W9E4mV_Shape,OG9hXc2j6ii6x89W9E4mV-10:00:00
+JlzozxxL918inEWQTu3iJ,Ground_Daily,Al Zawya Al Hamra Station,0,fj8SrDcSJO_LYo0-SFKkD_Shape,fj8SrDcSJO_LYo0-SFKkD-10:00:00
+JlzozxxL918inEWQTu3iJ,Ground_Daily,Moneeb Station,1,0yopLpAb3pZW2IOBct96R_Shape,0yopLpAb3pZW2IOBct96R-10:00:00
+JpiG_dcCCJW6ETMOdU8eq,Ground_Daily,Ahmed Helmy Station,1,Ce8VmBMUfHkW8_HNk1ATa_Shape,Ce8VmBMUfHkW8_HNk1ATa-10:00:00
+JpiG_dcCCJW6ETMOdU8eq,Ground_Daily,Badr City,0,ah_jiBXjALuLQXBdgWAu-_Shape,ah_jiBXjALuLQXBdgWAu--10:00:00
+JyWtn3ABwFi8HtnOdZir3,Ground_Daily,Ard El Lewaa,1,OSHP1oY4xkiEQJO4Oe5Tt_Shape,OSHP1oY4xkiEQJO4Oe5Tt-10:00:00
+JyWtn3ABwFi8HtnOdZir3,Ground_Daily,Imbaba Station,0,BuENdU5C43Xw5GOnBynOx_Shape,BuENdU5C43Xw5GOnBynOx-10:00:00
+K9zBV4fj5NavAGCuGFD2i,Ground_Daily,Ahmed Helmy Station,0,eVKd5Tn-m8ZgehvJMowea_Shape,eVKd5Tn-m8ZgehvJMowea-10:00:00
+K9zBV4fj5NavAGCuGFD2i,Ground_Daily,Can Can 12th District  (6th of October),1,oJV0VP9BbdlYP0FUTX3kL_Shape,oJV0VP9BbdlYP0FUTX3kL-10:00:00
+KRWhc98g65P9U2MM4fs0A,Ground_Daily,Masaken Sheraton,0,-XaPZ2UTDjX-eYOqI-vza_Shape,-XaPZ2UTDjX-eYOqI-vza-10:00:00
+KRWhc98g65P9U2MM4fs0A,Ground_Daily,Mazallat Station,1,PAWG7f9ucF3A2M7a7TMjO_Shape,PAWG7f9ucF3A2M7a7TMjO-10:00:00
+KZbzaf9cmgAB7KuFCo1MM,Ground_Daily,Ahmed Helmy Station,0,Jh7tooXsPHItxzD9Pax3x_Shape,Jh7tooXsPHItxzD9Pax3x-10:00:00
+KZbzaf9cmgAB7KuFCo1MM,Ground_Daily,Zahraa Madinet Nasr,1,IWaNk-8_tVZr30Q_kz6mi_Shape,IWaNk-8_tVZr30Q_kz6mi-10:00:00
+KmVdHOhRfUX8cw29qR_Vo,Ground_Daily,Kerdasa Station,1,Q-7s5Cr9SpCAlbEmxvTP-_Shape,Q-7s5Cr9SpCAlbEmxvTP--10:00:00
+KmVdHOhRfUX8cw29qR_Vo,Ground_Daily,Saft Al Laban,0,fxIa5LLDISWY-wGsx_EH7_Shape,fxIa5LLDISWY-wGsx_EH7-10:00:00
+L1rMkXC2KSeHo-lMhLN3w,Ground_Daily,Imbaba Station,0,VoIIbJbbz9WiACiS6e5Rx_Shape,VoIIbJbbz9WiACiS6e5Rx-10:00:00
+L1rMkXC2KSeHo-lMhLN3w,Ground_Daily,Kattameya (Mahmoudeya),1,hs19oq5j_YpLzemQPLK97_Shape,hs19oq5j_YpLzemQPLK97-10:00:00
+L461chwDYnuXmkCJbl1Zk,Ground_Daily,Abou Al Reesh,1,WxLiScbau6q2jneg5Qnr0_Shape,WxLiScbau6q2jneg5Qnr0-10:00:00
+L461chwDYnuXmkCJbl1Zk,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),0,caEMDaSlrXAqIjvYKy1nY_Shape,caEMDaSlrXAqIjvYKy1nY-10:00:00
+L6PArmxc9NFPD2d0aCCTb,Ground_Daily,Bigam,0,ZcHjMwJDXmK_bCRlUqW99_Shape,ZcHjMwJDXmK_bCRlUqW99-10:00:00
+L6PArmxc9NFPD2d0aCCTb,Ground_Daily,Masaken Sheraton,1,vwdGb319PO3_8gflsBJV1_Shape,vwdGb319PO3_8gflsBJV1-10:00:00
+LJ8W8lrawIvi_HQ_N_fRD,Ground_Daily,10th of Ramadan Station,1,gGEeyz1Rc1g1-OLFaUMlC_Shape,gGEeyz1Rc1g1-OLFaUMlC-10:00:00
+LJ8W8lrawIvi_HQ_N_fRD,Ground_Daily,Moneeb Station,0,x8gNPLXq4hMEaP3rgn9-a_Shape,x8gNPLXq4hMEaP3rgn9-a-10:00:00
+LNhgToq2DsZoXTXPK8G9d,Ground_Daily,Bulaq Al Dakrur Station,1,znS5J7q3CNP1rdEZ4vkJK_Shape,znS5J7q3CNP1rdEZ4vkJK-10:00:00
+LNhgToq2DsZoXTXPK8G9d,Ground_Daily,Nahda City Station,0,lXEko31zzBDalexCQcqNR_Shape,lXEko31zzBDalexCQcqNR-10:00:00
+LTPSVqGzJYucn9U0WTWQz,Ground_Daily,Mazallat Station,0,w2dv8iEyBBY_iMV0hmyHY_Shape,w2dv8iEyBBY_iMV0hmyHY-10:00:00
+LTPSVqGzJYucn9U0WTWQz,Ground_Daily,Zahraa Madinet Nasr,1,_jY9ahrq-ha2SWrnoH5qD_Shape,_jY9ahrq-ha2SWrnoH5qD-10:00:00
+Llp_ydR2tscD940jXryQU,Ground_Daily,10th District Station (Nasr City),0,BmeHxNoi0Z6gtjKsbyNDi_Shape,BmeHxNoi0Z6gtjKsbyNDi-10:00:00
+Llp_ydR2tscD940jXryQU,Ground_Daily,Moneeb Konayyesa,1,aXyVHICYwIgTULE7Qmk1L_Shape,aXyVHICYwIgTULE7Qmk1L-10:00:00
+LpHLg1FZnH9OcBTFfVwEs,Ground_Daily,Abd Al Moneim Riad Station,0,Ba3VPw5sUNskeh453kfh8_Shape,Ba3VPw5sUNskeh453kfh8-10:00:00
+LpHLg1FZnH9OcBTFfVwEs,Ground_Daily,Isbiko Station,1,DBv2n5htZ_4Z123BEos8s_Shape,DBv2n5htZ_4Z123BEos8s-10:00:00
+LpiM9b8bL-w2_OYYAi9OZ,Ground_Daily,Bohooth (Al Kobri Al Khashab),0,WWbeYBPLhRHOj72_O1pEg_Shape,WWbeYBPLhRHOj72_O1pEg-10:00:00
+LpiM9b8bL-w2_OYYAi9OZ,Ground_Daily,Bulaq Al Dakrur Station,1,oh5QdEhlMfv9RI2IlguZe_Shape,oh5QdEhlMfv9RI2IlguZe-10:00:00
+LwkV1eodv1ID5E0MVkEGV,Ground_Daily,Giza Square Station,1,PgkyTc840aSiHy6cn5bzA_Shape,PgkyTc840aSiHy6cn5bzA-10:00:00
+LwkV1eodv1ID5E0MVkEGV,Ground_Daily,Magda Square,0,wpR35m8PHRlNTRwVRQush_Shape,wpR35m8PHRlNTRwVRQush-10:00:00
+M72HU9kmUJZ6FhQHG_GpP,Ground_Daily,Al Sa'a Square Station,0,_DYfK1Qd253md2EgRUQhe_Shape,_DYfK1Qd253md2EgRUQhe-10:00:00
+M72HU9kmUJZ6FhQHG_GpP,Ground_Daily,Ibrahim Bek,1,nqIH_7WvK-6SXINmvGola_Shape,nqIH_7WvK-6SXINmvGola-10:00:00
+MSR_Ms4,Ground_Weekdays,Masaken Dahshour,1,MSR_Ms4_R_Shape,MSR_Ms4_R-10:00:00
+MSR_Ms4,Ground_Weekdays,Ramses Station,0,MSR_Ms4_O_Shape,MSR_Ms4_O-10:00:00
+MUrGLjBAM0T83fv3U3Mqa,Ground_Daily,Haram Areesh (Sahl Hamza),0,0XH65TTO7WRUIai9uQs54_Shape,0XH65TTO7WRUIai9uQs54-10:00:00
+MXkuS2j7tp4MjRSbo-Q6f,Ground_Daily,Salam Alexandria Station,1,ik5tzEa7hhd7KxVoQCkFR_Shape,ik5tzEa7hhd7KxVoQCkFR-10:00:00
+MfH-pfpTAl0OVRoWJgzRH,Ground_Daily,Attaba,0,VvvGXzP3weW3Phvjx4BiF_Shape,VvvGXzP3weW3Phvjx4BiF-10:00:00
+MfH-pfpTAl0OVRoWJgzRH,Ground_Daily,Moassasa Station,1,LDmZOvKjdNLEphnMfbYi0_Shape,LDmZOvKjdNLEphnMfbYi0-10:00:00
+MgUVI0pvMFijJFql58iLt,Ground_Daily,Al Omraneyya Al Gadida,1,Ru1pfzZ37YGSeHc3Ud2e0_Shape,Ru1pfzZ37YGSeHc3Ud2e0-10:00:00
+MgUVI0pvMFijJFql58iLt,Ground_Daily,Koleyet Al Banat - Ain Shams University,0,P8UdZxy7-E8fJwZva3RMk_Shape,P8UdZxy7-E8fJwZva3RMk-10:00:00
+MgUeZY5IH7DhXn9qFpvGl,Ground_Daily,Hadaek EL Kobba,0,duOxQcPZP8dTe9lKJ7r8r_Shape,duOxQcPZP8dTe9lKJ7r8r-10:00:00
+MgUeZY5IH7DhXn9qFpvGl,Ground_Daily,Qism El Hadayek,1,Bdl1wVURvHT6n_Nao9mGM_Shape,Bdl1wVURvHT6n_Nao9mGM-10:00:00
+Ml8Z5Ycxg-taVluDdj9eh,Ground_Daily,Giza Square Station,1,B8Ssg6Uzzk7HCuvn1SJgz_Shape,B8Ssg6Uzzk7HCuvn1SJgz-10:00:00
+Ml8Z5Ycxg-taVluDdj9eh,Ground_Daily,Ibrahim Bek,0,35JvLLZYnkWHAvAJj5qD6_Shape,35JvLLZYnkWHAvAJj5qD6-10:00:00
+N6IzAQa5E4U9mP-CLry9g,Ground_Daily,Cairo Airport Station,0,V-llUqCL9mQSFOsZ6CjrB_Shape,V-llUqCL9mQSFOsZ6CjrB-10:00:00
+N6IzAQa5E4U9mP-CLry9g,Ground_Daily,Mazallat Station,1,YtenriD4isMdShj-EkfzO_Shape,YtenriD4isMdShj-EkfzO-10:00:00
+NQ9Wqx8QvnYzPFWEsHHiM,Ground_Daily,Hossary Station,1,GmdZRfsIit-cb-CBYetcB_Shape,GmdZRfsIit-cb-CBYetcB-10:00:00
+NQ9Wqx8QvnYzPFWEsHHiM,Ground_Daily,Masaken Dahshour,0,Hn1YSFxBPYpWP25-rDJ-a_Shape,Hn1YSFxBPYpWP25-rDJ-a-10:00:00
+NSy3ZsEBK5pZrZIyk51VL,Ground_Daily,Kilo 4 & Half Station,0,0RfTmJg98tv9ff6iEU5jz_Shape,0RfTmJg98tv9ff6iEU5jz-10:00:00
+NSy3ZsEBK5pZrZIyk51VL,Ground_Daily,Kolleyet Al Zeraah (Cairo University),1,S7Cs5a6jLa7FbdO08cL_7_Shape,S7Cs5a6jLa7FbdO08cL_7-10:00:00
+NUilWKiUS6Kx6c0X5hCYF,Ground_Daily,Alf Maskan Station,1,xAJGyQhxA6TMxLphKroaV_Shape,xAJGyQhxA6TMxLphKroaV-10:00:00
+NUilWKiUS6Kx6c0X5hCYF,Ground_Daily,Roxy,0,_fJrDuDXygbVx7SFuh6lr_Shape,_fJrDuDXygbVx7SFuh6lr-10:00:00
+Nd26muQJqx48OOmDQvv7D,Ground_Daily,Al Zawya Al Hamra Station,0,HtBsLx2mlmFBm1TfGj0Cv_Shape,HtBsLx2mlmFBm1TfGj0Cv-10:00:00
+Nd26muQJqx48OOmDQvv7D,Ground_Daily,Masaken Zeinhom Station,1,7SPPrztcr6v_3gCqxyX33_Shape,7SPPrztcr6v_3gCqxyX33-10:00:00
+NpVyB3A8oXLi3GfGFKSwW,Ground_Daily,Imbaba Station,1,x0eKiz8tiJP9vQkYBcMkl_Shape,x0eKiz8tiJP9vQkYBcMkl-10:00:00
+NrOaoQJmSjyW5uQtfFt7p,Ground_Daily,Moneeb Station,0,3F2AsTWibqhxpkTKCzZna_Shape,3F2AsTWibqhxpkTKCzZna-10:00:00
+NrOaoQJmSjyW5uQtfFt7p,Ground_Daily,Ramses Station,1,oEUcbeYU6xgPnS0Vs0rU1_Shape,oEUcbeYU6xgPnS0Vs0rU1-10:00:00
+NrXQrpcK2JA_IC7xpHfNm,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,fvRXgndF-an0mGla0ao9B_Shape,fvRXgndF-an0mGla0ao9B-10:00:00
+NrXQrpcK2JA_IC7xpHfNm,Ground_Daily,Haram & Marioteya Station,1,AN--oCv1A9-cEROJmBV2__Shape,AN--oCv1A9-cEROJmBV2_-10:00:00
+NsRadhTyf0r3kiWFf6VpA,Ground_Daily,Al Sayeda Aisha Station,0,6W7Zww4IJB-R_VmOfLXpu_Shape,6W7Zww4IJB-R_VmOfLXpu-10:00:00
+NsRadhTyf0r3kiWFf6VpA,Ground_Daily,Khosous,1,-0XeoEQggxpwaPjZ-nJm2_Shape,-0XeoEQggxpwaPjZ-nJm2-10:00:00
+NsWlr8t2byZcKwm7hf7UI,Ground_Daily,Attaba,1,eQw5UvJMkC4-QX3UeZKDD_Shape,eQw5UvJMkC4-QX3UeZKDD-10:00:00
+Nt3X7K8xH9fN8xUI0jtsl,Ground_Daily,Dar El Salam,0,RR7tSjbcXnx-ZGXWLsWQs_Shape,RR7tSjbcXnx-ZGXWLsWQs-10:00:00
+Nt3X7K8xH9fN8xUI0jtsl,Ground_Daily,Giza Square Station,1,exfpfXw6EEor0LqWw7Rj0_Shape,exfpfXw6EEor0LqWw7Rj0-10:00:00
+NvJsbLXSZ_OQTMe4A0Re6,Ground_Daily,7th District Station (Nasr City),1,fUOkEcx34fhZ7fzAELZ8T_Shape,fUOkEcx34fhZ7fzAELZ8T-10:00:00
+NvJsbLXSZ_OQTMe4A0Re6,Ground_Daily,Al Magzar (Mariouteya),0,8yxAFuYBKWB0_1jRz1pKC_Shape,8yxAFuYBKWB0_1jRz1pKC-10:00:00
+NvP4fRLg68f35n6CvEdEj,Ground_Daily,Manshiyat Nasser Station,0,o8doF07FUO8XRBrT9pX7q_Shape,o8doF07FUO8XRBrT9pX7q-10:00:00
+OOILmjleFc1XPBnUjoK58,Ground_Daily,Bashtil El Balad,0,qJtkJNXpVmRcZ1Q53KsDk_Shape,qJtkJNXpVmRcZ1Q53KsDk-10:00:00
+OV9c3M2XEp7fizUlcqY26,Ground_Daily,10th District Station (Nasr City),0,4FcZAbT6YiNCIQLNkKvd3_Shape,4FcZAbT6YiNCIQLNkKvd3-10:00:00
+OV9c3M2XEp7fizUlcqY26,Ground_Daily,Alf Maskan Station,1,M3avEE_ALoxL2TOJi69Vo_Shape,M3avEE_ALoxL2TOJi69Vo-10:00:00
+OXsaA6ch0zWJIr-wsnU3M,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,UQVNsE7bqCSXYYt2AbyRR_Shape,UQVNsE7bqCSXYYt2AbyRR-10:00:00
+OXsaA6ch0zWJIr-wsnU3M,Ground_Daily,Moassaset Al Zakah,1,8X3K2M4j9c92HivoUCHtW_Shape,8X3K2M4j9c92HivoUCHtW-10:00:00
+OZAAPeChjNCYfhRh0ytYa,Ground_Daily,Al Sayeda Aisha Station,1,BnID8iWBWoG-ZjnxK2Ffi_Shape,BnID8iWBWoG-ZjnxK2Ffi-10:00:00
+OZAAPeChjNCYfhRh0ytYa,Ground_Daily,Kattameya (Mahmoudeya),0,day82Pfd85xiYO966Yb8C_Shape,day82Pfd85xiYO966Yb8C-10:00:00
+O__qyKz6kCZCjrNB-7OYX,Ground_Daily,Helwan Metro,1,w0OuP-qXbkDEvdfnmfIVY_Shape,w0OuP-qXbkDEvdfnmfIVY-10:00:00
+O__qyKz6kCZCjrNB-7OYX,Ground_Daily,Tibeen,0,uExuHHG2kdBHjlUe0Z2kj_Shape,uExuHHG2kdBHjlUe0Z2kj-10:00:00
+Ogi2rh_OlSM2h_wvvLGkk,Ground_Daily,Alf Maskan Station,1,FEJV0ei4pBoMi3F3JOV-s_Shape,FEJV0ei4pBoMi3F3JOV-s-10:00:00
+Ogi2rh_OlSM2h_wvvLGkk,Ground_Daily,Masaken Ain Shams Station,0,baZXV2ZAVAlV2IhH2uK3S_Shape,baZXV2ZAVAlV2IhH2uK3S-10:00:00
+OjdWYHiltgq6kjdcreFCA,Ground_Daily,Isko,0,8QG6Sv0aboPwEHaQeQUqb_Shape,8QG6Sv0aboPwEHaQeQUqb-10:00:00
+OjdWYHiltgq6kjdcreFCA,Ground_Daily,Masaken Sheraton,1,jeVQ0xSwgg7a17HZsVR3K_Shape,jeVQ0xSwgg7a17HZsVR3K-10:00:00
+PBikgVF29mTLslC7tpYmN,Ground_Daily,Al Zawya Al Hamra Station,1,91TdOM76gDeed07t4CXBJ_Shape,91TdOM76gDeed07t4CXBJ-10:00:00
+PBikgVF29mTLslC7tpYmN,Ground_Daily,Khalafawy Square,0,-D2_WW54qJOAOUA0HlcHx_Shape,-D2_WW54qJOAOUA0HlcHx-10:00:00
+PDlizFncn7JYVajF5DkR9,Ground_Daily,Abou El Numrus,0,Ez0c-0NNuySK2f8At-M_Q_Shape,Ez0c-0NNuySK2f8At-M_Q-10:00:00
+PDlizFncn7JYVajF5DkR9,Ground_Daily,Shabramant,1,sQ84EiW5DGOU0MMop47zF_Shape,sQ84EiW5DGOU0MMop47zF-10:00:00
+PNtTPVJcmDWclAFZdvYD2,Ground_Daily,Alf Maskan Station,1,54vCgH7kUj2xjYCmiaGU9_Shape,54vCgH7kUj2xjYCmiaGU9-10:00:00
+PNtTPVJcmDWclAFZdvYD2,Ground_Daily,Arab Al Tawaila,0,vrKqTKPidIDI58EoJ_spD_Shape,vrKqTKPidIDI58EoJ_spD-10:00:00
+P_B_8_6O001,Ground_Daily,10th District Station (6th of October),1,P_B_8_6O001_R_Shape,P_B_8_6O001_R-10:00:00
+P_B_8_6O001,Ground_Daily,Hossary Station,0,P_B_8_6O001_O_Shape,P_B_8_6O001_O-10:00:00
+P_B_8_6O008,Ground_Daily,10th District Station (6th of October),0,P_B_8_6O008_O_Shape,P_B_8_6O008_O-10:00:00
+P_B_8_6O008,Ground_Daily,Hossary Station,1,P_B_8_6O008_R_Shape,P_B_8_6O008_R-10:00:00
+P_B_8_6O009,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,P_B_8_6O009_O_Shape,P_B_8_6O009_O-10:00:00
+P_B_8_6O010,Ground_Daily,Dolce,0,P_B_8_6O010_O_Shape,P_B_8_6O010_O-10:00:00
+P_B_8_6O010,Ground_Daily,Hossary Station,1,P_B_8_6O010_R_Shape,P_B_8_6O010_R-10:00:00
+P_B_8_6O012,Ground_Daily,Hossary Station,1,P_B_8_6O012_R_Shape,P_B_8_6O012_R-10:00:00
+P_B_8_6O012,Ground_Daily,Laylat Al Qadr Station,0,P_B_8_6O012_O_Shape,P_B_8_6O012_O-10:00:00
+P_B_8_6O014,Ground_Daily,10th District Station (6th of October),0,P_B_8_6O014_O_Shape,P_B_8_6O014_O-10:00:00
+P_B_8_6O015,Ground_Daily,11th District (6th of October),0,P_B_8_6O015_O_Shape,P_B_8_6O015_O-10:00:00
+P_B_8_6O015,Ground_Daily,Magda Square,1,P_B_8_6O015_R_Shape,P_B_8_6O015_R-10:00:00
+P_B_8_6O017,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_B_8_6O017_R_Shape,P_B_8_6O017_R-10:00:00
+P_B_8_6O017,Ground_Daily,Al Motamayez Station,0,P_B_8_6O017_O_Shape,P_B_8_6O017_O-10:00:00
+P_B_8_6O019,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_B_8_6O019_R_Shape,P_B_8_6O019_R-10:00:00
+P_B_8_6O019,Ground_Daily,Laylat Al Qadr Station,0,P_B_8_6O019_O_Shape,P_B_8_6O019_O-10:00:00
+P_B_8_6O020,Ground_Daily,Al Motamayez Station,1,P_B_8_6O020_R_Shape,P_B_8_6O020_R-10:00:00
+P_B_8_6O020,Ground_Daily,Dolce,0,P_B_8_6O020_O_Shape,P_B_8_6O020_O-10:00:00
+P_B_8_6O021,Ground_Daily,Al Motamayez Station,1,P_B_8_6O021_R_Shape,P_B_8_6O021_R-10:00:00
+P_B_8_6O025,Ground_Daily,7th District (6th of October),1,P_B_8_6O025_R_Shape,P_B_8_6O025_R-10:00:00
+P_B_8_6O025,Ground_Daily,Al Mostaqbal Entrance,0,P_B_8_6O025_O_Shape,P_B_8_6O025_O-10:00:00
+P_B_8_6O026,Ground_Daily,7th District (6th of October),1,P_B_8_6O026_R_Shape,P_B_8_6O026_R-10:00:00
+P_B_8_6O026,Ground_Daily,Laylat Al Qadr Station,0,P_B_8_6O026_O_Shape,P_B_8_6O026_O-10:00:00
+P_B_8_6O027,Ground_Daily,Industrial Zone 3,1,P_B_8_6O027_R_Shape,P_B_8_6O027_R-10:00:00
+P_B_8_6O027,Ground_Daily,Laylat Al Qadr Station,0,P_B_8_6O027_O_Shape,P_B_8_6O027_O-10:00:00
+P_B_8_6O029,Ground_Daily,Dolce,1,P_B_8_6O029_R_Shape,P_B_8_6O029_R-10:00:00
+P_B_8_6O029,Ground_Daily,Laylat Al Qadr Station,0,P_B_8_6O029_O_Shape,P_B_8_6O029_O-10:00:00
+P_B_8_CA021,Ground_Daily,Al Sayeda Aisha Station,1,P_B_8_CA021_R_Shape,P_B_8_CA021_R-10:00:00
+P_B_8_CA021,Ground_Daily,Zahraa Metro,0,P_B_8_CA021_O_Shape,P_B_8_CA021_O-10:00:00
+P_B_8_CA046,Ground_Daily,Masaken Zeinhom Station,0,P_B_8_CA046_O_Shape,P_B_8_CA046_O-10:00:00
+P_B_8_CA094,Ground_Daily,Ezbet Al Nakhl,0,P_B_8_CA094_O_Shape,P_B_8_CA094_O-10:00:00
+P_B_8_CA095,Ground_Daily,Al Marg Police,0,P_B_8_CA095_O_Shape,P_B_8_CA095_O-10:00:00
+P_B_8_CA095,Ground_Daily,New Marg Station,1,P_B_8_CA095_R_Shape,P_B_8_CA095_R-10:00:00
+P_B_8_CA097,Ground_Daily,Mohagreen (Ezbet Al Nakhl),0,P_B_8_CA097_O_Shape,P_B_8_CA097_O-10:00:00
+P_B_8_CA098,Ground_Daily,10th of Ramadan Station,0,P_B_8_CA098_O_Shape,P_B_8_CA098_O-10:00:00
+P_B_8_CA098,Ground_Daily,New Marg Station,1,P_B_8_CA098_R_Shape,P_B_8_CA098_R-10:00:00
+P_B_8_CA099,Ground_Daily,El Warsha (Ezbet Al Nakhl),0,P_B_8_CA099_O_Shape,P_B_8_CA099_O-10:00:00
+P_B_8_CA099,Ground_Daily,New Marg Station,1,P_B_8_CA099_R_Shape,P_B_8_CA099_R-10:00:00
+P_B_8_CA106,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,P_B_8_CA106_R_Shape,P_B_8_CA106_R-10:00:00
+P_B_8_CA106,Ground_Daily,Masaken Ain Shams Station,0,P_B_8_CA106_O_Shape,P_B_8_CA106_O-10:00:00
+P_B_8_CA107,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,P_B_8_CA107_R_Shape,P_B_8_CA107_R-10:00:00
+P_B_8_CA107,Ground_Daily,Mazlaqan Ain Shams,0,P_B_8_CA107_O_Shape,P_B_8_CA107_O-10:00:00
+P_B_8_CA148,Ground_Daily,Al Marg Police,0,P_B_8_CA148_O_Shape,P_B_8_CA148_O-10:00:00
+P_B_8_CA149,Ground_Daily,Abdullah El Refaey,0,P_B_8_CA149_O_Shape,P_B_8_CA149_O-10:00:00
+P_B_8_CA149,Ground_Daily,Ezbet Al Nakhl,1,P_B_8_CA149_R_Shape,P_B_8_CA149_R-10:00:00
+P_B_8_GZ014,Ground_Daily,Haram & Marioteya Station,1,P_B_8_GZ014_R_Shape,P_B_8_GZ014_R-10:00:00
+P_B_8_GZ015,Ground_Daily,Giza Square Station,0,P_B_8_GZ015_O_Shape,P_B_8_GZ015_O-10:00:00
+P_B_8_GZ015,Ground_Daily,Haram & Marioteya Station,1,P_B_8_GZ015_R_Shape,P_B_8_GZ015_R-10:00:00
+P_B_8_GZ047,Ground_Daily,Moneeb Station,0,P_B_8_GZ047_O_Shape,P_B_8_GZ047_O-10:00:00
+P_B_8_GZ060,Ground_Daily,Marioteya & Ring Rd,1,P_B_8_GZ060_R_Shape,P_B_8_GZ060_R-10:00:00
+P_B_8_IC052,Ground_Daily,10th District Station (Nasr City),1,P_B_8_IC052_R_Shape,P_B_8_IC052_R-10:00:00
+P_B_8_IC067,Ground_Daily,Gas (Banks Area),1,P_B_8_IC067_R_Shape,P_B_8_IC067_R-10:00:00
+P_B_8_IC067,Ground_Daily,Zahraa Metro,0,P_B_8_IC067_O_Shape,P_B_8_IC067_O-10:00:00
+P_B_8_IC068,Ground_Daily,Gas (Banks Area),1,P_B_8_IC068_R_Shape,P_B_8_IC068_R-10:00:00
+P_B_8_IC068,Ground_Daily,Moneeb Station,0,P_B_8_IC068_O_Shape,P_B_8_IC068_O-10:00:00
+P_B_8_IC070,Ground_Daily,1st Settlement Station (New Cairo),1,P_B_8_IC070_R_Shape,P_B_8_IC070_R-10:00:00
+P_B_8_IC073,Ground_Daily,Al Hamd Square Station,0,P_B_8_IC073_O_Shape,P_B_8_IC073_O-10:00:00
+P_B_8_IC073,Ground_Daily,Moneeb Konayyesa,1,P_B_8_IC073_R_Shape,P_B_8_IC073_R-10:00:00
+P_B_8_IG044,Ground_Daily,Mostorod Ring Rd,0,P_B_8_IG044_O_Shape,P_B_8_IG044_O-10:00:00
+P_B_8_IG044,Ground_Daily,New Marg Station,1,P_B_8_IG044_R_Shape,P_B_8_IG044_R-10:00:00
+P_B_8_NC002,Ground_Daily,Gas (Banks Area),0,P_B_8_NC002_O_Shape,P_B_8_NC002_O-10:00:00
+P_B_8_NC002,Ground_Daily,Ommal Square Station,1,P_B_8_NC002_R_Shape,P_B_8_NC002_R-10:00:00
+P_B_8_NC005,Ground_Daily,Gas (Banks Area),0,P_B_8_NC005_O_Shape,P_B_8_NC005_O-10:00:00
+P_B_8_NC005,Ground_Daily,Traffic Department  (Kattameya),1,P_B_8_NC005_R_Shape,P_B_8_NC005_R-10:00:00
+P_B_8_NC006,Ground_Daily,FUE,1,P_B_8_NC006_R_Shape,P_B_8_NC006_R-10:00:00
+P_B_8_NC006,Ground_Daily,Gas (Banks Area),0,P_B_8_NC006_O_Shape,P_B_8_NC006_O-10:00:00
+P_B_8_NC010,Ground_Daily,Al Mostafa Mosque,0,P_B_8_NC010_O_Shape,P_B_8_NC010_O-10:00:00
+P_B_8_NC010,Ground_Daily,Gas (Banks Area),1,P_B_8_NC010_R_Shape,P_B_8_NC010_R-10:00:00
+P_B_8_NC011,Ground_Daily,Al Shabab Entrance,0,P_B_8_NC011_O_Shape,P_B_8_NC011_O-10:00:00
+P_B_8_NC011,Ground_Daily,Gas (Banks Area),1,P_B_8_NC011_R_Shape,P_B_8_NC011_R-10:00:00
+P_B_8_NC012,Ground_Daily,Kattameya (Mahmoudeya),0,P_B_8_NC012_O_Shape,P_B_8_NC012_O-10:00:00
+P_B_8_NC013,Ground_Daily,Al Hamd Square Station,0,P_B_8_NC013_O_Shape,P_B_8_NC013_O-10:00:00
+P_B_8_NC013,Ground_Daily,Gas (Banks Area),1,P_B_8_NC013_R_Shape,P_B_8_NC013_R-10:00:00
+P_B_8_NC014,Ground_Daily,Al Shabab Entrance,1,P_B_8_NC014_R_Shape,P_B_8_NC014_R-10:00:00
+P_B_8_NC015,Ground_Daily,Arabella Square Station,0,P_B_8_NC015_O_Shape,P_B_8_NC015_O-10:00:00
+P_B_8_NC015,Ground_Daily,Kattameya (Mahmoudeya),1,P_B_8_NC015_R_Shape,P_B_8_NC015_R-10:00:00
+P_B_8_NC016,Ground_Daily,Kattameya (Mahmoudeya),1,P_B_8_NC016_R_Shape,P_B_8_NC016_R-10:00:00
+P_B_8_NC017,Ground_Daily,Al Hamd Square Station,0,P_B_8_NC017_O_Shape,P_B_8_NC017_O-10:00:00
+P_B_8_NC017,Ground_Daily,Arabella Square Station,1,P_B_8_NC017_R_Shape,P_B_8_NC017_R-10:00:00
+P_B_8_NC018,Ground_Daily,Arabella Square Station,1,P_B_8_NC018_R_Shape,P_B_8_NC018_R-10:00:00
+P_B_8_NC018,Ground_Daily,New Cairo Academy,0,P_B_8_NC018_O_Shape,P_B_8_NC018_O-10:00:00
+P_B_8_SZ005,Ground_Daily,Hyper 1 Station,0,P_B_8_SZ005_O_Shape,P_B_8_SZ005_O-10:00:00
+P_B_8_SZ006,Ground_Daily,Zayed MM Terminal,0,P_B_8_SZ006_O_Shape,P_B_8_SZ006_O-10:00:00
+P_B_8_SZ007,Ground_Daily,Hyper 1 Station,0,P_B_8_SZ007_O_Shape,P_B_8_SZ007_O-10:00:00
+P_B_8_SZ013,Ground_Daily,Hyper 1 Station,0,P_B_8_SZ013_O_Shape,P_B_8_SZ013_O-10:00:00
+P_O_14_6O021,Ground_Daily,Al Motamayez Station,1,P_O_14_6O021_R_Shape,P_O_14_6O021_R-10:00:00
+P_O_14_6O021,Ground_Daily,Laylat Al Qadr Station,0,P_O_14_6O021_O_Shape,P_O_14_6O021_O-10:00:00
+P_O_14_6O029,Ground_Daily,Dolce,1,P_O_14_6O029_R_Shape,P_O_14_6O029_R-10:00:00
+P_O_14_6O029,Ground_Daily,Laylat Al Qadr Station,0,P_O_14_6O029_O_Shape,P_O_14_6O029_O-10:00:00
+P_O_14_CA001,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA001_R_Shape,P_O_14_CA001_R-10:00:00
+P_O_14_CA001,Ground_Daily,Darrasa,0,P_O_14_CA001_O_Shape,P_O_14_CA001_O-10:00:00
+P_O_14_CA002,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA002_R_Shape,P_O_14_CA002_R-10:00:00
+P_O_14_CA002,Ground_Daily,Saqr Quraish Station,0,P_O_14_CA002_O_Shape,P_O_14_CA002_O-10:00:00
+P_O_14_CA004,Ground_Daily,Saqr Quraish Station,0,P_O_14_CA004_O_Shape,P_O_14_CA004_O-10:00:00
+P_O_14_CA005,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA005_R_Shape,P_O_14_CA005_R-10:00:00
+P_O_14_CA005,Ground_Daily,Hadaba Wosta (Moqattam),0,P_O_14_CA005_O_Shape,P_O_14_CA005_O-10:00:00
+P_O_14_CA006,Ground_Daily,Abbasseya Station,0,P_O_14_CA006_O_Shape,P_O_14_CA006_O-10:00:00
+P_O_14_CA006,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA006_R_Shape,P_O_14_CA006_R-10:00:00
+P_O_14_CA007,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA007_R_Shape,P_O_14_CA007_R-10:00:00
+P_O_14_CA009,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA009_R_Shape,P_O_14_CA009_R-10:00:00
+P_O_14_CA009,Ground_Daily,Attaba,0,P_O_14_CA009_O_Shape,P_O_14_CA009_O-10:00:00
+P_O_14_CA010,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA010_R_Shape,P_O_14_CA010_R-10:00:00
+P_O_14_CA010,Ground_Daily,Nahda City Station,0,P_O_14_CA010_O_Shape,P_O_14_CA010_O-10:00:00
+P_O_14_CA011,Ground_Daily,Al Banhawi,0,P_O_14_CA011_O_Shape,P_O_14_CA011_O-10:00:00
+P_O_14_CA011,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA011_R_Shape,P_O_14_CA011_R-10:00:00
+P_O_14_CA014,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA014_R_Shape,P_O_14_CA014_R-10:00:00
+P_O_14_CA015,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA015_R_Shape,P_O_14_CA015_R-10:00:00
+P_O_14_CA017,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA017_R_Shape,P_O_14_CA017_R-10:00:00
+P_O_14_CA017,Ground_Daily,Bab Al Shaaria Square,0,P_O_14_CA017_O_Shape,P_O_14_CA017_O-10:00:00
+P_O_14_CA019,Ground_Daily,Al Malek Al Saleh,0,P_O_14_CA019_O_Shape,P_O_14_CA019_O-10:00:00
+P_O_14_CA019,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA019_R_Shape,P_O_14_CA019_R-10:00:00
+P_O_14_CA022,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_CA022_R_Shape,P_O_14_CA022_R-10:00:00
+P_O_14_CA022,Ground_Daily,Madinat Al Bo'oth Al Eslamyya,0,P_O_14_CA022_O_Shape,P_O_14_CA022_O-10:00:00
+P_O_14_CA025,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),0,P_O_14_CA025_O_Shape,P_O_14_CA025_O-10:00:00
+P_O_14_CA027,Ground_Daily,Alf Maskan Station,1,P_O_14_CA027_R_Shape,P_O_14_CA027_R-10:00:00
+P_O_14_CA027,Ground_Daily,Matareya Square Station,0,P_O_14_CA027_O_Shape,P_O_14_CA027_O-10:00:00
+P_O_14_CA030,Ground_Daily,Alf Maskan Station,1,P_O_14_CA030_R_Shape,P_O_14_CA030_R-10:00:00
+P_O_14_CA030,Ground_Daily,Mazlaqan Ain Shams,0,P_O_14_CA030_O_Shape,P_O_14_CA030_O-10:00:00
+P_O_14_CA031,Ground_Daily,Alf Maskan Station,1,P_O_14_CA031_R_Shape,P_O_14_CA031_R-10:00:00
+P_O_14_CA031,Ground_Daily,Ezbet Al Nakhl,0,P_O_14_CA031_O_Shape,P_O_14_CA031_O-10:00:00
+P_O_14_CA032,Ground_Daily,Ain Shams Metro,0,P_O_14_CA032_O_Shape,P_O_14_CA032_O-10:00:00
+P_O_14_CA032,Ground_Daily,Alf Maskan Station,1,P_O_14_CA032_R_Shape,P_O_14_CA032_R-10:00:00
+P_O_14_CA033,Ground_Daily,Alf Maskan Station,1,P_O_14_CA033_R_Shape,P_O_14_CA033_R-10:00:00
+P_O_14_CA036,Ground_Daily,8th District (Nasr City) - Al tabba,0,P_O_14_CA036_O_Shape,P_O_14_CA036_O-10:00:00
+P_O_14_CA036,Ground_Daily,Alf Maskan Station,1,P_O_14_CA036_R_Shape,P_O_14_CA036_R-10:00:00
+P_O_14_CA040,Ground_Daily,Al Sheikh Mansour,0,P_O_14_CA040_O_Shape,P_O_14_CA040_O-10:00:00
+P_O_14_CA047,Ground_Daily,Abou Al Reesh,1,P_O_14_CA047_R_Shape,P_O_14_CA047_R-10:00:00
+P_O_14_CA047,Ground_Daily,Matbaa Station,0,P_O_14_CA047_O_Shape,P_O_14_CA047_O-10:00:00
+P_O_14_CA048,Ground_Daily,Ahmed Maher Hospital,0,P_O_14_CA048_O_Shape,P_O_14_CA048_O-10:00:00
+P_O_14_CA049,Ground_Daily,Abou Al Reesh,1,P_O_14_CA049_R_Shape,P_O_14_CA049_R-10:00:00
+P_O_14_CA049,Ground_Daily,Dar El Salam,0,P_O_14_CA049_O_Shape,P_O_14_CA049_O-10:00:00
+P_O_14_CA051,Ground_Daily,New Marg Station,0,P_O_14_CA051_O_Shape,P_O_14_CA051_O-10:00:00
+P_O_14_CA053,Ground_Daily,10th District Station (Nasr City),1,P_O_14_CA053_R_Shape,P_O_14_CA053_R-10:00:00
+P_O_14_CA053,Ground_Daily,Zahraa Madinet Nasr,0,P_O_14_CA053_O_Shape,P_O_14_CA053_O-10:00:00
+P_O_14_CA056,Ground_Daily,10th District Station (Nasr City),1,P_O_14_CA056_R_Shape,P_O_14_CA056_R-10:00:00
+P_O_14_CA056,Ground_Daily,10th of Ramadan Station,0,P_O_14_CA056_O_Shape,P_O_14_CA056_O-10:00:00
+P_O_14_CA058,Ground_Daily,Saqr Quraish Station,1,P_O_14_CA058_R_Shape,P_O_14_CA058_R-10:00:00
+P_O_14_CA061,Ground_Daily,Saqr Quraish Station,1,P_O_14_CA061_R_Shape,P_O_14_CA061_R-10:00:00
+P_O_14_CA063,Ground_Daily,Rabaah Al Adaweya Mosque,0,P_O_14_CA063_O_Shape,P_O_14_CA063_O-10:00:00
+P_O_14_CA063,Ground_Daily,Saqr Quraish Station,1,P_O_14_CA063_R_Shape,P_O_14_CA063_R-10:00:00
+P_O_14_CA064,Ground_Daily,10th of Ramadan Station,0,P_O_14_CA064_O_Shape,P_O_14_CA064_O-10:00:00
+P_O_14_CA064,Ground_Daily,Saqr Quraish Station,1,P_O_14_CA064_R_Shape,P_O_14_CA064_R-10:00:00
+P_O_14_CA066,Ground_Daily,Hadaek EL Kobba,0,P_O_14_CA066_O_Shape,P_O_14_CA066_O-10:00:00
+P_O_14_CA067,Ground_Daily,Al Zawya Al Hamra Station,1,P_O_14_CA067_R_Shape,P_O_14_CA067_R-10:00:00
+P_O_14_CA067,Ground_Daily,Ghamra Station,0,P_O_14_CA067_O_Shape,P_O_14_CA067_O-10:00:00
+P_O_14_CA068,Ground_Daily,Al Zawya Al Hamra Station,1,P_O_14_CA068_R_Shape,P_O_14_CA068_R-10:00:00
+P_O_14_CA071,Ground_Daily,Abboud,0,P_O_14_CA071_O_Shape,P_O_14_CA071_O-10:00:00
+P_O_14_CA071,Ground_Daily,Al Zawya Al Hamra Station,1,P_O_14_CA071_R_Shape,P_O_14_CA071_R-10:00:00
+P_O_14_CA072,Ground_Daily,Ahmed Helmy Station,1,P_O_14_CA072_R_Shape,P_O_14_CA072_R-10:00:00
+P_O_14_CA072,Ground_Daily,Arab Maadi Station,0,P_O_14_CA072_O_Shape,P_O_14_CA072_O-10:00:00
+P_O_14_CA075,Ground_Daily,Helwan Station,1,P_O_14_CA075_R_Shape,P_O_14_CA075_R-10:00:00
+P_O_14_CA075,Ground_Daily,Zahraa Madinet Nasr,0,P_O_14_CA075_O_Shape,P_O_14_CA075_O-10:00:00
+P_O_14_CA076,Ground_Daily,Helwan Station,1,P_O_14_CA076_R_Shape,P_O_14_CA076_R-10:00:00
+P_O_14_CA077,Ground_Daily,Helwan Station,1,P_O_14_CA077_R_Shape,P_O_14_CA077_R-10:00:00
+P_O_14_CA078,Ground_Daily,Helwan Station,1,P_O_14_CA078_R_Shape,P_O_14_CA078_R-10:00:00
+P_O_14_CA081,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),0,P_O_14_CA081_O_Shape,P_O_14_CA081_O-10:00:00
+P_O_14_CA081,Ground_Daily,Al Sa'a Square Station,1,P_O_14_CA081_R_Shape,P_O_14_CA081_R-10:00:00
+P_O_14_CA082,Ground_Daily,Al Sa'a Square Station,1,P_O_14_CA082_R_Shape,P_O_14_CA082_R-10:00:00
+P_O_14_CA082,Ground_Daily,Matareya Square Station,0,P_O_14_CA082_O_Shape,P_O_14_CA082_O-10:00:00
+P_O_14_CA083,Ground_Daily,Ramses Station,0,P_O_14_CA083_O_Shape,P_O_14_CA083_O-10:00:00
+P_O_14_CA084,Ground_Daily,7th District Station (Nasr City),1,P_O_14_CA084_R_Shape,P_O_14_CA084_R-10:00:00
+P_O_14_CA084,Ground_Daily,Hadaba Wosta (Moqattam),0,P_O_14_CA084_O_Shape,P_O_14_CA084_O-10:00:00
+P_O_14_CA085,Ground_Daily,7th District Station (Nasr City),1,P_O_14_CA085_R_Shape,P_O_14_CA085_R-10:00:00
+P_O_14_CA085,Ground_Daily,Hadaek EL Kobba,0,P_O_14_CA085_O_Shape,P_O_14_CA085_O-10:00:00
+P_O_14_CA086,Ground_Daily,7th District Station (Nasr City),1,P_O_14_CA086_R_Shape,P_O_14_CA086_R-10:00:00
+P_O_14_CA086,Ground_Daily,Ramses Station,0,P_O_14_CA086_O_Shape,P_O_14_CA086_O-10:00:00
+P_O_14_CA087,Ground_Daily,Ramses Station,0,P_O_14_CA087_O_Shape,P_O_14_CA087_O-10:00:00
+P_O_14_CA088,Ground_Daily,7th District Station (Nasr City),1,P_O_14_CA088_R_Shape,P_O_14_CA088_R-10:00:00
+P_O_14_CA088,Ground_Daily,Ghamra Station,0,P_O_14_CA088_O_Shape,P_O_14_CA088_O-10:00:00
+P_O_14_CA089,Ground_Daily,7th District Station (Nasr City),1,P_O_14_CA089_R_Shape,P_O_14_CA089_R-10:00:00
+P_O_14_CA090,Ground_Daily,Abboud,0,P_O_14_CA090_O_Shape,P_O_14_CA090_O-10:00:00
+P_O_14_CA091,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),0,P_O_14_CA091_O_Shape,P_O_14_CA091_O-10:00:00
+P_O_14_CA091,Ground_Daily,Masaken Sheraton,1,P_O_14_CA091_R_Shape,P_O_14_CA091_R-10:00:00
+P_O_14_CA092,Ground_Daily,New Marg Station,1,P_O_14_CA092_R_Shape,P_O_14_CA092_R-10:00:00
+P_O_14_CA092,Ground_Daily,Zahraa Madinet Nasr,0,P_O_14_CA092_O_Shape,P_O_14_CA092_O-10:00:00
+P_O_14_CA097,Ground_Daily,Mohagreen (Ezbet Al Nakhl),0,P_O_14_CA097_O_Shape,P_O_14_CA097_O-10:00:00
+P_O_14_CA097,Ground_Daily,New Marg Station,1,P_O_14_CA097_R_Shape,P_O_14_CA097_R-10:00:00
+P_O_14_CA100,Ground_Daily,Kafr Al Shurafa,0,P_O_14_CA100_O_Shape,P_O_14_CA100_O-10:00:00
+P_O_14_CA108,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,P_O_14_CA108_R_Shape,P_O_14_CA108_R-10:00:00
+P_O_14_CA109,Ground_Daily,Nahda City Station,0,P_O_14_CA109_O_Shape,P_O_14_CA109_O-10:00:00
+P_O_14_CA112,Ground_Daily,Masaken Ain Shams Station,0,P_O_14_CA112_O_Shape,P_O_14_CA112_O-10:00:00
+P_O_14_CA115,Ground_Daily,Abbasseya Station,1,P_O_14_CA115_R_Shape,P_O_14_CA115_R-10:00:00
+P_O_14_CA115,Ground_Daily,Manshiyat Nasser Station,0,P_O_14_CA115_O_Shape,P_O_14_CA115_O-10:00:00
+P_O_14_CA116,Ground_Daily,Abbasseya Station,1,P_O_14_CA116_R_Shape,P_O_14_CA116_R-10:00:00
+P_O_14_CA116,Ground_Daily,Manshiyat Nasser Station,0,P_O_14_CA116_O_Shape,P_O_14_CA116_O-10:00:00
+P_O_14_CA117,Ground_Daily,Masaken Ain Shams Station,0,P_O_14_CA117_O_Shape,P_O_14_CA117_O-10:00:00
+P_O_14_CA117,Ground_Daily,Matareya Square Station,1,P_O_14_CA117_R_Shape,P_O_14_CA117_R-10:00:00
+P_O_14_CA118,Ground_Daily,Matareya Square Station,1,P_O_14_CA118_R_Shape,P_O_14_CA118_R-10:00:00
+P_O_14_CA118,Ground_Daily,Mostorod Station,0,P_O_14_CA118_O_Shape,P_O_14_CA118_O-10:00:00
+P_O_14_CA119,Ground_Daily,Awwel Al Zawya Al Hamra Station,0,P_O_14_CA119_O_Shape,P_O_14_CA119_O-10:00:00
+P_O_14_CA119,Ground_Daily,Matareya Square Station,1,P_O_14_CA119_R_Shape,P_O_14_CA119_R-10:00:00
+P_O_14_CA120,Ground_Daily,Matareya Square Station,1,P_O_14_CA120_R_Shape,P_O_14_CA120_R-10:00:00
+P_O_14_CA120,Ground_Daily,Mazlaqan Ain Shams,0,P_O_14_CA120_O_Shape,P_O_14_CA120_O-10:00:00
+P_O_14_CA126,Ground_Daily,Kilo 4 & Half Station,0,P_O_14_CA126_O_Shape,P_O_14_CA126_O-10:00:00
+P_O_14_CA126,Ground_Daily,Matareya Square Station,1,P_O_14_CA126_R_Shape,P_O_14_CA126_R-10:00:00
+P_O_14_CA129,Ground_Daily,Masaken Ain Shams Station,1,P_O_14_CA129_R_Shape,P_O_14_CA129_R-10:00:00
+P_O_14_CA130,Ground_Daily,Korba,0,P_O_14_CA130_O_Shape,P_O_14_CA130_O-10:00:00
+P_O_14_CA130,Ground_Daily,Masaken Ain Shams Station,1,P_O_14_CA130_R_Shape,P_O_14_CA130_R-10:00:00
+P_O_14_CA131,Ground_Daily,Al Banhawi,0,P_O_14_CA131_O_Shape,P_O_14_CA131_O-10:00:00
+P_O_14_CA133,Ground_Daily,Helwan Metro,0,P_O_14_CA133_O_Shape,P_O_14_CA133_O-10:00:00
+P_O_14_CA135,Ground_Daily,Helwan Post Office,1,P_O_14_CA135_R_Shape,P_O_14_CA135_R-10:00:00
+P_O_14_CA137,Ground_Daily,Helwan Metro,1,P_O_14_CA137_R_Shape,P_O_14_CA137_R-10:00:00
+P_O_14_CA139,Ground_Daily,Hadayeq Helwan,0,P_O_14_CA139_O_Shape,P_O_14_CA139_O-10:00:00
+P_O_14_CA139,Ground_Daily,Helwan Metro,1,P_O_14_CA139_R_Shape,P_O_14_CA139_R-10:00:00
+P_O_14_CA140,Ground_Daily,Tibeen,0,P_O_14_CA140_O_Shape,P_O_14_CA140_O-10:00:00
+P_O_14_CA141,Ground_Daily,Helwan Metro,1,P_O_14_CA141_R_Shape,P_O_14_CA141_R-10:00:00
+P_O_14_CA142,Ground_Daily,Helwan Metro,1,P_O_14_CA142_R_Shape,P_O_14_CA142_R-10:00:00
+P_O_14_CA143,Ground_Daily,Hadaek EL Kobba,1,P_O_14_CA143_R_Shape,P_O_14_CA143_R-10:00:00
+P_O_14_CA146,Ground_Daily,Awwel Al Zawya Al Hamra Station,1,P_O_14_CA146_R_Shape,P_O_14_CA146_R-10:00:00
+P_O_14_CA147,Ground_Daily,Awwel Al Zawya Al Hamra Station,1,P_O_14_CA147_R_Shape,P_O_14_CA147_R-10:00:00
+P_O_14_CA150,Ground_Daily,Ramses Station,1,P_O_14_CA150_R_Shape,P_O_14_CA150_R-10:00:00
+P_O_14_CA151,Ground_Daily,Ramses Station,1,P_O_14_CA151_R_Shape,P_O_14_CA151_R-10:00:00
+P_O_14_CA152,Ground_Daily,Ramses Station,1,P_O_14_CA152_R_Shape,P_O_14_CA152_R-10:00:00
+P_O_14_CA152,Ground_Daily,Sharabeya,0,P_O_14_CA152_O_Shape,P_O_14_CA152_O-10:00:00
+P_O_14_CA154,Ground_Daily,Awwel Abbas,0,P_O_14_CA154_O_Shape,P_O_14_CA154_O-10:00:00
+P_O_14_CA154,Ground_Daily,Ramses Station,1,P_O_14_CA154_R_Shape,P_O_14_CA154_R-10:00:00
+P_O_14_CA155,Ground_Daily,10th of Ramadan Station,0,P_O_14_CA155_O_Shape,P_O_14_CA155_O-10:00:00
+P_O_14_CA155,Ground_Daily,Ramses Station,1,P_O_14_CA155_R_Shape,P_O_14_CA155_R-10:00:00
+P_O_14_CA156,Ground_Daily,Ramses Station,1,P_O_14_CA156_R_Shape,P_O_14_CA156_R-10:00:00
+P_O_14_CA157,Ground_Daily,Abboud,0,P_O_14_CA157_O_Shape,P_O_14_CA157_O-10:00:00
+P_O_14_CA159,Ground_Daily,Mazlaqan Al Deweqa,0,P_O_14_CA159_O_Shape,P_O_14_CA159_O-10:00:00
+P_O_14_CA159,Ground_Daily,Nahda City Station,1,P_O_14_CA159_R_Shape,P_O_14_CA159_R-10:00:00
+P_O_14_CA160,Ground_Daily,Al Banhawi,1,P_O_14_CA160_R_Shape,P_O_14_CA160_R-10:00:00
+P_O_14_CA160,Ground_Daily,Salam Alexandria Station,0,P_O_14_CA160_O_Shape,P_O_14_CA160_O-10:00:00
+P_O_14_CA161,Ground_Daily,10th of Ramadan Station,0,P_O_14_CA161_O_Shape,P_O_14_CA161_O-10:00:00
+P_O_14_CA162,Ground_Daily,8th District (Nasr City) - Al tabba,0,P_O_14_CA162_O_Shape,P_O_14_CA162_O-10:00:00
+P_O_14_CA162,Ground_Daily,Awwel Makram Ebeid,1,P_O_14_CA162_R_Shape,P_O_14_CA162_R-10:00:00
+P_O_14_CA163,Ground_Daily,10th of Ramadan Station,0,P_O_14_CA163_O_Shape,P_O_14_CA163_O-10:00:00
+P_O_14_CA163,Ground_Daily,Awwel Makram Ebeid,1,P_O_14_CA163_R_Shape,P_O_14_CA163_R-10:00:00
+P_O_14_CA164,Ground_Daily,Ahmed Maher Hospital,1,P_O_14_CA164_R_Shape,P_O_14_CA164_R-10:00:00
+P_O_14_CA164,Ground_Daily,Dar El Salam,0,P_O_14_CA164_O_Shape,P_O_14_CA164_O-10:00:00
+P_O_14_CA165,Ground_Daily,Abboud,0,P_O_14_CA165_O_Shape,P_O_14_CA165_O-10:00:00
+P_O_14_CA167,Ground_Daily,Rabaah Al Adaweya Mosque,1,P_O_14_CA167_R_Shape,P_O_14_CA167_R-10:00:00
+P_O_14_CA169,Ground_Daily,Awwel Abbas,1,P_O_14_CA169_R_Shape,P_O_14_CA169_R-10:00:00
+P_O_14_CA170,Ground_Daily,10th of Ramadan Station,0,P_O_14_CA170_O_Shape,P_O_14_CA170_O-10:00:00
+P_O_14_CA171,Ground_Daily,10th of Ramadan Station,0,P_O_14_CA171_O_Shape,P_O_14_CA171_O-10:00:00
+P_O_14_CA171,Ground_Daily,Manshiyat Nasser Station,1,P_O_14_CA171_R_Shape,P_O_14_CA171_R-10:00:00
+P_O_14_CA173,Ground_Daily,Helmeyet El Zaitoun Metro,1,P_O_14_CA173_R_Shape,P_O_14_CA173_R-10:00:00
+P_O_14_CA174,Ground_Daily,Fayda Kamel,1,P_O_14_CA174_R_Shape,P_O_14_CA174_R-10:00:00
+P_O_14_CA174,Ground_Daily,Maadi Metro Station,0,P_O_14_CA174_O_Shape,P_O_14_CA174_O-10:00:00
+P_O_14_CA175,Ground_Daily,Abboud,1,P_O_14_CA175_R_Shape,P_O_14_CA175_R-10:00:00
+P_O_14_CA175,Ground_Daily,Roxy,0,P_O_14_CA175_O_Shape,P_O_14_CA175_O-10:00:00
+P_O_14_GZ002,Ground_Daily,Remaya Station (New Mashaal),1,P_O_14_GZ002_R_Shape,P_O_14_GZ002_R-10:00:00
+P_O_14_GZ004,Ground_Daily,Abou Rawwash,0,P_O_14_GZ004_O_Shape,P_O_14_GZ004_O-10:00:00
+P_O_14_GZ004,Ground_Daily,Haram Mashaal Station,1,P_O_14_GZ004_R_Shape,P_O_14_GZ004_R-10:00:00
+P_O_14_GZ005,Ground_Daily,Haram Mashaal Station,1,P_O_14_GZ005_R_Shape,P_O_14_GZ005_R-10:00:00
+P_O_14_GZ005,Ground_Daily,Moneeb Station,0,P_O_14_GZ005_O_Shape,P_O_14_GZ005_O-10:00:00
+P_O_14_GZ007,Ground_Daily,Dandy Mall,0,P_O_14_GZ007_O_Shape,P_O_14_GZ007_O-10:00:00
+P_O_14_GZ010,Ground_Daily,Imbaba Station,0,P_O_14_GZ010_O_Shape,P_O_14_GZ010_O-10:00:00
+P_O_14_GZ010,Ground_Daily,Lebanon Square Station,1,P_O_14_GZ010_R_Shape,P_O_14_GZ010_R-10:00:00
+P_O_14_GZ014,Ground_Daily,Haram & Marioteya Station,1,P_O_14_GZ014_R_Shape,P_O_14_GZ014_R-10:00:00
+P_O_14_GZ016,Ground_Daily,Al Warraq Station,1,P_O_14_GZ016_R_Shape,P_O_14_GZ016_R-10:00:00
+P_O_14_GZ016,Ground_Daily,Imbaba Station,0,P_O_14_GZ016_O_Shape,P_O_14_GZ016_O-10:00:00
+P_O_14_GZ017,Ground_Daily,Al Warraq Station,1,P_O_14_GZ017_R_Shape,P_O_14_GZ017_R-10:00:00
+P_O_14_GZ017,Ground_Daily,Giza Square Station,0,P_O_14_GZ017_O_Shape,P_O_14_GZ017_O-10:00:00
+P_O_14_GZ018,Ground_Daily,Moneeb Station,0,P_O_14_GZ018_O_Shape,P_O_14_GZ018_O-10:00:00
+P_O_14_GZ018,Ground_Daily,Remaya Square,1,P_O_14_GZ018_R_Shape,P_O_14_GZ018_R-10:00:00
+P_O_14_GZ021,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ021_R_Shape,P_O_14_GZ021_R-10:00:00
+P_O_14_GZ021,Ground_Daily,Madinat Al Talaba (Imbaba),0,P_O_14_GZ021_O_Shape,P_O_14_GZ021_O-10:00:00
+P_O_14_GZ022,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ022_R_Shape,P_O_14_GZ022_R-10:00:00
+P_O_14_GZ022,Ground_Daily,Faisal St & Ring Rd,0,P_O_14_GZ022_O_Shape,P_O_14_GZ022_O-10:00:00
+P_O_14_GZ023,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ023_R_Shape,P_O_14_GZ023_R-10:00:00
+P_O_14_GZ024,Ground_Daily,Ard El Lewaa,0,P_O_14_GZ024_O_Shape,P_O_14_GZ024_O-10:00:00
+P_O_14_GZ024,Ground_Daily,Bohooth (Al Kobri Al Khashab),1,P_O_14_GZ024_R_Shape,P_O_14_GZ024_R-10:00:00
+P_O_14_GZ026,Ground_Daily,Bulaq Al Dakrur Station,1,P_O_14_GZ026_R_Shape,P_O_14_GZ026_R-10:00:00
+P_O_14_GZ026,Ground_Daily,Nahia,0,P_O_14_GZ026_O_Shape,P_O_14_GZ026_O-10:00:00
+P_O_14_GZ030,Ground_Daily,Abou Rawwash,1,P_O_14_GZ030_R_Shape,P_O_14_GZ030_R-10:00:00
+P_O_14_GZ030,Ground_Daily,Akher Faisal,0,P_O_14_GZ030_O_Shape,P_O_14_GZ030_O-10:00:00
+P_O_14_GZ032,Ground_Daily,Kerdasa Station,1,P_O_14_GZ032_R_Shape,P_O_14_GZ032_R-10:00:00
+P_O_14_GZ032,Ground_Daily,Nahia,0,P_O_14_GZ032_O_Shape,P_O_14_GZ032_O-10:00:00
+P_O_14_GZ033,Ground_Daily,Al Wehda Imbaba (Al Bohi),1,P_O_14_GZ033_R_Shape,P_O_14_GZ033_R-10:00:00
+P_O_14_GZ033,Ground_Daily,Kit Kat Square Station,0,P_O_14_GZ033_O_Shape,P_O_14_GZ033_O-10:00:00
+P_O_14_GZ034,Ground_Daily,Akher Faisal,1,P_O_14_GZ034_R_Shape,P_O_14_GZ034_R-10:00:00
+P_O_14_GZ034,Ground_Daily,Imbaba Station,0,P_O_14_GZ034_O_Shape,P_O_14_GZ034_O-10:00:00
+P_O_14_GZ035,Ground_Daily,Awsim,0,P_O_14_GZ035_O_Shape,P_O_14_GZ035_O-10:00:00
+P_O_14_GZ035,Ground_Daily,Kit Kat Square Station,1,P_O_14_GZ035_R_Shape,P_O_14_GZ035_R-10:00:00
+P_O_14_GZ037,Ground_Daily,Barageel St,0,P_O_14_GZ037_O_Shape,P_O_14_GZ037_O-10:00:00
+P_O_14_GZ037,Ground_Daily,Kit Kat Square Station,1,P_O_14_GZ037_R_Shape,P_O_14_GZ037_R-10:00:00
+P_O_14_GZ040,Ground_Daily,Badrasheen Station,1,P_O_14_GZ040_R_Shape,P_O_14_GZ040_R-10:00:00
+P_O_14_GZ040,Ground_Daily,Hawamdeyya,0,P_O_14_GZ040_O_Shape,P_O_14_GZ040_O-10:00:00
+P_O_14_GZ041,Ground_Daily,Badrasheen Station,1,P_O_14_GZ041_R_Shape,P_O_14_GZ041_R-10:00:00
+P_O_14_GZ041,Ground_Daily,Mazghuna,0,P_O_14_GZ041_O_Shape,P_O_14_GZ041_O-10:00:00
+P_O_14_GZ042,Ground_Daily,Badrasheen Station,1,P_O_14_GZ042_R_Shape,P_O_14_GZ042_R-10:00:00
+P_O_14_GZ042,Ground_Daily,Moneeb Station,0,P_O_14_GZ042_O_Shape,P_O_14_GZ042_O-10:00:00
+P_O_14_GZ043,Ground_Daily,26th of July & Ring Rd,1,P_O_14_GZ043_R_Shape,P_O_14_GZ043_R-10:00:00
+P_O_14_GZ045,Ground_Daily,Imbaba Station,0,P_O_14_GZ045_O_Shape,P_O_14_GZ045_O-10:00:00
+P_O_14_GZ045,Ground_Daily,Qawmeya Arabeya,1,P_O_14_GZ045_R_Shape,P_O_14_GZ045_R-10:00:00
+P_O_14_GZ048,Ground_Daily,Nahia,0,P_O_14_GZ048_O_Shape,P_O_14_GZ048_O-10:00:00
+P_O_14_GZ049,Ground_Daily,Faisal Tawabek,1,P_O_14_GZ049_R_Shape,P_O_14_GZ049_R-10:00:00
+P_O_14_GZ052,Ground_Daily,Ard El Lewaa,0,P_O_14_GZ052_O_Shape,P_O_14_GZ052_O-10:00:00
+P_O_14_GZ052,Ground_Daily,Bashtil El Balad,1,P_O_14_GZ052_R_Shape,P_O_14_GZ052_R-10:00:00
+P_O_14_GZ055,Ground_Daily,Moneeb Station,0,P_O_14_GZ055_O_Shape,P_O_14_GZ055_O-10:00:00
+P_O_14_GZ055,Ground_Daily,Shabramant,1,P_O_14_GZ055_R_Shape,P_O_14_GZ055_R-10:00:00
+P_O_14_GZ057,Ground_Daily,Dokki,0,P_O_14_GZ057_O_Shape,P_O_14_GZ057_O-10:00:00
+P_O_14_GZ057,Ground_Daily,Znen (Awwel Al Eshreen),1,P_O_14_GZ057_R_Shape,P_O_14_GZ057_R-10:00:00
+P_O_14_GZ059,Ground_Daily,Mazghuna,1,P_O_14_GZ059_R_Shape,P_O_14_GZ059_R-10:00:00
+P_O_14_GZ059,Ground_Daily,Moneeb Station,0,P_O_14_GZ059_O_Shape,P_O_14_GZ059_O-10:00:00
+P_O_14_GZ060,Ground_Daily,Moneeb Station,0,P_O_14_GZ060_O_Shape,P_O_14_GZ060_O-10:00:00
+P_O_14_IC001,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_IC001_R_Shape,P_O_14_IC001_R-10:00:00
+P_O_14_IC001,Ground_Daily,Gas (Banks Area),0,P_O_14_IC001_O_Shape,P_O_14_IC001_O-10:00:00
+P_O_14_IC002,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_IC002_R_Shape,P_O_14_IC002_R-10:00:00
+P_O_14_IC002,Ground_Daily,Ommal Square Station,0,P_O_14_IC002_O_Shape,P_O_14_IC002_O-10:00:00
+P_O_14_IC003,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_IC003_R_Shape,P_O_14_IC003_R-10:00:00
+P_O_14_IC003,Ground_Daily,New Cairo Court Station,0,P_O_14_IC003_O_Shape,P_O_14_IC003_O-10:00:00
+P_O_14_IC004,Ground_Daily,Al Sayeda Aisha Station,1,P_O_14_IC004_R_Shape,P_O_14_IC004_R-10:00:00
+P_O_14_IC004,Ground_Daily,Kattameya Church,0,P_O_14_IC004_O_Shape,P_O_14_IC004_O-10:00:00
+P_O_14_IC005,Ground_Daily,Mehwar & Alex Desert Rd,0,P_O_14_IC005_O_Shape,P_O_14_IC005_O-10:00:00
+P_O_14_IC005,Ground_Daily,Smart Village,1,P_O_14_IC005_R_Shape,P_O_14_IC005_R-10:00:00
+P_O_14_IC007,Ground_Daily,Hossary Station,1,P_O_14_IC007_R_Shape,P_O_14_IC007_R-10:00:00
+P_O_14_IC007,Ground_Daily,Lebanon Square Station,0,P_O_14_IC007_O_Shape,P_O_14_IC007_O-10:00:00
+P_O_14_IC008,Ground_Daily,Helwan Station,0,P_O_14_IC008_O_Shape,P_O_14_IC008_O-10:00:00
+P_O_14_IC008,Ground_Daily,Hossary Station,1,P_O_14_IC008_R_Shape,P_O_14_IC008_R-10:00:00
+P_O_14_IC011,Ground_Daily,Hossary Station,1,P_O_14_IC011_R_Shape,P_O_14_IC011_R-10:00:00
+P_O_14_IC011,Ground_Daily,New Marg Station,0,P_O_14_IC011_O_Shape,P_O_14_IC011_O-10:00:00
+P_O_14_IC012,Ground_Daily,Zahraa Madinet Nasr,0,P_O_14_IC012_O_Shape,P_O_14_IC012_O-10:00:00
+P_O_14_IC013,Ground_Daily,Hossary Station,1,P_O_14_IC013_R_Shape,P_O_14_IC013_R-10:00:00
+P_O_14_IC014,Ground_Daily,Awwel Makram Ebeid,0,P_O_14_IC014_O_Shape,P_O_14_IC014_O-10:00:00
+P_O_14_IC015,Ground_Daily,Hossary Station,1,P_O_14_IC015_R_Shape,P_O_14_IC015_R-10:00:00
+P_O_14_IC016,Ground_Daily,Hossary Station,1,P_O_14_IC016_R_Shape,P_O_14_IC016_R-10:00:00
+P_O_14_IC017,Ground_Daily,Moneeb Station,0,P_O_14_IC017_O_Shape,P_O_14_IC017_O-10:00:00
+P_O_14_IC018,Ground_Daily,Giza Square Station,0,P_O_14_IC018_O_Shape,P_O_14_IC018_O-10:00:00
+P_O_14_IC018,Ground_Daily,Hossary Station,1,P_O_14_IC018_R_Shape,P_O_14_IC018_R-10:00:00
+P_O_14_IC020,Ground_Daily,10th District Station (Nasr City),0,P_O_14_IC020_O_Shape,P_O_14_IC020_O-10:00:00
+P_O_14_IC020,Ground_Daily,Gas (Banks Area),1,P_O_14_IC020_R_Shape,P_O_14_IC020_R-10:00:00
+P_O_14_IC021,Ground_Daily,Saqr Quraish Station,0,P_O_14_IC021_O_Shape,P_O_14_IC021_O-10:00:00
+P_O_14_IC022,Ground_Daily,Gas (Banks Area),1,P_O_14_IC022_R_Shape,P_O_14_IC022_R-10:00:00
+P_O_14_IC022,Ground_Daily,Helwan Station,0,P_O_14_IC022_O_Shape,P_O_14_IC022_O-10:00:00
+P_O_14_IC023,Ground_Daily,Gas (Banks Area),1,P_O_14_IC023_R_Shape,P_O_14_IC023_R-10:00:00
+P_O_14_IC023,Ground_Daily,Ramses Station,0,P_O_14_IC023_O_Shape,P_O_14_IC023_O-10:00:00
+P_O_14_IC026,Ground_Daily,New Marg Station,0,P_O_14_IC026_O_Shape,P_O_14_IC026_O-10:00:00
+P_O_14_IC026,Ground_Daily,Rawda Mosque  (Obour),1,P_O_14_IC026_R_Shape,P_O_14_IC026_R-10:00:00
+P_O_14_IC027,Ground_Daily,10th of Ramadan Station,0,P_O_14_IC027_O_Shape,P_O_14_IC027_O-10:00:00
+P_O_14_IC027,Ground_Daily,Rawda Mosque  (Obour),1,P_O_14_IC027_R_Shape,P_O_14_IC027_R-10:00:00
+P_O_14_IC028,Ground_Daily,Mehwar & Alex Desert Rd,0,P_O_14_IC028_O_Shape,P_O_14_IC028_O-10:00:00
+P_O_14_IC028,Ground_Daily,Remaya Station (New Mashaal),1,P_O_14_IC028_R_Shape,P_O_14_IC028_R-10:00:00
+P_O_14_IC029,Ground_Daily,10th District Station (Nasr City),0,P_O_14_IC029_O_Shape,P_O_14_IC029_O-10:00:00
+P_O_14_IC029,Ground_Daily,Ommal Square Station,1,P_O_14_IC029_R_Shape,P_O_14_IC029_R-10:00:00
+P_O_14_IC033,Ground_Daily,New Marg Station,0,P_O_14_IC033_O_Shape,P_O_14_IC033_O-10:00:00
+P_O_14_IC033,Ground_Daily,Shabab (Obour),1,P_O_14_IC033_R_Shape,P_O_14_IC033_R-10:00:00
+P_O_14_IC034,Ground_Daily,10th of Ramadan Station,0,P_O_14_IC034_O_Shape,P_O_14_IC034_O-10:00:00
+P_O_14_IC034,Ground_Daily,Shabab (Obour),1,P_O_14_IC034_R_Shape,P_O_14_IC034_R-10:00:00
+P_O_14_IC036,Ground_Daily,Al Hamd Square Station,0,P_O_14_IC036_O_Shape,P_O_14_IC036_O-10:00:00
+P_O_14_IC036,Ground_Daily,Alf Maskan Station,1,P_O_14_IC036_R_Shape,P_O_14_IC036_R-10:00:00
+P_O_14_IC037,Ground_Daily,Alf Maskan Station,1,P_O_14_IC037_R_Shape,P_O_14_IC037_R-10:00:00
+P_O_14_IC038,Ground_Daily,Mehwar & Alex Desert Rd,1,P_O_14_IC038_R_Shape,P_O_14_IC038_R-10:00:00
+P_O_14_IC038,Ground_Daily,Sphinx Airport,0,P_O_14_IC038_O_Shape,P_O_14_IC038_O-10:00:00
+P_O_14_IC039,Ground_Daily,Remaya Square,0,P_O_14_IC039_O_Shape,P_O_14_IC039_O-10:00:00
+P_O_14_IC040,Ground_Daily,Mehwar & Alex Desert Rd,1,P_O_14_IC040_R_Shape,P_O_14_IC040_R-10:00:00
+P_O_14_IC040,Ground_Daily,Moassasa Station,0,P_O_14_IC040_O_Shape,P_O_14_IC040_O-10:00:00
+P_O_14_IC041,Ground_Daily,10th District Station (Nasr City),0,P_O_14_IC041_O_Shape,P_O_14_IC041_O-10:00:00
+P_O_14_IC041,Ground_Daily,FUE,1,P_O_14_IC041_R_Shape,P_O_14_IC041_R-10:00:00
+P_O_14_IC043,Ground_Daily,Moneeb Station,0,P_O_14_IC043_O_Shape,P_O_14_IC043_O-10:00:00
+P_O_14_IC044,Ground_Daily,Rehab - Gate 13 - 12,1,P_O_14_IC044_R_Shape,P_O_14_IC044_R-10:00:00
+P_O_14_IC045,Ground_Daily,Rehab - Gate 13 - 12,1,P_O_14_IC045_R_Shape,P_O_14_IC045_R-10:00:00
+P_O_14_IC045,Ground_Daily,Zahraa Madinet Nasr,0,P_O_14_IC045_O_Shape,P_O_14_IC045_O-10:00:00
+P_O_14_IC047,Ground_Daily,Lebanon Square Station,1,P_O_14_IC047_R_Shape,P_O_14_IC047_R-10:00:00
+P_O_14_IC048,Ground_Daily,10th District Station (Nasr City),1,P_O_14_IC048_R_Shape,P_O_14_IC048_R-10:00:00
+P_O_14_IC048,Ground_Daily,Rehab - Gate 6,0,P_O_14_IC048_O_Shape,P_O_14_IC048_O-10:00:00
+P_O_14_IC049,Ground_Daily,10th District Station (Nasr City),1,P_O_14_IC049_R_Shape,P_O_14_IC049_R-10:00:00
+P_O_14_IC050,Ground_Daily,10th District Station (Nasr City),1,P_O_14_IC050_R_Shape,P_O_14_IC050_R-10:00:00
+P_O_14_IC050,Ground_Daily,Al Shabab Entrance,0,P_O_14_IC050_O_Shape,P_O_14_IC050_O-10:00:00
+P_O_14_IC051,Ground_Daily,New Cairo Court Station,0,P_O_14_IC051_O_Shape,P_O_14_IC051_O-10:00:00
+P_O_14_IC053,Ground_Daily,Gas (Banks Area),0,P_O_14_IC053_O_Shape,P_O_14_IC053_O-10:00:00
+P_O_14_IC054,Ground_Daily,Badr City,0,P_O_14_IC054_O_Shape,P_O_14_IC054_O-10:00:00
+P_O_14_IC056,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_O_14_IC056_R_Shape,P_O_14_IC056_R-10:00:00
+P_O_14_IC056,Ground_Daily,Hyper 1 Station,0,P_O_14_IC056_O_Shape,P_O_14_IC056_O-10:00:00
+P_O_14_IC057,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_O_14_IC057_R_Shape,P_O_14_IC057_R-10:00:00
+P_O_14_IC057,Ground_Daily,Ramses Station,0,P_O_14_IC057_O_Shape,P_O_14_IC057_O-10:00:00
+P_O_14_IC059,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,P_O_14_IC059_R_Shape,P_O_14_IC059_R-10:00:00
+P_O_14_IC059,Ground_Daily,Moneeb Station,0,P_O_14_IC059_O_Shape,P_O_14_IC059_O-10:00:00
+P_O_14_IC060,Ground_Daily,Giza Square Station,0,P_O_14_IC060_O_Shape,P_O_14_IC060_O-10:00:00
+P_O_14_IC061,Ground_Daily,Gas (Banks Area),0,P_O_14_IC061_O_Shape,P_O_14_IC061_O-10:00:00
+P_O_14_IC063,Ground_Daily,Megawra 11 (15th of May),0,P_O_14_IC063_O_Shape,P_O_14_IC063_O-10:00:00
+P_O_14_IC066,Ground_Daily,10th of Ramadan Station,0,P_O_14_IC066_O_Shape,P_O_14_IC066_O-10:00:00
+P_O_14_IC066,Ground_Daily,Al Hegaz (Obour Police ),1,P_O_14_IC066_R_Shape,P_O_14_IC066_R-10:00:00
+P_O_14_IC068,Ground_Daily,Gas (Banks Area),1,P_O_14_IC068_R_Shape,P_O_14_IC068_R-10:00:00
+P_O_14_IC068,Ground_Daily,Moneeb Station,0,P_O_14_IC068_O_Shape,P_O_14_IC068_O-10:00:00
+P_O_14_IC071,Ground_Daily,15th of May,1,P_O_14_IC071_R_Shape,P_O_14_IC071_R-10:00:00
+P_O_14_IC071,Ground_Daily,Helwan Metro,0,P_O_14_IC071_O_Shape,P_O_14_IC071_O-10:00:00
+P_O_14_IC072,Ground_Daily,Helwan Metro,0,P_O_14_IC072_O_Shape,P_O_14_IC072_O-10:00:00
+P_O_14_IC074,Ground_Daily,New Marg Station,1,P_O_14_IC074_R_Shape,P_O_14_IC074_R-10:00:00
+P_O_14_IC076,Ground_Daily,Laylat Al Qadr Station,0,P_O_14_IC076_O_Shape,P_O_14_IC076_O-10:00:00
+P_O_14_IC076,Ground_Daily,New Marg Station,1,P_O_14_IC076_R_Shape,P_O_14_IC076_R-10:00:00
+P_O_14_IC078,Ground_Daily,10th of Ramadan Station,0,P_O_14_IC078_O_Shape,P_O_14_IC078_O-10:00:00
+P_O_14_IC078,Ground_Daily,Al Shorouq Water,1,P_O_14_IC078_R_Shape,P_O_14_IC078_R-10:00:00
+P_O_14_IC079,Ground_Daily,Abbasseya Station,1,P_O_14_IC079_R_Shape,P_O_14_IC079_R-10:00:00
+P_O_14_IC079,Ground_Daily,Megawra 3 (15th of May),0,P_O_14_IC079_O_Shape,P_O_14_IC079_O-10:00:00
+P_O_14_IC081,Ground_Daily,Hyper 1 Station,1,P_O_14_IC081_R_Shape,P_O_14_IC081_R-10:00:00
+P_O_14_IC082,Ground_Daily,Hyper 1 Station,1,P_O_14_IC082_R_Shape,P_O_14_IC082_R-10:00:00
+P_O_14_IC082,Ground_Daily,Ramses Station,0,P_O_14_IC082_O_Shape,P_O_14_IC082_O-10:00:00
+P_O_14_IC083,Ground_Daily,Qawmeya Arabeya,0,P_O_14_IC083_O_Shape,P_O_14_IC083_O-10:00:00
+P_O_14_IC085,Ground_Daily,Hyper 1 Station,1,P_O_14_IC085_R_Shape,P_O_14_IC085_R-10:00:00
+P_O_14_IC086,Ground_Daily,Hyper 1 Station,1,P_O_14_IC086_R_Shape,P_O_14_IC086_R-10:00:00
+P_O_14_IC086,Ground_Daily,Moneeb Station,0,P_O_14_IC086_O_Shape,P_O_14_IC086_O-10:00:00
+P_O_14_IC089,Ground_Daily,Moneeb Station,0,P_O_14_IC089_O_Shape,P_O_14_IC089_O-10:00:00
+P_O_14_IC090,Ground_Daily,10th of Ramadan City,0,P_O_14_IC090_O_Shape,P_O_14_IC090_O-10:00:00
+P_O_14_IC090,Ground_Daily,Al Shorouq Academy Station,1,P_O_14_IC090_R_Shape,P_O_14_IC090_R-10:00:00
+P_O_14_IC091,Ground_Daily,Awwel Makram Ebeid,0,P_O_14_IC091_O_Shape,P_O_14_IC091_O-10:00:00
+P_O_14_IC092,Ground_Daily,10th of Ramadan Station,0,P_O_14_IC092_O_Shape,P_O_14_IC092_O-10:00:00
+P_O_14_IC092,Ground_Daily,Al Shorouq Academy Station,1,P_O_14_IC092_R_Shape,P_O_14_IC092_R-10:00:00
+P_O_14_IC093,Ground_Daily,Laylat Al Qadr Station,1,P_O_14_IC093_R_Shape,P_O_14_IC093_R-10:00:00
+P_O_14_IC094,Ground_Daily,Imbaba Station,0,P_O_14_IC094_O_Shape,P_O_14_IC094_O-10:00:00
+P_O_14_IC094,Ground_Daily,Laylat Al Qadr Station,1,P_O_14_IC094_R_Shape,P_O_14_IC094_R-10:00:00
+P_O_14_IC095,Ground_Daily,Laylat Al Qadr Station,1,P_O_14_IC095_R_Shape,P_O_14_IC095_R-10:00:00
+P_O_14_IC095,Ground_Daily,Moassasa Station,0,P_O_14_IC095_O_Shape,P_O_14_IC095_O-10:00:00
+P_O_14_IC096,Ground_Daily,Haram Mashaal Station,0,P_O_14_IC096_O_Shape,P_O_14_IC096_O-10:00:00
+P_O_14_IC097,Ground_Daily,Giza Square Station,0,P_O_14_IC097_O_Shape,P_O_14_IC097_O-10:00:00
+P_O_14_IC100,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IC100_O_Shape,P_O_14_IC100_O-10:00:00
+P_O_14_IC102,Ground_Daily,Badr City,1,P_O_14_IC102_R_Shape,P_O_14_IC102_R-10:00:00
+P_O_14_IC102,Ground_Daily,Moneeb Station,0,P_O_14_IC102_O_Shape,P_O_14_IC102_O-10:00:00
+P_O_14_IG006,Ground_Daily,New Marg Station,0,P_O_14_IG006_O_Shape,P_O_14_IG006_O-10:00:00
+P_O_14_IG006,Ground_Daily,Remaya Station (New Mashaal),1,P_O_14_IG006_R_Shape,P_O_14_IG006_R-10:00:00
+P_O_14_IG009,Ground_Daily,Isaaf,1,P_O_14_IG009_R_Shape,P_O_14_IG009_R-10:00:00
+P_O_14_IG010,Ground_Daily,Al Wehda Imbaba (Al Bohi),0,P_O_14_IG010_O_Shape,P_O_14_IG010_O-10:00:00
+P_O_14_IG010,Ground_Daily,Isaaf,1,P_O_14_IG010_R_Shape,P_O_14_IG010_R-10:00:00
+P_O_14_IG012,Ground_Daily,Abd Al Moneim Riad Station,1,P_O_14_IG012_R_Shape,P_O_14_IG012_R-10:00:00
+P_O_14_IG012,Ground_Daily,Al Warraq Station,0,P_O_14_IG012_O_Shape,P_O_14_IG012_O-10:00:00
+P_O_14_IG015,Ground_Daily,Abd Al Moneim Riad Station,1,P_O_14_IG015_R_Shape,P_O_14_IG015_R-10:00:00
+P_O_14_IG015,Ground_Daily,Faisal St & Ring Rd,0,P_O_14_IG015_O_Shape,P_O_14_IG015_O-10:00:00
+P_O_14_IG018,Ground_Daily,Abd Al Moneim Riad Station,1,P_O_14_IG018_R_Shape,P_O_14_IG018_R-10:00:00
+P_O_14_IG018,Ground_Daily,Moassasa Station,0,P_O_14_IG018_O_Shape,P_O_14_IG018_O-10:00:00
+P_O_14_IG020,Ground_Daily,Abou Al Reesh,1,P_O_14_IG020_R_Shape,P_O_14_IG020_R-10:00:00
+P_O_14_IG020,Ground_Daily,Cairo University,0,P_O_14_IG020_O_Shape,P_O_14_IG020_O-10:00:00
+P_O_14_IG021,Ground_Daily,Abou Al Reesh,1,P_O_14_IG021_R_Shape,P_O_14_IG021_R-10:00:00
+P_O_14_IG021,Ground_Daily,Giza Square Station,0,P_O_14_IG021_O_Shape,P_O_14_IG021_O-10:00:00
+P_O_14_IG022,Ground_Daily,Ramses Station,0,P_O_14_IG022_O_Shape,P_O_14_IG022_O-10:00:00
+P_O_14_IG023,Ground_Daily,Awwel Makram Ebeid,0,P_O_14_IG023_O_Shape,P_O_14_IG023_O-10:00:00
+P_O_14_IG023,Ground_Daily,Haram Mashaal Station,1,P_O_14_IG023_R_Shape,P_O_14_IG023_R-10:00:00
+P_O_14_IG024,Ground_Daily,Moassasa Station,0,P_O_14_IG024_O_Shape,P_O_14_IG024_O-10:00:00
+P_O_14_IG027,Ground_Daily,Moneeb Station,0,P_O_14_IG027_O_Shape,P_O_14_IG027_O-10:00:00
+P_O_14_IG028,Ground_Daily,Haram & Marioteya Station,0,P_O_14_IG028_O_Shape,P_O_14_IG028_O-10:00:00
+P_O_14_IG028,Ground_Daily,Saqr Quraish Station,1,P_O_14_IG028_R_Shape,P_O_14_IG028_R-10:00:00
+P_O_14_IG031,Ground_Daily,7th District Station (Nasr City),1,P_O_14_IG031_R_Shape,P_O_14_IG031_R-10:00:00
+P_O_14_IG031,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IG031_O_Shape,P_O_14_IG031_O-10:00:00
+P_O_14_IG034,Ground_Daily,Arab Maadi Station,0,P_O_14_IG034_O_Shape,P_O_14_IG034_O-10:00:00
+P_O_14_IG034,Ground_Daily,Haram & Marioteya Station,1,P_O_14_IG034_R_Shape,P_O_14_IG034_R-10:00:00
+P_O_14_IG036,Ground_Daily,Haram & Marioteya Station,1,P_O_14_IG036_R_Shape,P_O_14_IG036_R-10:00:00
+P_O_14_IG036,Ground_Daily,Nasr St,0,P_O_14_IG036_O_Shape,P_O_14_IG036_O-10:00:00
+P_O_14_IG037,Ground_Daily,Haram & Marioteya Station,1,P_O_14_IG037_R_Shape,P_O_14_IG037_R-10:00:00
+P_O_14_IG039,Ground_Daily,Al Warraq Station,1,P_O_14_IG039_R_Shape,P_O_14_IG039_R-10:00:00
+P_O_14_IG039,Ground_Daily,Attaba,0,P_O_14_IG039_O_Shape,P_O_14_IG039_O-10:00:00
+P_O_14_IG041,Ground_Daily,Remaya Square,0,P_O_14_IG041_O_Shape,P_O_14_IG041_O-10:00:00
+P_O_14_IG042,Ground_Daily,New Marg Station,1,P_O_14_IG042_R_Shape,P_O_14_IG042_R-10:00:00
+P_O_14_IG044,Ground_Daily,Mostorod Ring Rd,0,P_O_14_IG044_O_Shape,P_O_14_IG044_O-10:00:00
+P_O_14_IG044,Ground_Daily,New Marg Station,1,P_O_14_IG044_R_Shape,P_O_14_IG044_R-10:00:00
+P_O_14_IG046,Ground_Daily,Abou Zaabal,0,P_O_14_IG046_O_Shape,P_O_14_IG046_O-10:00:00
+P_O_14_IG046,Ground_Daily,New Marg Station,1,P_O_14_IG046_R_Shape,P_O_14_IG046_R-10:00:00
+P_O_14_IG050,Ground_Daily,Moneeb Station,0,P_O_14_IG050_O_Shape,P_O_14_IG050_O-10:00:00
+P_O_14_IG050,Ground_Daily,Zahraa Madinet Nasr,1,P_O_14_IG050_R_Shape,P_O_14_IG050_R-10:00:00
+P_O_14_IG051,Ground_Daily,Ramses Station,0,P_O_14_IG051_O_Shape,P_O_14_IG051_O-10:00:00
+P_O_14_IG051,Ground_Daily,Remaya Square,1,P_O_14_IG051_R_Shape,P_O_14_IG051_R-10:00:00
+P_O_14_IG056,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IG056_O_Shape,P_O_14_IG056_O-10:00:00
+P_O_14_IG057,Ground_Daily,Attaba,0,P_O_14_IG057_O_Shape,P_O_14_IG057_O-10:00:00
+P_O_14_IG058,Ground_Daily,Kerdasa Station,1,P_O_14_IG058_R_Shape,P_O_14_IG058_R-10:00:00
+P_O_14_IG058,Ground_Daily,Qasr Al Einy,0,P_O_14_IG058_O_Shape,P_O_14_IG058_O-10:00:00
+P_O_14_IG060,Ground_Daily,Ramses Station,1,P_O_14_IG060_R_Shape,P_O_14_IG060_R-10:00:00
+P_O_14_IG061,Ground_Daily,Warraq Al Arab (Cima),0,P_O_14_IG061_O_Shape,P_O_14_IG061_O-10:00:00
+P_O_14_IG065,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),0,P_O_14_IG065_O_Shape,P_O_14_IG065_O-10:00:00
+P_O_14_IG065,Ground_Daily,Ramses Station,1,P_O_14_IG065_R_Shape,P_O_14_IG065_R-10:00:00
+P_O_14_IG066,Ground_Daily,Ramses Station,1,P_O_14_IG066_R_Shape,P_O_14_IG066_R-10:00:00
+P_O_14_IG068,Ground_Daily,Giza Square Station,0,P_O_14_IG068_O_Shape,P_O_14_IG068_O-10:00:00
+P_O_14_IG068,Ground_Daily,Ramses Station,1,P_O_14_IG068_R_Shape,P_O_14_IG068_R-10:00:00
+P_O_14_IG073,Ground_Daily,Filfil Mosque (Bashtil),0,P_O_14_IG073_O_Shape,P_O_14_IG073_O-10:00:00
+P_O_14_IG075,Ground_Daily,Imbaba Station,0,P_O_14_IG075_O_Shape,P_O_14_IG075_O-10:00:00
+P_O_14_IG076,Ground_Daily,Nahda City Station,1,P_O_14_IG076_R_Shape,P_O_14_IG076_R-10:00:00
+P_O_14_IG078,Ground_Daily,Badrasheen Station,1,P_O_14_IG078_R_Shape,P_O_14_IG078_R-10:00:00
+P_O_14_IG078,Ground_Daily,Tibeen,0,P_O_14_IG078_O_Shape,P_O_14_IG078_O-10:00:00
+P_O_14_IG082,Ground_Daily,Mazallat Station,1,P_O_14_IG082_R_Shape,P_O_14_IG082_R-10:00:00
+P_O_14_IG082,Ground_Daily,Orabi Bridge,0,P_O_14_IG082_O_Shape,P_O_14_IG082_O-10:00:00
+P_O_14_IG083,Ground_Daily,Imbaba Station,0,P_O_14_IG083_O_Shape,P_O_14_IG083_O-10:00:00
+P_O_14_IG083,Ground_Daily,Mazallat Station,1,P_O_14_IG083_R_Shape,P_O_14_IG083_R-10:00:00
+P_O_14_IG084,Ground_Daily,Mazghuna,0,P_O_14_IG084_O_Shape,P_O_14_IG084_O-10:00:00
+P_O_14_IG084,Ground_Daily,Tibeen,1,P_O_14_IG084_R_Shape,P_O_14_IG084_R-10:00:00
+P_O_14_IG085,Ground_Daily,10th of Ramadan Station,0,P_O_14_IG085_O_Shape,P_O_14_IG085_O-10:00:00
+P_O_14_IG085,Ground_Daily,Khanka,1,P_O_14_IG085_R_Shape,P_O_14_IG085_R-10:00:00
+P_O_14_IG086,Ground_Daily,Khanka,1,P_O_14_IG086_R_Shape,P_O_14_IG086_R-10:00:00
+P_O_14_IG087,Ground_Daily,10th of Ramadan Station,0,P_O_14_IG087_O_Shape,P_O_14_IG087_O-10:00:00
+P_O_14_IG087,Ground_Daily,Mostorod Ring Rd,1,P_O_14_IG087_R_Shape,P_O_14_IG087_R-10:00:00
+P_O_14_IG088,Ground_Daily,Bab Al Shaaria Square,1,P_O_14_IG088_R_Shape,P_O_14_IG088_R-10:00:00
+P_O_14_IG089,Ground_Daily,Qasr Al Einy,1,P_O_14_IG089_R_Shape,P_O_14_IG089_R-10:00:00
+P_O_14_IG089,Ground_Daily,Znen (Awwel Al Eshreen),0,P_O_14_IG089_O_Shape,P_O_14_IG089_O-10:00:00
+P_O_14_IG090,Ground_Daily,10th of Ramadan Station,0,P_O_14_IG090_O_Shape,P_O_14_IG090_O-10:00:00
+P_O_14_IG092,Ground_Daily,10th of Ramadan Station,1,P_O_14_IG092_R_Shape,P_O_14_IG092_R-10:00:00
+P_O_14_IG092,Ground_Daily,Moassasa Station,0,P_O_14_IG092_O_Shape,P_O_14_IG092_O-10:00:00
+P_O_14_IG093,Ground_Daily,10th of Ramadan Station,1,P_O_14_IG093_R_Shape,P_O_14_IG093_R-10:00:00
+P_O_14_IG093,Ground_Daily,Marioteya & Ring Rd,0,P_O_14_IG093_O_Shape,P_O_14_IG093_O-10:00:00
+P_O_14_IG096,Ground_Daily,Fayda Kamel,1,P_O_14_IG096_R_Shape,P_O_14_IG096_R-10:00:00
+P_O_14_IG097,Ground_Daily,Al Sayeda Zeinab,1,P_O_14_IG097_R_Shape,P_O_14_IG097_R-10:00:00
+P_O_14_IG097,Ground_Daily,Giza Square Station,0,P_O_14_IG097_O_Shape,P_O_14_IG097_O-10:00:00
+P_O_14_QA004,Ground_Daily,Om Bayoumi (Mintay),1,P_O_14_QA004_R_Shape,P_O_14_QA004_R-10:00:00
+P_O_14_QA004,Ground_Daily,Orabi Bridge,0,P_O_14_QA004_O_Shape,P_O_14_QA004_O-10:00:00
+P_O_14_QA006,Ground_Daily,Abou Zaabal,0,P_O_14_QA006_O_Shape,P_O_14_QA006_O-10:00:00
+P_O_14_QA006,Ground_Daily,Khanka,1,P_O_14_QA006_R_Shape,P_O_14_QA006_R-10:00:00
+P_O_14_SZ010,Ground_Daily,Hyper 1 Station,0,P_O_14_SZ010_O_Shape,P_O_14_SZ010_O-10:00:00
+P_O_14_SZ010,Ground_Daily,Zayed 2000,1,P_O_14_SZ010_R_Shape,P_O_14_SZ010_R-10:00:00
+PcRD7pWWkA7PIAqxPtQKe,Ground_Daily,Abbasseya Station,1,0RdMGJUnmo4j87OKEJbKv_Shape,0RdMGJUnmo4j87OKEJbKv-10:00:00
+PcRD7pWWkA7PIAqxPtQKe,Ground_Daily,Mazallat Station,0,IEZEdez6WYD7HQ4NPVG9o_Shape,IEZEdez6WYD7HQ4NPVG9o-10:00:00
+Plpoxm6EKpqHluA67UbO1,Ground_Daily,Qalyoub,1,dXMfFAVn8KlcD3uzZ0UJH_Shape,dXMfFAVn8KlcD3uzZ0UJH-10:00:00
+PnnpvX60X8WaRSAtq6_q1,Ground_Daily,Bulaq Al Dakrur Station,1,TInSQmO4h7hg_rupwW67x_Shape,TInSQmO4h7hg_rupwW67x-10:00:00
+PnnpvX60X8WaRSAtq6_q1,Ground_Daily,Cairo Airport Station,0,Z9j_ig-cCuFQZ_rNYmA7h_Shape,Z9j_ig-cCuFQZ_rNYmA7h-10:00:00
+PtTt3WzbrwwaHofgpaVMj,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),1,jWl6Q_wMOcOLnU7kaKiet_Shape,jWl6Q_wMOcOLnU7kaKiet-10:00:00
+PtTt3WzbrwwaHofgpaVMj,Ground_Daily,Mostorod Station,0,fIo6VbAn9oZ0MvD69dSGV_Shape,fIo6VbAn9oZ0MvD69dSGV-10:00:00
+Q5-FZBUpurX-iyo6h4cmv,Ground_Daily,Abd Al Moneim Riad Station,1,UsFa2kqqtgNOgH5crcUrT_Shape,UsFa2kqqtgNOgH5crcUrT-10:00:00
+Q5-FZBUpurX-iyo6h4cmv,Ground_Daily,Al Shorouq,0,VgvS71SJsRV6xr69evF8o_Shape,VgvS71SJsRV6xr69evF8o-10:00:00
+QAtNnDbICPuNWmtoKicmy,Ground_Daily,Al Sayeda Nafeesa,1,JL79Wuqgn8gTXIc9VEmLY_Shape,JL79Wuqgn8gTXIc9VEmLY-10:00:00
+QAtNnDbICPuNWmtoKicmy,Ground_Daily,Khosous,0,i6G03L0pCL-gufJqOikEz_Shape,i6G03L0pCL-gufJqOikEz-10:00:00
+QD4B-vIsagxeF82oSJvMs,Ground_Daily,Al Bassous,0,2H4tGIYU3faO0axmYnmaO_Shape,2H4tGIYU3faO0axmYnmaO-10:00:00
+QD4B-vIsagxeF82oSJvMs,Ground_Daily,Moassasa Station,1,I1qiAtU1epsYtvf6uolke_Shape,I1qiAtU1epsYtvf6uolke-10:00:00
+QORyzDKyscDKk9XRt8ZYZ,Ground_Daily,Isbiko Station,1,XXwlOdTrkzvMhH8PP2vjT_Shape,XXwlOdTrkzvMhH8PP2vjT-10:00:00
+QeibrVPEcAQDuGbYNqK3W,Ground_Daily,Alf Maskan Station,0,cECNnnVEZxUoHZJUIx_1R_Shape,cECNnnVEZxUoHZJUIx_1R-10:00:00
+RNWAMpjdKYvRHnfD_wR27,Ground_Daily,Abd Al Moneim Riad Station,1,N821RZVxA3LXa8r64tqMR_Shape,N821RZVxA3LXa8r64tqMR-10:00:00
+RNWAMpjdKYvRHnfD_wR27,Ground_Daily,Moneeb Station,0,sJJTutUxwZ53Zyd6yZr3e_Shape,sJJTutUxwZ53Zyd6yZr3e-10:00:00
+RRrzHlEEvrgMUl0VtGTmU,Ground_Daily,1st Settlement Station (New Cairo),0,RVsC3nQfzEh0ZzJ0RSgqm_Shape,RVsC3nQfzEh0ZzJ0RSgqm-10:00:00
+RSdIAdQiV_sN5aWHuOSsc,Ground_Daily,Amiriya,0,awsb7ORmKj1A-XgP5bl6-_Shape,awsb7ORmKj1A-XgP5bl6--10:00:00
+RSdIAdQiV_sN5aWHuOSsc,Ground_Daily,Hadaek EL Kobba,1,mJjQ7Tr5D7Vuxr1ZUiIaJ_Shape,mJjQ7Tr5D7Vuxr1ZUiIaJ-10:00:00
+Rid3J784c156sibqnTGhS,Ground_Daily,Attaba,1,_9gMaobsdLhoWF0uTwgK9_Shape,_9gMaobsdLhoWF0uTwgK9-10:00:00
+Rid3J784c156sibqnTGhS,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,JC34KjGW4vzFzA_DFvHgl_Shape,JC34KjGW4vzFzA_DFvHgl-10:00:00
+RpY93UNxhi5boOQu37j_C,Ground_Daily,Ahmed Helmy Station,1,5V0MCmeKu8N6V0UxsE4eL_Shape,5V0MCmeKu8N6V0UxsE4eL-10:00:00
+RpY93UNxhi5boOQu37j_C,Ground_Daily,Cairo Airport Station,0,QQ1oW1Hu1PGu8wDHMHaUL_Shape,QQ1oW1Hu1PGu8wDHMHaUL-10:00:00
+Rq-eMK7w1Ht-mDd-Q_JC8,Ground_Daily,Abd Al Moneim Riad Station,0,PpXf7z2Vp8goFxhYDosJx_Shape,PpXf7z2Vp8goFxhYDosJx-10:00:00
+Rq-eMK7w1Ht-mDd-Q_JC8,Ground_Daily,Isbiko Station,1,l8YRJ8jaFGuPbKHlwtNU7_Shape,l8YRJ8jaFGuPbKHlwtNU7-10:00:00
+RsaOPeERsjGuuC6Q-S_FU,Ground_Daily,Al Sheikh Mansour,1,kw02aa8oYytk4KGvCCXoF_Shape,kw02aa8oYytk4KGvCCXoF-10:00:00
+RsaOPeERsjGuuC6Q-S_FU,Ground_Daily,Matareya Square Station,0,beyCiULGcW2r-s5F1lYdO_Shape,beyCiULGcW2r-s5F1lYdO-10:00:00
+RyRTkp5hY0SfFs9yKCDfN,Ground_Daily,Lebanon Square Station,1,FusIokgXdH9malb1iBOeY_Shape,FusIokgXdH9malb1iBOeY-10:00:00
+RyRTkp5hY0SfFs9yKCDfN,Ground_Daily,Masaken Al Wehda,0,_XbCxrUYyMqIgKprttkP7_Shape,_XbCxrUYyMqIgKprttkP7-10:00:00
+S7vV1gLrYMRDA3sRxXeNY,Ground_Daily,Ahmed Helmy Station,0,rWdpX9jtqOMwxxecbbgjk_Shape,rWdpX9jtqOMwxxecbbgjk-10:00:00
+S7vV1gLrYMRDA3sRxXeNY,Ground_Daily,Moneeb Station,1,zf2nNhz4x0fj7vjM8MNd9_Shape,zf2nNhz4x0fj7vjM8MNd9-10:00:00
+SI9aO3R9Vl4yBxUdPoO7K,Ground_Daily,Al Omraneyya Al Gadida,0,SxWnslFxbdSz470DgIlEP_Shape,SxWnslFxbdSz470DgIlEP-10:00:00
+SI9aO3R9Vl4yBxUdPoO7K,Ground_Daily,Al Warraq Station,1,TaAqt-aC-7CWlKYx4zSl0_Shape,TaAqt-aC-7CWlKYx4zSl0-10:00:00
+SijHB3MvvH7y5f_lh6hO3,Ground_Daily,Giza Square Station,0,aiMUSjS1wNYQnL9zk1jkq_Shape,aiMUSjS1wNYQnL9zk1jkq-10:00:00
+Sox8uyw7SKydjtBoCTZlF,Ground_Daily,1st Settlement Station (New Cairo),0,qWwmhv2u2xzJ-ImVcNQwx_Shape,qWwmhv2u2xzJ-ImVcNQwx-10:00:00
+Sox8uyw7SKydjtBoCTZlF,Ground_Daily,Dawaran Shubra Station,1,6m3RIufh_VhnQrRYquye2_Shape,6m3RIufh_VhnQrRYquye2-10:00:00
+Sw7KMUZPTGb_ZDHt4D-yr,Ground_Daily,Abd Al Moneim Riad Station,1,TeVDN0LwdXht0GjKRhahd_Shape,TeVDN0LwdXht0GjKRhahd-10:00:00
+Sw7KMUZPTGb_ZDHt4D-yr,Ground_Daily,Masaken Al Shorouq,0,fNXjF2K1dN77-TxNLV8VX_Shape,fNXjF2K1dN77-TxNLV8VX-10:00:00
+T7BWm7IBJwclTVfKGA8P-,Ground_Daily,Abboud,0,FrAn7rOiw-PJSklEUYBI__Shape,FrAn7rOiw-PJSklEUYBI_-10:00:00
+T7BWm7IBJwclTVfKGA8P-,Ground_Daily,Ramses Station,1,kPdmObifS9Cb85VcOncHz_Shape,kPdmObifS9Cb85VcOncHz-10:00:00
+T9Z1u1IkkEycKE6B_nakJ,Ground_Daily,Alf Maskan Station,1,JxgC8Ukjc-heTCPZ3OYLE_Shape,JxgC8Ukjc-heTCPZ3OYLE-10:00:00
+T9Z1u1IkkEycKE6B_nakJ,Ground_Daily,Korba,0,Jlkez6-eua1fGPpruzYB9_Shape,Jlkez6-eua1fGPpruzYB9-10:00:00
+THrQu8qlfqIVjyIOU9nsp,Ground_Daily,Al Sayeda Aisha Station,0,RBDu3u_mXme8IFWiTwlXU_Shape,RBDu3u_mXme8IFWiTwlXU-10:00:00
+THrQu8qlfqIVjyIOU9nsp,Ground_Daily,Awwel Faisal,1,I9feZrZq6yKe_m0_I-689_Shape,I9feZrZq6yKe_m0_I-689-10:00:00
+TIlnDqafo-e2AVr35QCtj,Ground_Daily,10th District Station (Nasr City),0,_hM2HjnJGjIeTJwgHqUcQ_Shape,_hM2HjnJGjIeTJwgHqUcQ-10:00:00
+TIlnDqafo-e2AVr35QCtj,Ground_Daily,Hadaba Wosta (Moqattam),1,9YDdjnLGgMJDo96lvs5sZ_Shape,9YDdjnLGgMJDo96lvs5sZ-10:00:00
+Tpa0A12goEVH-sdvNU4pa,Ground_Daily,Abbasseya Station,1,i52gMCYV6bi1sZEz-pjxq_Shape,i52gMCYV6bi1sZEz-pjxq-10:00:00
+Tpa0A12goEVH-sdvNU4pa,Ground_Daily,Matbaa Station,0,Pm6vFBVJIXhbgUN0wbI_1_Shape,Pm6vFBVJIXhbgUN0wbI_1-10:00:00
+TwtquEbhxXg7lLUiammd0,Ground_Daily,Helwan Station,1,3BG0ugeueX0tKvlHUAA5k_Shape,3BG0ugeueX0tKvlHUAA5k-10:00:00
+U12iA-JAJn3HecabkdSeW,Ground_Daily,Al Warraq Station,0,jQ64f8tN97d_QL03BADkT_Shape,jQ64f8tN97d_QL03BADkT-10:00:00
+U12iA-JAJn3HecabkdSeW,Ground_Daily,Imbaba Station,1,grqXIC1wSgIyOw8jtOn5w_Shape,grqXIC1wSgIyOw8jtOn5w-10:00:00
+U1qTC-v8kA9-Rkit2YfDm,Ground_Daily,Alf Maskan Station,1,P6NJEDcV-vrd7Rysr83Nz_Shape,P6NJEDcV-vrd7Rysr83Nz-10:00:00
+UIbJAHRCDRcPVxtylKdP1,Ground_Daily,Abd Al Moneim Riad Station,0,fYwTMkgl5Nh4I8tpdWS0p_Shape,fYwTMkgl5Nh4I8tpdWS0p-10:00:00
+UIbJAHRCDRcPVxtylKdP1,Ground_Daily,Helwan Post Office,1,ijkvYEit5Ak15IcYiDi5R_Shape,ijkvYEit5Ak15IcYiDi5R-10:00:00
+UYpQshWZml8TRw8pbOOWx,Ground_Daily,Al Magzar (Mariouteya),0,VEE2OBal25115dXxx5NcX_Shape,VEE2OBal25115dXxx5NcX-10:00:00
+UkiuAl8JoV2LRVvfwCXZF,Ground_Daily,10th of Ramadan Station,0,qtKykoxnOP3o3b9njseBH_Shape,qtKykoxnOP3o3b9njseBH-10:00:00
+UlGkTZAhmtGHkhn8Kdqap,Ground_Daily,10th of Ramadan Station,1,fqKaU5MEcXpa9J-8aWRb6_Shape,fqKaU5MEcXpa9J-8aWRb6-10:00:00
+UqNUrY5nD-HVKa4Wl0Fi3,Ground_Daily,Filfil Mosque (Bashtil),1,HTvQ1-in5zoKF0QdDIokq_Shape,HTvQ1-in5zoKF0QdDIokq-10:00:00
+UqNUrY5nD-HVKa4Wl0Fi3,Ground_Daily,Isaaf,0,c2v7n8la6FJhi86yS6yAg_Shape,c2v7n8la6FJhi86yS6yAg-10:00:00
+UydKv2gM1kSDyx7u4jZIV,Ground_Daily,7th District Station (Nasr City),1,z9gx841vfS2A9uZY5UwNs_Shape,z9gx841vfS2A9uZY5UwNs-10:00:00
+UydKv2gM1kSDyx7u4jZIV,Ground_Daily,Darrasa,0,PfDkP_eBNm1toQLnnuKjz_Shape,PfDkP_eBNm1toQLnnuKjz-10:00:00
+VG85-qS5arY-IxZ4UXiop,Ground_Daily,Haram & Marioteya Station,1,HrIgrp0G06upXMX5xTVHL_Shape,HrIgrp0G06upXMX5xTVHL-10:00:00
+VG85-qS5arY-IxZ4UXiop,Ground_Daily,Saqqara Traffic Office,0,LUxsm7L_u4wOEZE29SsH5_Shape,LUxsm7L_u4wOEZE29SsH5-10:00:00
+VGaQYovXuVb6WPYilc6D0,Ground_Daily,Bashtil,0,FQiiduNPxuPUovDMssCy3_Shape,FQiiduNPxuPUovDMssCy3-10:00:00
+VGaQYovXuVb6WPYilc6D0,Ground_Daily,Saqr Quraish Station,1,nEtvgzLMvdvALOBpRiYiS_Shape,nEtvgzLMvdvALOBpRiYiS-10:00:00
+VP-_HJndaq3LK1Y8sWnFm,Ground_Daily,Abou Wafya,0,80xPbuEg8AcH6C46jxaJo_Shape,80xPbuEg8AcH6C46jxaJo-10:00:00
+VP-_HJndaq3LK1Y8sWnFm,Ground_Daily,Saqr Quraish Station,1,wOR2QvQundEK8qPPQY50t_Shape,wOR2QvQundEK8qPPQY50t-10:00:00
+Va6aQT0gwfU48MBTXdWwi,Ground_Daily,Maadi Metro Station,0,4XuaA3hKxjdzkZEB8_jZF_Shape,4XuaA3hKxjdzkZEB8_jZF-10:00:00
+VcyJ3Cygkrd6BpKY5hhzC,Ground_Daily,Basateen,1,CN0kmKUS1dHSp_ap_lI3P_Shape,CN0kmKUS1dHSp_ap_lI3P-10:00:00
+VcyJ3Cygkrd6BpKY5hhzC,Ground_Daily,Maadi Metro Station,0,Ptr63w-CVFwMvcAiWiEzQ_Shape,Ptr63w-CVFwMvcAiWiEzQ-10:00:00
+Vdn0kVuba4a9LxwlhEGiJ,Ground_Daily,Attaba,0,ZIq5fdBbA2XjWhdtDkKLG_Shape,ZIq5fdBbA2XjWhdtDkKLG-10:00:00
+Vdn0kVuba4a9LxwlhEGiJ,Ground_Daily,Ibrahim Bek,1,DEy5EmRXe9tbg4cO-Hzki_Shape,DEy5EmRXe9tbg4cO-Hzki-10:00:00
+VjYEpD99WGuBFvH5Dw-gV,Ground_Daily,Bulaq Al Dakrur Station,0,TIpXjt8PYQ0hFfQwCh_wm_Shape,TIpXjt8PYQ0hFfQwCh_wm-10:00:00
+VjYEpD99WGuBFvH5Dw-gV,Ground_Daily,Masaken Al Wehda,1,4egnbQR463tGyxjv8V4KI_Shape,4egnbQR463tGyxjv8V4KI-10:00:00
+W4XrYxIpaEVrO-aOQjYMS,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),1,ERuUN7nuXzKBmsivdACRh_Shape,ERuUN7nuXzKBmsivdACRh-10:00:00
+W4XrYxIpaEVrO-aOQjYMS,Ground_Daily,Abd Al Moneim Riad Station,0,hOPmxPVOL-qdcvjjSaYcO_Shape,hOPmxPVOL-qdcvjjSaYcO-10:00:00
+WOzJvSlqkyu7lDJGuDjA2,Ground_Daily,Al Omraneyya Al Gadida,0,lV983xHAzryrLUVm-15EJ_Shape,lV983xHAzryrLUVm-15EJ-10:00:00
+WOzJvSlqkyu7lDJGuDjA2,Ground_Daily,Amiriya,1,PT5CjI7rFYrPtlvk80P3q_Shape,PT5CjI7rFYrPtlvk80P3q-10:00:00
+WV58TZi5ulbDbGItj2u4E,Ground_Daily,10th of Ramadan Station,1,JkL_zx6rpKMqQxeAHL5ZC_Shape,JkL_zx6rpKMqQxeAHL5ZC-10:00:00
+WcBUjkdX_6SJfXXGp00S-,Ground_Daily,Abd Al Moneim Riad Station,0,LJd_crWPf8yZnjDfLGQak_Shape,LJd_crWPf8yZnjDfLGQak-10:00:00
+WcBUjkdX_6SJfXXGp00S-,Ground_Daily,Awwel Makram Ebeid,1,XX4NxlWyLg1-CE1pGItb5_Shape,XX4NxlWyLg1-CE1pGItb5-10:00:00
+WiQa8bXpeSlLhEC1SUwGb,Ground_Daily,10th of Ramadan Station,0,-_VpN7mgRZ3gJMkTAlCYj_Shape,-_VpN7mgRZ3gJMkTAlCYj-10:00:00
+X7OUnQkaUhlNHC3RmAKjb,Ground_Daily,Al Sayeda Aisha Station,1,J1Zhl7GUs1nhQZmEkmxy1_Shape,J1Zhl7GUs1nhQZmEkmxy1-10:00:00
+X7OUnQkaUhlNHC3RmAKjb,Ground_Daily,Awwel Makram Ebeid,0,VJTgwLjEgKtrFD2d-OVjt_Shape,VJTgwLjEgKtrFD2d-OVjt-10:00:00
+XHoe5oRTlC1Ihm0e712t_,Ground_Daily,Abd Al Moneim Riad Station,0,DIxJLy_V2RUJr15mF0bJ__Shape,DIxJLy_V2RUJr15mF0bJ_-10:00:00
+XHoe5oRTlC1Ihm0e712t_,Ground_Daily,Imbaba Station,1,8e-6h021We0DW6e_B_oGe_Shape,8e-6h021We0DW6e_B_oGe-10:00:00
+XJQVWOM0aIFhA0CTFaprI,Ground_Daily,Moassasa Station,0,4kUUjaQdVfi7L95EEjEST_Shape,4kUUjaQdVfi7L95EEjEST-10:00:00
+XJQVWOM0aIFhA0CTFaprI,Ground_Daily,Obour Market,1,2bmBOEvijWTXMFDjfS415_Shape,2bmBOEvijWTXMFDjfS415-10:00:00
+XXk6QOM27EiINNJVOjcue,Ground_Daily,Giza Square Station,0,XACz5qoNDLV14BAgE_vl5_Shape,XACz5qoNDLV14BAgE_vl5-10:00:00
+XXk6QOM27EiINNJVOjcue,Ground_Daily,Tagneed (Al Remaya),1,atE8aTd-luR-Vh-66z_Nm_Shape,atE8aTd-luR-Vh-66z_Nm-10:00:00
+Y-YHy-wjklAYFa_6LghGz,Ground_Daily,Abu Al Houl St,0,w1JK6fJH-UVkmE5qFE0tM_Shape,w1JK6fJH-UVkmE5qFE0tM-10:00:00
+Y-YHy-wjklAYFa_6LghGz,Ground_Daily,Moassasa Station,1,49h4pJT38FRny2vJv82K8_Shape,49h4pJT38FRny2vJv82K8-10:00:00
+YC8mSQwzG7-Amd9rDuPR1,Ground_Daily,Bashtil El Balad,0,fdh7xAiMWXVvvGtAAwcSh_Shape,fdh7xAiMWXVvvGtAAwcSh-10:00:00
+YC8mSQwzG7-Amd9rDuPR1,Ground_Daily,Kit Kat Square Station,1,pUptgmoTw1CdCtPIeENEq_Shape,pUptgmoTw1CdCtPIeENEq-10:00:00
+YDYZfl3PqeB6Fo4Ji9dpx,Ground_Daily,10th of Ramadan Station,1,6sImMNL5daXkM9Af6Hfto_Shape,6sImMNL5daXkM9Af6Hfto-10:00:00
+YDYZfl3PqeB6Fo4Ji9dpx,Ground_Daily,Rabaah Al Adaweya Mosque,0,I6qVB5g72nS73w2mhN-2S_Shape,I6qVB5g72nS73w2mhN-2S-10:00:00
+YFvdbCU6C-OUVsvdiECzT,Ground_Daily,Abd Al Moneim Riad Station,1,dGP_IcdyO9AUOP_bXq3ji_Shape,dGP_IcdyO9AUOP_bXq3ji-10:00:00
+YFvdbCU6C-OUVsvdiECzT,Ground_Daily,Asmarrat,0,llRiZXAXldDykBwsd7Qo-_Shape,llRiZXAXldDykBwsd7Qo--10:00:00
+YIHTQhZhY68hR2EQjvlF-,Ground_Daily,Basateen,0,JAed0wXZ1UEMmJ7YNkHx7_Shape,JAed0wXZ1UEMmJ7YNkHx7-10:00:00
+YIHTQhZhY68hR2EQjvlF-,Ground_Daily,Moneeb Station,1,ROTjQQjLk57S9iPaE_CL2_Shape,ROTjQQjLk57S9iPaE_CL2-10:00:00
+YOUm7rdzNVY6LFG9JKpHr,Ground_Daily,Helwan Station,1,MASmEqi5RlMFqeeHkXfX2_Shape,MASmEqi5RlMFqeeHkXfX2-10:00:00
+YOUm7rdzNVY6LFG9JKpHr,Ground_Daily,Saqr Quraish Station,0,MMbfE9xrpiB3vmgVMNitp_Shape,MMbfE9xrpiB3vmgVMNitp-10:00:00
+YiqckBVvySeTMxSuhIb93,Ground_Daily,Abd Al Moneim Riad Station,0,_tV6xU_RcUPDBM0zhynR8_Shape,_tV6xU_RcUPDBM0zhynR8-10:00:00
+YiqckBVvySeTMxSuhIb93,Ground_Daily,Arab Maadi Station,1,O0E4CumLHr4ctE0E7mYqg_Shape,O0E4CumLHr4ctE0E7mYqg-10:00:00
+YlvolLQ1uzaw8eiT89HI2,Ground_Daily,Abbasseya Station,1,u18RYU3TdDuvnGiFuEdsd_Shape,u18RYU3TdDuvnGiFuEdsd-10:00:00
+YlvolLQ1uzaw8eiT89HI2,Ground_Daily,Warraq Al Arab (Cima),0,qguOof3JdFHL6fXaQt7IT_Shape,qguOof3JdFHL6fXaQt7IT-10:00:00
+Ytv0dFG7V3erHcHr8CQG8,Ground_Daily,Abou Wafya,0,08ojBRs9Q5XKETiSBt1k6_Shape,08ojBRs9Q5XKETiSBt1k6-10:00:00
+Ytv0dFG7V3erHcHr8CQG8,Ground_Daily,Basateen,1,x9quLdHSjKblAHxqcF1nu_Shape,x9quLdHSjKblAHxqcF1nu-10:00:00
+YwAwwkJqjET3Y_3C9x3AO,Ground_Daily,Warraq Al Arab (Cima),1,lzycP_PIN1ZKQ7ekhL2Ds_Shape,lzycP_PIN1ZKQ7ekhL2Ds-10:00:00
+YyMVnpFACm_b2uotE7GjR,Ground_Daily,10th of Ramadan Station,1,zINeOh341AZPB_5xPfy-b_Shape,zINeOh341AZPB_5xPfy-b-10:00:00
+YyMVnpFACm_b2uotE7GjR,Ground_Daily,Matareya Square Station,0,KL3K4ZT8vYZkEp2mHT09d_Shape,KL3K4ZT8vYZkEp2mHT09d-10:00:00
+Z2RSwdOqb-nYzFdq9dXUL,Ground_Daily,Al Warraq Station,0,Bpw2An5flj4qtK38NncK7_Shape,Bpw2An5flj4qtK38NncK7-10:00:00
+Z2RSwdOqb-nYzFdq9dXUL,Ground_Daily,Moassasa Station,1,6c8ffUpkd6rRFm0lAlXmq_Shape,6c8ffUpkd6rRFm0lAlXmq-10:00:00
+ZGjX3QoD_ctqk3lvYrKDL,Ground_Daily,Bulaq Al Dakrur Station,1,xiglU4oSrkjAFasd9-s6j_Shape,xiglU4oSrkjAFasd9-s6j-10:00:00
+ZGjX3QoD_ctqk3lvYrKDL,Ground_Daily,Kilo 4 & Half Station,0,TiSeI2ON7AM35jU0zBHPV_Shape,TiSeI2ON7AM35jU0zBHPV-10:00:00
+Zl9qxNlqnCCOTNhz07iZt,Ground_Daily,Bulaq Al Dakrur Station,1,yzWLorlKX3aNOXFKJCjJM_Shape,yzWLorlKX3aNOXFKJCjJM-10:00:00
+Zl9qxNlqnCCOTNhz07iZt,Ground_Daily,Moneeb Station,0,0CQ7Vyyu0F25tb_fbXe0P_Shape,0CQ7Vyyu0F25tb_fbXe0P-10:00:00
+ZpjJfGT2XablwK9bPaDxE,Ground_Daily,AUC Bus Station,0,3tXApVGeyyN33i4Fupq4K_Shape,3tXApVGeyyN33i4Fupq4K-10:00:00
+ZqF0hj3CyZzVwb8YwhrN3,Ground_Daily,Awwel Al Zawya Al Hamra Station,1,t3Xd78G-nX2dBltV0RX-3_Shape,t3Xd78G-nX2dBltV0RX-3-10:00:00
+ZqF0hj3CyZzVwb8YwhrN3,Ground_Daily,New Marg Station,0,LpK-flmIqdO66IXYHR5kH_Shape,LpK-flmIqdO66IXYHR5kH-10:00:00
+Zy8zeMtNXeBpZrtvM4kDl,Ground_Daily,Al Sheikh Mansour,0,hdSP-2PAmeLzQEv0RH8rI_Shape,hdSP-2PAmeLzQEv0RH8rI-10:00:00
+Zy8zeMtNXeBpZrtvM4kDl,Ground_Daily,Matareya Square Station,1,YyiVEYu_1hH69dh94lRA3_Shape,YyiVEYu_1hH69dh94lRA3-10:00:00
+_MAgxE7pFZU2v4vAiDGuz,Ground_Daily,Abd Al Moneim Riad Station,1,9liiiYp0bZ1vqrAp0Iemr_Shape,9liiiYp0bZ1vqrAp0Iemr-10:00:00
+_MAgxE7pFZU2v4vAiDGuz,Ground_Daily,Cairo Airport Station,0,xzT9OAvHEeCRz7ANZBL54_Shape,xzT9OAvHEeCRz7ANZBL54-10:00:00
+_kGwgRC-pycvUmse6VVvU,Ground_Daily,Kilo 4 & Half Station,0,rvcDHlYhapIPA6aUAv9Kv_Shape,rvcDHlYhapIPA6aUAv9Kv-10:00:00
+_kGwgRC-pycvUmse6VVvU,Ground_Daily,Znen (Awwel Al Eshreen),1,MI7-31n22skIweKwhs3ho_Shape,MI7-31n22skIweKwhs3ho-10:00:00
+_u0ElwgPPD4gErsOC9Dtq,Ground_Daily,Ahmed Helmy Station,1,bGY49myuqtPgCFzIUbs-f_Shape,bGY49myuqtPgCFzIUbs-f-10:00:00
+_u0ElwgPPD4gErsOC9Dtq,Ground_Daily,Matbaa Station,0,J4CmDIvSgpMPx0vJjX0nI_Shape,J4CmDIvSgpMPx0vJjX0nI-10:00:00
+a4gnGzOuEjFFXiOYfTYg9,Ground_Daily,8th District (Nasr City) - Al tabba,0,7aMxUfLp2VxjDksgQ8xTQ_Shape,7aMxUfLp2VxjDksgQ8xTQ-10:00:00
+a4gnGzOuEjFFXiOYfTYg9,Ground_Daily,Abd Al Moneim Riad Station,1,lsiqOn-caRFiMWWc6U38E_Shape,lsiqOn-caRFiMWWc6U38E-10:00:00
+a857emSd0Eg9_C49Uly1i,Ground_Daily,Alf Maskan Station,1,u96d06x_3vTZAroZHRd1f_Shape,u96d06x_3vTZAroZHRd1f-10:00:00
+a857emSd0Eg9_C49Uly1i,Ground_Daily,Shabab (Obour),0,fTfoesL1QULM1sZ8e2DyH_Shape,fTfoesL1QULM1sZ8e2DyH-10:00:00
+aCYYi5ZrCwjmU6CuJ-peQ,Ground_Daily,1st Settlement Station (New Cairo),0,vJDdUp5JayRhbSGb4srb5_Shape,vJDdUp5JayRhbSGb4srb5-10:00:00
+aCYYi5ZrCwjmU6CuJ-peQ,Ground_Daily,Abou Wafya,1,e1ahxcmYistI7jUCXYl5J_Shape,e1ahxcmYistI7jUCXYl5J-10:00:00
+aJY-YEz8s6i0ojLZgEitA,Ground_Daily,Alf Maskan Station,1,EP89QlXCJ86yS1iidQCWJ_Shape,EP89QlXCJ86yS1iidQCWJ-10:00:00
+aJY-YEz8s6i0ojLZgEitA,Ground_Daily,Kilo 4 & Half Station,0,1CVc7raPnIXvjdgIQv2wA_Shape,1CVc7raPnIXvjdgIQv2wA-10:00:00
+aLrT5j0aQaI9mR_I4nxYy,Ground_Daily,Matareya Square Station,0,x2xDi2dmpLUTyAooRdb8J_Shape,x2xDi2dmpLUTyAooRdb8J-10:00:00
+aLrT5j0aQaI9mR_I4nxYy,Ground_Daily,Mazallat Station,1,rMZqUrt7brTZ7bfJ_bItX_Shape,rMZqUrt7brTZ7bfJ_bItX-10:00:00
+aPqU-5Zq_31ywCFAxL2wE,Ground_Daily,Alf Maskan Station,1,dFWoSyUx9VeTsDoZOeb6L_Shape,dFWoSyUx9VeTsDoZOeb6L-10:00:00
+aPqU-5Zq_31ywCFAxL2wE,Ground_Daily,Awwel Makram Ebeid,0,SN1khuvdRJpma28pcj80z_Shape,SN1khuvdRJpma28pcj80z-10:00:00
+aWV3f3TuFNL4Wo6tZP7KU,Ground_Daily,Lebanon Square Station,0,o9wXFy0vwOjhYJaXowXyW_Shape,o9wXFy0vwOjhYJaXowXyW-10:00:00
+aWV3f3TuFNL4Wo6tZP7KU,Ground_Daily,Saqr Quraish Station,1,nO92jw7XzkAWKEpXoiMEP_Shape,nO92jw7XzkAWKEpXoiMEP-10:00:00
+avm32oXuwPxCT17sZkBf2,Ground_Daily,Moneeb Station,1,o_tXDMxbGoDfpE0_0IPdx_Shape,o_tXDMxbGoDfpE0_0IPdx-10:00:00
+avm32oXuwPxCT17sZkBf2,Ground_Daily,Qism El Hadayek,0,NJv7t_tCFGAPfBb5nzWD8_Shape,NJv7t_tCFGAPfBb5nzWD8-10:00:00
+bIbrbTpxCAep4mS2L2FoJ,Ground_Daily,Moassasa Station,1,2PeXca8QJ6kY751cc_yVk_Shape,2PeXca8QJ6kY751cc_yVk-10:00:00
+bPAOgrQbVCQOI58hPq8M2,Ground_Daily,Abou Wafya,0,TbK9tZmuNGW4v2jHKyAwI_Shape,TbK9tZmuNGW4v2jHKyAwI-10:00:00
+bPAOgrQbVCQOI58hPq8M2,Ground_Daily,Zahraa Madinet Nasr,1,94Iz9QKo-zHK5qNkwPYBu_Shape,94Iz9QKo-zHK5qNkwPYBu-10:00:00
+blJ-Wh52qAtvzY4CZegdj,Ground_Daily,Giza Square Station,1,C6B6Rzoeoh3Ko8GSTaHa7_Shape,C6B6Rzoeoh3Ko8GSTaHa7-10:00:00
+blJ-Wh52qAtvzY4CZegdj,Ground_Daily,Moneeb Station,0,LJ6y7KJbOBiNQtvVL9jWB_Shape,LJ6y7KJbOBiNQtvVL9jWB-10:00:00
+bn1tRMyVcFLKoJ48jSDDC,Ground_Daily,Ahmed Helmy Station,0,2Mz8m8AYyMTyawZGij79B_Shape,2Mz8m8AYyMTyawZGij79B-10:00:00
+bn1tRMyVcFLKoJ48jSDDC,Ground_Daily,Lebanon Square Station,1,mBTMuFp0D7E8_SDm91nuF_Shape,mBTMuFp0D7E8_SDm91nuF-10:00:00
+bvWwmlVRmaOh17E4NPADx,Ground_Daily,Bashtil,0,VgmxUeccLtlPXl33oR3uz_Shape,VgmxUeccLtlPXl33oR3uz-10:00:00
+bvWwmlVRmaOh17E4NPADx,Ground_Daily,Masaken Zeinhom Station,1,1a_PppQFM_WxUB1rEXPcN_Shape,1a_PppQFM_WxUB1rEXPcN-10:00:00
+bxHMMd-JyQtEEVzZqhYxF,Ground_Daily,Qawmeya Arabeya,0,wFWcU3kNp5irSDOtTH2cC_Shape,wFWcU3kNp5irSDOtTH2cC-10:00:00
+c7dsOrHcVJ5TLsMxuO3XG,Ground_Daily,Amr Ibn El Aas Station,1,ffTUYGhm01sKvxu-VppEb_Shape,ffTUYGhm01sKvxu-VppEb-10:00:00
+c9cUCbuNGMusHnHEIT34g,Ground_Daily,Attaba,0,J_6BqjK5XPmvpWbYg7cGo_Shape,J_6BqjK5XPmvpWbYg7cGo-10:00:00
+c9cUCbuNGMusHnHEIT34g,Ground_Daily,Bulaq Al Dakrur Station,1,cNb0nc-7qY4etZkIAleyi_Shape,cNb0nc-7qY4etZkIAleyi-10:00:00
+cSajDgx0bM1XDy4LLTYL4,Ground_Daily,Koleyet Al Banat - Azhar University,0,-jbwsmTuJT-18PrtIZiVg_Shape,-jbwsmTuJT-18PrtIZiVg-10:00:00
+cSajDgx0bM1XDy4LLTYL4,Ground_Daily,Moneeb Station,1,Ouem3kI2tS-gmZN1_xldM_Shape,Ouem3kI2tS-gmZN1_xldM-10:00:00
+cWtZ4nvWgHX7RWH24OAA1,Ground_Daily,1st Settlement Station (New Cairo),0,Xe7lCzhenPzeO_oGwGv_j_Shape,Xe7lCzhenPzeO_oGwGv_j-10:00:00
+cWtZ4nvWgHX7RWH24OAA1,Ground_Daily,Dawaran Shubra Station,1,qllgFm9Qi_8mfukN9NPDI_Shape,qllgFm9Qi_8mfukN9NPDI-10:00:00
+c_zrdXjQmBwztXf6Nw7jP,Ground_Daily,Moneeb Station,0,s95rYNPKIQZZgEHMT180x_Shape,s95rYNPKIQZZgEHMT180x-10:00:00
+ctcoGGvDNd93MT5czSIi7,Ground_Daily,Al Warraq Station,1,aBQdy7wXbDVhLP_6vOpS4_Shape,aBQdy7wXbDVhLP_6vOpS4-10:00:00
+ctcoGGvDNd93MT5czSIi7,Ground_Daily,Masaken Al Shorouq,0,9JcaU1omV6ritEDLM7Nt4_Shape,9JcaU1omV6ritEDLM7Nt4-10:00:00
+czcD_GDbPM3RYT-b_E4GE,Ground_Daily,Bohooth (Al Kobri Al Khashab),0,abjuVl6P3Zefcgjb3771L_Shape,abjuVl6P3Zefcgjb3771L-10:00:00
+czcD_GDbPM3RYT-b_E4GE,Ground_Daily,Lebanon Square Station,1,fjxYlM6-6rngjKgpdA16E_Shape,fjxYlM6-6rngjKgpdA16E-10:00:00
+d-Goa1xpnuFiRnI_5i9Uy,Ground_Daily,Kolleyet Al Zeraah (Cairo University),1,K42B__rhCvu6WmQt2uA71_Shape,K42B__rhCvu6WmQt2uA71-10:00:00
+d-Goa1xpnuFiRnI_5i9Uy,Ground_Daily,Tagneed (Al Remaya),0,Jl1-13XqPRVM4o6Ajrz6a_Shape,Jl1-13XqPRVM4o6Ajrz6a-10:00:00
+dGZEosc821pSF0MGiNb76,Ground_Daily,Alf Maskan Station,1,gDtlsPkrJeYqI5rcllGrG_Shape,gDtlsPkrJeYqI5rcllGrG-10:00:00
+dGZEosc821pSF0MGiNb76,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,uagnaEHnKUeUtdMMMUg5-_Shape,uagnaEHnKUeUtdMMMUg5--10:00:00
+dJf-9v2Gx-4ypC7DPKMUc,Ground_Daily,Amiriya,1,uhS3faGDtS5WxB3WselV7_Shape,uhS3faGDtS5WxB3WselV7-10:00:00
+dJf-9v2Gx-4ypC7DPKMUc,Ground_Daily,Masaken Zeinhom Station,0,CMbyy7VA8yliqjgWkrzOU_Shape,CMbyy7VA8yliqjgWkrzOU-10:00:00
+dM98F5uCHLC-eVa5-BvJZ,Ground_Daily,Saqr Quraish Station,1,CFxbx3cZqNpQ0ud-zGQdb_Shape,CFxbx3cZqNpQ0ud-zGQdb-10:00:00
+dM98F5uCHLC-eVa5-BvJZ,Ground_Daily,Zahraa Madinet Nasr,0,aeeUpPyOJmTePFL9TcU20_Shape,aeeUpPyOJmTePFL9TcU20-10:00:00
+dOSjy2LRc3erAam81oIco,Ground_Daily,Applied Arts - Cairo University,0,54Ubh3NbYxMMgcUb5cXhC_Shape,54Ubh3NbYxMMgcUb5cXhC-10:00:00
+dOSjy2LRc3erAam81oIco,Ground_Daily,Kerdasa Station,1,JbrdkL6vijLXNgis_i2E7_Shape,JbrdkL6vijLXNgis_i2E7-10:00:00
+dX4GI-MLWfQt63dbt9LNY,Ground_Daily,3rd Settlement  (New Cairo),0,-K5xbYCncmsJtPgF87FPh_Shape,-K5xbYCncmsJtPgF87FPh-10:00:00
+dX4GI-MLWfQt63dbt9LNY,Ground_Daily,Moassasa Station,1,CEjD9ra2sGsqpb-3TlkHu_Shape,CEjD9ra2sGsqpb-3TlkHu-10:00:00
+dZLGvivIWt6t7VSFtbMB9,Ground_Daily,Ahmed Helmy Station,1,Qt3lixxGn_P1pFB3aT7LO_Shape,Qt3lixxGn_P1pFB3aT7LO-10:00:00
+dZLGvivIWt6t7VSFtbMB9,Ground_Daily,Amiriya,0,653grZvwrOa-5PEi-WGpF_Shape,653grZvwrOa-5PEi-WGpF-10:00:00
+db_dOwMf5RFl45eluXu_7,Ground_Daily,Moassasa Station,1,bQnE9B2RwrA9Kl_VDKS6B_Shape,bQnE9B2RwrA9Kl_VDKS6B-10:00:00
+db_dOwMf5RFl45eluXu_7,Ground_Daily,Qalaa Station,0,tG4t7DCG8aRlRpB6t566W_Shape,tG4t7DCG8aRlRpB6t566W-10:00:00
+dbjKnrgfrSA1JY3LJPYuQ,Ground_Daily,Koleyet Al Banat - Azhar University,1,GNifRImGUCdeA0LMUD7mk_Shape,GNifRImGUCdeA0LMUD7mk-10:00:00
+dbjKnrgfrSA1JY3LJPYuQ,Ground_Daily,Ramses Station,0,-38V-1462AQjnOZ3KLF_u_Shape,-38V-1462AQjnOZ3KLF_u-10:00:00
+dzCVUSS3MpR4QRQ6vLCn5,Ground_Daily,Hadaba Wosta (Moqattam),1,svdt369UUMdqvfIYxnJlO_Shape,svdt369UUMdqvfIYxnJlO-10:00:00
+dzCVUSS3MpR4QRQ6vLCn5,Ground_Daily,Mazallat Station,0,9majbh4pA5EyI6LSjq7Ex_Shape,9majbh4pA5EyI6LSjq7Ex-10:00:00
+e1xAb2o6cgzGY9iNvA5aG,Ground_Daily,Abd Al Moneim Riad Station,0,udcu_jh6ECxSLcRwqw0aw_Shape,udcu_jh6ECxSLcRwqw0aw-10:00:00
+e1xAb2o6cgzGY9iNvA5aG,Ground_Daily,Hossary Station,1,NCbDiEZ88oCvZdxkIc492_Shape,NCbDiEZ88oCvZdxkIc492-10:00:00
+e38x78tDVvSYikf-K2XLZ,Ground_Daily,Attaba,0,XyZH_k7oZvO0FW8qGK3BX_Shape,XyZH_k7oZvO0FW8qGK3BX-10:00:00
+e38x78tDVvSYikf-K2XLZ,Ground_Daily,New Marg Station,1,VSV_8wc2eg-I9SHkbTtLy_Shape,VSV_8wc2eg-I9SHkbTtLy-10:00:00
+e8XSHfUauPfbEm5GI8uZB,Ground_Daily,Kilo 4 & Half Station,1,I3gbZdiRMk-p3Hm8S9an-_Shape,I3gbZdiRMk-p3Hm8S9an--10:00:00
+e8XSHfUauPfbEm5GI8uZB,Ground_Daily,Madinat Al Talaba (Imbaba),0,7-2Hus9cSXr_MvlsOJ1uA_Shape,7-2Hus9cSXr_MvlsOJ1uA-10:00:00
+eMaHcYlisvFxLtiCbDGRM,Ground_Daily,Abd Al Moneim Riad Station,1,1tCbcB4StJaSs744BP-B3_Shape,1tCbcB4StJaSs744BP-B3-10:00:00
+eMaHcYlisvFxLtiCbDGRM,Ground_Daily,Amiriya,0,3WNQfQ6dHtvxSGuvG_JmS_Shape,3WNQfQ6dHtvxSGuvG_JmS-10:00:00
+eNaYFATGV4nFM2ODEQGb5,Ground_Daily,Al Wehda Imbaba (Al Bohi),0,U0EtbRjwg0wPrhwntA0QZ_Shape,U0EtbRjwg0wPrhwntA0QZ-10:00:00
+eNaYFATGV4nFM2ODEQGb5,Ground_Daily,Attaba,1,n_5Ch2ca9rn5mOS5TkQeD_Shape,n_5Ch2ca9rn5mOS5TkQeD-10:00:00
+eVbAOGbA9hx7lvF6qbJse,Ground_Daily,Moassaset Al Zakah,0,3omwXBNIXFwmsOp6t0g0f_Shape,3omwXBNIXFwmsOp6t0g0f-10:00:00
+eWiEGCcCP5bsCA6uPr2nY,Ground_Daily,Alf Masnaa,0,jVnpedrBEsYkrnKGjvgFm_Shape,jVnpedrBEsYkrnKGjvgFm-10:00:00
+eWiEGCcCP5bsCA6uPr2nY,Ground_Daily,Moneeb Station,1,lA1cWJPbQ3AC6-gUyV_BZ_Shape,lA1cWJPbQ3AC6-gUyV_BZ-10:00:00
+eZRgIovK0tJAVzmhR85GR,Ground_Daily,Moneeb Station,1,UaumqoRb2fXVALoiDElqP_Shape,UaumqoRb2fXVALoiDElqP-10:00:00
+eZRgIovK0tJAVzmhR85GR,Ground_Daily,Remaya Station (New Mashaal),0,EbW9mj9Kh_iHOsFZ7iHoi_Shape,EbW9mj9Kh_iHOsFZ7iHoi-10:00:00
+egjPD6593CKn95Mk98b1K,Ground_Daily,Darrasa,0,yX0EyQSRTAjFv3nD1f2x7_Shape,yX0EyQSRTAjFv3nD1f2x7-10:00:00
+egjPD6593CKn95Mk98b1K,Ground_Daily,Masaken Othman (Ezbet El Nakhl),1,lF4qwsHmyaVAFCKHrTn49_Shape,lF4qwsHmyaVAFCKHrTn49-10:00:00
+ej2ohQ-P0kTk-y-6MwMbM,Ground_Daily,Awwel Makram Ebeid,0,XDF0baRIyaul7_Mjbo3KD_Shape,XDF0baRIyaul7_Mjbo3KD-10:00:00
+ejAVozyP784n-DqXuiW2U,Ground_Daily,Abd Al Moneim Riad Station,1,3n_ieHlUgg-uK6HmOIw6O_Shape,3n_ieHlUgg-uK6HmOIw6O-10:00:00
+ejAVozyP784n-DqXuiW2U,Ground_Daily,Basateen,0,QGctwhccrMIzOjwKZdbNm_Shape,QGctwhccrMIzOjwKZdbNm-10:00:00
+epRYw8BYwgHH-RcYG5VZR,Ground_Daily,Al Omraneyya Al Gadida,1,oRN0dFG2NCZZWYsULox8b_Shape,oRN0dFG2NCZZWYsULox8b-10:00:00
+epRYw8BYwgHH-RcYG5VZR,Ground_Daily,Qism El Hadayek,0,mNRMKX69fLb4F8RGPUnzG_Shape,mNRMKX69fLb4F8RGPUnzG-10:00:00
+eyQjmu5-Lb_ghG2yj7OUr,Ground_Daily,Imbaba Station,1,YN7f_eVfPgHRvO5t0U2Df_Shape,YN7f_eVfPgHRvO5t0U2Df-10:00:00
+eyQjmu5-Lb_ghG2yj7OUr,Ground_Daily,Kilo 4 & Half Station,0,xhcIrkrc8dkF64fPkAi1i_Shape,xhcIrkrc8dkF64fPkAi1i-10:00:00
+ezg_t81DPrRfiBGLI9GbE,Ground_Daily,Arab Al Tawaila,1,KJgtoJxkqkbdGc7WFVKQp_Shape,KJgtoJxkqkbdGc7WFVKQp-10:00:00
+ezg_t81DPrRfiBGLI9GbE,Ground_Daily,Matareya Square Station,0,Mq4cLFIjsqrG6MQyXUEYs_Shape,Mq4cLFIjsqrG6MQyXUEYs-10:00:00
+f3VyvIsE1IEeM5gDkzXhN,Ground_Daily,Ahmed Helmy Station,0,rkiwLf4VrNOFvVH6Qj7TF_Shape,rkiwLf4VrNOFvVH6Qj7TF-10:00:00
+fIX2H6I2zopxdtQs4KTWy,Ground_Daily,Arab Al Tawaila,0,AxVsnzMFluHCAPK2oONyf_Shape,AxVsnzMFluHCAPK2oONyf-10:00:00
+fIX2H6I2zopxdtQs4KTWy,Ground_Daily,Basateen,1,kPHY6vaQOcBz6i5UdmjtB_Shape,kPHY6vaQOcBz6i5UdmjtB-10:00:00
+fI_k2RnEr3Kvx-feFgZpe,Ground_Daily,Haram & Marioteya Station,0,BNVenia-Y--aebUDo3QuH_Shape,BNVenia-Y--aebUDo3QuH-10:00:00
+fI_k2RnEr3Kvx-feFgZpe,Ground_Daily,Matbaa Station,1,FzDktTuMAJK8T4AsFe72u_Shape,FzDktTuMAJK8T4AsFe72u-10:00:00
+fKnTlCkWALIgjxXU63NNV,Ground_Daily,Haram & Marioteya Station,1,fIWajvgRPdwKzPg8CzL4y_Shape,fIWajvgRPdwKzPg8CzL4y-10:00:00
+fKnTlCkWALIgjxXU63NNV,Ground_Daily,Shabramant,0,WsYcWvIy1KsmM6MWP4vnx_Shape,WsYcWvIy1KsmM6MWP4vnx-10:00:00
+fS9OIlGI6L05UA_VqIaSd,Ground_Daily,Ahmed Helmy Station,1,NPrAWNNTrd4iPWIxq7ZkU_Shape,NPrAWNNTrd4iPWIxq7ZkU-10:00:00
+fS9OIlGI6L05UA_VqIaSd,Ground_Daily,Cairo Airport Station,0,tW_JhKj9h4kUYQ9HR_3Xy_Shape,tW_JhKj9h4kUYQ9HR_3Xy-10:00:00
+f_ndpqhZbBLRF7rSyRerB,Ground_Daily,Haram Areesh (Sahl Hamza),0,yTbKE0MOB1k51v1dnqrIH_Shape,yTbKE0MOB1k51v1dnqrIH-10:00:00
+f_ndpqhZbBLRF7rSyRerB,Ground_Daily,Ramses Station,1,xsEfng8Qu4Ek_2fU4RNR0_Shape,xsEfng8Qu4Ek_2fU4RNR0-10:00:00
+fhoRkkZP1LuBccGcQ-lPf,Ground_Daily,Bigam,0,QPEPsQ5_o5R_F1vPNrHRq_Shape,QPEPsQ5_o5R_F1vPNrHRq-10:00:00
+fhoRkkZP1LuBccGcQ-lPf,Ground_Daily,Moassasa Station,1,1lif0yYnvYLeSXzzrLvEl_Shape,1lif0yYnvYLeSXzzrLvEl-10:00:00
+foiu6unw8p8KJnIDFM5Xs,Ground_Daily,Moassasa Station,0,yIaK18BUQRWWrkqHnrpGr_Shape,yIaK18BUQRWWrkqHnrpGr-10:00:00
+foiu6unw8p8KJnIDFM5Xs,Ground_Daily,Qalyoub El Balad,1,zvbzjRXKLBtpYm0CpnU4s_Shape,zvbzjRXKLBtpYm0CpnU4s-10:00:00
+fuicPDe5V7A7QVMdRss5o,Ground_Daily,1st Settlement Station (New Cairo),1,CdCXFk8LVRPlEdcAsybM4_Shape,CdCXFk8LVRPlEdcAsybM4-10:00:00
+fuicPDe5V7A7QVMdRss5o,Ground_Daily,Moassasa Station,0,EAD7ESvO8AGn7Gdb9m7Iu_Shape,EAD7ESvO8AGn7Gdb9m7Iu-10:00:00
+fwS4JbFtp5dtGtwMGqXBH,Ground_Daily,Al Sayeda Aisha Station,1,sP0bWf6FAAxkO9XtSIUU-_Shape,sP0bWf6FAAxkO9XtSIUU--10:00:00
+fwS4JbFtp5dtGtwMGqXBH,Ground_Daily,Haram & Marioteya Station,0,_hB-lwV9KADdBkv-YpYtE_Shape,_hB-lwV9KADdBkv-YpYtE-10:00:00
+gD54eeIS5drTlju1bVuOq,Ground_Daily,Masaken Sheraton,0,nGTvUNK4amdBNB1oemjuU_Shape,nGTvUNK4amdBNB1oemjuU-10:00:00
+gD54eeIS5drTlju1bVuOq,Ground_Daily,Saqr Quraish Station,1,J4WU8i97y8oINQihRmGHg_Shape,J4WU8i97y8oINQihRmGHg-10:00:00
+gcVLDRuFTONiBOvli2aQ8,Ground_Daily,Abou Al Reesh,1,44HUJqvTyivVY_pA0XF9A_Shape,44HUJqvTyivVY_pA0XF9A-10:00:00
+ghUS4XUgfmpDNLCwwFfTq,Ground_Daily,8th District (Nasr City) - Al tabba,1,JIUbxgkQsoB7jaumrjlFS_Shape,JIUbxgkQsoB7jaumrjlFS-10:00:00
+ghUS4XUgfmpDNLCwwFfTq,Ground_Daily,Attaba,0,l-NGxC0Mflsw9NCGYiHz4_Shape,l-NGxC0Mflsw9NCGYiHz4-10:00:00
+gwG-fhicbKS4E3iMRQz6P,Ground_Daily,Giza Square Station,1,WCBEGJtgPlF9fqLbTVpFA_Shape,WCBEGJtgPlF9fqLbTVpFA-10:00:00
+gwG-fhicbKS4E3iMRQz6P,Ground_Daily,Isko,0,Au0slpngpwQoN1yzQL6oh_Shape,Au0slpngpwQoN1yzQL6oh-10:00:00
+h2J_fjZiNjbt_8gzFSmzs,Ground_Daily,Lebanon Square Station,0,oacehl0X7OcJby1R4Oba0_Shape,oacehl0X7OcJby1R4Oba0-10:00:00
+h2J_fjZiNjbt_8gzFSmzs,Ground_Daily,Smart Village,1,T2r8Obs1qiEqRPcGqhAAW_Shape,T2r8Obs1qiEqRPcGqhAAW-10:00:00
+h7v0GKemY5eE-eh4q1KCJ,Ground_Daily,Abd Al Moneim Riad Station,1,EOrX00Zf9SoPIjbiMkqOT_Shape,EOrX00Zf9SoPIjbiMkqOT-10:00:00
+h7v0GKemY5eE-eh4q1KCJ,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),0,Nf8B6B77dg12dS27lEiV2_Shape,Nf8B6B77dg12dS27lEiV2-10:00:00
+h8hJSqxjvR_DV1rkw2S5k,Ground_Daily,Bulaq Al Dakrur Station,1,xODvGh5m1gysIDOicFZsr_Shape,xODvGh5m1gysIDOicFZsr-10:00:00
+h8hJSqxjvR_DV1rkw2S5k,Ground_Daily,Ramses Station,0,mEGbQLrsosBmQK5E0TDbM_Shape,mEGbQLrsosBmQK5E0TDbM-10:00:00
+hWB-y-hCqfdmkq-zh_JuY,Ground_Daily,Kattameya (Mahmoudeya),0,CdtCBDpc8H1wIAh3gL7F9_Shape,CdtCBDpc8H1wIAh3gL7F9-10:00:00
+hWB-y-hCqfdmkq-zh_JuY,Ground_Daily,Matbaa Station,1,sVLjQqeGzl6qcdkCewmBA_Shape,sVLjQqeGzl6qcdkCewmBA-10:00:00
+hXNe26POoDE0MSAUxW0W_,Ground_Daily,Koleyet Al Banat - Ain Shams University,0,3tcyQVgc16XYPT4uMGMoQ_Shape,3tcyQVgc16XYPT4uMGMoQ-10:00:00
+hXNe26POoDE0MSAUxW0W_,Ground_Daily,Mazallat Station,1,SQS0ky8kX6fEx2QV_csPL_Shape,SQS0ky8kX6fEx2QV_csPL-10:00:00
+hdBN4uzpUjTGN0vKzf9kW,Ground_Daily,Al Sayeda Aisha Station,1,uTBstBNJIGFsx-MTz-_p__Shape,uTBstBNJIGFsx-MTz-_p_-10:00:00
+hdBN4uzpUjTGN0vKzf9kW,Ground_Daily,Giza Square Station,0,Fj4oR3vqySOLf11ya8xjt_Shape,Fj4oR3vqySOLf11ya8xjt-10:00:00
+hnRdMePAiavyLNXrgXpgd,Ground_Daily,Al Sayeda Aisha Station,1,CmcapwzH_8ty-XTW5ZB5C_Shape,CmcapwzH_8ty-XTW5ZB5C-10:00:00
+hnRdMePAiavyLNXrgXpgd,Ground_Daily,Basateen,0,HcN6FkLgm7_Xn_vrR2Gia_Shape,HcN6FkLgm7_Xn_vrR2Gia-10:00:00
+ht0GgjSAbF0kdmnExj5Yz,Ground_Daily,Kolleyet Al Zeraah (Ain Shams University),1,9W3iyPYNsRzSoaetpx5gM_Shape,9W3iyPYNsRzSoaetpx5gM-10:00:00
+ht0GgjSAbF0kdmnExj5Yz,Ground_Daily,Masaken Al Wehda,0,neose4dIu0D5xc-3-CAy3_Shape,neose4dIu0D5xc-3-CAy3-10:00:00
+hzSgTxcnjIdeldzq3BHu1,Ground_Daily,Attaba,0,bVYx2wzlINWlT3VxrSOa5_Shape,bVYx2wzlINWlT3VxrSOa5-10:00:00
+hzSgTxcnjIdeldzq3BHu1,Ground_Daily,Moneeb Station,1,SQcfOYLs-Baq7hUHA-Lop_Shape,SQcfOYLs-Baq7hUHA-Lop-10:00:00
+iCZTu5NQScawKNksGO9uH,Ground_Daily,Khanka,0,aPV8CMG23hGEhTIdtARth_Shape,aPV8CMG23hGEhTIdtARth-10:00:00
+iCZTu5NQScawKNksGO9uH,Ground_Daily,New Marg Station,1,lkYTEIXpxUcOo05gN5lgu_Shape,lkYTEIXpxUcOo05gN5lgu-10:00:00
+iDpD8dsATU1Rs0Mdtlwor,Ground_Daily,Mostorod Station,0,E6Uoz2CnTV5NNTGElZgHQ_Shape,E6Uoz2CnTV5NNTGElZgHQ-10:00:00
+iMAKUgcl9tKwzLmwnFJLO,Ground_Daily,Hyper 1 Station,0,raqVtDZgfPBiA3c5IJg4C_Shape,raqVtDZgfPBiA3c5IJg4C-10:00:00
+iPmb6Kx9epuWwMHetjCnF,Ground_Daily,10th of Ramadan Station,1,VuaXfDvuhTYJ-TYWaJa76_Shape,VuaXfDvuhTYJ-TYWaJa76-10:00:00
+iPmb6Kx9epuWwMHetjCnF,Ground_Daily,Rabaah Al Adaweya Mosque,0,bBlepxQIGx5znx2OtsAhP_Shape,bBlepxQIGx5znx2OtsAhP-10:00:00
+iSJquE4a-hnmErov1zOQm,Ground_Daily,Bulaq Al Dakrur Station,1,Lc-sTQ-uc85unzCrt7jNw_Shape,Lc-sTQ-uc85unzCrt7jNw-10:00:00
+iSJquE4a-hnmErov1zOQm,Ground_Daily,Qism El Hadayek,0,3QaRurjjRUQOV0SPOzIiu_Shape,3QaRurjjRUQOV0SPOzIiu-10:00:00
+igaGwMdEQ1Rm4tT_CEE2b,Ground_Daily,Attaba,0,8I0wOD3PC6LrPZHFBlPO5_Shape,8I0wOD3PC6LrPZHFBlPO5-10:00:00
+igaGwMdEQ1Rm4tT_CEE2b,Ground_Daily,Masaken Sheraton,1,YW7kHHRpjoLOGxVAJxLjS_Shape,YW7kHHRpjoLOGxVAJxLjS-10:00:00
+ijoblexYmIYN_Bo_iD_Wg,Ground_Daily,Abageyah,1,wEmdNwndhzvYQzDBCZ1o5_Shape,wEmdNwndhzvYQzDBCZ1o5-10:00:00
+ijoblexYmIYN_Bo_iD_Wg,Ground_Daily,Masaken Al Wehda,0,Cm7fUZSwL5lqkaF3tlgtM_Shape,Cm7fUZSwL5lqkaF3tlgtM-10:00:00
+ioDO0LtWeYfrWrZ16TFr5,Ground_Daily,8th District (Nasr City) - Al tabba,0,HtnDSxl_VDYO7nAf1JQEP_Shape,HtnDSxl_VDYO7nAf1JQEP-10:00:00
+ioDO0LtWeYfrWrZ16TFr5,Ground_Daily,Al Omraneyya Al Gadida,1,gpH-MB6hz_X1o-u4hi6hh_Shape,gpH-MB6hz_X1o-u4hi6hh-10:00:00
+ivXdrHhB3_jqwPHGsvb9r,Ground_Daily,Ain Shams Metro,0,YBoJorWqe3UUpEMG_YY4z_Shape,YBoJorWqe3UUpEMG_YY4z-10:00:00
+j0B0wGsqFxUkOptBjcLvx,Ground_Daily,Al Sayeda Nafeesa,1,Bwe4YuydKF5qLZx7Myh8N_Shape,Bwe4YuydKF5qLZx7Myh8N-10:00:00
+j0B0wGsqFxUkOptBjcLvx,Ground_Daily,Isko,0,rg2pc3Wd_HwP6ONhYX8-V_Shape,rg2pc3Wd_HwP6ONhYX8-V-10:00:00
+j7UPthklnvwZzR-_G5yRe,Ground_Daily,Kilo 4 & Half Station,1,QVqv80pkYwvIBuXDmKDjF_Shape,QVqv80pkYwvIBuXDmKDjF-10:00:00
+j7UPthklnvwZzR-_G5yRe,Ground_Daily,Orabi Bridge,0,LGELGZ3gJdpi1fcXoj0PR_Shape,LGELGZ3gJdpi1fcXoj0PR-10:00:00
+jChkkQK1HtN-5QMYcjlUu,Ground_Daily,Awwel Makram Ebeid,0,BYj9wsCxxFHAHlmFtnpCC_Shape,BYj9wsCxxFHAHlmFtnpCC-10:00:00
+jIXHYKt1q-bq46OpP9z9c,Ground_Daily,1st Settlement Station (New Cairo),0,Oo2n1UutWDau_J_pbRhcm_Shape,Oo2n1UutWDau_J_pbRhcm-10:00:00
+jIXHYKt1q-bq46OpP9z9c,Ground_Daily,Abd Al Moneim Riad Station,1,DrQRMyEqf8ANl11qH5Ncc_Shape,DrQRMyEqf8ANl11qH5Ncc-10:00:00
+jt8i_WqEic-DbN7W3jQiM,Ground_Daily,Abbasseya Station,0,-eLELChGGvyxgyF-X6jYj_Shape,-eLELChGGvyxgyF-X6jYj-10:00:00
+jt8i_WqEic-DbN7W3jQiM,Ground_Daily,Warraq Al Arab (Cima),1,qGMypyH6BkUhsBepzlafV_Shape,qGMypyH6BkUhsBepzlafV-10:00:00
+jtkYqK9oNBf7XcgtSYXPG,Ground_Daily,Nahda City Station,0,Dgx6dGHe-3I8OdrQsFt0M_Shape,Dgx6dGHe-3I8OdrQsFt0M-10:00:00
+kBtm-qZ0NnQ1idoAL_yfA,Ground_Daily,Darrasa,0,6-jq-EnpefcYXM12q7YsQ_Shape,6-jq-EnpefcYXM12q7YsQ-10:00:00
+kBtm-qZ0NnQ1idoAL_yfA,Ground_Daily,Imbaba Station,1,ujI21qlha-l4SQcMquVUA_Shape,ujI21qlha-l4SQcMquVUA-10:00:00
+kRpR7tVa5mkJF71MQgxHN,Ground_Daily,Hadaba Wosta (Moqattam),0,7GQl2A2SxfqKgVVcqTb5j_Shape,7GQl2A2SxfqKgVVcqTb5j-10:00:00
+k_9mWTTJJol46IWykMhrV,Ground_Daily,Abbasseya Station,1,E-UH2aYp6e238lGf4dCE4_Shape,E-UH2aYp6e238lGf4dCE4-10:00:00
+k_9mWTTJJol46IWykMhrV,Ground_Daily,Alf Maskan Station,0,Q3S0pwhELtTmataUU3kc3_Shape,Q3S0pwhELtTmataUU3kc3-10:00:00
+kmJvmozOqYl95wRijRLnL,Ground_Daily,Dawaran Shubra Station,0,Aiq7p6R3Jnp6Bok0aX9Re_Shape,Aiq7p6R3Jnp6Bok0aX9Re-10:00:00
+kmJvmozOqYl95wRijRLnL,Ground_Daily,Masaken Sheraton,1,3ZA9yhKgNaHbbYLy2R_Ch_Shape,3ZA9yhKgNaHbbYLy2R_Ch-10:00:00
+ktpntHMzg1dBhqPWG7ifu,Ground_Daily,Masaken Ain Shams Station,0,pCFy1IddUrv10qXzIg1jC_Shape,pCFy1IddUrv10qXzIg1jC-10:00:00
+ktpntHMzg1dBhqPWG7ifu,Ground_Daily,Matbaa Station,1,DAmgOfI1Qjuv8Fag9fURC_Shape,DAmgOfI1Qjuv8Fag9fURC-10:00:00
+kv8R2uui-Di2K3gVwZO78,Ground_Daily,Giza Square Station,0,yKDA-pdMJtQtqSuAXlWim_Shape,yKDA-pdMJtQtqSuAXlWim-10:00:00
+kv8R2uui-Di2K3gVwZO78,Ground_Daily,Hawamdeyya,1,OUaWM6rgmTRAalUGoG5CF_Shape,OUaWM6rgmTRAalUGoG5CF-10:00:00
+ky6MXHGj0HKPAoqxgFyyp,Ground_Daily,7th District Station (Nasr City),0,c2NjHWq9fzpTrP1H1WjOy_Shape,c2NjHWq9fzpTrP1H1WjOy-10:00:00
+ky6MXHGj0HKPAoqxgFyyp,Ground_Daily,Lebanon Square Station,1,bb0vvkYr4yj-fPhtc6Cg5_Shape,bb0vvkYr4yj-fPhtc6Cg5-10:00:00
+lERFh__deEcw2uO7KdOxv,Ground_Daily,Faisal St & Ring Rd,1,6mvVdm7jGJugVxf4ASsU8_Shape,6mvVdm7jGJugVxf4ASsU8-10:00:00
+lERFh__deEcw2uO7KdOxv,Ground_Daily,Moneeb Station,0,_oKIdcJxXUGButLDz7SnW_Shape,_oKIdcJxXUGButLDz7SnW-10:00:00
+lFki0psvWKrqJWc6Qz6PR,Ground_Daily,FUE,1,hadD4w1LLAz3bc-jTVCWe_Shape,hadD4w1LLAz3bc-jTVCWe-10:00:00
+lXdhO5SFzPueut3URDvPn,Ground_Daily,Abbasseya Station,0,ouZGfbp2Z9fCZI3BGmeVi_Shape,ouZGfbp2Z9fCZI3BGmeVi-10:00:00
+lXdhO5SFzPueut3URDvPn,Ground_Daily,Hadaba Wosta (Moqattam),1,Bm-gITeH4nMcm28YeHW6p_Shape,Bm-gITeH4nMcm28YeHW6p-10:00:00
+ldy3O2UlQPWYA4Jj8vJgN,Ground_Daily,Abd Al Moneim Riad Station,0,1Jxp2htELubmmtlyac8dW_Shape,1Jxp2htELubmmtlyac8dW-10:00:00
+ldy3O2UlQPWYA4Jj8vJgN,Ground_Daily,Saqr Quraish Station,1,TUSD_EZa8I3dzm0ZTy6lc_Shape,TUSD_EZa8I3dzm0ZTy6lc-10:00:00
+lnb3vDxVc9ZLbejDbwGIm,Ground_Daily,Abd Al Moneim Riad Station,1,oOeeggno6HlGrWXpopaoQ_Shape,oOeeggno6HlGrWXpopaoQ-10:00:00
+lnb3vDxVc9ZLbejDbwGIm,Ground_Daily,Khosous,0,opKtkd2aHX2hJuF9DlykN_Shape,opKtkd2aHX2hJuF9DlykN-10:00:00
+luITCTGk3nUs1odvaqf3p,Ground_Daily,Mazallat Station,0,-UQXjwQF811B-lvfw9buo_Shape,-UQXjwQF811B-lvfw9buo-10:00:00
+luITCTGk3nUs1odvaqf3p,Ground_Daily,Qalyoub El Balad,1,QKcEm_pAarQ1q6UoXj6zn_Shape,QKcEm_pAarQ1q6UoXj6zn-10:00:00
+lvMyRSGX-pAwdUcOqYZqG,Ground_Daily,8th District (Nasr City) - Al tabba,1,JOJp9AiZfsP2uH9OLnaz__Shape,JOJp9AiZfsP2uH9OLnaz_-10:00:00
+lvMyRSGX-pAwdUcOqYZqG,Ground_Daily,Athar Al Naby,0,hfFkmcERIMMI2rg6hD3Oj_Shape,hfFkmcERIMMI2rg6hD3Oj-10:00:00
+lzExfvE08FXIFTjkNJgv9,Ground_Daily,Maadi Metro Station,0,WGFyD5320CsVpfY1E06bZ_Shape,WGFyD5320CsVpfY1E06bZ-10:00:00
+lzExfvE08FXIFTjkNJgv9,Ground_Daily,Saqr Quraish Station,1,5z5IS5JS6NvWMLdsqdMkh_Shape,5z5IS5JS6NvWMLdsqdMkh-10:00:00
+m9IKw8bdVfTvbKv5OgLgV,Ground_Daily,Al Sawah Square,1,WtEBQq5EdkGx4y_UQ7ew9_Shape,WtEBQq5EdkGx4y_UQ7ew9-10:00:00
+m9IKw8bdVfTvbKv5OgLgV,Ground_Daily,Roxy,0,UTuafEhn7Xk7Aq_b4hodm_Shape,UTuafEhn7Xk7Aq_b4hodm-10:00:00
+mACiG8_tUrwcPtvZXP8Od,Ground_Daily,Amr Ibn El Aas Station,1,Z2i2X5io2aUNPFgnPIwsx_Shape,Z2i2X5io2aUNPFgnPIwsx-10:00:00
+mACiG8_tUrwcPtvZXP8Od,Ground_Daily,Mazallat Station,0,oELNmpgtOUikS4UQefiVl_Shape,oELNmpgtOUikS4UQefiVl-10:00:00
+mArLEgVOmRmk2qjpXCcyb,Ground_Daily,Abbasseya Station,1,Fjrhk0k9_JtBrtjs0DcNC_Shape,Fjrhk0k9_JtBrtjs0DcNC-10:00:00
+mArLEgVOmRmk2qjpXCcyb,Ground_Daily,Matareya Square Station,0,CofXlb7DLIH6g0yDS7u3__Shape,CofXlb7DLIH6g0yDS7u3_-10:00:00
+mFhgyri40omCemrCH5KSb,Ground_Daily,AUC Bus Station,0,wj9LBMz4vfzunNVGSJX7U_Shape,wj9LBMz4vfzunNVGSJX7U-10:00:00
+mFhgyri40omCemrCH5KSb,Ground_Daily,New Marg Station,1,ek2c7gokR1CLCHXA346Rj_Shape,ek2c7gokR1CLCHXA346Rj-10:00:00
+mJ3Uz3bPDk1tGlIZ2IIF1,Ground_Daily,Abbasseya Station,1,jAnqKVtLGG8ACnBZ_VORU_Shape,jAnqKVtLGG8ACnBZ_VORU-10:00:00
+mJ3Uz3bPDk1tGlIZ2IIF1,Ground_Daily,Lebanon Square Station,0,jU-pgtdsZN_nH9hov1Xad_Shape,jU-pgtdsZN_nH9hov1Xad-10:00:00
+mNmLsNHPMlBfFhZRjrgK2,Ground_Daily,1st Settlement Station (New Cairo),1,TTa25Eb4vxhkpJD1HSwrU_Shape,TTa25Eb4vxhkpJD1HSwrU-10:00:00
+mNmLsNHPMlBfFhZRjrgK2,Ground_Daily,Imbaba Station,0,RCVKHObIvN-uKPbI1OfI-_Shape,RCVKHObIvN-uKPbI1OfI--10:00:00
+mQ36caejcbeqdwPrBveqE,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,QeLOwI9Ks71JCqgnF84dZ_Shape,QeLOwI9Ks71JCqgnF84dZ-10:00:00
+mQ36caejcbeqdwPrBveqE,Ground_Daily,Moassasa Station,1,zGVOYRXlU4wjQ0Ug3XnG0_Shape,zGVOYRXlU4wjQ0Ug3XnG0-10:00:00
+mVQ0zufyJ93lZbi9DOTdP,Ground_Daily,7th District Station (Nasr City),0,3r27aoIM6vBSMWGBbmD_6_Shape,3r27aoIM6vBSMWGBbmD_6-10:00:00
+mVQ0zufyJ93lZbi9DOTdP,Ground_Daily,Alf Maskan Station,1,QbXIEPPwJmii8VBXIvah8_Shape,QbXIEPPwJmii8VBXIvah8-10:00:00
+mVZQtFYsUCVuagT7jiTQ-,Ground_Daily,8th District (Nasr City) - Al tabba,0,YXJ-Z6GxkkjFJ3B9uTHqG_Shape,YXJ-Z6GxkkjFJ3B9uTHqG-10:00:00
+mVZQtFYsUCVuagT7jiTQ-,Ground_Daily,Masaken Al Wehda,1,hFoSw0jAlkqRhbVioqay-_Shape,hFoSw0jAlkqRhbVioqay--10:00:00
+mrJT7Y9lx0AZq-7wl66cW,Ground_Daily,Abd Al Moneim Riad Station,0,5Wa445Wmd9tgkdDCVA4mj_Shape,5Wa445Wmd9tgkdDCVA4mj-10:00:00
+mrJT7Y9lx0AZq-7wl66cW,Ground_Daily,Al Qanatir Al Khayriyyah,1,qV3pJnznj0Utd1I7Z6_b1_Shape,qV3pJnznj0Utd1I7Z6_b1-10:00:00
+mwUKKpciQEKn_H2kOT4BD,Ground_Daily,Giza Square Station,0,qiO9Oe6mmaDzEjw8Wqw58_Shape,qiO9Oe6mmaDzEjw8Wqw58-10:00:00
+mwUKKpciQEKn_H2kOT4BD,Ground_Daily,Znen (Awwel Al Eshreen),1,7ejWuP8z_-yXEIrG9P8V3_Shape,7ejWuP8z_-yXEIrG9P8V3-10:00:00
+n4ilqcRQ9yJVFWs-xSz-D,Ground_Daily,Abd Al Moneim Riad Station,1,NfAznBDxjdRYqjTlm4Zyl_Shape,NfAznBDxjdRYqjTlm4Zyl-10:00:00
+n4ilqcRQ9yJVFWs-xSz-D,Ground_Daily,Al Qanatir Al Khayriyyah,0,PoG5GbrPzeOTCB4FcMYYA_Shape,PoG5GbrPzeOTCB4FcMYYA-10:00:00
+nOJ9PATzYJARWxEfkqu5L,Ground_Daily,Al Sayeda Nafeesa,1,82kndFLQ75MFJVK20-GAf_Shape,82kndFLQ75MFJVK20-GAf-10:00:00
+nOJ9PATzYJARWxEfkqu5L,Ground_Daily,Isko,0,ojeBAcJlaMYZw8lIcLZgF_Shape,ojeBAcJlaMYZw8lIcLZgF-10:00:00
+nPQFHmEKjUVtIvFp4H1KK,Ground_Daily,Magda Square,1,XdtRQxInrrw5jH6el3WRR_Shape,XdtRQxInrrw5jH6el3WRR-10:00:00
+nPQFHmEKjUVtIvFp4H1KK,Ground_Daily,Moassasa Station,0,OKObb7PcF-AeiovAyBSM8_Shape,OKObb7PcF-AeiovAyBSM8-10:00:00
+nQKW52Ox3zlyelPVrnuvw,Ground_Daily,1st Settlement Station (New Cairo),1,vMFfUxGiz7B-eiVXVk75X_Shape,vMFfUxGiz7B-eiVXVk75X-10:00:00
+nQKW52Ox3zlyelPVrnuvw,Ground_Daily,Al Zawya Al Hamra Station,0,1prom-u8OBc3WEzCI8AMa_Shape,1prom-u8OBc3WEzCI8AMa-10:00:00
+ne9Df9bfGqa0RrCaPqNTA,Ground_Daily,Al Sayeda Aisha Station,0,l4MLv4Hej9iNDZ-u8WHYj_Shape,l4MLv4Hej9iNDZ-u8WHYj-10:00:00
+ne9Df9bfGqa0RrCaPqNTA,Ground_Daily,Moneeb Station,1,qfv24AYekPZ1ipKgkznXc_Shape,qfv24AYekPZ1ipKgkznXc-10:00:00
+nf1dT47KvJP9Y2TD0As54,Ground_Daily,Awwel Makram Ebeid,0,2FE2bdXteCUn7b_5KXZJ4_Shape,2FE2bdXteCUn7b_5KXZJ4-10:00:00
+nf1dT47KvJP9Y2TD0As54,Ground_Daily,Saqr Quraish Station,1,QEVZnuIYBDbKv2mQ2uGmc_Shape,QEVZnuIYBDbKv2mQ2uGmc-10:00:00
+nfGw_AtUWg704oRknN6oJ,Ground_Daily,1st Settlement Station (New Cairo),1,e6awGIIw2y5SAdHpqsRFL_Shape,e6awGIIw2y5SAdHpqsRFL-10:00:00
+nfGw_AtUWg704oRknN6oJ,Ground_Daily,Mazallat Station,0,FETCG69F_utmDPGSMFUHn_Shape,FETCG69F_utmDPGSMFUHn-10:00:00
+nhJyCrgCzEnJX58NfGuFk,Ground_Daily,Masaken Ain Shams Station,0,5-uXnV_YMj-7tj-mclLA4_Shape,5-uXnV_YMj-7tj-mclLA4-10:00:00
+nhJyCrgCzEnJX58NfGuFk,Ground_Daily,Znen (Awwel Al Eshreen),1,KDuMiBZRY2iSrNnlXCsua_Shape,KDuMiBZRY2iSrNnlXCsua-10:00:00
+oBfdc8gljJblvRbAa0dmX,Ground_Daily,10th District Station (Nasr City),0,2oLBLNHmgDTCcWxV8HM1k_Shape,2oLBLNHmgDTCcWxV8HM1k-10:00:00
+oBfdc8gljJblvRbAa0dmX,Ground_Daily,7th District Station (Nasr City),1,-Qv5s0L9pTwdXzlcBGSMV_Shape,-Qv5s0L9pTwdXzlcBGSMV-10:00:00
+oVLz5uMkzuzBcOtlii3MM,Ground_Daily,Hadaek EL Kobba,0,QLfeOMwt17Mn12It_kDc-_Shape,QLfeOMwt17Mn12It_kDc--10:00:00
+oVLz5uMkzuzBcOtlii3MM,Ground_Daily,Matareya Square Station,1,CJfSrJecEHuxJ-j3w7FGk_Shape,CJfSrJecEHuxJ-j3w7FGk-10:00:00
+oq0Kd02t351SYBTGRu4mX,Ground_Daily,Bigam,0,fwYPyGH9hzSl5AawPRwG7_Shape,fwYPyGH9hzSl5AawPRwG7-10:00:00
+oq0Kd02t351SYBTGRu4mX,Ground_Daily,Masaken Al Shorouq,1,jJjuAoxnGvBiE3TKD10jq_Shape,jJjuAoxnGvBiE3TKD10jq-10:00:00
+p3-8qu3UivDvTp0cckEVG,Ground_Daily,Haram Talbeya,1,WlyxFoUGEmOwnigxzisOe_Shape,WlyxFoUGEmOwnigxzisOe-10:00:00
+p3-8qu3UivDvTp0cckEVG,Ground_Daily,Kafr Tohormos,0,KTNeRW7xWuvACku1TBi1-_Shape,KTNeRW7xWuvACku1TBi1--10:00:00
+pHXU8x5lS5GcVfRS1nUfp,Ground_Daily,8th District (Nasr City) - Al tabba,0,AKMdMoRR1v8XE5LAO8_es_Shape,AKMdMoRR1v8XE5LAO8_es-10:00:00
+pHXU8x5lS5GcVfRS1nUfp,Ground_Daily,Abd Al Moneim Riad Station,1,odKIseXtA1rprKflMEUWB_Shape,odKIseXtA1rprKflMEUWB-10:00:00
+pVHOF8IJskNhngPjJTJY5,Ground_Daily,Abd Al Moneim Riad Station,1,3w9sXzlnZy8jK4ohty72l_Shape,3w9sXzlnZy8jK4ohty72l-10:00:00
+pVHOF8IJskNhngPjJTJY5,Ground_Daily,Al Wehda Imbaba (Al Bohi),0,pk6x7udBBk48P0rK6Fyk3_Shape,pk6x7udBBk48P0rK6Fyk3-10:00:00
+qF9eq082_adr4tlPXHbat,Ground_Daily,Al Warraq Station,0,CblL4jR7hcRvXnQ2kBZPT_Shape,CblL4jR7hcRvXnQ2kBZPT-10:00:00
+qF9eq082_adr4tlPXHbat,Ground_Daily,Kilo 4 & Half Station,1,8HMykSUNo6PuV3wNpROdZ_Shape,8HMykSUNo6PuV3wNpROdZ-10:00:00
+qZa_NLYmMwMD_p_1GWu_I,Ground_Daily,10th District Station (Nasr City),0,v3PUdKlEKXihKtVGMaa3Z_Shape,v3PUdKlEKXihKtVGMaa3Z-10:00:00
+r2vpERz_TL7ahX5F7dvh9,Ground_Daily,Al Warraq Station,1,G008xMGQAqLcxPqhaQk8o_Shape,G008xMGQAqLcxPqhaQk8o-10:00:00
+r2vpERz_TL7ahX5F7dvh9,Ground_Daily,Qalaa Station,0,ua3Rsj_FOxVNvZ3Mffslp_Shape,ua3Rsj_FOxVNvZ3Mffslp-10:00:00
+r3Rn-Eht_A27WHh3b8Zn0,Ground_Daily,Attaba,1,9BuuxT88-Dcg8AlvLYTRN_Shape,9BuuxT88-Dcg8AlvLYTRN-10:00:00
+r3Rn-Eht_A27WHh3b8Zn0,Ground_Daily,Bashtil,0,RscPaOA60W9hNlnS9ERxv_Shape,RscPaOA60W9hNlnS9ERxv-10:00:00
+rIW1na7aSBeUGKSkhuuGI,Ground_Daily,10th District Station (Nasr City),0,tBH4Lv8OCuq7-A1LRttyZ_Shape,tBH4Lv8OCuq7-A1LRttyZ-10:00:00
+rIW1na7aSBeUGKSkhuuGI,Ground_Daily,Awwel Makram Ebeid,1,G9tGmEx13yvfzIbpTjyra_Shape,G9tGmEx13yvfzIbpTjyra-10:00:00
+rN_2eW65vTEH6zLEx4HC1,Ground_Daily,Alf Maskan Station,1,42SqVS4RO0a3IptK1IyHu_Shape,42SqVS4RO0a3IptK1IyHu-10:00:00
+rSzg2M_8gM0cX-PnDBpDS,Ground_Daily,Giza Square Station,1,F2dyoro1POGK4max-3X5n_Shape,F2dyoro1POGK4max-3X5n-10:00:00
+rSzg2M_8gM0cX-PnDBpDS,Ground_Daily,Helwan Post Office,0,u9Mf7HsbQAiFsdXlNwGh__Shape,u9Mf7HsbQAiFsdXlNwGh_-10:00:00
+r_aM8g8hbeCg_QnsOQXZh,Ground_Daily,Al Magzar (Mariouteya),0,Od_bQMuApDiGb3x3AWiyi_Shape,Od_bQMuApDiGb3x3AWiyi-10:00:00
+r_aM8g8hbeCg_QnsOQXZh,Ground_Daily,Masaken Al Wehda,1,Zu_U7Vqjv9PObkdL6LAZk_Shape,Zu_U7Vqjv9PObkdL6LAZk-10:00:00
+rdpn6hzcA1xgiqwViabDy,Ground_Daily,New Marg Station,1,qreRDURlt-7127-4ceEHw_Shape,qreRDURlt-7127-4ceEHw-10:00:00
+rkJxL56Q3OKc76Ff6Pg8s,Ground_Daily,10th District Station (Nasr City),0,Y-Bx0w7ERNonpeDIxRtrE_Shape,Y-Bx0w7ERNonpeDIxRtrE-10:00:00
+rkJxL56Q3OKc76Ff6Pg8s,Ground_Daily,Darrasa,1,R4x9UhDKodD76B8M3YTih_Shape,R4x9UhDKodD76B8M3YTih-10:00:00
+rumnfrVLyA8ZA3JpTI5Ef,Ground_Daily,Bulaq Al Dakrur Station,0,CatJwOOwZ8DIWUp2j2d_d_Shape,CatJwOOwZ8DIWUp2j2d_d-10:00:00
+rumnfrVLyA8ZA3JpTI5Ef,Ground_Daily,Om Bayoumi (Mintay),1,HHmYYWpQXjzMEEUKI19UK_Shape,HHmYYWpQXjzMEEUKI19UK-10:00:00
+ryPRB8CSZ4RJjvfbdXDC1,Ground_Daily,8th District (Nasr City) - Al tabba,0,ZlXcxH5KUrvthCyPBewW0_Shape,ZlXcxH5KUrvthCyPBewW0-10:00:00
+ryPRB8CSZ4RJjvfbdXDC1,Ground_Daily,Moneeb Station,1,Oebyhzd0pncNbQjd6E0gC_Shape,Oebyhzd0pncNbQjd6E0gC-10:00:00
+sIt6Ay8Ghb65PsqmDHyii,Ground_Daily,8th District (Nasr City) - Al tabba,1,DAprpxbTBk8LTOBECI66W_Shape,DAprpxbTBk8LTOBECI66W-10:00:00
+sIt6Ay8Ghb65PsqmDHyii,Ground_Daily,Madinat Al Talaba (Imbaba),0,J3kXMMBcVr8GZNZikyAJN_Shape,J3kXMMBcVr8GZNZikyAJN-10:00:00
+t-VkUnvixIVORTzsevcAZ,Ground_Daily,Amr Ibn El Aas Station,0,CireAw80O5zvwMHo5fUVo_Shape,CireAw80O5zvwMHo5fUVo-10:00:00
+t-VkUnvixIVORTzsevcAZ,Ground_Daily,Bulaq Al Dakrur Station,1,Fcp3AEvsIKnq8tJhYZeZU_Shape,Fcp3AEvsIKnq8tJhYZeZU-10:00:00
+tChScy_qLlcoN-TeOox9G,Ground_Daily,Ain Shams Metro,0,pMESo9uHgEYtySBK81vFt_Shape,pMESo9uHgEYtySBK81vFt-10:00:00
+tOuRwi8SSInQQJ7Kbq7O1,Ground_Daily,Dandy Mall,1,JqXH8MN1_K-5LWTY2BFqH_Shape,JqXH8MN1_K-5LWTY2BFqH-10:00:00
+tOuRwi8SSInQQJ7Kbq7O1,Ground_Daily,Remaya Station (New Mashaal),0,SK_wgvXiQH2VHPIUE0H1__Shape,SK_wgvXiQH2VHPIUE0H1_-10:00:00
+tVSIeyuK_trcKCgwVwM1B,Ground_Daily,Hawamdeyya,0,sQuTKFWF9VgK6PteDZAvU_Shape,sQuTKFWF9VgK6PteDZAvU-10:00:00
+tVSIeyuK_trcKCgwVwM1B,Ground_Daily,Moneeb Station,1,Aj1rbd1-3YLYNUzgfS6p0_Shape,Aj1rbd1-3YLYNUzgfS6p0-10:00:00
+tg7Ig_oSMPD5Nr6tlRuK4,Ground_Daily,Dawaran Shubra Station,1,KJPhq-gzUq6_LofPGuaaP_Shape,KJPhq-gzUq6_LofPGuaaP-10:00:00
+tg7Ig_oSMPD5Nr6tlRuK4,Ground_Daily,Kattameya (Mahmoudeya),0,jHN4S7UC1PmoEq-2ahfN2_Shape,jHN4S7UC1PmoEq-2ahfN2-10:00:00
+tr5C-Vao_XTCqFPXm-mE5,Ground_Daily,Bulaq Al Dakrur Station,1,1h5xuYUvFWRQlx_QOZ8yL_Shape,1h5xuYUvFWRQlx_QOZ8yL-10:00:00
+tr5C-Vao_XTCqFPXm-mE5,Ground_Daily,Kilo 4 & Half Station,0,ItlHgwtRp_pEZHqjqlMnz_Shape,ItlHgwtRp_pEZHqjqlMnz-10:00:00
+tywNfVmg7Vw0gAzy8NLvu,Ground_Daily,Haram & Marioteya Station,1,HncQsqpAyu_K2d7hHOjn5_Shape,HncQsqpAyu_K2d7hHOjn5-10:00:00
+tywNfVmg7Vw0gAzy8NLvu,Ground_Daily,Hossary Station,0,c1m66lclF5C8HpFbtJ4VN_Shape,c1m66lclF5C8HpFbtJ4VN-10:00:00
+u02rskAm9s9jHxaOs9NhQ,Ground_Daily,8th District (Nasr City) - Al tabba,1,SaVo51Bdi05jCmQbJocaI_Shape,SaVo51Bdi05jCmQbJocaI-10:00:00
+u02rskAm9s9jHxaOs9NhQ,Ground_Daily,Ahmed Helmy Station,0,Ia-SRa63JctSsUmEsAVSj_Shape,Ia-SRa63JctSsUmEsAVSj-10:00:00
+uN-UtT1I06zo3gDqUuEn8,Ground_Daily,Bashtil,0,WxiAnQTwQyoJMfe6G2BLW_Shape,WxiAnQTwQyoJMfe6G2BLW-10:00:00
+uN-UtT1I06zo3gDqUuEn8,Ground_Daily,Darrasa,1,GWE7boxmh24NeEWDC5OD3_Shape,GWE7boxmh24NeEWDC5OD3-10:00:00
+uPQepJdL4bjoI0R7J9XKz,Ground_Daily,Athar Al Naby,0,bWxzd5HNZj-XKNVwcPdAQ_Shape,bWxzd5HNZj-XKNVwcPdAQ-10:00:00
+uPQepJdL4bjoI0R7J9XKz,Ground_Daily,Bulaq Al Dakrur Station,1,g_mggWd87YVAqzF7PFTls_Shape,g_mggWd87YVAqzF7PFTls-10:00:00
+uSqPGMEHwN2LcA-Dx8IDf,Ground_Daily,10th of Ramadan Station,1,WqGztPVJ3dzZ7U43w-jsg_Shape,WqGztPVJ3dzZ7U43w-jsg-10:00:00
+uSqPGMEHwN2LcA-Dx8IDf,Ground_Daily,Bashtil,0,7330Sv9EE8aUoGz6vWd68_Shape,7330Sv9EE8aUoGz6vWd68-10:00:00
+uVXNDIyKAilRBZ3n92UQo,Ground_Daily,Haram Mashaal Station,0,wKCjmWRhXfU5yq0WrUONI_Shape,wKCjmWRhXfU5yq0WrUONI-10:00:00
+uVXNDIyKAilRBZ3n92UQo,Ground_Daily,Moassasa Station,1,yAJGUTvlAeFjyUl8ECX1J_Shape,yAJGUTvlAeFjyUl8ECX1J-10:00:00
+uW2y9jwwdAHo_waEy2qex,Ground_Daily,Qalyoub Exit,0,JCPiG-iikHSYZMr2lcfF2_Shape,JCPiG-iikHSYZMr2lcfF2-10:00:00
+utymBvr8ZF897oTW9pDue,Ground_Daily,Abd Al Moneim Riad Station,1,3FKb-93AIxiKSHGTPQqn1_Shape,3FKb-93AIxiKSHGTPQqn1-10:00:00
+utymBvr8ZF897oTW9pDue,Ground_Daily,Om Bayoumi (Mintay),0,tJUo9wgh1vQN_8ZBfRuxU_Shape,tJUo9wgh1vQN_8ZBfRuxU-10:00:00
+v3r7iBOk8eP_u6GCz6kpD,Ground_Daily,Manshiyat Nasser Station,1,wnEdKCOutD6wzUh69fI3J_Shape,wnEdKCOutD6wzUh69fI3J-10:00:00
+v3r7iBOk8eP_u6GCz6kpD,Ground_Daily,Ramses Station,0,7hdM1gLSGRbXJ_NtSAOUR_Shape,7hdM1gLSGRbXJ_NtSAOUR-10:00:00
+vLtVl__J6Y88JxSMUbq9e,Ground_Daily,Isbiko Station,0,l_nwbkoYA4Ex8yOcPPxfg_Shape,l_nwbkoYA4Ex8yOcPPxfg-10:00:00
+vLtVl__J6Y88JxSMUbq9e,Ground_Daily,Moassasa Station,1,d5BbvGOQjOK51QlLrFnzc_Shape,d5BbvGOQjOK51QlLrFnzc-10:00:00
+vPxZODNW0MlX1OZFVTl8e,Ground_Daily,Awwel Makram Ebeid,0,qPjU9ZMhtmRQz_6kl-FU0_Shape,qPjU9ZMhtmRQz_6kl-FU0-10:00:00
+vPxZODNW0MlX1OZFVTl8e,Ground_Daily,Ramses Station,1,yRVB1BSHWY6usbj1A6-5-_Shape,yRVB1BSHWY6usbj1A6-5--10:00:00
+vWaavZmYB5sbQzR2d-U_U,Ground_Daily,1st Settlement Station (New Cairo),1,63uKuFd-SbgPG0aB0Ki1S_Shape,63uKuFd-SbgPG0aB0Ki1S-10:00:00
+vWaavZmYB5sbQzR2d-U_U,Ground_Daily,Mostorod Station,0,2ESrUNxmari9t54H8t7Lw_Shape,2ESrUNxmari9t54H8t7Lw-10:00:00
+vffeFh9VQdtrf4m7w-fNP,Ground_Daily,Ibrahim Bek,0,V2UerBlEMxwJw6jVQNOt6_Shape,V2UerBlEMxwJw6jVQNOt6-10:00:00
+vffeFh9VQdtrf4m7w-fNP,Ground_Daily,Ibrahim Bek,1,w3-wy3D0M6Q4jeGSXzO92_Shape,w3-wy3D0M6Q4jeGSXzO92-10:00:00
+vvE6l7VzFeki_7IJpH25B,Ground_Daily,Attaba,1,mzSgjxpENz9QPWRlG_KyU_Shape,mzSgjxpENz9QPWRlG_KyU-10:00:00
+vvE6l7VzFeki_7IJpH25B,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,5e-DlR5b_B2VyWhwrwwZZ_Shape,5e-DlR5b_B2VyWhwrwwZZ-10:00:00
+w9djMYsSD5gf7qz9VLvjn,Ground_Daily,Hadaba Wosta (Moqattam),0,rJT0XVJGSt1y7dr-z6X4P_Shape,rJT0XVJGSt1y7dr-z6X4P-10:00:00
+wGCNj9b51EYHmlNiQLQOJ,Ground_Daily,Masaken Al Shorouq,0,BIGdXrQ17s1eLCubhflMK_Shape,BIGdXrQ17s1eLCubhflMK-10:00:00
+wGCNj9b51EYHmlNiQLQOJ,Ground_Daily,Mazallat Station,1,28pnT_4PS_mR8FzYKXWmR_Shape,28pnT_4PS_mR8FzYKXWmR-10:00:00
+wMjyQ7gRXkx7VXHzsFwCf,Ground_Daily,Al Shari' Al Gadeed  (Bahteem),0,1-LdWzFVbChn8FY-dPvXs_Shape,1-LdWzFVbChn8FY-dPvXs-10:00:00
+wMjyQ7gRXkx7VXHzsFwCf,Ground_Daily,Matareya Square Station,1,ZrXtaOTCebjZnXZtSNRfp_Shape,ZrXtaOTCebjZnXZtSNRfp-10:00:00
+wTMLwyykgGKLFW3yYaNnx,Ground_Daily,Masaken Al Wehda,0,zqMkBfJYbPKGtd_2JakbW_Shape,zqMkBfJYbPKGtd_2JakbW-10:00:00
+wTMLwyykgGKLFW3yYaNnx,Ground_Daily,Saqr Quraish Station,1,MHIAQinHwCVfiacaxqZ5K_Shape,MHIAQinHwCVfiacaxqZ5K-10:00:00
+wVSEsc9QL4aBYHVv-Spy9,Ground_Daily,Bulaq Al Dakrur Station,0,LyX97Y53j7hDUVamtamp3_Shape,LyX97Y53j7hDUVamtamp3-10:00:00
+wVSEsc9QL4aBYHVv-Spy9,Ground_Daily,Imbaba Station,1,yhan0PO7DkzjMYsj8IHuc_Shape,yhan0PO7DkzjMYsj8IHuc-10:00:00
+wYawpUlAxZrHlVxizOLid,Ground_Daily,Jazirat Mohamed,0,9tL9O3Kpon-DlgKYwToF-_Shape,9tL9O3Kpon-DlgKYwToF--10:00:00
+wYawpUlAxZrHlVxizOLid,Ground_Daily,Qalaa Station,1,HIET5EgfCtT6iqke6Xu___Shape,HIET5EgfCtT6iqke6Xu__-10:00:00
+wefEKmjKPjq1ZbcWyQSwL,Ground_Daily,Masaken Othman (Ezbet El Nakhl),0,qS8cDVrGj4X-9Ylg6R-iQ_Shape,qS8cDVrGj4X-9Ylg6R-iQ-10:00:00
+wefEKmjKPjq1ZbcWyQSwL,Ground_Daily,New Marg Station,1,wVlRt-nutiLBrjAOozwe1_Shape,wVlRt-nutiLBrjAOozwe1-10:00:00
+wgK6fiDsQ9Yiw7IeDStF9,Ground_Daily,Badr City,1,4iHyGamh8wtBcRIZsBkpo_Shape,4iHyGamh8wtBcRIZsBkpo-10:00:00
+wgK6fiDsQ9Yiw7IeDStF9,Ground_Daily,Hadaek EL Kobba,0,KUE3gyg4qM1olJEhQ6zh-_Shape,KUE3gyg4qM1olJEhQ6zh--10:00:00
+whPhZJOh0ITe1RuUOEZX2,Ground_Daily,Bulaq Al Dakrur Station,1,xIfVW5_AdJo-tCm6iYU84_Shape,xIfVW5_AdJo-tCm6iYU84-10:00:00
+whPhZJOh0ITe1RuUOEZX2,Ground_Daily,Darrasa,0,VX9dZ5U6Sms4LhiB7ooh4_Shape,VX9dZ5U6Sms4LhiB7ooh4-10:00:00
+wjw5IKW5tGSh5Qf2OIk5Y,Ground_Daily,Moassasa Station,1,SE4-BnMV1aPA6o0eC4rjM_Shape,SE4-BnMV1aPA6o0eC4rjM-10:00:00
+wjw5IKW5tGSh5Qf2OIk5Y,Ground_Daily,Obour Station,0,kHw1--vVgS_nbrhd4WodQ_Shape,kHw1--vVgS_nbrhd4WodQ-10:00:00
+wz-ZLxXwobCpZlLGOs-nJ,Ground_Daily,Bulaq Al Dakrur Station,1,Bdg0oI7dsEs1r4UwzdXPR_Shape,Bdg0oI7dsEs1r4UwzdXPR-10:00:00
+wz-ZLxXwobCpZlLGOs-nJ,Ground_Daily,Hadaba Wosta (Moqattam),0,5DN5z1DAF7nF8ysc1fcCW_Shape,5DN5z1DAF7nF8ysc1fcCW-10:00:00
+x0MiBbZzr0WNjON4yraWL,Ground_Daily,Ahmed Helmy Station,0,DhDfpAfmxqyXCGWI10HX8_Shape,DhDfpAfmxqyXCGWI10HX8-10:00:00
+x0MiBbZzr0WNjON4yraWL,Ground_Daily,New Marg Station,1,w3kC8JsK5HtkOHkrw21St_Shape,w3kC8JsK5HtkOHkrw21St-10:00:00
+xHDTuKEcNGya_6TEqky9R,Ground_Daily,Al Qanatir Al Khayriyyah,1,omUwbCzgL87GsgQeEGTIV_Shape,omUwbCzgL87GsgQeEGTIV-10:00:00
+xHDTuKEcNGya_6TEqky9R,Ground_Daily,Moassasa Station,0,ppQe-HI7vaMvKdlmrf502_Shape,ppQe-HI7vaMvKdlmrf502-10:00:00
+xP2sjSYD1lMXW6ZUlUVOe,Ground_Daily,6th District - 6th of October (Al Souq Al Qadeem),0,lmZ_etblkHVTzg08N7gUQ_Shape,lmZ_etblkHVTzg08N7gUQ-10:00:00
+xQ-gNexveTXTu9hyB09su,Ground_Daily,Kilo 4 & Half Station,0,EhUbWaFLWRwjRg07u5_Ub_Shape,EhUbWaFLWRwjRg07u5_Ub-10:00:00
+x_4y4YL3AYRZ74nIC-NQV,Ground_Daily,Abboud,0,3OI3dziHyM5hX409c96le_Shape,3OI3dziHyM5hX409c96le-10:00:00
+x_4y4YL3AYRZ74nIC-NQV,Ground_Daily,Helwan Station,1,6Fvd0f5TMeMCZtmVxENP5_Shape,6Fvd0f5TMeMCZtmVxENP5-10:00:00
+xkcfLc0qC3yXgkL3QkYzS,Ground_Daily,Al Sayeda Aisha Station,0,jQvQeuzZvizIahX3ItCAC_Shape,jQvQeuzZvizIahX3ItCAC-10:00:00
+xkcfLc0qC3yXgkL3QkYzS,Ground_Daily,Zahraa Ain Shams,1,DuB-SpMaKMN4bF2JfFZrg_Shape,DuB-SpMaKMN4bF2JfFZrg-10:00:00
+xniqp9cSgkWVk0k63CbZl,Ground_Daily,Ibrahim Bek,0,FZoKZoIsJRV1fv_Btbt_9_Shape,FZoKZoIsJRV1fv_Btbt_9-10:00:00
+xniqp9cSgkWVk0k63CbZl,Ground_Daily,Masaken Sheraton,1,J-ANHH61ZvezKbLDilCqH_Shape,J-ANHH61ZvezKbLDilCqH-10:00:00
+xolg4JwSJogcCGeExbjKu,Ground_Daily,Giza Square Station,1,0K7QW8KOkL-9Hqf7aGDeX_Shape,0K7QW8KOkL-9Hqf7aGDeX-10:00:00
+xolg4JwSJogcCGeExbjKu,Ground_Daily,Masallah Al Gadeda Station (Matareyya),0,IOmDLJi3LUZCfND_scmti_Shape,IOmDLJi3LUZCfND_scmti-10:00:00
+y-_-0L2mPQ5hq9U3U_Nk3,Ground_Daily,Hegaz Square,0,pJ29xhgSF_AfGAEuXKesn_Shape,pJ29xhgSF_AfGAEuXKesn-10:00:00
+y-_-0L2mPQ5hq9U3U_Nk3,Ground_Daily,Tagneed (Al Remaya),1,CYQKUgb7TgSlNxqrgjhz3_Shape,CYQKUgb7TgSlNxqrgjhz3-10:00:00
+y2pNkYKdwmq-DYYWpGD5I,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),0,aW-ts050IFscqq8Kkdm_w_Shape,aW-ts050IFscqq8Kkdm_w-10:00:00
+y2pNkYKdwmq-DYYWpGD5I,Ground_Daily,Dawaran Shubra Station,1,dBK-UX2u5779shJ6_VX2k_Shape,dBK-UX2u5779shJ6_VX2k-10:00:00
+yAI6yQ2LBxm7IO1KMcmR0,Ground_Daily,Imbaba Station,0,wyeHqikfy4PJwBNSaF7o7_Shape,wyeHqikfy4PJwBNSaF7o7-10:00:00
+yAI6yQ2LBxm7IO1KMcmR0,Ground_Daily,Warraq Al Arab (Cima),1,vBVkAtUbv-GMzHM_aVqtu_Shape,vBVkAtUbv-GMzHM_aVqtu-10:00:00
+yCzCB9uoQWDH4YDGoPa9W,Ground_Daily,3rd Settlement  (New Cairo),0,z2KFEFUGddGOUWapFeib2_Shape,z2KFEFUGddGOUWapFeib2-10:00:00
+yCzCB9uoQWDH4YDGoPa9W,Ground_Daily,New Marg Station,1,anFCqncCxfR2PyJKJhBwT_Shape,anFCqncCxfR2PyJKJhBwT-10:00:00
+yW2PB6nRIGF3AW92oa9Kq,Ground_Daily,Sheikh Zayed General Hospital,0,XVQbEYXGijXqhWsDJIFQS_Shape,XVQbEYXGijXqhWsDJIFQS-10:00:00
+yiVgiNyYpe2oH4ZTN0Baq,Ground_Daily,Rehab - Gate 13 - 12,0,y5feKtj6efSUh1nDNMi8P_Shape,y5feKtj6efSUh1nDNMi8P-10:00:00
+yjnyYheH7FsPkAk-gppMs,Ground_Daily,Abbasseya Station,1,KG0o9c_odmGwL8Qjgyh05_Shape,KG0o9c_odmGwL8Qjgyh05-10:00:00
+yjnyYheH7FsPkAk-gppMs,Ground_Daily,Awwel Makram Ebeid,0,PpyEPWBlnvlyLUWlypr4-_Shape,PpyEPWBlnvlyLUWlypr4--10:00:00
+ymp4c1P70mpX2Br4a7BZ8,Ground_Daily,Al Omraneyya Al Gadida,1,nH9K6XLF9axt09WIKMbRb_Shape,nH9K6XLF9axt09WIKMbRb-10:00:00
+ymp4c1P70mpX2Br4a7BZ8,Ground_Daily,Qism El Hadayek,0,Unp3KV0zEutqxo54ijDQF_Shape,Unp3KV0zEutqxo54ijDQF-10:00:00
+ynTk2w8k0i45iT5CkTzX-,Ground_Daily,Bulaq Al Dakrur Station,0,m3BcDJ7p6yiu8rRM-PESM_Shape,m3BcDJ7p6yiu8rRM-PESM-10:00:00
+ynTk2w8k0i45iT5CkTzX-,Ground_Daily,El Kafr (Birak Al Khiyam),1,Do6CfRwo1pyW8kCsHcQg2_Shape,Do6CfRwo1pyW8kCsHcQg2-10:00:00
+yonpH4_SVRs1MuN6Ixc7i,Ground_Daily,7th District Station (Nasr City),1,c8d_hG9iMWGKaITvnGiqr_Shape,c8d_hG9iMWGKaITvnGiqr-10:00:00
+yonpH4_SVRs1MuN6Ixc7i,Ground_Daily,Kafr Tohormos,0,d6UAZAxs98z-2niYdb7x3_Shape,d6UAZAxs98z-2niYdb7x3-10:00:00
+yyGnaQQgQqV2mgxb-3iuX,Ground_Daily,Badrasheen Station,0,j4iB31CyOamYx0HeHQb67_Shape,j4iB31CyOamYx0HeHQb67-10:00:00
+yyGnaQQgQqV2mgxb-3iuX,Ground_Daily,Saqqara,1,z9gMU2rbSGj8okrDsKHUw_Shape,z9gMU2rbSGj8okrDsKHUw-10:00:00
+zRAXMgMRMVRhmAULPLo0R,Ground_Daily,Al Sayeda Aisha Station,1,tQ3iDcY0bqwmVYpKNz-60_Shape,tQ3iDcY0bqwmVYpKNz-60-10:00:00
+zRAXMgMRMVRhmAULPLo0R,Ground_Daily,Saad Zaghloul Metro,0,xuz21JDEiZ2tTT1dkM07U_Shape,xuz21JDEiZ2tTT1dkM07U-10:00:00
+zXpyM9xY7G9LBl-J7BFVC,Ground_Daily,Badr City,1,RAygMdWnAqmBwsth59qfg_Shape,RAygMdWnAqmBwsth59qfg-10:00:00
+zXpyM9xY7G9LBl-J7BFVC,Ground_Daily,Ramses Station,0,1KmmBT_GnN6ycwowtIWi2_Shape,1KmmBT_GnN6ycwowtIWi2-10:00:00
+zZOoW5YGvB9BYblSit-KB,Ground_Daily,Amiriya,1,OTYWuiCFsh6jQA6G2W0ut_Shape,OTYWuiCFsh6jQA6G2W0ut-10:00:00
+zZOoW5YGvB9BYblSit-KB,Ground_Daily,Rehab - Gate 6,0,gnXeLqi14ElNOzxzWvAa1_Shape,gnXeLqi14ElNOzxzWvAa1-10:00:00
+zdqlYRVdftBHIeoVbaRin,Ground_Daily,Al Wehda Imbaba (Al Bohi),1,xEFogdY2Xyy-6XneviQSd_Shape,xEFogdY2Xyy-6XneviQSd-10:00:00
+zdqlYRVdftBHIeoVbaRin,Ground_Daily,Ramses Station,0,75z339d09_Er4AOy81rDy_Shape,75z339d09_Er4AOy81rDy-10:00:00
+zoG2ixCLqw8Ytm3UpbKCp,Ground_Daily,Al Nozha Al Gadida Station (Gesr El Suez Garage),1,6N1dyCnjE0oqNdrr8M3vI_Shape,6N1dyCnjE0oqNdrr8M3vI-10:00:00
+zoG2ixCLqw8Ytm3UpbKCp,Ground_Daily,Mamaleek Station-Manial (Meqyas),0,IJLkKfXP85J2xWkxFx4Gc_Shape,IJLkKfXP85J2xWkxFx4Gc-10:00:00

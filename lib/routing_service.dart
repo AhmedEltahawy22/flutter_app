@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:flutter_app/metro_graph.dart';
 import 'package:flutter_app/public_transport_data.dart';
 import 'package:flutter_app/osm_service.dart';
@@ -46,6 +46,7 @@ class _Edge {
   final int duration;
   final double fare;
   final double km;
+  final String? metroLine; // خط المترو الخاص بهذا الاتصال
 
   const _Edge({
     required this.from,
@@ -56,6 +57,7 @@ class _Edge {
     required this.duration,
     required this.fare,
     required this.km,
+    this.metroLine,
   });
 }
 
@@ -64,7 +66,8 @@ class _State {
   final List<_Edge> path;
   final int duration;
   final double fare;
-  const _State(this.node, this.path, this.duration, this.fare);
+  final String? currentMetroLine; // خط المترو الحالي (لتتبع تبديل الخطوط)
+  const _State(this.node, this.path, this.duration, this.fare, [this.currentMetroLine]);
 }
 
 class RoutingService {
@@ -76,18 +79,36 @@ class RoutingService {
     _initialized = true;
     MetroGraph.init(); // Make sure metro connections are built
 
-    // Add bus routes (bidirectional)
+    // Add bus and microbus routes (bidirectional)
     for (final r in PublicTransportData.routes) {
       if (r.fromAr.isEmpty || r.toAr.isEmpty) continue;
-      _addEdge(_Edge(from: r.fromAr, to: r.toAr, routeId: r.id, nameAr: r.nameAr, mode: 'bus', duration: r.durationMinutes, fare: r.fareEgp, km: r.lengthKm));
-      _addEdge(_Edge(from: r.toAr, to: r.fromAr, routeId: r.id, nameAr: r.nameAr, mode: 'bus', duration: r.durationMinutes, fare: r.fareEgp, km: r.lengthKm));
+      final mode = (r.vehicleType == 'ميكروباص' || r.id.startsWith('MIC-')) ? 'microbus' : 'bus';
+      _addEdge(_Edge(from: r.fromAr, to: r.toAr, routeId: r.id, nameAr: r.nameAr, mode: mode, duration: r.durationMinutes, fare: r.fareEgp, km: r.lengthKm));
+      _addEdge(_Edge(from: r.toAr, to: r.fromAr, routeId: r.id, nameAr: r.nameAr, mode: mode, duration: r.durationMinutes, fare: r.fareEgp, km: r.lengthKm));
     }
 
     // Add metro connections from MetroGraph
     for (final entry in MetroGraph.connections.entries) {
       final fromId = entry.key;
       for (final toId in entry.value) {
-        _addEdge(_Edge(from: fromId, to: toId, routeId: 'metro', nameAr: 'مترو الأنفاق', mode: 'metro', duration: 2, fare: 0, km: 1.2));
+        // تحديد الخط المشترك بين المحطتين
+        final fromStation = MetroGraph.stations[fromId];
+        final toStation = MetroGraph.stations[toId];
+        String? sharedLine;
+        if (fromStation != null && toStation != null) {
+          for (final line in fromStation.lines) {
+            if (toStation.lines.contains(line)) {
+              sharedLine = line;
+              break;
+            }
+          }
+        }
+        _addEdge(_Edge(
+          from: fromId, to: toId, routeId: 'metro',
+          nameAr: 'مترو الأنفاق', mode: 'metro',
+          duration: 2, fare: 0, km: 1.2,
+          metroLine: sharedLine,
+        ));
       }
     }
 
@@ -123,6 +144,52 @@ class RoutingService {
       'القلعة': 'al_sayeda_zeinab',
       'الهايكستب': 'el_haykestep',
       'مدينة نصر': 'fair_zone',
+      // الجيزة وضواحيها (خط 2)
+      'الجيزة': 'giza',
+      'فيصل': 'faisal',
+      'جامعة القاهرة': 'cairo_university',
+      'الجامعة': 'cairo_university',
+      'البحوث': 'el_bohoth',
+      'المنيب': 'el_mounib',
+      'ساقية مكي': 'sakiat_mekki',
+      'أم المصريين': 'omm_el_misryeen',
+      // المهندسين ووسط البلد (خط 2)
+      'المهندسين': 'dokki',
+      'العجوزة': 'dokki',
+      'الأوبرا': 'opera',
+      'وسط البلد': 'sadat',
+      'التحرير': 'sadat',
+      'ميدان التحرير': 'sadat',
+      'عابدين': 'sadat',
+      'محمد نجيب': 'mohamed_naguib',
+      // مصر الجديدة وهليوبوليس (خط 3)
+      'مصر الجديدة': 'nadi_el_shams',
+      'هليوبوليس': 'heliopolis_square',
+      'ميدان هليوبوليس': 'heliopolis_square',
+      'المطار': 'el_nozha',
+      'المطرية': 'el_matareyya',
+      'حدائق الزيتون': 'hadayek_el_zaitoun',
+      'حلمية الزيتون': 'helmeyet_el_zaitoun',
+      // الزمالك والجزيرة
+      'الزمالك': 'opera',
+      'المنيل': 'al_sayeda_zeinab',
+      'روض الفرج': 'road_el_farag',
+      // شبرا وضواحيها
+      'غمرة': 'ghamra',
+      'السبتية': 'ghamra',
+      'الزاوية الحمراء': 'al_shohadaa',
+      // مناطق متفرقة
+      'الكيت كات': 'kit_kat',
+      'السودان': 'sudan',
+      'الطريق الدائري': 'ring_road',
+      'حدائق القبة': 'hadayek_el_zaitoun',
+      'كوبري القبة': 'kobri_el_qobba',
+      'سراي القبة': 'saray_el_qobba',
+      'عدلي منصور': 'adly_mansour',
+      'عين حلوان': 'ain_helwan',
+      'وادي حوف': 'wadi_hof',
+      'عزبة النخل': 'ezbet_el_nakhl',
+      'منشية الصدر': 'manshiet_el_sadr',
     };
 
     for (final entry in bridges.entries) {
@@ -184,7 +251,7 @@ class RoutingService {
 
   // Dijkstra by duration
   static _State? _dijkstra(String start, String end, Set<String> modes) {
-    final queue = [_State(start, [], 0, 0)];
+    final queue = [_State(start, [], 0, 0, null)];
     final visited = <String>{};
 
     while (queue.isNotEmpty) {
@@ -199,11 +266,28 @@ class RoutingService {
         if (visited.contains(edge.to)) continue;
         // Allow walk always, filter other modes
         if (edge.mode != 'walk' && !modes.contains(edge.mode)) continue;
+
+        // حساب وقت عقوبة التبديل عند تغيير خط المترو
+        int extraTime = 0;
+        String? newMetroLine = cur.currentMetroLine;
+
+        if (edge.mode == 'metro' && edge.metroLine != null) {
+          if (cur.currentMetroLine != null &&
+              cur.currentMetroLine != edge.metroLine) {
+            // تبديل خط مترو → إضافة 5 دقائق وقت التبادل داخل المحطة التبادلية
+            extraTime = 5;
+          }
+          newMetroLine = edge.metroLine;
+        } else if (edge.mode != 'metro') {
+          newMetroLine = null; // إعادة ضبط عند مغادرة المترو
+        }
+
         queue.add(_State(
           edge.to,
           [...cur.path, edge],
-          cur.duration + edge.duration,
+          cur.duration + edge.duration + extraTime,
           cur.fare + edge.fare,
+          newMetroLine,
         ));
       }
     }
@@ -268,7 +352,6 @@ class RoutingService {
         // Collect all consecutive metro edges
         final stationIds = <String>[edge.from];
         int dur = 0;
-        double metroPaid = false ? 0 : 8; // metro fare once per trip
         while (i < path.length && path[i].mode == 'metro') {
           stationIds.add(path[i].to);
           dur += path[i].duration;
@@ -290,10 +373,11 @@ class RoutingService {
           distanceText: '${(stops * 1.2).toStringAsFixed(1)} كم',
           pathPoints: points,
         ));
-      } else if (edge.mode == 'bus') {
+      } else if (edge.mode == 'bus' || edge.mode == 'microbus') {
+        final mode = edge.mode;
         final busId = edge.routeId;
         final busEdges = <_Edge>[];
-        while (i < path.length && path[i].mode == 'bus' && path[i].routeId == busId) {
+        while (i < path.length && path[i].mode == mode && path[i].routeId == busId) {
           busEdges.add(path[i]);
           i++;
         }
@@ -303,14 +387,33 @@ class RoutingService {
         final to = busEdges.last.to;
         final startPt = PublicTransportData.regionCoords[from] ?? const LatLng(30.0444, 31.2357);
         final endPt = PublicTransportData.regionCoords[to] ?? const LatLng(30.0633, 31.2467);
-        steps.add('أتوبيس ${edge.nameAr}');
+        List<LatLng> pathPoints = [];
+        final routeObjList = PublicTransportData.routes.where((r) => r.id == busId);
+        if (routeObjList.isNotEmpty) {
+          final rawPoints = routeObjList.first.pathPoints;
+          if (rawPoints.length >= 2) {
+            final firstDist = (rawPoints.first.latitude - startPt.latitude).abs() + (rawPoints.first.longitude - startPt.longitude).abs();
+            final lastDist = (rawPoints.last.latitude - startPt.latitude).abs() + (rawPoints.last.longitude - startPt.longitude).abs();
+            if (lastDist < firstDist) {
+              pathPoints = rawPoints.reversed.toList();
+            } else {
+              pathPoints = rawPoints.toList();
+            }
+          } else {
+            pathPoints = rawPoints.toList();
+          }
+        }
+        if (pathPoints.isEmpty) {
+          pathPoints = [startPt, endPt];
+        }
+        steps.add(mode == 'microbus' ? 'ميكروباص ${edge.nameAr}' : 'أتوبيس ${edge.nameAr}');
         segments.add(RouteSegment(
-          mode: 'bus',
-          title: 'أتوبيس رقم $busId',
+          mode: mode,
+          title: mode == 'microbus' ? 'ميكروباص رقم $busId' : 'أتوبيس رقم $busId',
           subtitle: edge.nameAr,
           durationMinutes: dur,
           distanceText: '${km.toStringAsFixed(1)} كم',
-          pathPoints: [startPt, endPt],
+          pathPoints: pathPoints,
         ));
       } else {
         // Walk
@@ -414,3 +517,4 @@ class RoutingService {
     return _buildResult(result);
   }
 }
+

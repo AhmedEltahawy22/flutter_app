@@ -1,0 +1,10 @@
+agency_id,agency_name,agency_url,agency_timezone
+AGY,Agyad,http://transportforcairo.com/,Africa/Cairo
+BOX,Box Paratransit,http://transportforcairo.com/,Africa/Cairo
+COOP,Cooperative paratransit 29 Seater (Grey Licenseplates),http://transportforcairo.com/,Africa/Cairo
+CTA,Cairo Transport Authority,http://www.cairo.gov.eg/ar/Interactive%20Services/Transportation/Pages/buses.aspx,Africa/Cairo
+CTA_M,Minibus licensed by CTA,http://www.cairo.gov.eg/ar/Interactive%20Services/Transportation/Pages/buses.aspx,Africa/Cairo
+GRN,Green Bus,http://transportforcairo.com/,Africa/Cairo
+MSR,El Masreya,http://transportforcairo.com/,Africa/Cairo
+P_B_8,Paratransit 8 Seater Suzuki Chevrolet or DMF (Blue Licenseplates),http://transportforcairo.com/,Africa/Cairo
+P_O_14,Paratransit 14 Seater Microbus (Orange Licenseplates),http://transportforcairo.com/,Africa/Cairo

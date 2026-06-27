@@ -3,7 +3,6 @@ import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../core/localization.dart';
-import '../../metro_graph.dart';
 import '../../models/recent_trip.dart';
 import '../../models/trip_option.dart';
 import '../../routing_service.dart';
@@ -164,9 +163,6 @@ class RouteDetailsPage extends StatelessWidget {
   }
 
   Widget _routeSketchCard(BuildContext context) {
-    final startPoint = const LatLng(29.9792, 31.1342); // Pyramids area start
-    final endPoint = const LatLng(30.1219, 31.4056);   // Airport
-
     final polylines = <Polyline>[];
     final markerPoints = <LatLng>[];
 
@@ -206,6 +202,12 @@ class RouteDetailsPage extends StatelessWidget {
           options: MapOptions(
             initialCenter: initialCenter,
             initialZoom: 12.0,
+            initialCameraFit: markerPoints.isNotEmpty
+                ? CameraFit.bounds(
+                    bounds: LatLngBounds.fromPoints(markerPoints),
+                    padding: const EdgeInsets.all(32.0),
+                  )
+                : null,
             interactionOptions: const InteractionOptions(
               flags: InteractiveFlag.all & ~InteractiveFlag.rotate,
             ),
@@ -254,20 +256,6 @@ class RouteDetailsPage extends StatelessWidget {
     );
   }
 
-  String _modeLabel(BuildContext context, String mode) {
-    switch (mode) {
-      case 'metro':
-        return tr(context, 'مترو', 'Metro');
-      case 'train':
-        return tr(context, 'قطار', 'Train');
-      case 'bus':
-        return tr(context, 'أتوبيس', 'Bus');
-      case 'microbus':
-        return tr(context, 'ميكروباص', 'Microbus');
-      default:
-        return tr(context, 'مشي', 'Walk');
-    }
-  }
 
   Widget _segmentTile(RouteSegment segment, {required bool isLast}) {
     return Builder(
@@ -324,7 +312,7 @@ class RouteDetailsPage extends StatelessWidget {
                 ),
                 const SizedBox(height: 3),
                 Text(
-                  '${segment.durationMinutes} دقيقة',
+                  tr(context, '${segment.durationMinutes} دقيقة', '${segment.durationMinutes} min'),
                   style: const TextStyle(
                     color: Color(0xFF1F2BDB),
                     fontSize: 12,

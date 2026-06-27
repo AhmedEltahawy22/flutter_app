@@ -5,6 +5,7 @@ import '../models/recent_trip.dart';
 import 'profile/profile_page.dart';
 import 'search/search_page.dart';
 import 'settings/settings_page.dart';
+import 'stats/stats_page.dart';
 import 'ticket/qr_ticket_page.dart';
 import 'wallet/wallet_page.dart';
 
@@ -55,6 +56,7 @@ class _HomePageState extends State<HomePage> {
           _buildHomeContent(),
           const SearchPage(),
           const WalletPage(),
+          const StatsPage(),
           const SettingsPage(),
         ],
       ),
@@ -83,6 +85,11 @@ class _HomePageState extends State<HomePage> {
             icon: const Icon(Icons.account_balance_wallet_outlined),
             activeIcon: const Icon(Icons.account_balance_wallet),
             label: tr(context, 'المحفظة', 'Wallet'),
+          ),
+          BottomNavigationBarItem(
+            icon: const Icon(Icons.bar_chart_outlined),
+            activeIcon: const Icon(Icons.bar_chart_rounded),
+            label: tr(context, 'إحصائيات', 'Stats'),
           ),
           BottomNavigationBarItem(
             icon: const Icon(Icons.settings_outlined),

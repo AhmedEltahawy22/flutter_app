@@ -7,13 +7,17 @@ import 'providers/app_wallet_scope.dart';
 import 'providers/app_theme_scope.dart';
 import 'screens/splash_page.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   MetroGraph.init();
-  runApp(const MyApp());
+  // تحميل بيانات المحفظة المحفوظة مسبقاً
+  final savedWallet = await WalletPersistence.load();
+  runApp(MyApp(initialWallet: savedWallet));
 }
 
 class MyApp extends StatefulWidget {
-  const MyApp({super.key});
+  final WalletState? initialWallet;
+  const MyApp({super.key, this.initialWallet});
 
   @override
   State<MyApp> createState() => _MyAppState();
@@ -22,10 +26,17 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   final ValueNotifier<String> _languageNotifier = ValueNotifier<String>('ar');
   final ValueNotifier<String> _routePreferenceNotifier = ValueNotifier<String>('fastest');
-  final ValueNotifier<WalletState> _walletNotifier = ValueNotifier<WalletState>(
-    WalletState(balance: 0.0, transactions: []),
-  );
+  late final ValueNotifier<WalletState> _walletNotifier;
   final ValueNotifier<ThemeMode> _themeNotifier = ValueNotifier<ThemeMode>(ThemeMode.light);
+
+  @override
+  void initState() {
+    super.initState();
+    // تهيئة المحفظة بالبيانات المحفوظة أو القيم الافتراضية
+    _walletNotifier = ValueNotifier<WalletState>(
+      widget.initialWallet ?? WalletState(balance: 0.0, transactions: []),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {

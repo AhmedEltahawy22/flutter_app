@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/transaction.dart';
 
 class WalletState {
@@ -25,6 +26,46 @@ class WalletState {
   }
 }
 
+// ─── Persistence Helper ─────────────────────────────────────────────────────
+class WalletPersistence {
+  static const _keyBalance = 'wallet_balance';
+  static const _keyTransactions = 'wallet_transactions';
+  static const _keyCardId = 'wallet_card_id';
+
+  /// تحميل بيانات المحفظة من التخزين المحلي
+  static Future<WalletState> load() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final balance = prefs.getDouble(_keyBalance) ?? 0.0;
+      final txRaw = prefs.getString(_keyTransactions) ?? '[]';
+      final transactions = Transaction.decodeList(txRaw);
+      final cardId = prefs.getString(_keyCardId);
+      return WalletState(
+        balance: balance,
+        transactions: transactions,
+        linkedCardId: cardId,
+      );
+    } catch (_) {
+      return WalletState(balance: 0.0, transactions: []);
+    }
+  }
+
+  /// حفظ بيانات المحفظة في التخزين المحلي (في الخلفية)
+  static void save(WalletState state) {
+    SharedPreferences.getInstance().then((prefs) {
+      prefs.setDouble(_keyBalance, state.balance);
+      prefs.setString(
+          _keyTransactions, Transaction.encodeList(state.transactions));
+      if (state.linkedCardId != null && state.linkedCardId!.isNotEmpty) {
+        prefs.setString(_keyCardId, state.linkedCardId!);
+      } else {
+        prefs.remove(_keyCardId);
+      }
+    });
+  }
+}
+
+// ─── AppWalletScope ─────────────────────────────────────────────────────────
 class AppWalletScope extends InheritedNotifier<ValueNotifier<WalletState>> {
   const AppWalletScope({
     super.key,
@@ -41,7 +82,7 @@ class AppWalletScope extends InheritedNotifier<ValueNotifier<WalletState>> {
   static void topUp(BuildContext context, double amount) {
     final notifier = notifierOf(context);
     final currentState = notifier.value;
-    
+
     final newTransaction = Transaction(
       id: DateTime.now().millisecondsSinceEpoch.toString(),
       amount: amount,
@@ -51,16 +92,19 @@ class AppWalletScope extends InheritedNotifier<ValueNotifier<WalletState>> {
       type: TransactionType.topUp,
     );
 
-    notifier.value = currentState.copyWith(
+    final newState = currentState.copyWith(
       balance: currentState.balance + amount,
       transactions: [newTransaction, ...currentState.transactions],
     );
+    notifier.value = newState;
+    WalletPersistence.save(newState); // حفظ تلقائي
   }
 
-  static void deduct(BuildContext context, double amount, String titleAr, String titleEn) {
+  static void deduct(
+      BuildContext context, double amount, String titleAr, String titleEn) {
     final notifier = notifierOf(context);
     final currentState = notifier.value;
-    
+
     final newTransaction = Transaction(
       id: DateTime.now().millisecondsSinceEpoch.toString(),
       amount: amount,
@@ -70,14 +114,18 @@ class AppWalletScope extends InheritedNotifier<ValueNotifier<WalletState>> {
       type: TransactionType.tripDeduction,
     );
 
-    notifier.value = currentState.copyWith(
+    final newState = currentState.copyWith(
       balance: currentState.balance - amount,
       transactions: [newTransaction, ...currentState.transactions],
     );
+    notifier.value = newState;
+    WalletPersistence.save(newState); // حفظ تلقائي
   }
 
   static void linkCard(BuildContext context, String cardId) {
     final notifier = notifierOf(context);
-    notifier.value = notifier.value.copyWith(linkedCardId: cardId);
+    final newState = notifier.value.copyWith(linkedCardId: cardId);
+    notifier.value = newState;
+    WalletPersistence.save(newState); // حفظ تلقائي
   }
 }
