@@ -31,6 +31,26 @@
 
   <title>مواصلاتي</title>
   <link rel="manifest" href="manifest.json">
+
+  <!-- Firebase SDK (Compat Version for FlutterFire) -->
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-auth-compat.js"></script>
+
+  <!-- JS Error Logger to capture crash details on screen -->
+  <script>
+    window.addEventListener('error', function(e) {
+      var el = document.createElement('div');
+      el.style = 'color:red; font-family:monospace; padding:20px; font-size:14px; position:fixed; top:0; left:0; width:100%; height:100%; background:white; z-index:999999; overflow:auto;';
+      el.innerText = 'JS Error:\n' + e.message + '\nat ' + e.filename + ':' + e.lineno + '\n\nStack:\n' + (e.error ? e.error.stack : 'No stack');
+      document.body.appendChild(el);
+    });
+    window.addEventListener('unhandledrejection', function(e) {
+      var el = document.createElement('div');
+      el.style = 'color:red; font-family:monospace; padding:20px; font-size:14px; position:fixed; top:0; left:0; width:100%; height:100%; background:white; z-index:999999; overflow:auto;';
+      el.innerText = 'JS Unhandled Rejection:\n' + e.reason + '\n\nStack:\n' + (e.reason && e.reason.stack ? e.reason.stack : 'No stack');
+      document.body.appendChild(el);
+    });
+  </script>
 </head>
 <body>
   <!--

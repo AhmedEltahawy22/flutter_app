@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'metro_graph.dart';
 import 'providers/app_language_scope.dart';
 import 'providers/app_route_preference_scope.dart';
@@ -9,33 +11,112 @@ import 'screens/splash_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  MetroGraph.init();
-  // تحميل بيانات المحفظة المحفوظة مسبقاً
-  final savedWallet = await WalletPersistence.load();
-  runApp(MyApp(initialWallet: savedWallet));
+  
+  try {
+    MetroGraph.init();
+    // تهيئة Firebase
+    await Firebase.initializeApp(
+      options: const FirebaseOptions(
+        apiKey: 'AIzaSyB02OtVlmS0EpGr-AFb7aVNeeW2uA_t2xQ',
+        authDomain: 'flutter-mwasalaty-app.firebaseapp.com',
+        projectId: 'flutter-mwasalaty-app',
+        storageBucket: 'flutter-mwasalaty-app.firebasestorage.app',
+        messagingSenderId: '1028046177662',
+        appId: '1:1028046177662:web:fbec1fe75c0307ed965f2f',
+        measurementId: 'G-EK1YTP1PPJ',
+      ),
+    );
+    
+    // تحميل التفضيلات المحفوظة
+    final prefs = await SharedPreferences.getInstance();
+    final initialLang = prefs.getString('language') ?? 'ar';
+    final initialPref = prefs.getString('route_preference') ?? 'fastest';
+    final initialThemeStr = prefs.getString('theme_mode') ?? 'light';
+    ThemeMode initialTheme = ThemeMode.light;
+    if (initialThemeStr == 'dark') initialTheme = ThemeMode.dark;
+    else if (initialThemeStr == 'system') initialTheme = ThemeMode.system;
+
+    // تحميل بيانات المحفظة المحفوظة مسبقاً
+    final savedWallet = await WalletPersistence.load();
+    runApp(MyApp(
+      initialWallet: savedWallet,
+      initialLang: initialLang,
+      initialRoutePref: initialPref,
+      initialTheme: initialTheme,
+    ));
+  } catch (e, stackTrace) {
+    runApp(MaterialApp(
+      home: Scaffold(
+        backgroundColor: Colors.white,
+        body: SafeArea(
+          child: SingleChildScrollView(
+            padding: const EdgeInsets.all(16),
+            child: Text(
+              'Crash during startup:\n$e\n\nStackTrace:\n$stackTrace',
+              style: const TextStyle(color: Colors.red, fontSize: 14, fontWeight: FontWeight.bold),
+              textDirection: TextDirection.ltr,
+            ),
+          ),
+        ),
+      ),
+    ));
+  }
 }
 
 class MyApp extends StatefulWidget {
   final WalletState? initialWallet;
-  const MyApp({super.key, this.initialWallet});
+  final String? initialLang;
+  final String? initialRoutePref;
+  final ThemeMode? initialTheme;
+
+  const MyApp({
+    super.key,
+    this.initialWallet,
+    this.initialLang,
+    this.initialRoutePref,
+    this.initialTheme,
+  });
 
   @override
   State<MyApp> createState() => _MyAppState();
 }
 
 class _MyAppState extends State<MyApp> {
-  final ValueNotifier<String> _languageNotifier = ValueNotifier<String>('ar');
-  final ValueNotifier<String> _routePreferenceNotifier = ValueNotifier<String>('fastest');
+  late final ValueNotifier<String> _languageNotifier;
+  late final ValueNotifier<String> _routePreferenceNotifier;
   late final ValueNotifier<WalletState> _walletNotifier;
-  final ValueNotifier<ThemeMode> _themeNotifier = ValueNotifier<ThemeMode>(ThemeMode.light);
+  late final ValueNotifier<ThemeMode> _themeNotifier;
 
   @override
   void initState() {
     super.initState();
+    _languageNotifier = ValueNotifier<String>(widget.initialLang ?? 'ar');
+    _routePreferenceNotifier = ValueNotifier<String>(widget.initialRoutePref ?? 'fastest');
+    _themeNotifier = ValueNotifier<ThemeMode>(widget.initialTheme ?? ThemeMode.light);
+    
     // تهيئة المحفظة بالبيانات المحفوظة أو القيم الافتراضية
     _walletNotifier = ValueNotifier<WalletState>(
       widget.initialWallet ?? WalletState(balance: 0.0, transactions: []),
     );
+
+    // إضافة مستمعين لحفظ التغييرات في SharedPreferences
+    _languageNotifier.addListener(() async {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setString('language', _languageNotifier.value);
+    });
+
+    _routePreferenceNotifier.addListener(() async {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setString('route_preference', _routePreferenceNotifier.value);
+    });
+
+    _themeNotifier.addListener(() async {
+      final prefs = await SharedPreferences.getInstance();
+      String themeStr = 'light';
+      if (_themeNotifier.value == ThemeMode.dark) themeStr = 'dark';
+      else if (_themeNotifier.value == ThemeMode.system) themeStr = 'system';
+      await prefs.setString('theme_mode', themeStr);
+    });
   }
 
   @override

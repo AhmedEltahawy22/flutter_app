@@ -13,11 +13,20 @@ import '../settings/settings_page.dart';
 import 'package:shimmer/shimmer.dart';
 
 class SearchTripsPage extends StatefulWidget {
-  const SearchTripsPage({super.key, required this.fromId, required this.toId, required this.allowedModes});
+  const SearchTripsPage({
+    super.key,
+    required this.fromId,
+    required this.toId,
+    required this.allowedModes,
+    this.fromLatLng,
+    this.toLatLng,
+  });
 
   final String fromId;
   final String toId;
   final Set<String> allowedModes;
+  final LatLng? fromLatLng;
+  final LatLng? toLatLng;
 
   @override
   State<SearchTripsPage> createState() => _SearchTripsPageState();
@@ -27,6 +36,24 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
   bool _isLoading = true;
   List<TripOption> _allTrips = [];
   Map<TripOption, List<RouteSegment>> _tripSegments = {};
+
+  double _calculatePathDistance(List<LatLng> points) {
+    double totalMeters = 0;
+    final distanceCalc = const Distance();
+    for (int i = 0; i < points.length - 1; i++) {
+      totalMeters += distanceCalc.as(LengthUnit.Meter, points[i], points[i + 1]);
+    }
+    return totalMeters;
+  }
+
+  String _formatDistance(double meters) {
+    if (meters < 1000) {
+      return '${meters.toStringAsFixed(0)} م';
+    } else {
+      final km = meters / 1000;
+      return '${km.toStringAsFixed(1)} كم';
+    }
+  }
 
   @override
   void initState() {
@@ -41,55 +68,86 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
 
     // 1. Try dynamic routing first (OSRM + Nominatim)
     try {
-      final startLatLng = await PublicTransportService.geocode(widget.fromId);
-      final endLatLng = await PublicTransportService.geocode(widget.toId);
+      final startLatLng = widget.fromLatLng ?? await PublicTransportService.geocode(widget.fromId);
+      final endLatLng = widget.toLatLng ?? await PublicTransportService.geocode(widget.toId);
 
       if (startLatLng != null && endLatLng != null) {
-        final dynamicResult = await PublicTransportService.getMultiModalRoute(startLatLng, endLatLng);
+        final dynamicResult = await PublicTransportService.getMultiModalRoute(
+          startLatLng,
+          endLatLng,
+          allowedModes: widget.allowedModes,
+        );
         
         final segments = <RouteSegment>[];
-        if (dynamicResult['walkPoints']!.isNotEmpty) {
+        if (dynamicResult['walkPoints1'] != null && dynamicResult['walkPoints1']!.isNotEmpty) {
           final startName = _getDisplayName(context, widget.fromId);
-          final endName = _getClosestStopName(dynamicResult['walkPoints']!.last);
+          final endName = _getClosestStopName(dynamicResult['walkPoints1']!.last);
+          final distMeters = _calculatePathDistance(dynamicResult['walkPoints1']!);
+          final durationMin = (distMeters / 80).round().clamp(1, 120); // 80 m/min = 4.8 km/h
+          
           segments.add(RouteSegment(
             mode: 'walk',
             title: tr(context, 'مشي', 'Walk'),
             subtitle: '$startName ← $endName',
-            durationMinutes: 5,
-            distanceText: '0.5 كم',
-            pathPoints: dynamicResult['walkPoints']!,
+            durationMinutes: durationMin,
+            distanceText: _formatDistance(distMeters),
+            pathPoints: dynamicResult['walkPoints1']!,
           ));
         }
-        if (dynamicResult['metroPoints']!.isNotEmpty) {
+        if (dynamicResult['metroPoints'] != null && dynamicResult['metroPoints']!.isNotEmpty) {
           final startName = _getClosestStopName(dynamicResult['metroPoints']!.first);
           final endName = _getClosestStopName(dynamicResult['metroPoints']!.last);
+          final distMeters = _calculatePathDistance(dynamicResult['metroPoints']!);
+          final durationMin = (distMeters / 400).round().clamp(2, 120); // 400 m/min = 24 km/h
+          
           segments.add(RouteSegment(
             mode: 'metro',
             title: tr(context, 'مترو الأنفاق', 'Metro'),
             subtitle: '$startName ← $endName',
-            durationMinutes: 20,
-            distanceText: '10 كم',
+            durationMinutes: durationMin,
+            distanceText: _formatDistance(distMeters),
             pathPoints: dynamicResult['metroPoints']!,
           ));
         }
-        if (dynamicResult['busPoints']!.isNotEmpty) {
+        if (dynamicResult['busPoints'] != null && dynamicResult['busPoints']!.isNotEmpty) {
           final startName = _getClosestStopName(dynamicResult['busPoints']!.first);
           final endName = _getDisplayName(context, widget.toId);
+          final distMeters = _calculatePathDistance(dynamicResult['busPoints']!);
+          final durationMin = (distMeters / 300).round().clamp(2, 120); // 300 m/min = 18 km/h
+          
           segments.add(RouteSegment(
             mode: 'bus',
             title: tr(context, 'أتوبيس', 'Bus'),
             subtitle: '$startName ← $endName',
-            durationMinutes: 15,
-            distanceText: '5 كم',
+            durationMinutes: durationMin,
+            distanceText: _formatDistance(distMeters),
             pathPoints: dynamicResult['busPoints']!,
+          ));
+        }
+        if (dynamicResult['walkPoints2'] != null && dynamicResult['walkPoints2']!.isNotEmpty) {
+          final startName = _getClosestStopName(dynamicResult['walkPoints2']!.first);
+          final endName = _getDisplayName(context, widget.toId);
+          final distMeters = _calculatePathDistance(dynamicResult['walkPoints2']!);
+          final durationMin = (distMeters / 80).round().clamp(1, 120); // 80 m/min = 4.8 km/h
+          
+          segments.add(RouteSegment(
+            mode: 'walk',
+            title: tr(context, 'مشي للوجهة', 'Walk to destination'),
+            subtitle: '$startName ← $endName',
+            durationMinutes: durationMin,
+            distanceText: _formatDistance(distMeters),
+            pathPoints: dynamicResult['walkPoints2']!,
           ));
         }
 
         if (segments.isNotEmpty) {
+          final isWalkOnly = widget.allowedModes.contains('walk') && widget.allowedModes.length == 1;
           final trip = TripOption(
-            title: tr(context, 'مسار ذكي (OSM)', 'Smart Route (OSM)'),
+            title: isWalkOnly
+                ? tr(context, 'مسار مشي فقط', 'Walk Only Route')
+                : tr(context, 'مسار ذكي (OSM)', 'Smart Route (OSM)'),
             durationMinutes: segments.fold(0, (s, e) => s + e.durationMinutes),
-            price: 15,
+            price: isWalkOnly ? 0 : 15,
             steps: segments.map((e) => e.title).toList(),
           );
           _allTrips.add(trip);

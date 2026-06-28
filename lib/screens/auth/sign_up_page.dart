@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../core/constants.dart';
 import '../../core/localization.dart';
@@ -262,18 +263,40 @@ class _SignUpPageState extends State<SignUpPage> {
                             final password = _passwordController.text;
                             final name = _nameController.text.trim();
 
-                            final prefs = await SharedPreferences.getInstance();
-                            await prefs.setString('email', email);
-                            await prefs.setString('password', password);
-                            await prefs.setString('name', name);
-                            
-                            TextInput.finishAutofillContext();
+                            try {
+                              final credential = await FirebaseAuth.instance
+                                  .createUserWithEmailAndPassword(
+                                    email: email,
+                                    password: password,
+                                  );
+                              // حفظ الاسم في Firebase profile
+                              await credential.user?.updateDisplayName(name);
+                              // حفظ الاسم في SharedPreferences للعرض في الهوم
+                              final prefs = await SharedPreferences.getInstance();
+                              await prefs.setString('name', name);
 
-                            if (context.mounted) {
+                              TextInput.finishAutofillContext();
+                              if (context.mounted) {
+                                Navigator.of(context).pushReplacement(
+                                  MaterialPageRoute(builder: (_) => const HomePage()),
+                                );
+                              }
+                            } on FirebaseAuthException catch (e) {
+                              if (!context.mounted) return;
+                              final msg = switch (e.code) {
+                                'email-already-in-use' => tr(context, 'البريد مسجّل بالفعل', 'Email already in use'),
+                                'weak-password'        => tr(context, 'كلمة المرور ضعيفة جداً (6 أحرف أدنى)', 'Password too weak (min 6 chars)'),
+                                'invalid-email'        => tr(context, 'بريد غير صالح', 'Invalid email format'),
+                                _                      => tr(context, 'حدث خطأ، حاول مرة أخرى', 'An error occurred'),
+                              };
                               ScaffoldMessenger.of(context).showSnackBar(
-                                SnackBar(content: Text(tr(context, 'تم إنشاء الحساب بنجاح، سجل دخولك الآن', 'Account created successfully, sign in now')))
+                                SnackBar(
+                                  behavior: SnackBarBehavior.floating,
+                                  backgroundColor: Colors.red.shade700,
+                                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                                  content: Text(msg),
+                                ),
                               );
-                              Navigator.of(context).pop();
                             }
                           },
                           style: ElevatedButton.styleFrom(

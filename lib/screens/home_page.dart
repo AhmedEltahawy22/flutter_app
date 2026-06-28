@@ -109,7 +109,7 @@ class _HomePageState extends State<HomePage> {
         elevation: 4,
         child: const Icon(Icons.qr_code_scanner, size: 28),
       ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
+      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
     );
   }
 

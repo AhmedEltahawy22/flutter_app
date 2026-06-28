@@ -18,16 +18,22 @@ class PlacesData {
   static void _build() {
     final seen = <String>{};
 
-    void add(String name, String nameEn, PlaceType type) {
+    void add(String name, String nameEn, PlaceType type, {double? lat, double? lng}) {
       final key = name.trim().toLowerCase();
       if (key.isEmpty || seen.contains(key)) return;
       seen.add(key);
-      _cache.add(PlaceEntry(nameAr: name.trim(), nameEn: nameEn.trim(), type: type));
+      _cache.add(PlaceEntry(
+        nameAr: name.trim(),
+        nameEn: nameEn.trim(),
+        type: type,
+        lat: lat,
+        lng: lng,
+      ));
     }
 
     // ─── محطات المترو ───────────────────────────────────────
     for (final s in MetroGraph.stations.values) {
-      add(s.nameAr, s.nameEn, PlaceType.metro);
+      add(s.nameAr, s.nameEn, PlaceType.metro, lat: s.location.latitude, lng: s.location.longitude);
     }
 
     // ─── مناطق الأتوبيس ──────────────────────────────────────
@@ -36,7 +42,8 @@ class PlacesData {
       final en = i < PublicTransportData.regionsEn.length
           ? PublicTransportData.regionsEn[i]
           : ar;
-      add(ar, en, PlaceType.bus);
+      final coords = PublicTransportData.regionCoords[ar];
+      add(ar, en, PlaceType.bus, lat: coords?.latitude, lng: coords?.longitude);
     }
 
     // ─── مناطق إضافية شهيرة ──────────────────────────────────
@@ -91,18 +98,24 @@ class PlacesData {
     ];
 
     for (final (ar, en, type) in extras) {
-      add(ar, en, type);
+      final coords = PublicTransportData.regionCoords[ar];
+      add(ar, en, type, lat: coords?.latitude, lng: coords?.longitude);
     }
   }
 
   /// البحث عن الأماكن بنص معطى (يدعم العربي والإنجليزي)
-  static List<PlaceEntry> search(String query, {int limit = 8}) {
+  /// [filterType]: null = الكل، PlaceType.region = مناطق فقط، PlaceType.metro = محطات فقط
+  static List<PlaceEntry> search(String query, {int limit = 8, PlaceType? filterType}) {
     if (query.trim().length < 1) return [];
     final q = query.trim().toLowerCase()
         .replaceAll('أ', 'ا').replaceAll('إ', 'ا').replaceAll('آ', 'ا')
         .replaceAll('ة', 'ه').replaceAll('ى', 'ي');
 
     final results = all.where((p) {
+      // تطبيق الفلتر
+      if (filterType == PlaceType.region && p.type != PlaceType.region) return false;
+      if (filterType == PlaceType.metro && p.type == PlaceType.region) return false;
+
       final ar = p.nameAr.toLowerCase()
           .replaceAll('أ', 'ا').replaceAll('إ', 'ا').replaceAll('آ', 'ا')
           .replaceAll('ة', 'ه').replaceAll('ى', 'ي');
@@ -110,7 +123,13 @@ class PlacesData {
       return ar.contains(q) || en.contains(q);
     }).toList();
 
-    // ترتيب: المطابقة من أول الكلمة أولاً
+    // ترتيب: المناطق أولاً، ثم المطابقة من أول الكلمة
+    int typePriority(PlaceType t) => switch (t) {
+      PlaceType.region => 0,
+      PlaceType.metro  => 1,
+      PlaceType.bus    => 2,
+    };
+
     results.sort((a, b) {
       final aAr = a.nameAr.toLowerCase()
           .replaceAll('أ', 'ا').replaceAll('إ', 'ا').replaceAll('آ', 'ا')
@@ -120,7 +139,11 @@ class PlacesData {
           .replaceAll('ة', 'ه').replaceAll('ى', 'ي');
       final aStarts = aAr.startsWith(q) ? 0 : 1;
       final bStarts = bAr.startsWith(q) ? 0 : 1;
-      return aStarts.compareTo(bStarts);
+      // أولاً: المطابقة من أول الكلمة
+      final startCmp = aStarts.compareTo(bStarts);
+      if (startCmp != 0) return startCmp;
+      // ثانياً: المناطق قبل المحطات
+      return typePriority(a.type).compareTo(typePriority(b.type));
     });
 
     return results.take(limit).toList();
@@ -133,11 +156,15 @@ class PlaceEntry {
   final String nameAr;
   final String nameEn;
   final PlaceType type;
+  final double? lat;
+  final double? lng;
 
   const PlaceEntry({
     required this.nameAr,
     required this.nameEn,
     required this.type,
+    this.lat,
+    this.lng,
   });
 
   IconData get icon => switch (type) {

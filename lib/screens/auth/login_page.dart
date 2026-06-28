@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/services.dart';
 import '../../core/constants.dart';
@@ -221,23 +222,42 @@ class _LoginPageState extends State<LoginPage> {
                             final email = _emailController.text.trim();
                             final password = _passwordController.text;
 
-                            final prefs = await SharedPreferences.getInstance();
-                            final savedEmail = prefs.getString('email');
-                            final savedPassword = prefs.getString('password');
-
-                            if (email == savedEmail && password == savedPassword) {
+                            try {
+                              final credential = await FirebaseAuth.instance
+                                  .signInWithEmailAndPassword(
+                                    email: email,
+                                    password: password,
+                                  );
+                              // حفظ الاسم من Firebase profile
+                              final name = credential.user?.displayName ?? '';
+                              if (name.isNotEmpty) {
+                                final prefs = await SharedPreferences.getInstance();
+                                await prefs.setString('name', name);
+                              }
                               TextInput.finishAutofillContext();
                               if (context.mounted) {
                                 Navigator.of(context).pushReplacement(
                                   MaterialPageRoute(builder: (_) => HomePage()),
                                 );
                               }
-                            } else {
-                              if (context.mounted) {
-                                ScaffoldMessenger.of(context).showSnackBar(
-                                  SnackBar(content: Text(tr(context, 'بيانات الدخول غير صحيحة', 'Invalid credentials')))
-                                );
-                              }
+                            } on FirebaseAuthException catch (e) {
+                              if (!context.mounted) return;
+                              final msg = switch (e.code) {
+                                'user-not-found'  => tr(context, 'البريد غير مسجّل', 'Email not registered'),
+                                'wrong-password'  => tr(context, 'كلمة المرور خاطئة', 'Wrong password'),
+                                'invalid-credential' => tr(context, 'البريد أو كلمة المرور غلط', 'Invalid email or password'),
+                                'user-disabled'   => tr(context, 'الحساب موقوف', 'Account disabled'),
+                                'too-many-requests' => tr(context, 'محاولات كثيرة، حاول لاحقاً', 'Too many attempts, try later'),
+                                _ => tr(context, 'حدث خطأ، حاول مرة أخرى', 'An error occurred'),
+                              };
+                              ScaffoldMessenger.of(context).showSnackBar(
+                                SnackBar(
+                                  behavior: SnackBarBehavior.floating,
+                                  backgroundColor: Colors.red.shade700,
+                                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                                  content: Text(msg),
+                                ),
+                              );
                             }
                           },
                           style: ElevatedButton.styleFrom(
