@@ -10,6 +10,7 @@ import '../../providers/app_language_scope.dart';
 import '../../public_transport_service.dart';
 import '../../public_transport_data.dart';
 import '../journey/route_details_page.dart';
+import '../saved/saved_routes_page.dart';
 import '../settings/settings_page.dart';
 import 'package:shimmer/shimmer.dart';
 
@@ -73,44 +74,63 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
     }
   }
 
-  // ✅ حفظ/إلغاء حفظ مسار
+  // ✅ حفظ/إلغاء حفظ مسار - مع منع تراكم الـ SnackBars
   Future<void> _toggleSaveTrip(TripOption trip) async {
-    final prefs = await SharedPreferences.getInstance();
     final key = '${trip.title}_${trip.durationMinutes}_${trip.price}';
-    final saved = prefs.getStringList('saved_trips') ?? [];
+    final isSaved = _savedTripTitles.contains(key);
 
-    if (_savedTripTitles.contains(key)) {
-      saved.remove(key);
+    if (isSaved) {
+      await SavedRoutesHelper.removeRoute(key);
       if (mounted) setState(() => _savedTripTitles.remove(key));
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          behavior: SnackBarBehavior.floating,
-          backgroundColor: Colors.grey[700],
-          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-          content: Text(
-            tr(context, 'تم إلغاء حفظ المسار', 'Route removed from saved'),
-            style: const TextStyle(fontWeight: FontWeight.w600),
-          ),
-          duration: const Duration(seconds: 2),
-        ),
-      );
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+          ..clearSnackBars() // ✅ مسح القديم فوراً
+          ..showSnackBar(
+            SnackBar(
+              behavior: SnackBarBehavior.floating,
+              backgroundColor: Colors.grey[700],
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+              content: Text(
+                tr(context, 'تم إلغاء حفظ المسار', 'Route removed from saved'),
+                style: const TextStyle(fontWeight: FontWeight.w600),
+              ),
+              duration: const Duration(seconds: 2),
+            ),
+          );
+      }
     } else {
-      saved.add(key);
-      if (mounted) setState(() => _savedTripTitles.add(key));
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          behavior: SnackBarBehavior.floating,
-          backgroundColor: const Color(0xFF1F2BDB),
-          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-          content: Text(
-            tr(context, '✅ تم حفظ المسار!', '✅ Route saved!'),
-            style: const TextStyle(fontWeight: FontWeight.w600),
-          ),
-          duration: const Duration(seconds: 2),
-        ),
+      // استخراج وسائل النقل من الـ segments
+      final segments = _tripSegments[trip] ?? [];
+      final modes = segments
+          .map((s) => s.mode)
+          .toSet()
+          .toList();
+
+      await SavedRoutesHelper.saveRoute(
+        key: key,
+        title: trip.title,
+        durationMinutes: trip.durationMinutes,
+        price: trip.price,
+        modes: modes,
       );
+      if (mounted) setState(() => _savedTripTitles.add(key));
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+          ..clearSnackBars() // ✅ مسح القديم فوراً
+          ..showSnackBar(
+            SnackBar(
+              behavior: SnackBarBehavior.floating,
+              backgroundColor: const Color(0xFF1F2BDB),
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+              content: Text(
+                tr(context, '✅ تم حفظ المسار! اضغط على "محفوظات" للعرض', '✅ Route saved! Go to "Saved" tab to view'),
+                style: const TextStyle(fontWeight: FontWeight.w600),
+              ),
+              duration: const Duration(seconds: 2),
+            ),
+          );
+      }
     }
-    await prefs.setStringList('saved_trips', saved);
   }
   
   Future<void> _calculateRoutes() async {

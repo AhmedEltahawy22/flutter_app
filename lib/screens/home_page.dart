@@ -3,6 +3,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../core/localization.dart';
 import '../models/recent_trip.dart';
 import 'profile/profile_page.dart';
+import 'saved/saved_routes_page.dart';
 import 'search/search_page.dart';
 import 'settings/settings_page.dart';
 import 'stats/stats_page.dart';
@@ -55,6 +56,7 @@ class _HomePageState extends State<HomePage> {
         children: [
           _buildHomeContent(),
           const SearchPage(),
+          const SavedRoutesPage(), // ✅ تاب المحفوظات
           const WalletPage(),
           const StatsPage(),
           const SettingsPage(),
@@ -80,6 +82,11 @@ class _HomePageState extends State<HomePage> {
             icon: const Icon(Icons.search_outlined),
             activeIcon: const Icon(Icons.search),
             label: tr(context, 'بحث', 'Search'),
+          ),
+          BottomNavigationBarItem(
+            icon: const Icon(Icons.bookmark_border_rounded),
+            activeIcon: const Icon(Icons.bookmark_rounded),
+            label: tr(context, 'محفوظات', 'Saved'),
           ),
           BottomNavigationBarItem(
             icon: const Icon(Icons.account_balance_wallet_outlined),
