@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter/foundation.dart'; // ✅ للتحقق من الويب kIsWeb
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../core/constants.dart';
 import '../../core/localization.dart';
 import '../home_page.dart';
-import '../../widgets/google_logo_painter.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});
@@ -28,6 +28,100 @@ class _SignUpPageState extends State<SignUpPage> {
     _passwordController.dispose();
     _confirmController.dispose();
     super.dispose();
+  }
+
+  // ✅ تسجيل دخول باستخدام جوجل
+  Future<void> _signInWithGoogle() async {
+    try {
+      if (kIsWeb) {
+        final provider = GoogleAuthProvider();
+        final credential = await FirebaseAuth.instance.signInWithPopup(provider);
+        final user = credential.user;
+        if (user != null) {
+          final prefs = await SharedPreferences.getInstance();
+          await prefs.setString('name', user.displayName ?? user.email?.split('@').first ?? 'مستخدم');
+          if (mounted) {
+            Navigator.of(context).pushReplacement(
+              MaterialPageRoute(builder: (_) => const HomePage()),
+            );
+          }
+        }
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            behavior: SnackBarBehavior.floating,
+            content: Text(tr(
+              context,
+              'تسجيل دخول جوجل متاح على الويب حالياً وجاري تهيئته للهاتف.',
+              'Google Sign-In is currently available on Web and is being configured for mobile.',
+            )),
+          ),
+        );
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+          ..clearSnackBars()
+          ..showSnackBar(
+            SnackBar(
+              behavior: SnackBarBehavior.floating,
+              backgroundColor: Colors.red.shade700,
+              content: Text(tr(
+                context,
+                'فشل تسجيل الدخول باستخدام جوجل: $e',
+                'Google Sign-in failed: $e',
+              )),
+            ),
+          );
+      }
+    }
+  }
+
+  // ✅ تسجيل دخول باستخدام فيسبوك
+  Future<void> _signInWithFacebook() async {
+    try {
+      if (kIsWeb) {
+        final provider = FacebookAuthProvider();
+        final credential = await FirebaseAuth.instance.signInWithPopup(provider);
+        final user = credential.user;
+        if (user != null) {
+          final prefs = await SharedPreferences.getInstance();
+          await prefs.setString('name', user.displayName ?? user.email?.split('@').first ?? 'مستخدم');
+          if (mounted) {
+            Navigator.of(context).pushReplacement(
+              MaterialPageRoute(builder: (_) => const HomePage()),
+            );
+          }
+        }
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            behavior: SnackBarBehavior.floating,
+            content: Text(tr(
+              context,
+              'تسجيل دخول فيسبوك متاح على الويب حالياً وجاري تهيئته للهاتف.',
+              'Facebook Sign-In is currently available on Web and is being configured for mobile.',
+            )),
+          ),
+        );
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+          ..clearSnackBars()
+          ..showSnackBar(
+            SnackBar(
+              behavior: SnackBarBehavior.floating,
+              backgroundColor: Colors.red.shade700,
+              content: Text(tr(
+                context,
+                'فشل تسجيل الدخول باستخدام فيسبوك: $e',
+                'Facebook Sign-in failed: $e',
+              )),
+            ),
+          );
+      }
+    }
   }
 
   @override
@@ -314,7 +408,7 @@ class _SignUpPageState extends State<SignUpPage> {
                             style: const TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
                           ),
                         ),
-                         const SizedBox(height: 18),
+                        const SizedBox(height: 18),
                         Row(
                           children: [
                             Expanded(child: Divider(color: isDark ? const Color(0xFF3A3A3A) : Colors.grey[300])),
@@ -333,7 +427,7 @@ class _SignUpPageState extends State<SignUpPage> {
                           children: [
                             Expanded(
                               child: OutlinedButton(
-                                onPressed: () {},
+                                onPressed: _signInWithGoogle, // ✅ استدعاء جوجل
                                 style: OutlinedButton.styleFrom(
                                   padding: const EdgeInsets.symmetric(vertical: 13),
                                   shape: RoundedRectangleBorder(
@@ -363,7 +457,7 @@ class _SignUpPageState extends State<SignUpPage> {
                             const SizedBox(width: 12),
                             Expanded(
                               child: OutlinedButton(
-                                onPressed: () {},
+                                onPressed: _signInWithFacebook, // ✅ استدعاء فيسبوك
                                 style: OutlinedButton.styleFrom(
                                   padding: const EdgeInsets.symmetric(vertical: 13),
                                   shape: RoundedRectangleBorder(

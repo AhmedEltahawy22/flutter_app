@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart'; // ✅ للتحقق من الويب kIsWeb
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/services.dart';
@@ -24,6 +25,100 @@ class _LoginPageState extends State<LoginPage> {
     _emailController.dispose();
     _passwordController.dispose();
     super.dispose();
+  }
+
+  // ✅ تسجيل دخول باستخدام جوجل
+  Future<void> _signInWithGoogle() async {
+    try {
+      if (kIsWeb) {
+        final provider = GoogleAuthProvider();
+        final credential = await FirebaseAuth.instance.signInWithPopup(provider);
+        final user = credential.user;
+        if (user != null) {
+          final prefs = await SharedPreferences.getInstance();
+          await prefs.setString('name', user.displayName ?? user.email?.split('@').first ?? 'مستخدم');
+          if (mounted) {
+            Navigator.of(context).pushReplacement(
+              MaterialPageRoute(builder: (_) => const HomePage()),
+            );
+          }
+        }
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            behavior: SnackBarBehavior.floating,
+            content: Text(tr(
+              context,
+              'تسجيل دخول جوجل متاح على الويب حالياً وجاري تهيئته للهاتف.',
+              'Google Sign-In is currently available on Web and is being configured for mobile.',
+            )),
+          ),
+        );
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+          ..clearSnackBars()
+          ..showSnackBar(
+            SnackBar(
+              behavior: SnackBarBehavior.floating,
+              backgroundColor: Colors.red.shade700,
+              content: Text(tr(
+                context,
+                'فشل تسجيل الدخول باستخدام جوجل: $e',
+                'Google Sign-in failed: $e',
+              )),
+            ),
+          );
+      }
+    }
+  }
+
+  // ✅ تسجيل دخول باستخدام فيسبوك
+  Future<void> _signInWithFacebook() async {
+    try {
+      if (kIsWeb) {
+        final provider = FacebookAuthProvider();
+        final credential = await FirebaseAuth.instance.signInWithPopup(provider);
+        final user = credential.user;
+        if (user != null) {
+          final prefs = await SharedPreferences.getInstance();
+          await prefs.setString('name', user.displayName ?? user.email?.split('@').first ?? 'مستخدم');
+          if (mounted) {
+            Navigator.of(context).pushReplacement(
+              MaterialPageRoute(builder: (_) => const HomePage()),
+            );
+          }
+        }
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            behavior: SnackBarBehavior.floating,
+            content: Text(tr(
+              context,
+              'تسجيل دخول فيسبوك متاح على الويب حالياً وجاري تهيئته للهاتف.',
+              'Facebook Sign-In is currently available on Web and is being configured for mobile.',
+            )),
+          ),
+        );
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+          ..clearSnackBars()
+          ..showSnackBar(
+            SnackBar(
+              behavior: SnackBarBehavior.floating,
+              backgroundColor: Colors.red.shade700,
+              content: Text(tr(
+                context,
+                'فشل تسجيل الدخول باستخدام فيسبوك: $e',
+                'Facebook Sign-in failed: $e',
+              )),
+            ),
+          );
+      }
+    }
   }
 
   // ── Forgot Password ───────────────────────────────────────────────────────
@@ -331,8 +426,8 @@ class _LoginPageState extends State<LoginPage> {
                             onPressed: _showForgotPasswordDialog,
                             child: Text(
                               tr(context, 'نسيت كلمة المرور؟', 'Forgot Password?'),
-                              style: const TextStyle(
-                                color: Color(0xFF1F2B63),
+                              style: TextStyle(
+                                color: isDark ? const Color(0xFFF2C230) : const Color(0xFF1F2B63),
                                 fontWeight: FontWeight.w600,
                               ),
                             ),
@@ -406,15 +501,15 @@ class _LoginPageState extends State<LoginPage> {
                         const SizedBox(height: 20),
                         Row(
                           children: [
-                            Expanded(child: Divider(color: Colors.grey[300])),
+                            Expanded(child: Divider(color: isDark ? const Color(0xFF3A3A3A) : Colors.grey[300])),
                             Padding(
                               padding: const EdgeInsets.symmetric(horizontal: 12),
                               child: Text(
                                 tr(context, 'أو تابع مع', 'or continue with'),
-                                style: TextStyle(color: Colors.grey[500], fontSize: 12),
+                                style: TextStyle(color: isDark ? Colors.grey[400] : Colors.grey[500], fontSize: 12),
                               ),
                             ),
-                            Expanded(child: Divider(color: Colors.grey[300])),
+                            Expanded(child: Divider(color: isDark ? const Color(0xFF3A3A3A) : Colors.grey[300])),
                           ],
                         ),
                         const SizedBox(height: 16),
@@ -422,14 +517,14 @@ class _LoginPageState extends State<LoginPage> {
                           children: [
                             Expanded(
                               child: OutlinedButton(
-                                onPressed: () => _showComingSoon('Google'),
+                                onPressed: _signInWithGoogle, // ✅ استدعاء جوجل
                                 style: OutlinedButton.styleFrom(
                                   padding: const EdgeInsets.symmetric(vertical: 13),
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(14),
                                   ),
-                                  side: const BorderSide(color: Color(0xFF1F2B63)),
-                                  backgroundColor: const Color(0xFF1F2B63),
+                                  side: BorderSide(color: isDark ? Colors.grey[800]! : const Color(0xFFE0E0E0)),
+                                  backgroundColor: isDark ? const Color(0xFF3A3A3A) : Colors.white,
                                 ),
                                 child: Row(
                                   mainAxisAlignment: MainAxisAlignment.center,
@@ -437,7 +532,7 @@ class _LoginPageState extends State<LoginPage> {
                                     const Text(
                                       'G',
                                       style: TextStyle(
-                                        color: Colors.white,
+                                        color: Colors.red,
                                         fontWeight: FontWeight.bold,
                                         fontSize: 18,
                                       ),
@@ -445,8 +540,8 @@ class _LoginPageState extends State<LoginPage> {
                                     const SizedBox(width: 8),
                                     Text(
                                       tr(context, 'جوجل', 'Google'),
-                                      style: const TextStyle(
-                                        color: Colors.white,
+                                      style: TextStyle(
+                                        color: isDark ? Colors.white : Colors.black87,
                                         fontWeight: FontWeight.w600,
                                         fontSize: 13,
                                       ),
@@ -458,14 +553,14 @@ class _LoginPageState extends State<LoginPage> {
                             const SizedBox(width: 12),
                             Expanded(
                               child: OutlinedButton(
-                                onPressed: () => _showComingSoon('Facebook'),
+                                onPressed: _signInWithFacebook, // ✅ استدعاء فيسبوك
                                 style: OutlinedButton.styleFrom(
                                   padding: const EdgeInsets.symmetric(vertical: 13),
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(14),
                                   ),
-                                  side: const BorderSide(color: Color(0xFF1F2B63)),
-                                  backgroundColor: const Color(0xFF1F2B63),
+                                  side: BorderSide(color: isDark ? Colors.grey[800]! : const Color(0xFFE0E0E0)),
+                                  backgroundColor: isDark ? const Color(0xFF3A3A3A) : Colors.white,
                                 ),
                                 child: Row(
                                   mainAxisAlignment: MainAxisAlignment.center,
@@ -473,7 +568,7 @@ class _LoginPageState extends State<LoginPage> {
                                     const Text(
                                       'f',
                                       style: TextStyle(
-                                        color: Colors.white,
+                                        color: Colors.blue,
                                         fontWeight: FontWeight.bold,
                                         fontSize: 18,
                                       ),
@@ -481,8 +576,8 @@ class _LoginPageState extends State<LoginPage> {
                                     const SizedBox(width: 8),
                                     Text(
                                       tr(context, 'فيسبوك', 'Facebook'),
-                                      style: const TextStyle(
-                                        color: Colors.white,
+                                      style: TextStyle(
+                                        color: isDark ? Colors.white : Colors.black87,
                                         fontWeight: FontWeight.w600,
                                         fontSize: 13,
                                       ),
@@ -499,7 +594,7 @@ class _LoginPageState extends State<LoginPage> {
                           children: [
                             Text(
                               tr(context, 'ليس لديك حساب؟', "Don't have an account?"),
-                              style: TextStyle(color: Colors.grey[600]),
+                              style: TextStyle(color: isDark ? Colors.grey[400] : Colors.grey[600]),
                             ),
                             TextButton(
                               onPressed: () {
@@ -509,11 +604,11 @@ class _LoginPageState extends State<LoginPage> {
                               },
                               child: Text(
                                 tr(context, 'إنشاء حساب', 'Sign Up'),
-                                style: const TextStyle(
-                                  color: Color(0xFF1F2B63),
+                                style: TextStyle(
+                                  color: isDark ? const Color(0xFFF2C230) : const Color(0xFF1F2B63),
                                   fontWeight: FontWeight.bold,
                                   decoration: TextDecoration.underline,
-                                  decorationColor: Color(0xFF1F2B63),
+                                  decorationColor: isDark ? const Color(0xFFF2C230) : const Color(0xFF1F2B63),
                                 ),
                               ),
                             ),
