@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:latlong2/latlong.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../core/localization.dart';
 import '../../metro_graph.dart';
 import '../../models/trip_option.dart';
@@ -36,6 +37,7 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
   bool _isLoading = true;
   List<TripOption> _allTrips = [];
   Map<TripOption, List<RouteSegment>> _tripSegments = {};
+  Set<String> _savedTripTitles = {}; // ✅ المسارات المحفوظة
 
   double _calculatePathDistance(List<LatLng> points) {
     double totalMeters = 0;
@@ -59,6 +61,56 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
   void initState() {
     super.initState();
     _calculateRoutes();
+    _loadSavedTrips();
+  }
+
+  // ✅ تحميل المسارات المحفوظة
+  Future<void> _loadSavedTrips() async {
+    final prefs = await SharedPreferences.getInstance();
+    final saved = prefs.getStringList('saved_trips') ?? [];
+    if (mounted) {
+      setState(() => _savedTripTitles = saved.toSet());
+    }
+  }
+
+  // ✅ حفظ/إلغاء حفظ مسار
+  Future<void> _toggleSaveTrip(TripOption trip) async {
+    final prefs = await SharedPreferences.getInstance();
+    final key = '${trip.title}_${trip.durationMinutes}_${trip.price}';
+    final saved = prefs.getStringList('saved_trips') ?? [];
+
+    if (_savedTripTitles.contains(key)) {
+      saved.remove(key);
+      if (mounted) setState(() => _savedTripTitles.remove(key));
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          behavior: SnackBarBehavior.floating,
+          backgroundColor: Colors.grey[700],
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+          content: Text(
+            tr(context, 'تم إلغاء حفظ المسار', 'Route removed from saved'),
+            style: const TextStyle(fontWeight: FontWeight.w600),
+          ),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    } else {
+      saved.add(key);
+      if (mounted) setState(() => _savedTripTitles.add(key));
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          behavior: SnackBarBehavior.floating,
+          backgroundColor: const Color(0xFF1F2BDB),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+          content: Text(
+            tr(context, '✅ تم حفظ المسار!', '✅ Route saved!'),
+            style: const TextStyle(fontWeight: FontWeight.w600),
+          ),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+    await prefs.setStringList('saved_trips', saved);
   }
   
   Future<void> _calculateRoutes() async {
@@ -245,9 +297,27 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
           if (index == 0) {
             Navigator.of(context).pop();
           } else if (index == 1) {
-            ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(content: Text(tr(context, 'سيتوفر حفظ المسارات قريبا', 'Saved routes coming soon'))),
-            );
+            // ✅ عرض المسارات المحفوظة
+            if (_savedTripTitles.isEmpty) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  behavior: SnackBarBehavior.floating,
+                  backgroundColor: const Color(0xFF1F2BDB),
+                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                  content: Text(tr(context, 'لا توجد مسارات محفوظة بعد. اضغط على 🔖 لحفظ مسار.', 'No saved routes yet. Tap 🔖 to save a route.')),
+                ),
+              );
+            } else {
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  behavior: SnackBarBehavior.floating,
+                  backgroundColor: Colors.green,
+                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                  content: Text(tr(context, 'لديك ${_savedTripTitles.length} مسار محفوظ ✅', 'You have ${_savedTripTitles.length} saved route(s) ✅')),
+                ),
+              );
+            }
+            setState(() => _bottomNavIndex = 0); // الرجوع للتاب الأول
           } else if (index == 2) {
             Navigator.of(context).push(
               MaterialPageRoute(builder: (_) => const SettingsPage()),
@@ -606,7 +676,6 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
 
   Widget _buildTripCard(TripOption trip) {
     final transfers = trip.steps.length > 1 ? trip.steps.length - 1 : 0;
-    // الوقت يُحسب مرة واحدة هنا قبل بناء الـ UI
     final now = DateTime.now();
     final depH = now.hour.toString().padLeft(2, '0');
     final depM = now.minute.toString().padLeft(2, '0');
@@ -615,6 +684,9 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
     final arrM = arrival.minute.toString().padLeft(2, '0');
 
     final isDark = Theme.of(context).brightness == Brightness.dark;
+    final tripKey = '${trip.title}_${trip.durationMinutes}_${trip.price}';
+    final isSaved = _savedTripTitles.contains(tripKey);
+
     return InkWell(
       borderRadius: BorderRadius.circular(14),
       onTap: () {
@@ -659,6 +731,20 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
                 _buildTripMeta(
                   Icons.swap_horiz,
                   tr(context, '$transfers تبديل', '$transfers transfer'),
+                ),
+                const Spacer(),
+                // ✅ زرار حفظ المسار
+                GestureDetector(
+                  onTap: () => _toggleSaveTrip(trip),
+                  child: AnimatedSwitcher(
+                    duration: const Duration(milliseconds: 250),
+                    child: Icon(
+                      isSaved ? Icons.bookmark_rounded : Icons.bookmark_border_rounded,
+                      key: ValueKey(isSaved),
+                      color: isSaved ? const Color(0xFFF2C230) : Colors.grey,
+                      size: 22,
+                    ),
+                  ),
                 ),
               ],
             ),

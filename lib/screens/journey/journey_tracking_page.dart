@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_map/flutter_map.dart';
-import 'package:latlong2/latlong.dart';
 import '../../core/localization.dart';
-import '../../metro_graph.dart';
-import '../../models/trip_option.dart';
+import '../../providers/app_wallet_scope.dart';
 import '../../routing_service.dart';
 
 class JourneyTrackingPage extends StatefulWidget {
@@ -16,6 +13,7 @@ class JourneyTrackingPage extends StatefulWidget {
 }
 class _JourneyTrackingPageState extends State<JourneyTrackingPage> {
   int _completedSteps = 0;
+  bool _walletDeducted = false; // منع الخصم أكثر من مرة
 
   int get _totalSteps => widget.segments.length;
   int get _currentStepDisplay => (_completedSteps + 1).clamp(1, _totalSteps);
@@ -33,6 +31,53 @@ class _JourneyTrackingPageState extends State<JourneyTrackingPage> {
     setState(() {
       _completedSteps++;
     });
+    // ✅ خصم الرصيد من المحفظة عند اكتمال الرحلة
+    if (_completedSteps >= _totalSteps && !_walletDeducted) {
+      _walletDeducted = true;
+      _deductTripFare();
+    }
+  }
+
+  void _deductTripFare() {
+    // حساب تكلفة الرحلة من عدد الـ segments غير المشي
+    final nonWalkSegments = widget.segments.where((s) => s.mode != 'walk').length;
+    final farePerSegment = 7.0; // 7 جنيه لكل وسيلة نقل
+    final totalFare = nonWalkSegments > 0 ? nonWalkSegments * farePerSegment : 5.0;
+
+    final walletNotifier = AppWalletScope.notifierOf(context);
+    if (walletNotifier.value.balance >= totalFare) {
+      AppWalletScope.deduct(
+        context,
+        totalFare,
+        'أجرة رحلة',
+        'Trip Fare',
+      );
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          behavior: SnackBarBehavior.floating,
+          backgroundColor: const Color(0xFF1F2BDB),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+          content: Text(
+            tr(context, '✅ تم خصم ${totalFare.toStringAsFixed(0)} ج.م من محفظتك', '✅ ${totalFare.toStringAsFixed(0)} EGP deducted from your wallet'),
+            style: const TextStyle(fontWeight: FontWeight.w600),
+          ),
+          duration: const Duration(seconds: 3),
+        ),
+      );
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          behavior: SnackBarBehavior.floating,
+          backgroundColor: Colors.orange,
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+          content: Text(
+            tr(context, '⚠️ رصيدك غير كافٍ، يرجى شحن المحفظة', '⚠️ Insufficient balance, please top up your wallet'),
+            style: const TextStyle(fontWeight: FontWeight.w600),
+          ),
+          duration: const Duration(seconds: 4),
+        ),
+      );
+    }
   }
 
   @override

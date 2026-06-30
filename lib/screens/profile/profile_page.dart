@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../core/localization.dart';
+import '../auth/login_page.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});
@@ -255,7 +257,19 @@ class _ProfilePageState extends State<ProfilePage> {
                           icon: Icons.notifications_outlined,
                           iconColor: const Color(0xFF27AE60),
                           label: tr(context, 'إشعارات', 'Notifications'),
-                          onTap: () {},
+                          onTap: () {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                behavior: SnackBarBehavior.floating,
+                                backgroundColor: const Color(0xFF27AE60),
+                                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                                content: Text(
+                                  tr(context, '🔔 يمكنك تفعيل/تعطيل الإشعارات من الإعدادات', '🔔 Manage notifications in Settings'),
+                                  style: const TextStyle(fontWeight: FontWeight.w600),
+                                ),
+                              ),
+                            );
+                          },
                         ),
                         _divider(),
                         _actionTile(
@@ -440,76 +454,119 @@ class _ProfilePageState extends State<ProfilePage> {
   void _showChangePasswordDialog(BuildContext context) {
     final oldCtrl = TextEditingController();
     final newCtrl = TextEditingController();
+    bool isSaving = false;
+
     showDialog(
       context: context,
-      builder: (ctx) => AlertDialog(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-        title: Text(tr(context, 'تغيير كلمة المرور', 'Change Password')),
-        content: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            TextField(
-              controller: oldCtrl,
-              obscureText: true,
-              decoration: InputDecoration(
-                labelText: tr(context, 'كلمة المرور الحالية', 'Current Password'),
-                border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(12)),
+      builder: (ctx) => StatefulBuilder(
+        builder: (ctx, setDialogState) => AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          title: Text(tr(context, 'تغيير كلمة المرور', 'Change Password')),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              TextField(
+                controller: oldCtrl,
+                obscureText: true,
+                decoration: InputDecoration(
+                  labelText: tr(context, 'كلمة المرور الحالية', 'Current Password'),
+                  border: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(12)),
+                ),
               ),
+              const SizedBox(height: 12),
+              TextField(
+                controller: newCtrl,
+                obscureText: true,
+                decoration: InputDecoration(
+                  labelText: tr(context, 'كلمة المرور الجديدة', 'New Password'),
+                  border: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(12)),
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(ctx),
+              child: Text(tr(context, 'إلغاء', 'Cancel')),
             ),
-            const SizedBox(height: 12),
-            TextField(
-              controller: newCtrl,
-              obscureText: true,
-              decoration: InputDecoration(
-                labelText: tr(context, 'كلمة المرور الجديدة', 'New Password'),
-                border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(12)),
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF1F2BDB),
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(10)),
               ),
+              onPressed: isSaving
+                  ? null
+                  : () async {
+                      if (oldCtrl.text.isEmpty || newCtrl.text.isEmpty) return;
+                      if (newCtrl.text.length < 6) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            backgroundColor: Colors.red,
+                            behavior: SnackBarBehavior.floating,
+                            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                            content: Text(tr(context,
+                                'كلمة المرور الجديدة لازم تكون 6 حروف على الأقل',
+                                'New password must be at least 6 characters')),
+                          ),
+                        );
+                        return;
+                      }
+                      setDialogState(() => isSaving = true);
+                      try {
+                        final user = FirebaseAuth.instance.currentUser;
+                        if (user == null || user.email == null) return;
+                        // إعادة التحقق من الهوية قبل تغيير كلمة المرور
+                        final credential = EmailAuthProvider.credential(
+                          email: user.email!,
+                          password: oldCtrl.text,
+                        );
+                        await user.reauthenticateWithCredential(credential);
+                        // تغيير كلمة المرور عبر Firebase
+                        await user.updatePassword(newCtrl.text);
+                        if (ctx.mounted) {
+                          Navigator.pop(ctx);
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            SnackBar(
+                              backgroundColor: Colors.green,
+                              behavior: SnackBarBehavior.floating,
+                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                              content: Text(
+                                tr(context, '✅ تم تغيير كلمة المرور بنجاح', '✅ Password changed successfully'),
+                                style: const TextStyle(fontWeight: FontWeight.bold),
+                              ),
+                            ),
+                          );
+                        }
+                      } on FirebaseAuthException catch (e) {
+                        setDialogState(() => isSaving = false);
+                        final msg = e.code == 'wrong-password' || e.code == 'invalid-credential'
+                            ? tr(context, 'كلمة المرور الحالية غير صحيحة', 'Incorrect current password')
+                            : tr(context, 'حدث خطأ، حاول مرة أخرى', 'An error occurred, try again');
+                        if (ctx.mounted) {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            SnackBar(
+                              backgroundColor: Colors.red,
+                              behavior: SnackBarBehavior.floating,
+                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                              content: Text(msg),
+                            ),
+                          );
+                        }
+                      }
+                    },
+              child: isSaving
+                  ? const SizedBox(
+                      width: 18, height: 18,
+                      child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+                    )
+                  : Text(tr(context, 'حفظ', 'Save'),
+                      style: const TextStyle(color: Colors.white)),
             ),
           ],
         ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.pop(ctx),
-            child: Text(tr(context, 'إلغاء', 'Cancel')),
-          ),
-          ElevatedButton(
-            style: ElevatedButton.styleFrom(
-              backgroundColor: const Color(0xFF1F2BDB),
-              shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(10)),
-            ),
-            onPressed: () async {
-              final prefs = await SharedPreferences.getInstance();
-              final saved = prefs.getString('password') ?? '';
-              if (oldCtrl.text == saved && newCtrl.text.isNotEmpty) {
-                await prefs.setString('password', newCtrl.text);
-                if (ctx.mounted) {
-                  Navigator.pop(ctx);
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(
-                      content: Text(tr(
-                          context, 'تم تغيير كلمة المرور', 'Password changed')),
-                    ),
-                  );
-                }
-              } else {
-                if (ctx.mounted) {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(
-                      backgroundColor: Colors.red,
-                      content: Text(tr(context, 'كلمة المرور الحالية غير صحيحة',
-                          'Incorrect current password')),
-                    ),
-                  );
-                }
-              }
-            },
-            child: Text(tr(context, 'حفظ', 'Save'),
-                style: const TextStyle(color: Colors.white)),
-          ),
-        ],
       ),
     );
   }
@@ -536,13 +593,18 @@ class _ProfilePageState extends State<ProfilePage> {
                   borderRadius: BorderRadius.circular(10)),
             ),
             onPressed: () async {
+              // ✅ مسح البيانات المحلية
               final prefs = await SharedPreferences.getInstance();
               await prefs.remove('email');
-              await prefs.remove('password');
               await prefs.remove('name');
               await prefs.remove('phone');
+              // ✅ تسجيل الخروج من Firebase
+              await FirebaseAuth.instance.signOut();
               if (ctx.mounted) {
-                Navigator.of(ctx).popUntil((route) => route.isFirst);
+                Navigator.of(ctx).pushAndRemoveUntil(
+                  MaterialPageRoute(builder: (_) => const LoginPage()),
+                  (route) => false,
+                );
               }
             },
             child: Text(tr(context, 'خروج', 'Sign Out'),

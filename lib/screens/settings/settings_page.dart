@@ -6,6 +6,7 @@ import '../../providers/app_language_scope.dart';
 import '../../providers/app_route_preference_scope.dart';
 import '../../providers/app_theme_scope.dart';
 import '../auth/login_page.dart';
+import '../profile/profile_page.dart';
 
 class SettingsPage extends StatefulWidget {
   const SettingsPage({super.key});
@@ -13,6 +14,7 @@ class SettingsPage extends StatefulWidget {
   @override
   State<SettingsPage> createState() => _SettingsPageState();
 }
+
 class _SettingsPageState extends State<SettingsPage> {
   bool _notificationsEnabled = true;
   String _userName = '';
@@ -22,16 +24,32 @@ class _SettingsPageState extends State<SettingsPage> {
   void initState() {
     super.initState();
     _loadUser();
+    _loadNotificationsPref();
   }
 
   Future<void> _loadUser() async {
     final prefs = await SharedPreferences.getInstance();
+    final firebaseUser = FirebaseAuth.instance.currentUser;
     if (mounted) {
       setState(() {
-        _userName = prefs.getString('name') ?? '';
-        _userEmail = prefs.getString('email') ?? '';
+        _userName = firebaseUser?.displayName ?? prefs.getString('name') ?? '';
+        _userEmail = firebaseUser?.email ?? prefs.getString('email') ?? '';
       });
     }
+  }
+
+  Future<void> _loadNotificationsPref() async {
+    final prefs = await SharedPreferences.getInstance();
+    if (mounted) {
+      setState(() {
+        _notificationsEnabled = prefs.getBool('notifications_enabled') ?? true;
+      });
+    }
+  }
+
+  Future<void> _saveNotificationsPref(bool value) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('notifications_enabled', value);
   }
 
   @override
@@ -39,10 +57,9 @@ class _SettingsPageState extends State<SettingsPage> {
     final languageNotifier = AppLanguageScope.notifierOf(context);
     final routePreferenceNotifier = AppRoutePreferenceScope.notifierOf(context);
     final themeNotifier = AppThemeScope.notifierOf(context);
-    
+
     final routePreference = routePreferenceNotifier.value;
     final language = languageNotifier.value;
-    final themeMode = themeNotifier.value;
     final isDark = Theme.of(context).brightness == Brightness.dark;
 
     return Scaffold(
@@ -53,6 +70,7 @@ class _SettingsPageState extends State<SettingsPage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
+              // ── Header ─────────────────────────────────────────────────────
               Container(
                 width: double.infinity,
                 padding: const EdgeInsets.fromLTRB(12, 12, 12, 10),
@@ -91,6 +109,8 @@ class _SettingsPageState extends State<SettingsPage> {
                 ),
               ),
               const SizedBox(height: 12),
+
+              // ── Route Preferences ──────────────────────────────────────────
               _settingsSectionTitle(tr(context, 'تفضيلات المسار', 'Route Preferences')),
               _settingsCard(
                 children: [
@@ -115,6 +135,8 @@ class _SettingsPageState extends State<SettingsPage> {
                 ],
               ),
               const SizedBox(height: 12),
+
+              // ── Language ───────────────────────────────────────────────────
               _settingsSectionTitle(tr(context, 'اللغة', 'Language')),
               _settingsCard(
                 children: [
@@ -133,6 +155,8 @@ class _SettingsPageState extends State<SettingsPage> {
                 ],
               ),
               const SizedBox(height: 12),
+
+              // ── Appearance ─────────────────────────────────────────────────
               _settingsSectionTitle(tr(context, 'المظهر', 'Appearance')),
               ValueListenableBuilder<ThemeMode>(
                 valueListenable: themeNotifier,
@@ -162,18 +186,25 @@ class _SettingsPageState extends State<SettingsPage> {
                 },
               ),
               const SizedBox(height: 12),
+
+              // ── Notifications ──────────────────────────────────────────────
+              _settingsSectionTitle(tr(context, 'الإشعارات', 'Notifications')),
               _settingsCard(
                 children: [
                   Row(
                     children: [
-                      const Icon(Icons.notifications_none, size: 24),
+                      Icon(
+                        Icons.notifications_none,
+                        size: 24,
+                        color: isDark ? Colors.white70 : const Color(0xFF1F2B63),
+                      ),
                       const SizedBox(width: 12),
                       Expanded(
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              tr(context, 'الإشعارات', 'Notifications'),
+                              tr(context, 'إشعارات المسارات', 'Route Notifications'),
                               style: TextStyle(
                                 fontSize: 16,
                                 fontWeight: FontWeight.w600,
@@ -195,9 +226,8 @@ class _SettingsPageState extends State<SettingsPage> {
                         value: _notificationsEnabled,
                         activeColor: const Color(0xFFF2C230),
                         onChanged: (value) {
-                          setState(() {
-                            _notificationsEnabled = value;
-                          });
+                          setState(() => _notificationsEnabled = value);
+                          _saveNotificationsPref(value); // ✅ حفظ في SharedPrefs
                         },
                       ),
                     ],
@@ -205,54 +235,74 @@ class _SettingsPageState extends State<SettingsPage> {
                 ],
               ),
               const SizedBox(height: 12),
+
+              // ── Profile Card ───────────────────────────────────────────────
+              _settingsSectionTitle(tr(context, 'الحساب', 'Account')),
               _settingsCard(
                 children: [
-                  Row(
-                    children: [
-                      const CircleAvatar(
-                        radius: 20,
-                        backgroundColor: Color(0xFF1F2BDB),
-                        child: Icon(
-                          Icons.person_outline,
-                          size: 22,
-                          color: Colors.white,
-                        ),
-                      ),
-                      const SizedBox(width: 14),
-                      Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              _userName.isNotEmpty ? _userName : tr(context, 'الملف الشخصي', 'Profile'),
-                              style: TextStyle(
-                                fontSize: 16,
-                                fontWeight: FontWeight.w700,
-                                color: isDark ? Colors.white : const Color(0xFF1F2B63),
-                              ),
+                  InkWell(
+                    onTap: () async {
+                      await Navigator.of(context).push(
+                        MaterialPageRoute(builder: (_) => const ProfilePage()),
+                      );
+                      _loadUser(); // ✅ تحديث البيانات بعد الرجوع من ProfilePage
+                    },
+                    borderRadius: BorderRadius.circular(10),
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 4),
+                      child: Row(
+                        children: [
+                          const CircleAvatar(
+                            radius: 20,
+                            backgroundColor: Color(0xFF1F2BDB),
+                            child: Icon(
+                              Icons.person_outline,
+                              size: 22,
+                              color: Colors.white,
                             ),
-                            const SizedBox(height: 4),
-                            Text(
-                              _userEmail.isNotEmpty ? _userEmail : tr(context, 'إدارة حسابك', 'Manage your account'),
-                              style: const TextStyle(
-                                fontSize: 13,
-                                color: Color(0xFF6B7280),
-                              ),
+                          ),
+                          const SizedBox(width: 14),
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  _userName.isNotEmpty
+                                      ? _userName
+                                      : tr(context, 'الملف الشخصي', 'Profile'),
+                                  style: TextStyle(
+                                    fontSize: 16,
+                                    fontWeight: FontWeight.w700,
+                                    color: isDark ? Colors.white : const Color(0xFF1F2B63),
+                                  ),
+                                ),
+                                const SizedBox(height: 4),
+                                Text(
+                                  _userEmail.isNotEmpty
+                                      ? _userEmail
+                                      : tr(context, 'إدارة حسابك', 'Manage your account'),
+                                  style: const TextStyle(
+                                    fontSize: 13,
+                                    color: Color(0xFF6B7280),
+                                  ),
+                                ),
+                              ],
                             ),
-                          ],
-                        ),
+                          ),
+                          const Icon(
+                            Icons.chevron_right,
+                            color: Color(0xFF9CA3AF),
+                            size: 28,
+                          ),
+                        ],
                       ),
-                      const Icon(
-                        Icons.chevron_right,
-                        color: Color(0xFF9CA3AF),
-                        size: 28,
-                      ),
-                    ],
+                    ),
                   ),
                 ],
               ),
               const SizedBox(height: 12),
-              // ── Logout Button ────────────────────
+
+              // ── Logout Button ──────────────────────────────────────────────
               SizedBox(
                 width: double.infinity,
                 child: OutlinedButton.icon(
@@ -276,6 +326,7 @@ class _SettingsPageState extends State<SettingsPage> {
                     final confirmed = await showDialog<bool>(
                       context: context,
                       builder: (ctx) => AlertDialog(
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
                         title: Text(tr(context, 'تسجيل الخروج', 'Sign Out')),
                         content: Text(tr(context, 'هتخرج من الحساب، عايز تكمل?', 'You will be signed out. Continue?')),
                         actions: [
@@ -294,6 +345,12 @@ class _SettingsPageState extends State<SettingsPage> {
                       ),
                     );
                     if (confirmed == true && context.mounted) {
+                      // ✅ مسح البيانات المحلية
+                      final prefs = await SharedPreferences.getInstance();
+                      await prefs.remove('name');
+                      await prefs.remove('email');
+                      await prefs.remove('phone');
+                      // ✅ تسجيل الخروج من Firebase
                       await FirebaseAuth.instance.signOut();
                       if (context.mounted) {
                         Navigator.of(context).pushAndRemoveUntil(
@@ -335,13 +392,15 @@ class _SettingsPageState extends State<SettingsPage> {
       decoration: BoxDecoration(
         color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
         borderRadius: BorderRadius.circular(12),
-        boxShadow: isDark ? [] : [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 10,
-            offset: const Offset(0, 4),
-          ),
-        ],
+        boxShadow: isDark
+            ? []
+            : [
+                BoxShadow(
+                  color: Colors.black.withOpacity(0.05),
+                  blurRadius: 10,
+                  offset: const Offset(0, 4),
+                ),
+              ],
       ),
       child: Column(children: children),
     );
@@ -361,8 +420,8 @@ class _SettingsPageState extends State<SettingsPage> {
         margin: const EdgeInsets.only(bottom: 8),
         padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
         decoration: BoxDecoration(
-          color: selected 
-              ? const Color(0xFFF2C230) 
+          color: selected
+              ? const Color(0xFFF2C230)
               : (isDark ? const Color(0xFF2D2D2D) : const Color(0xFFF9FAFC)),
           borderRadius: BorderRadius.circular(10),
         ),

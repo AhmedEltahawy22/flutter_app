@@ -26,6 +26,130 @@ class _LoginPageState extends State<LoginPage> {
     super.dispose();
   }
 
+  // ── Forgot Password ───────────────────────────────────────────────────────
+  Future<void> _showForgotPasswordDialog() async {
+    final resetEmailController = TextEditingController();
+    resetEmailController.text = _emailController.text.trim();
+    bool isSending = false;
+
+    await showDialog(
+      context: context,
+      builder: (ctx) => StatefulBuilder(
+        builder: (ctx, setDialogState) => AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          title: Text(tr(context, 'استعادة كلمة المرور', 'Reset Password')),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                tr(
+                  context,
+                  'هنبعتلك رسالة على بريدك لإعادة تعيين كلمة المرور.',
+                  'We\'ll send you an email to reset your password.',
+                ),
+                style: TextStyle(fontSize: 13, color: Colors.grey[600], height: 1.5),
+              ),
+              const SizedBox(height: 16),
+              TextField(
+                controller: resetEmailController,
+                keyboardType: TextInputType.emailAddress,
+                decoration: InputDecoration(
+                  labelText: tr(ctx, 'البريد الإلكتروني', 'Email Address'),
+                  prefixIcon: const Icon(Icons.email_outlined),
+                  border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(ctx),
+              child: Text(tr(context, 'إلغاء', 'Cancel')),
+            ),
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF1F2B63),
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+              ),
+              onPressed: isSending
+                  ? null
+                  : () async {
+                      final email = resetEmailController.text.trim();
+                      if (email.isEmpty) return;
+                      setDialogState(() => isSending = true);
+                      try {
+                        await FirebaseAuth.instance.sendPasswordResetEmail(email: email);
+                        if (ctx.mounted) {
+                          Navigator.pop(ctx);
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            SnackBar(
+                              backgroundColor: Colors.green,
+                              behavior: SnackBarBehavior.floating,
+                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                              content: Text(
+                                tr(
+                                  context,
+                                  '✅ تم إرسال رسالة الاستعادة! تحقق من بريدك.',
+                                  '✅ Reset email sent! Check your inbox.',
+                                ),
+                                style: const TextStyle(fontWeight: FontWeight.w600),
+                              ),
+                            ),
+                          );
+                        }
+                      } on FirebaseAuthException catch (e) {
+                        setDialogState(() => isSending = false);
+                        if (ctx.mounted) {
+                          final msg = e.code == 'user-not-found'
+                              ? tr(context, 'البريد غير مسجّل', 'Email not registered')
+                              : tr(context, 'حدث خطأ، حاول مرة أخرى', 'An error occurred');
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            SnackBar(
+                              backgroundColor: Colors.red.shade700,
+                              behavior: SnackBarBehavior.floating,
+                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                              content: Text(msg),
+                            ),
+                          );
+                        }
+                      }
+                    },
+              child: isSending
+                  ? const SizedBox(
+                      width: 18, height: 18,
+                      child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+                    )
+                  : Text(
+                      tr(context, 'إرسال', 'Send'),
+                      style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                    ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  // ── Social Login "Coming Soon" ────────────────────────────────────────────
+  void _showComingSoon(String provider) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        behavior: SnackBarBehavior.floating,
+        backgroundColor: const Color(0xFF1F2B63),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+        content: Text(
+          tr(
+            context,
+            'تسجيل الدخول بـ $provider قريباً! 🚀',
+            '$provider sign-in coming soon! 🚀',
+          ),
+          style: const TextStyle(fontWeight: FontWeight.w600),
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
@@ -204,7 +328,7 @@ class _LoginPageState extends State<LoginPage> {
                         Align(
                           alignment: Alignment.centerLeft,
                           child: TextButton(
-                            onPressed: () {},
+                            onPressed: _showForgotPasswordDialog,
                             child: Text(
                               tr(context, 'نسيت كلمة المرور؟', 'Forgot Password?'),
                               style: const TextStyle(
@@ -218,7 +342,7 @@ class _LoginPageState extends State<LoginPage> {
                         ElevatedButton(
                           onPressed: () async {
                             if (!(_formKey.currentState?.validate() ?? false)) return;
-                            
+
                             final email = _emailController.text.trim();
                             final password = _passwordController.text;
 
@@ -233,6 +357,7 @@ class _LoginPageState extends State<LoginPage> {
                               if (name.isNotEmpty) {
                                 final prefs = await SharedPreferences.getInstance();
                                 await prefs.setString('name', name);
+                                await prefs.setString('email', email);
                               }
                               TextInput.finishAutofillContext();
                               if (context.mounted) {
@@ -297,7 +422,7 @@ class _LoginPageState extends State<LoginPage> {
                           children: [
                             Expanded(
                               child: OutlinedButton(
-                                onPressed: () {},
+                                onPressed: () => _showComingSoon('Google'),
                                 style: OutlinedButton.styleFrom(
                                   padding: const EdgeInsets.symmetric(vertical: 13),
                                   shape: RoundedRectangleBorder(
@@ -333,7 +458,7 @@ class _LoginPageState extends State<LoginPage> {
                             const SizedBox(width: 12),
                             Expanded(
                               child: OutlinedButton(
-                                onPressed: () {},
+                                onPressed: () => _showComingSoon('Facebook'),
                                 style: OutlinedButton.styleFrom(
                                   padding: const EdgeInsets.symmetric(vertical: 13),
                                   shape: RoundedRectangleBorder(

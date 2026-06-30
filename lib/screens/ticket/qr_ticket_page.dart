@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:qr_flutter/qr_flutter.dart';
 import '../../core/localization.dart';
 import '../../providers/app_wallet_scope.dart';
@@ -418,7 +419,12 @@ class _QRTicketPageState extends State<QRTicketPage>
                 border: Border.all(color: const Color(0xFFF3F4F8), width: 3),
               ),
               child: QrImageView(
-                data: 'MOCK_USER_TOKEN_123456789',
+                data: () {
+                  final user = FirebaseAuth.instance.currentUser;
+                  final uid = user?.uid ?? 'GUEST';
+                  final timestamp = DateTime.now().millisecondsSinceEpoch;
+                  return 'MWASALATY:$uid:$timestamp';
+                }(),
                 version: QrVersions.auto,
                 size: 180.0,
                 eyeStyle: const QrEyeStyle(
