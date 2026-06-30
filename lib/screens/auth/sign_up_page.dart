@@ -109,11 +109,11 @@ class _SignUpPageState extends State<SignUpPage> {
                   child: Container(
                     padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 24),
                     decoration: BoxDecoration(
-                      color: Colors.white,
+                      color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
                       borderRadius: BorderRadius.circular(32),
                       boxShadow: [
                         BoxShadow(
-                          color: Colors.black.withOpacity(0.08),
+                          color: Colors.black.withOpacity(isDark ? 0.3 : 0.08),
                           blurRadius: 24,
                           offset: const Offset(0, 12),
                         ),
@@ -314,21 +314,21 @@ class _SignUpPageState extends State<SignUpPage> {
                             style: const TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
                           ),
                         ),
-                        const SizedBox(height: 18),
+                         const SizedBox(height: 18),
                         Row(
                           children: [
-                            Expanded(child: Divider(color: Colors.grey[300])),
+                            Expanded(child: Divider(color: isDark ? const Color(0xFF3A3A3A) : Colors.grey[300])),
                             Padding(
                               padding: const EdgeInsets.symmetric(horizontal: 12),
                               child: Text(
                                 tr(context, 'أو تابع مع', 'or continue with'),
-                                style: TextStyle(color: Colors.grey[500], fontSize: 12),
+                                style: TextStyle(color: isDark ? Colors.grey[400] : Colors.grey[500], fontSize: 12),
                               ),
                             ),
-                            Expanded(child: Divider(color: Colors.grey[300])),
+                            Expanded(child: Divider(color: isDark ? const Color(0xFF3A3A3A) : Colors.grey[300])),
                           ],
                         ),
-                        const SizedBox(height: 14),
+                        const SizedBox(height: 18),
                         Row(
                           children: [
                             Expanded(
@@ -339,21 +339,21 @@ class _SignUpPageState extends State<SignUpPage> {
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(14),
                                   ),
-                                  side: const BorderSide(color: Color(0xFF1F2B63)),
-                                  backgroundColor: const Color(0xFF1F2B63),
+                                  side: BorderSide(color: isDark ? Colors.grey[800]! : const Color(0xFFE0E0E0)),
+                                  backgroundColor: isDark ? const Color(0xFF3A3A3A) : Colors.white,
                                 ),
                                 child: Row(
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: [
                                     const Text('G',
                                         style: TextStyle(
-                                            color: Colors.white,
+                                            color: Colors.red,
                                             fontWeight: FontWeight.bold,
                                             fontSize: 17)),
                                     const SizedBox(width: 8),
                                     Text(tr(context, 'جوجل', 'Google'),
-                                        style: const TextStyle(
-                                            color: Colors.white,
+                                        style: TextStyle(
+                                            color: isDark ? Colors.white : Colors.black87,
                                             fontWeight: FontWeight.w600,
                                             fontSize: 13)),
                                   ],
@@ -369,21 +369,21 @@ class _SignUpPageState extends State<SignUpPage> {
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(14),
                                   ),
-                                  side: const BorderSide(color: Color(0xFF1F2B63)),
-                                  backgroundColor: const Color(0xFF1F2B63),
+                                  side: BorderSide(color: isDark ? Colors.grey[800]! : const Color(0xFFE0E0E0)),
+                                  backgroundColor: isDark ? const Color(0xFF3A3A3A) : Colors.white,
                                 ),
                                 child: Row(
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: [
                                     const Text('f',
                                         style: TextStyle(
-                                            color: Colors.white,
+                                            color: Colors.blue,
                                             fontWeight: FontWeight.bold,
                                             fontSize: 17)),
                                     const SizedBox(width: 8),
                                     Text(tr(context, 'فيسبوك', 'Facebook'),
-                                        style: const TextStyle(
-                                            color: Colors.white,
+                                        style: TextStyle(
+                                            color: isDark ? Colors.white : Colors.black87,
                                             fontWeight: FontWeight.w600,
                                             fontSize: 13)),
                                   ],
@@ -398,14 +398,14 @@ class _SignUpPageState extends State<SignUpPage> {
                           children: [
                             Text(
                               tr(context, 'لديك حساب بالفعل؟', 'Already have an account?'),
-                              style: TextStyle(color: Colors.grey[600]),
+                              style: TextStyle(color: isDark ? Colors.grey[400] : Colors.grey[600]),
                             ),
                             TextButton(
                               onPressed: () => Navigator.of(context).pop(),
                               child: Text(
                                 tr(context, 'تسجيل الدخول', 'Sign In'),
-                                style: const TextStyle(
-                                  color: Color(0xFF1F2B63),
+                                style: TextStyle(
+                                  color: isDark ? const Color(0xFFF2C230) : const Color(0xFF1F2B63),
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
