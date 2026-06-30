@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import '../../core/localization.dart';
+import '../../models/trip_option.dart';
+import '../../routing_service.dart';
+import '../journey/route_details_page.dart';
 
 // ─── Model ────────────────────────────────────────────────────────────────────
 class SavedRoute {
@@ -11,6 +14,8 @@ class SavedRoute {
   final int price;
   final List<String> modes; // ["metro", "bus", "walk"]
   final DateTime savedAt;
+  final TripOption? trip;
+  final List<RouteSegment>? segments;
 
   SavedRoute({
     required this.key,
@@ -19,6 +24,8 @@ class SavedRoute {
     required this.price,
     required this.modes,
     required this.savedAt,
+    this.trip,
+    this.segments,
   });
 
   Map<String, dynamic> toJson() => {
@@ -28,6 +35,8 @@ class SavedRoute {
         'price': price,
         'modes': modes,
         'savedAt': savedAt.toIso8601String(),
+        'trip': trip?.toJson(),
+        'segments': segments?.map((s) => s.toJson()).toList(),
       };
 
   factory SavedRoute.fromJson(Map<String, dynamic> j) => SavedRoute(
@@ -37,6 +46,10 @@ class SavedRoute {
         price: j['price'] as int,
         modes: List<String>.from(j['modes'] as List),
         savedAt: DateTime.parse(j['savedAt'] as String),
+        trip: j['trip'] != null ? TripOption.fromJson(j['trip'] as Map<String, dynamic>) : null,
+        segments: j['segments'] != null
+            ? (j['segments'] as List).map((s) => RouteSegment.fromJson(s as Map<String, dynamic>)).toList()
+            : null,
       );
 
   /// تحويل الـ key القديم (string) إلى SavedRoute كاملة للـ backward compatibility
@@ -376,24 +389,35 @@ class _SavedRoutesPageState extends State<SavedRoutesPage>
 
   // ── Route Card ─────────────────────────────────────────────────────────────
   Widget _buildRouteCard(SavedRoute route, bool isDark) {
+    final deleteBg = Container(
+      margin: const EdgeInsets.only(bottom: 12),
+      decoration: BoxDecoration(
+        color: Colors.red.shade400,
+        borderRadius: BorderRadius.circular(16),
+      ),
+      alignment: Alignment.centerLeft,
+      padding: const EdgeInsets.symmetric(horizontal: 24),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          const Icon(Icons.delete_rounded, color: Colors.white, size: 28),
+          Text(
+            tr(context, 'حذف', 'Delete'),
+            style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16),
+          ),
+        ],
+      ),
+    );
+
     return Dismissible(
       key: Key(route.key),
-      direction: DismissDirection.endToStart,
-      background: Container(
-        margin: const EdgeInsets.only(bottom: 12),
-        decoration: BoxDecoration(
-          color: Colors.red.shade400,
-          borderRadius: BorderRadius.circular(16),
-        ),
-        alignment: Alignment.centerRight,
-        padding: const EdgeInsets.only(right: 24),
-        child: const Icon(Icons.delete_rounded, color: Colors.white, size: 28),
-      ),
+      direction: DismissDirection.horizontal, // ✅ سحب في أي اتجاه للحذف
+      background: deleteBg,
+      secondaryBackground: deleteBg,
       confirmDismiss: (_) async => true,
       onDismissed: (_) => _deleteRoute(route),
       child: Container(
         margin: const EdgeInsets.only(bottom: 12),
-        padding: const EdgeInsets.all(16),
         decoration: BoxDecoration(
           color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
           borderRadius: BorderRadius.circular(16),
@@ -407,76 +431,113 @@ class _SavedRoutesPageState extends State<SavedRoutesPage>
                   ),
                 ],
         ),
-        child: Row(
-          children: [
-            // ── Icon ──
-            Container(
-              width: 48,
-              height: 48,
-              decoration: BoxDecoration(
-                color: const Color(0xFFF2C230).withValues(alpha: 0.15),
-                borderRadius: BorderRadius.circular(14),
-              ),
-              child: const Icon(
-                Icons.bookmark_rounded,
-                color: Color(0xFFF2C230),
-                size: 24,
-              ),
-            ),
-            const SizedBox(width: 14),
-
-            // ── Info ──
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
+        child: Material(
+          color: Colors.transparent,
+          child: InkWell(
+            borderRadius: BorderRadius.circular(16),
+            onTap: () {
+              // ✅ عند الضغط على الكارت، يفتح تفاصيل المسار الحقيقي
+              if (route.trip != null && route.segments != null) {
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (_) => RouteDetailsPage(
+                      trip: route.trip!,
+                      segments: route.segments!,
+                    ),
+                  ),
+                );
+              } else {
+                ScaffoldMessenger.of(context)
+                  ..clearSnackBars()
+                  ..showSnackBar(
+                    SnackBar(
+                      behavior: SnackBarBehavior.floating,
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                      backgroundColor: Colors.orange[800],
+                      content: Text(tr(
+                        context,
+                        '⚠️ عذراً، هذا مسار محفوظ قديم ولا يحتوي على تفاصيل كاملة.',
+                        '⚠️ Sorry, this is a legacy saved route without complete details.',
+                      ), style: const TextStyle(fontWeight: FontWeight.bold)),
+                    ),
+                  );
+              }
+            },
+            child: Padding(
+              padding: const EdgeInsets.all(16),
+              child: Row(
                 children: [
-                  Text(
-                    route.title,
-                    style: TextStyle(
-                      fontSize: 14,
-                      fontWeight: FontWeight.w700,
-                      color: isDark ? Colors.white : const Color(0xFF1A2350),
+                  // ── Icon ──
+                  Container(
+                    width: 48,
+                    height: 48,
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFF2C230).withValues(alpha: 0.15),
+                      borderRadius: BorderRadius.circular(14),
                     ),
-                    maxLines: 2,
-                    overflow: TextOverflow.ellipsis,
-                  ),
-                  const SizedBox(height: 6),
-                  Row(
-                    children: [
-                      _metaChip(
-                        Icons.access_time_rounded,
-                        '${route.durationMinutes} ${tr(context, "د", "min")}',
-                        const Color(0xFF9C27B0),
-                        isDark,
-                      ),
-                      const SizedBox(width: 8),
-                      _metaChip(
-                        Icons.payments_rounded,
-                        '${route.price} ${tr(context, "ج.م", "EGP")}',
-                        const Color(0xFF2E7D32),
-                        isDark,
-                      ),
-                    ],
-                  ),
-                  const SizedBox(height: 6),
-                  // وسائل النقل
-                  if (route.modes.isNotEmpty)
-                    Wrap(
-                      spacing: 4,
-                      children: route.modes.map((m) => _modeIcon(m)).toList(),
+                    child: const Icon(
+                      Icons.bookmark_rounded,
+                      color: Color(0xFFF2C230),
+                      size: 24,
                     ),
+                  ),
+                  const SizedBox(width: 14),
+
+                  // ── Info ──
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          route.title,
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w700,
+                            color: isDark ? Colors.white : const Color(0xFF1A2350),
+                          ),
+                          maxLines: 2,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                        const SizedBox(height: 6),
+                        Row(
+                          children: [
+                            _metaChip(
+                              Icons.access_time_rounded,
+                              '${route.durationMinutes} ${tr(context, "د", "min")}',
+                              const Color(0xFF9C27B0),
+                              isDark,
+                            ),
+                            const SizedBox(width: 8),
+                            _metaChip(
+                              Icons.payments_rounded,
+                              '${route.price} ${tr(context, "ج.م", "EGP")}',
+                              const Color(0xFF2E7D32),
+                              isDark,
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 6),
+                        // وسائل النقل
+                        if (route.modes.isNotEmpty)
+                          Wrap(
+                            spacing: 4,
+                            children: route.modes.map((m) => _modeIcon(m)).toList(),
+                          ),
+                      ],
+                    ),
+                  ),
+
+                  // ── Delete button ──
+                  IconButton(
+                    onPressed: () => _deleteRoute(route),
+                    icon: const Icon(Icons.delete_outline_rounded,
+                        color: Colors.red, size: 20),
+                    tooltip: tr(context, 'حذف', 'Delete'),
+                  ),
                 ],
               ),
             ),
-
-            // ── Delete button ──
-            IconButton(
-              onPressed: () => _deleteRoute(route),
-              icon: const Icon(Icons.delete_outline_rounded,
-                  color: Colors.red, size: 20),
-              tooltip: tr(context, 'حذف', 'Delete'),
-            ),
-          ],
+          ),
         ),
       ),
     );
@@ -525,6 +586,8 @@ class SavedRoutesHelper {
     required int durationMinutes,
     required int price,
     required List<String> modes,
+    TripOption? trip,
+    List<RouteSegment>? segments,
   }) async {
     final prefs = await SharedPreferences.getInstance();
     final raw = prefs.getString('saved_routes_rich') ?? '[]';
@@ -542,6 +605,8 @@ class SavedRoutesHelper {
         price: price,
         modes: modes,
         savedAt: DateTime.now(),
+        trip: trip,
+        segments: segments,
       ),
     );
     await prefs.setString('saved_routes_rich', SavedRoute.encodeList(routes));

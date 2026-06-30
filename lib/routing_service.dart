@@ -1,4 +1,4 @@
-﻿import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter_app/metro_graph.dart';
 import 'package:flutter_app/public_transport_data.dart';
 import 'package:flutter_app/osm_service.dart';
@@ -21,6 +21,26 @@ class RouteSegment {
     required this.distanceText,
     required this.pathPoints,
   });
+
+  Map<String, dynamic> toJson() => {
+        'mode': mode,
+        'title': title,
+        'subtitle': subtitle,
+        'durationMinutes': durationMinutes,
+        'distanceText': distanceText,
+        'pathPoints': pathPoints.map((p) => [p.latitude, p.longitude]).toList(),
+      };
+
+  factory RouteSegment.fromJson(Map<String, dynamic> json) => RouteSegment(
+        mode: json['mode'] as String,
+        title: json['title'] as String,
+        subtitle: json['subtitle'] as String,
+        durationMinutes: json['durationMinutes'] as int,
+        distanceText: json['distanceText'] as String,
+        pathPoints: (json['pathPoints'] as List)
+            .map((p) => LatLng((p as List)[0] as double, p[1] as double))
+            .toList(),
+      );
 }
 
 class MetroRouteResult {

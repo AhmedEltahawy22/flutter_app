@@ -112,6 +112,8 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
         durationMinutes: trip.durationMinutes,
         price: trip.price,
         modes: modes,
+        trip: trip,
+        segments: segments,
       );
       if (mounted) setState(() => _savedTripTitles.add(key));
       if (mounted) {
