@@ -317,27 +317,13 @@ class _SearchTripsPageState extends State<SearchTripsPage> {
           if (index == 0) {
             Navigator.of(context).pop();
           } else if (index == 1) {
-            // ✅ عرض المسارات المحفوظة
-            if (_savedTripTitles.isEmpty) {
-              ScaffoldMessenger.of(context).showSnackBar(
-                SnackBar(
-                  behavior: SnackBarBehavior.floating,
-                  backgroundColor: const Color(0xFF1F2BDB),
-                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                  content: Text(tr(context, 'لا توجد مسارات محفوظة بعد. اضغط على 🔖 لحفظ مسار.', 'No saved routes yet. Tap 🔖 to save a route.')),
-                ),
-              );
-            } else {
-              ScaffoldMessenger.of(context).showSnackBar(
-                SnackBar(
-                  behavior: SnackBarBehavior.floating,
-                  backgroundColor: Colors.green,
-                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                  content: Text(tr(context, 'لديك ${_savedTripTitles.length} مسار محفوظ ✅', 'You have ${_savedTripTitles.length} saved route(s) ✅')),
-                ),
-              );
-            }
-            setState(() => _bottomNavIndex = 0); // الرجوع للتاب الأول
+            // ✅ فتح صفحة المحفوظات الحقيقية
+            Navigator.of(context).push(
+              MaterialPageRoute(builder: (_) => const SavedRoutesPage()),
+            ).then((_) {
+              _loadSavedTrips(); // تحديث القائمة بعد الرجوع
+            });
+            setState(() => _bottomNavIndex = 0); // إعادة المؤشر للرئيسية
           } else if (index == 2) {
             Navigator.of(context).push(
               MaterialPageRoute(builder: (_) => const SettingsPage()),
