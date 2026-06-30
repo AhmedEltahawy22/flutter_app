@@ -21,6 +21,7 @@ class _HomePageState extends State<HomePage> {
   int _bottomNavIndex = 0;
   String _userName = '';
   List<RecentTrip> _recentTrips = [];
+  List<SavedRoute> _savedRoutes = []; // ✅ المسارات المحفوظة
 
   @override
   void initState() {
@@ -31,10 +32,20 @@ class _HomePageState extends State<HomePage> {
   Future<void> _loadData() async {
     final prefs = await SharedPreferences.getInstance();
     if (mounted) {
+      // تحميل المسارات المحفوظة
+      final richRaw = prefs.getString('saved_routes_rich') ?? '';
+      List<SavedRoute> savedRoutes = [];
+      if (richRaw.isNotEmpty) {
+        savedRoutes = SavedRoute.decodeList(richRaw);
+      } else {
+        final oldKeys = prefs.getStringList('saved_trips') ?? [];
+        savedRoutes = oldKeys.map(SavedRoute.fromLegacyKey).toList();
+      }
       setState(() {
         _userName = prefs.getString('name') ?? '';
         final raw = prefs.getString('recent_trips') ?? '[]';
         _recentTrips = RecentTrip.decodeList(raw);
+        _savedRoutes = savedRoutes;
       });
     }
   }
@@ -238,6 +249,11 @@ class _HomePageState extends State<HomePage> {
               ),
               const SizedBox(height: 30),
 
+              // ✅ قسم المحفوظات - سهل الوصول من الرئيسية
+              _buildSavedSection(isDark),
+
+              const SizedBox(height: 22),
+
               // ── Recent Trips ───────────────────────────────────────────
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -280,6 +296,201 @@ class _HomePageState extends State<HomePage> {
   }
 
   // ── Helpers ────────────────────────────────────────────────────────────────
+
+  // ✅ قسم المحفوظات على الـ Home page
+  Widget _buildSavedSection(bool isDark) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        // ── Header row ──────────────────────────────────────────────────
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Row(
+              children: [
+                const Icon(Icons.bookmark_rounded,
+                    color: Color(0xFFF2C230), size: 20),
+                const SizedBox(width: 8),
+                Text(
+                  tr(context, 'المسارات المحفوظة', 'Saved Routes'),
+                  style: TextStyle(
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                    color: isDark ? Colors.white : const Color(0xFF1F2B63),
+                  ),
+                ),
+              ],
+            ),
+            TextButton(
+              onPressed: () => setState(() => _bottomNavIndex = 2),
+              child: Text(
+                tr(context, 'عرض الكل', 'View All'),
+                style: const TextStyle(
+                    color: Color(0xFF1F2BDB),
+                    fontSize: 13,
+                    fontWeight: FontWeight.w600),
+              ),
+            ),
+          ],
+        ),
+        const SizedBox(height: 10),
+
+        // ── Content ──────────────────────────────────────────────────────
+        if (_savedRoutes.isEmpty)
+          // Empty State مصغر
+          GestureDetector(
+            onTap: () => setState(() => _bottomNavIndex = 2),
+            child: Container(
+              width: double.infinity,
+              padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 16),
+              decoration: BoxDecoration(
+                color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(
+                  color: const Color(0xFFF2C230).withValues(alpha: 0.4),
+                  width: 1.5,
+                  strokeAlign: BorderSide.strokeAlignInside,
+                ),
+                boxShadow: isDark
+                    ? []
+                    : [
+                        BoxShadow(
+                          color: Colors.black.withValues(alpha: 0.04),
+                          blurRadius: 8,
+                          offset: const Offset(0, 3),
+                        ),
+                      ],
+              ),
+              child: Row(
+                children: [
+                  Container(
+                    width: 40,
+                    height: 40,
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFF2C230).withValues(alpha: 0.15),
+                      shape: BoxShape.circle,
+                    ),
+                    child: const Icon(Icons.bookmark_border_rounded,
+                        color: Color(0xFFF2C230), size: 22),
+                  ),
+                  const SizedBox(width: 14),
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          tr(context, 'لا توجد مسارات محفوظة بعد',
+                              'No saved routes yet'),
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w600,
+                            color: isDark ? Colors.white70 : const Color(0xFF374151),
+                          ),
+                        ),
+                        const SizedBox(height: 3),
+                        Text(
+                          tr(context, 'احفظ مسارك المفضل من نتائج البحث 🔖',
+                              'Save your favourite route from search results 🔖'),
+                          style: const TextStyle(
+                              fontSize: 12, color: Color(0xFF9CA3AF)),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const Icon(Icons.chevron_right,
+                      color: Color(0xFF9CA3AF), size: 22),
+                ],
+              ),
+            ),
+          )
+        else
+          // Horizontal scroll of saved route cards (max 5)
+          SizedBox(
+            height: 110,
+            child: ListView.builder(
+              scrollDirection: Axis.horizontal,
+              itemCount: _savedRoutes.length > 5 ? 5 : _savedRoutes.length,
+              itemBuilder: (context, i) {
+                final route = _savedRoutes[i];
+                return GestureDetector(
+                  onTap: () => setState(() => _bottomNavIndex = 2),
+                  child: Container(
+                    width: 170,
+                    margin: EdgeInsets.only(
+                        right: i == (_savedRoutes.length > 5 ? 4 : _savedRoutes.length - 1) ? 0 : 12),
+                    padding: const EdgeInsets.all(14),
+                    decoration: BoxDecoration(
+                      color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: isDark
+                          ? []
+                          : [
+                              BoxShadow(
+                                color: Colors.black.withValues(alpha: 0.05),
+                                blurRadius: 8,
+                                offset: const Offset(0, 3),
+                              ),
+                            ],
+                    ),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        // أيقونة حجز
+                        Container(
+                          width: 32,
+                          height: 32,
+                          decoration: BoxDecoration(
+                            color: const Color(0xFFF2C230).withValues(alpha: 0.15),
+                            borderRadius: BorderRadius.circular(10),
+                          ),
+                          child: const Icon(Icons.bookmark_rounded,
+                              color: Color(0xFFF2C230), size: 18),
+                        ),
+                        const SizedBox(height: 8),
+                        // اسم المسار
+                        Text(
+                          route.title,
+                          style: TextStyle(
+                            fontSize: 12,
+                            fontWeight: FontWeight.w700,
+                            color: isDark ? Colors.white : const Color(0xFF1A2350),
+                          ),
+                          maxLines: 2,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                        const Spacer(),
+                        // المدة والسعر
+                        Row(
+                          children: [
+                            Icon(Icons.access_time_rounded,
+                                size: 11, color: Colors.grey[500]),
+                            const SizedBox(width: 3),
+                            Text(
+                              '${route.durationMinutes}${tr(context, "د", "m")}',
+                              style: TextStyle(
+                                  fontSize: 11, color: Colors.grey[600]),
+                            ),
+                            const SizedBox(width: 8),
+                            Icon(Icons.payments_rounded,
+                                size: 11, color: Colors.grey[500]),
+                            const SizedBox(width: 3),
+                            Text(
+                              '${route.price}${tr(context, "ج", "E")}',
+                              style: TextStyle(
+                                  fontSize: 11, color: Colors.grey[600]),
+                            ),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+      ],
+    );
+  }
 
   String _getInitials(String name) {
     if (name.isEmpty) return '?';
